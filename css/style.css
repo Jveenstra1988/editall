@@ -1,0 +1,267 @@
+/* Stylesheet Edit All *** Gemaakt door Jesse en Jeroen *** */
+
+
+/* \\\\\\\\\\\\\\ TYPOGRAFIE ///////// */
+
+html, body {
+	font-family: 	"milibus",sans-serif;
+	color: 			#282B30; /* Dit is de standaard zwart */
+	margin: 		0 0 0 0;
+	padding: 		0 0 0 0;
+	font-size: 		100%;
+	line-height: 	1.265;
+	height: 		100%;
+}
+
+a {
+	font-size: 			100%;
+	text-decoration: 	none;
+	color:				#23262A;
+	cursor: 			pointer;
+}
+
+.bg-rood 	p a	{ color: #F6F6F6; }
+.bg-wit		p a	{ color: #282B30; }
+.bg-turq 	p a	{ color: #282B30; }
+.bg-zwart 	p a	{ color: #F6F6F6; }
+.bg-antra 	p a	{ color: #F6F6F6; }
+
+
+.bg-rood a	{ color: #F6F6F6; }
+.bg-turq a	{ color: #F6F6F6; }
+.bg-zwart a	{ color: #F6F6F6; }
+.bg-antra a	{ color: #F6F6F6; }
+
+h1, h2, h3, h4, h5, p, ul, li, sub, sup, a, 
+article, section, aside, strong {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+/* Overall Heading */
+h1, h2, h3, h4, h5, nav {
+	text-transform: uppercase;
+	font-weight: 700;
+	text-align: center;
+}
+
+p, ul, li {
+	font-weight: 300;
+}
+
+/* Tekstkleuren */
+.txt-rood	{ color: #E64154; }
+.txt-wit	{ color: #F6F6F6; }
+.txt-turq	{ color: #33B6B3; }
+.txt-zwart	{ color: #282B30; }
+.txt-antra	{ color: #404951; }
+
+
+/* \\\\\\\\\\\\\\ ELEMENTEN ///////// */
+
+/* Background kleuren */
+.bg-rood	{ background: #E64154; }
+.bg-wit		{ background: #F6F6F6; }
+.bg-turq	{ background: #33B6B3; }
+.bg-zwart	{ background: #282B30; }
+.bg-antra	{ background: #404951; }
+
+/* Buttons Overall */
+a.btn-rood, a.btn-wit, a.btn-turq, a.btn-zwart, a.btn-antra {
+	text-transform:uppercase; 
+	font-weight:bold; 
+	border-radius: .3em; 
+	padding: .3em 5em .3em .5em;
+	margin: 3em -13% 0 0;
+	display: inline-block;
+	float: right;
+}
+
+/* Buttons */
+a.btn-rood	{ color:#F6F6F6; background:#E64154; }
+a.btn-wit	{ color:#282B30; background:#F6F6F6; }
+a.btn-turq	{ color:#F6F6F6; background:#33B6B3; }
+a.btn-zwart	{ color:#F6F6F6; background:#282B30; }
+a.btn-antra	{ color:#F6F6F6; background:#404951; }
+
+/* Hovers */
+a.btn-rood:hover	{ background:#ce3042; }
+a.btn-wit:hover		{ background:#e4e4e4; }
+a.btn-turq:hover	{ background:#2ea5a4; }
+a.btn-zwart:hover	{ background:#23262a; }
+a.btn-antra:hover	{ background:#343c42; }
+
+/* Borders */
+.br-turg 	{ border: 1px solid #33B6B3; }
+.br-zwart 	{ border: 1px solid #282B30; }
+.br-antra 	{ border: 1px solid #404951; }
+
+/* Images */
+.logo {
+	text-align: center;
+	z-index: 999;
+	position: fixed;
+	left: 50%;
+	margin-left: -15%;
+	top: 250px;
+	width: 30%;
+	z-index: 9;
+}
+
+.header-icon {
+	position: fixed;
+	top: 130px;
+	left: 45%;
+	width: 8%;
+}
+
+/* Navigatie */
+nav {
+	position: fixed;
+	width: 100%;
+	z-index: 9999;
+	padding-right: -4px;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+	border: .8em solid #282B30;
+}
+
+nav.bottom {
+	bottom: 0;
+	position: absolute;
+}
+
+nav ul {
+	text-align: center;
+	height: 60px;
+}
+
+nav ul li {
+	display: inline-block;
+	font-size: larger;
+	font-weight: bolder;
+	width: 19%;
+	line-height: 3;
+	
+	-webkit-transition: all 600ms ease-in-out;
+	-moz-transition: all 600ms ease-in-out;
+	-ms-transition: all 600ms ease-in-out;
+	-o-transition: all 600ms ease-in-out;
+	transition: all 600ms ease-in-out;
+}
+
+nav ul li a:hover { color: #33B6B3; }
+
+nav ul li a.active { color: #E64154; }
+
+nav ul li img { width: 20%; }
+
+/* Content */
+section, footer {
+	width: 100%;
+	height: 100%;
+	background: #efefef;
+	position: relative;
+	z-index: 9;
+	border-bottom: 1em solid #282B30;
+}
+
+article {
+	width: 82%;
+	padding: 4%;
+	margin: 0 auto;
+}
+
+article header {
+	margin-bottom: 3em;
+}
+
+article header img {
+	margin: 0 auto;
+	display: block;
+	margin-top: 5em;
+	margin-bottom: 2em;
+}
+
+article p {
+	margin-top: 1em;
+}
+
+article span {
+	width: 100%;
+	height: 3px;
+	display: inline-block;
+}
+
+/* Maps */
+.google-maps {
+	position: relative;
+	padding-bottom: 30%; /*// This is the aspect ratio*/
+	height: 0;
+	overflow: hidden;
+	margin-top: 2em;
+}
+.google-maps iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100% !important;
+	height: 100% !important;
+}
+
+
+/* \\\\\\\\\\\\\\ SECTION ID'S ///////// */
+
+#home-container {
+	border: none;
+}
+
+#home-container #stores {
+	background: #282B30 url(../img/header-1_opace.png) center center no-repeat;
+	background-size: cover;
+}
+
+#home-container #commercials {
+	background: #282B30 url(../img/header-2_opace.png) center center no-repeat;
+	background-size: cover;
+}
+
+#home-container #interiors {
+	background: #282B30 url(../img/header-3_opace.png) center center no-repeat;
+	background-size: cover;
+}
+
+#home-container #designs {
+	background: #282B30 url(../img/header-4_opace.png) center center no-repeat;
+	background-size: cover;
+}
+
+#profile-container {
+	background: #404951 url(../img/profile-1_opace.png) center center no-repeat;
+	background-size: cover;
+}
+
+#works-container {
+	background: #E64154 url(../img/works-1_opace.png) center center no-repeat;
+	background-size: cover;
+}
+
+#contact-container {
+	background: #33B6B3 url(../img/contact-1_opace.png) center center no-repeat;
+	background-size: cover;
+}
+
+
+/* \\\\\\\\\\\\\\ MEDIAQUERIES ///////// */
+
+@media screen and (min-width: 1400px) {
+	article {
+		width: 60%;
+	}
+}
+
+
+
+
+
