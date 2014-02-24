@@ -22,6 +22,12 @@
             <div class="swiper-slide" id="interiors"> 
                 <!-- Any HTML content of the third slide goes here -->
             </div>
+
+            <!--Third Slide-->
+            <div class="swiper-slide" id="designs"> 
+                <!-- Any HTML content of the third slide goes here -->
+            </div>
+            
           </div>
     </div>
     <img src="img/logo.png" class="logo">    
@@ -32,17 +38,17 @@
 <section id="profile-container" class="bg-wit">
     <article class="txt-wit">
         <header>
-            <img src="img/icon.png" class="icon">
+            <img src="img/icon-profile.png" class="icon">
             <h1>
                 Profile
             </h1>
         </header>
-        <span class="bg-turq"></span>
+        <span class="bg-wit"></span>
         <p>
             In ons charismatische en industri&euml;le pand produceren wij interieurs en decors.<br>
             Met voldoende ruimte om te bouwen nemen wij meerdere projecten tegelijk aan.
         </p>
-        <a href="" class="btn-turq">How we work</a>
+        <a href="" class="btn-rood">How we work</a>
     </article>
 </section>
 
@@ -50,7 +56,7 @@
 <section id="works-container" class="bg-rood">
     <article class="txt-wit">
         <header>
-            <img src="img/icon.png" class="icon">
+            <img src="img/icon-works.png" class="icon">
             <h1>
                 Works
             </h1>

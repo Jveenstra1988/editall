@@ -1832,7 +1832,7 @@ var Swiper = function (selector, params) {
         else {
             //Try the DOM animation
             var currentPosition = _this.getWrapperTranslate();
-            var animationStep = Math.ceil((newPosition - currentPosition) / speed * (1000 / 60));
+            var animationStep = Math.ceil((newPosition - currentPosition) / speed * (500 / 60));
             var direction = currentPosition > newPosition ? 'toNext' : 'toPrev';
             var condition = direction === 'toNext' ? currentPosition > newPosition : currentPosition < newPosition;
             if (_this._DOMAnimating) return;

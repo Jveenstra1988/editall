@@ -74,7 +74,7 @@ a.btn-rood, a.btn-wit, a.btn-turq, a.btn-zwart, a.btn-antra {
 	padding: .3em 5em .3em .5em;
 	margin: 3em -13% 0 0;
 	display: inline-block;
-	float: right;
+/* 	float: right; */
 }
 
 /* Buttons */
@@ -123,7 +123,7 @@ nav {
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
 	box-sizing: border-box;         /* Opera/IE 8+ */
-	border: .4em solid #282B30;
+	border: .2em solid #282B30;
 }
 
 nav.bottom {
@@ -138,7 +138,7 @@ nav ul {
 nav ul li {
 	display: inline-block;
 	font-size: larger;
-	font-weight: bolder;
+	font-weight: 300;
 	width: 19%;
 	line-height: 3;
 	
@@ -149,7 +149,7 @@ nav ul li {
 	transition: all 600ms ease-in-out;
 }
 
-nav ul li a:hover { color: #33B6B3; }
+nav ul li a:hover { color: #E64154; }
 
 nav ul li a.active { color: #E64154; }
 
@@ -216,32 +216,32 @@ article span {
 }
 
 #home-container #stores {
-	background: #282B30 url(../img/header-1.png) center center no-repeat;
+	background: #282B30 url(../img/header-1.jpg) center center no-repeat;
 	background-size: cover;
 }
 
 #home-container #commercials {
-	background: #282B30 url(../img/header-2.png) center center no-repeat;
+	background: #282B30 url(../img/header-2.jpg) center center no-repeat;
 	background-size: cover;
 }
 
 #home-container #interiors {
-	background: #282B30 url(../img/header-3.png) center center no-repeat;
+	background: #282B30 url(../img/header-3.jpg) center center no-repeat;
 	background-size: cover;
 }
 
 #home-container #designs {
-	background: #282B30 url(../img/header-4.png) center center no-repeat;
+	background: #282B30 url(../img/header-4.jpg) center center no-repeat;
 	background-size: cover;
 }
 
 #profile-container {
-	background: #404951 url(../img/profile-1.png) center center no-repeat;
+	background: #404951 url(../img/profile-1.jpg) center center no-repeat;
 	background-size: cover;
 }
 
 #works-container {
-	background: #E64154 url(../img/works-1.png) center center no-repeat;
+	background: #E64154 url(../img/works-1.jpg) center center no-repeat;
 	background-size: cover;
 }
 

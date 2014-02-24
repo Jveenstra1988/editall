@@ -5,8 +5,8 @@ $(document).ready(function(){
 		//Your options here:
 		mode:'horizontal',
 		loop: true,
-		autoplay: 2000,
-		speed: 1000,
+		autoplay: 3000,
+		speed: 2400,
 		autoResize: true,
 		//calculateHeight: true
 		//etc..
