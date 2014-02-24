@@ -1,8 +1,6 @@
 <?php echo'
 		<footer id="contact-container" class="bg-turq">
-				<div class="google-maps">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2438.0084557682712!2d4.965094300000006!3d52.333992699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c60bf9acb723b9%3A0x282701acbce2ba08!2sBeheermaatschappij+Venserweg+B.V.!5e0!3m2!1sen!2snl!4v1392910475287" width="600" height="450" frameborder="0" style="border:0"></iframe>
-				</div>
+				
 			<article class="txt-wit footer">
 				<h1 class="">Contact</h1>
 				
