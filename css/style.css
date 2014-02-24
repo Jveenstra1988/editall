@@ -102,17 +102,17 @@ a.btn-antra:hover	{ background:#343c42; }
 	z-index: 999;
 	position: fixed;
 	left: 50%;
-	margin-left: -15%;
+	margin-left: -12.5%;
 	top: 250px;
-	width: 30%;
+	width: 25%;
 	z-index: 9;
 }
 
 .header-icon {
 	position: fixed;
 	top: 130px;
-	left: 45%;
-	width: 8%;
+	left: 47%;
+	width: 6%;
 }
 
 /* Navigatie */
@@ -120,11 +120,10 @@ nav {
 	position: fixed;
 	width: 100%;
 	z-index: 9999;
-	padding-right: -4px;
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
 	box-sizing: border-box;         /* Opera/IE 8+ */
-	border: .8em solid #282B30;
+	border: .4em solid #282B30;
 }
 
 nav.bottom {
@@ -134,7 +133,6 @@ nav.bottom {
 
 nav ul {
 	text-align: center;
-	height: 60px;
 }
 
 nav ul li {
@@ -197,10 +195,10 @@ article span {
 /* Maps */
 .google-maps {
 	position: relative;
-	padding-bottom: 30%; /*// This is the aspect ratio*/
-	height: 0;
+	width: 100%;	
+	height: 100%;
 	overflow: hidden;
-	margin-top: 2em;
+	z-index: 999;
 }
 .google-maps iframe {
 	position: absolute;
@@ -218,39 +216,49 @@ article span {
 }
 
 #home-container #stores {
-	background: #282B30 url(../img/header-1_opace.png) center center no-repeat;
+	background: #282B30 url(../img/header-1.png) center center no-repeat;
 	background-size: cover;
 }
 
 #home-container #commercials {
-	background: #282B30 url(../img/header-2_opace.png) center center no-repeat;
+	background: #282B30 url(../img/header-2.png) center center no-repeat;
 	background-size: cover;
 }
 
 #home-container #interiors {
-	background: #282B30 url(../img/header-3_opace.png) center center no-repeat;
+	background: #282B30 url(../img/header-3.png) center center no-repeat;
 	background-size: cover;
 }
 
 #home-container #designs {
-	background: #282B30 url(../img/header-4_opace.png) center center no-repeat;
+	background: #282B30 url(../img/header-4.png) center center no-repeat;
 	background-size: cover;
 }
 
 #profile-container {
-	background: #404951 url(../img/profile-1_opace.png) center center no-repeat;
+	background: #404951 url(../img/profile-1.png) center center no-repeat;
 	background-size: cover;
 }
 
 #works-container {
-	background: #E64154 url(../img/works-1_opace.png) center center no-repeat;
+	background: #E64154 url(../img/works-1.png) center center no-repeat;
 	background-size: cover;
 }
 
 #contact-container {
-	background: #33B6B3 url(../img/contact-1_opace.png) center center no-repeat;
+	background: #33B6B3 url(../img/contact-1.png) center center no-repeat;
 	background-size: cover;
 }
+
+article.footer {
+	margin-top: -50%;
+	color: #333;
+	background: rgba(255,255,255,.4);
+	height: 90%;
+	z-index: 9999;
+}
+
+/*kjlafklajl;vl;adnnanlafdn;*/
 
 
 /* \\\\\\\\\\\\\\ MEDIAQUERIES ///////// */

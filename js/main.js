@@ -73,21 +73,21 @@ $(document).ready(function(){
 	
 	$("#profile").click(function() {
 		$('html, body').animate({
-		    scrollTop: $("#profile-container").offset().top -86
+		    scrollTop: $("#profile-container").offset().top -73
 		}, 600);
 	    return false
 	});
 	
 	$("#works").click(function() {
 		$('html, body').animate({
-		    scrollTop: $("#works-container").offset().top -86
+		    scrollTop: $("#works-container").offset().top -73
 		}, 600);
 		return false
 	});
 	
 	$("#contact").click(function() {
 		$('html, body').animate({
-		    scrollTop: $("#contact-container").offset().top -86
+		    scrollTop: $("#contact-container").offset().top -73
 		}, 600);
 		return false
 	});
