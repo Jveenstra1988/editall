@@ -43,6 +43,12 @@ $(document).ready(function(){
 			$("nav img").addClass("header-icon");
 		}
 		
+		if( $('nav img').hasClass('header-icon') ) {
+			$('nav img').attr('src', 'img/icon.png');
+		}else {
+			$('nav img').attr('src', 'img/icon-rood.png');
+		}
+		
 		var position = $(this).scrollTop();
 		//If the current Y is bigger than the element. (you scrolled beyond the element)
 		if(position >= home.top){
