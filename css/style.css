@@ -255,6 +255,12 @@ article.map-overlay {
 	background-size: cover;
 }
 
+/* \\\\\\\\\\\\\\ DYNAMISCHE CONTENT ///////// */
+#works-overzicht img {
+	display: inline-block;
+	margin: 1px;
+	width: 19%;
+}
 
 /* \\\\\\\\\\\\\\ MEDIAQUERIES ///////// */
 

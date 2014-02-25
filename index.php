@@ -54,7 +54,7 @@
 
 <!--Content - WORKS-->
 <section id="works-container" class="bg-rood">
-    <article class="txt-wit">
+    <article class="txt-wit works">
         <header>
             <img src="img/icon-works.png" class="icon">
             <h1>
@@ -67,7 +67,7 @@
             Ons passie ligt in de vorm, de kleur en uitstraling en het effect op de gebruiker.<br>
             Edit-All huisvest een groep zeer vakbekwame mensen die hart en ziel in hun werk leggen.<br>
         </p>
-        <a href="" class="btn-zwart">Checkout works</a>
+        <a href="#" class="btn-zwart" id="work-load">Checkout works</a>
     </article>
 </section>
 

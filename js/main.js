@@ -105,6 +105,7 @@ function initialize() {
 		  ]
 		},{
 		  "featureType": "water",
+		  "elementType": "geometry",
 		  "stylers": [
 			{ "color": "#33b6de" }
 		  ]
@@ -145,7 +146,7 @@ function initialize() {
 	// to the map type control.
 	var myLatLng = new google.maps.LatLng(52.3340203,4.9650486);
 	var mapOptions = {
-		zoom: 15,
+		zoom: 13,
 		scrollwheel: false,
 		center: myLatLng,
 		mapTypeControlOptions: {
@@ -166,6 +167,8 @@ function initialize() {
 		icon: image,
 		animation: google.maps.Animation.DROP	
 	});
+	
+	// marker click events
 	google.maps.event.addListener(marker, 'click',  function() {
 		infowindow.open(map,marker);
 		toggleBounce();
@@ -208,7 +211,17 @@ function initialize() {
 google.maps.event.addDomListener(window, 'load', initialize);
 
 
+// Dynamic loading---------------------------------------------
+$('#work-load').on('click', function() {
+	$('#works-container').load('inc/works-overzicht.php');
+	return false;
+});
 
+$(document).on('click','.back', function(){
+    $('#works-overzicht').remove();
+	$('#works-container').load('inc/works-content.php .works');
+	return false;
+})
 
 
 

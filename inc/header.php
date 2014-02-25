@@ -21,10 +21,10 @@
 		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 		<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBj5-QRLtxngjfwUMk_byK4EBpwIJxK6uM&sensor=false"></script>
     </head>
-    <body>
-        <!--[if lt IE 7]>
-            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
-        <![endif]-->
+	<body>
+		<!--[if lt IE 7]>
+			<p class="chromeframe">Je gebruikt een <strong>sterk verouderde</strong> browser. <a href="http://browsehappy.com/">Upgrade je browser</a> of <a href="http://www.google.com/chromeframe/?redirect=true">activeer Google Chrome Frame</a> om uw webervaring te verbeteren.</p>
+		<![endif]-->
 		<nav class="bg-zwart bottom">
 			<ul class="br-antra">
 				<li>
@@ -34,8 +34,8 @@
 					<a href="" id="profile">Profile</a>
 				</li>
 				<li>
-					<a href"index.php" id="home">
-						<img src="img/icon.png" class="header-icon">
+					<a href"" id="home">
+						<img src="img/icon-rood.png" class="header-icon">
 					</a>
 				</li>
 				<li>
