@@ -52,6 +52,21 @@
     </article>
 </section>
 
+<!--Content - DIVIDER-->
+<section id="container" class="bg-zwart drie">
+    <article class="txt-wit">
+        <header>
+            <h2 class="txt-left">
+                Wij cre&euml;ren, produceren en monteren.
+            </h2>
+	        <p>
+	            In ons charismatische en industri&euml;le pand produceren wij interieurs en decors.<br>
+	            Met voldoende ruimte om te bouwen nemen wij meerdere projecten tegelijk aan.
+	        </p>
+        </header>
+    </article>
+</section>
+
 <!--Content - WORKS-->
 <section id="works-container" class="bg-rood">
     <div id="dynamic-container">

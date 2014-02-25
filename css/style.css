@@ -45,6 +45,9 @@ h1, h2, h3, h4, h5, nav {
 	text-align: center;
 }
 
+.txt-left  {text-align: left;}
+.txt-right {text-align: right;}
+
 p, ul, li {
 	font-weight: 300;
 }
@@ -164,6 +167,15 @@ section, footer {
 	z-index: 9;
 	border-bottom: 1em solid #282B30;
 }
+
+section.twee 	{ height: 20%; }
+section.drie	{ height: 30%; }
+section.vier  	{ height: 40%; }
+section.vijf 	{ height: 50%; }
+section.zes 	{ height: 60%; }
+section.zeven	{ height: 70%; }
+section.acht	{ height: 80%; }
+section.negen	{ height: 90%; }
 
 article {
 	width: 82%;
