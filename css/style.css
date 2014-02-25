@@ -176,6 +176,7 @@ section.zes 	{ height: 60%; }
 section.zeven	{ height: 70%; }
 section.acht	{ height: 80%; }
 section.negen	{ height: 90%; }
+section.clear	{ height:auto;}
 
 article {
 	width: 82%;

@@ -53,7 +53,7 @@
 </section>
 
 <!--Content - DIVIDER-->
-<section id="container" class="bg-zwart drie">
+<section id="container" class="bg-zwart clear">
     <article class="txt-wit">
         <header>
             <h2 class="txt-left">
