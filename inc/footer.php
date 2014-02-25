@@ -23,6 +23,51 @@
 				</p>
 			</article>
 		</footer>
+
+<!--Content - DIVIDER-->
+<section id="container" class="bg-wit clear">
+    <article>
+    		<img src="img/icon-place.png" class="icon">
+	        <p class="three-col">
+	            Venserweg 7<br />
+	            1112 AR  Diemen<br />
+	            Nederland<br />
+	        </p>
+
+        	<img src="img/icon-phone.png" class="icon">
+	        <p>
+	            Bel ons<br />
+	            <a href="tel:+316-51525382"> +316-51525382</a><br />
+	            <a href="tel:+316-50602207"> +316-50602207</a><br />
+	            
+	        </p>
+	        
+	        <img src="img/icon-email.png" class="icon">
+	        <p>
+	            E-mail ons<br />
+	            <a href="mailto:info@edit-all.nl"> info@edit-all.nl</a>            
+	        </p>
+	</article>
+</section>
+
+<section id="container" class="bg-wit clear">
+	<article class="txt-antra">  
+	        <img src="img/pic-ruben.png" class="icon">
+	        <p>
+	            <strong>Ruben Rosen</strong><br />
+	            <a href="mailto:ruben@edit-all.nl"> ruben@edit-all.nl</a> <br />
+	            <a href="tel:+316-51525382"> +316-51525382</a><br />           
+	        </p>
+
+	        <img src="img/pic-rob.png" class="icon">
+	        <p>
+	            <strong>Rob Valent</strong><br />
+	            <a href="mailto:rob@edit-all.nl"> rob@edit-all.nl</a><br />
+	            <a href="tel:+316-50602207"> +316-50602207</a><br />           
+	        </p>
+
+    </article>
+</section>
 		
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
         <script>window.jQuery || document.write("<script src="js/vendor/jquery-1.10.1.min.js"><\/script>")</script>
