@@ -213,13 +213,22 @@ google.maps.event.addDomListener(window, 'load', initialize);
 
 // Dynamic loading---------------------------------------------
 $('#work-load').on('click', function() {
-	$('#works-container').load('inc/works-overzicht.php');
+	$('#dynamic-container').fadeOut('fast').queue(function( nxt ) {
+		$(this).load('inc/works-overzicht.php', function() {
+			$(this).fadeIn('fast');
+		});
+		nxt();
+	});
 	return false;
 });
 
 $(document).on('click','.back', function(){
-    $('#works-overzicht').remove();
-	$('#works-container').load('inc/works-content.php .works');
+    $('#dynamic-container').fadeOut('fast').queue(function( nxt ) {
+		$(this).load('inc/works-content.php .works', function() {
+			$(this).fadeIn('fast');
+		});
+		nxt();
+	});
 	return false;
 })
 

@@ -54,21 +54,23 @@
 
 <!--Content - WORKS-->
 <section id="works-container" class="bg-rood">
-    <article class="txt-wit works">
-        <header>
-            <img src="img/icon-works.png" class="icon">
-            <h1>
-                Works
-            </h1>
-        </header>
-        <span class="bg-wit"></span>
-        <p>
-            Wij cree&euml;ren winkels, reclames, interieuren en designs.<br>
-            Ons passie ligt in de vorm, de kleur en uitstraling en het effect op de gebruiker.<br>
-            Edit-All huisvest een groep zeer vakbekwame mensen die hart en ziel in hun werk leggen.<br>
-        </p>
-        <a href="#" class="btn-zwart" id="work-load">Checkout works</a>
-    </article>
+    <div id="dynamic-container">
+        <article class="txt-wit works">
+            <header>
+                <img src="img/icon-works.png" class="icon">
+                <h1>
+                    Works
+                </h1>
+            </header>
+            <span class="bg-wit"></span>
+            <p>
+                Wij cree&euml;ren winkels, reclames, interieuren en designs.<br>
+                Ons passie ligt in de vorm, de kleur en uitstraling en het effect op de gebruiker.<br>
+                Edit-All huisvest een groep zeer vakbekwame mensen die hart en ziel in hun werk leggen.<br>
+            </p>
+            <a href="#" class="btn-zwart" id="work-load">Checkout works</a>
+        </article>
+    </div>
 </section>
 
 <?php require 'inc/footer.php'; ?>

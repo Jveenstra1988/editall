@@ -35,7 +35,7 @@
 				</li>
 				<li>
 					<a href"" id="home">
-						<img src="img/icon-rood.png" class="header-icon">
+						<img src="img/icon.png" class="header-icon">
 					</a>
 				</li>
 				<li>
