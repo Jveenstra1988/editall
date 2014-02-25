@@ -1,18 +1,14 @@
 <?php echo'
 		<footer id="contact-container" class="bg-turq">
-				
-			<article class="txt-wit footer">
-				<h1 class="">Contact</h1>
-				
-				<h3 class="">Je vindt de werkplaats van Edit-All aan:</h3>
+		    <div id="map-canvas"></div>
+			<article class="bg-wit map-overlay">
+				<h3 class="">Contact</h3>
 				
 				<p>
-					Venserweg 7<br>
+					<b>Venserweg 7</b><br>
 					1112 AR<br>
 					te Diemen<br>
 				</p>
-				
-				<h3 class="">Je neemt contact op met Edit-All via:</h3>
 				
 				<p>
 					<b>Ruben Rosen</b><br>

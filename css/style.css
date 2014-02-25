@@ -193,19 +193,24 @@ article span {
 }
 
 /* Maps */
-.google-maps {
+#map-canvas {
 	position: relative;
 	width: 100%;	
 	height: 100%;
 	overflow: hidden;
 	z-index: 999;
 }
-.google-maps iframe {
+
+article.map-overlay {
+	width: 30%;
 	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100% !important;
-	height: 100% !important;
+	right: 1%;
+	bottom: 5em;
+	z-index: 9999;
+	border-radius: 3px;
+	padding: 1em;
+	-webkit-box-shadow: 0 2px 13px 0 #404040;
+	box-shadow: 0 2px 13px 0 #404040;
 }
 
 
@@ -249,16 +254,6 @@ article span {
 	background: #33B6B3 url(../img/contact-1.png) center center no-repeat;
 	background-size: cover;
 }
-
-article.footer {
-	margin-top: -50%;
-	color: #333;
-	background: rgba(255,255,255,.4);
-	height: 90%;
-	z-index: 9999;
-}
-
-/*kjlafklajl;vl;adnnanlafdn;*/
 
 
 /* \\\\\\\\\\\\\\ MEDIAQUERIES ///////// */
