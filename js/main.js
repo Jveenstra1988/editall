@@ -29,6 +29,7 @@ $(document).ready(function(){
 	$window 		= 	$(window);
 	
 	$window.scroll(function() {
+		// make nav sticky
 		if ( $window.scrollTop() >= distance ) {
 			// Your div has reached the top
 			$("nav").removeClass("bottom");
@@ -36,6 +37,8 @@ $(document).ready(function(){
 			$("nav").addClass("bottom");
 		}
 		
+		// change class of nav img so it can come out of nav
+		// and get back in
 		if ( $window.scrollTop() >= distance - 170 ) {
 			// Your div has reached  top 130px
 			$("nav img").removeClass("header-icon");
@@ -43,12 +46,14 @@ $(document).ready(function(){
 			$("nav img").addClass("header-icon");
 		}
 		
+		// change icone in nav
 		if( $('nav img').hasClass('header-icon') ) {
 			$('nav img').attr('src', 'img/icon.png');
 		}else {
 			$('nav img').attr('src', 'img/icon-rood.png');
 		}
 		
+		// add active class when scrolled to element
 		var position = $(this).scrollTop();
 		//If the current Y is bigger than the element. (you scrolled beyond the element)
 		if(position >= home.top){
@@ -59,11 +64,11 @@ $(document).ready(function(){
 			$("nav a").removeClass('active');		
 			$("#profile").addClass('active');
 		}
-		if(position >= (works.top -65)){
+		if(position >= (works.top -68)){
 			$("nav a").removeClass('active');		
 			$("#works").addClass('active');
 		}
-		if(position >= (contact.top -65)){
+		if(position >= (contact.top -68)){
 			$("nav a").removeClass('active');		
 			$("#contact").addClass('active');
 		}
