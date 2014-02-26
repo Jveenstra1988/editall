@@ -223,25 +223,99 @@ google.maps.event.addDomListener(window, 'load', initialize);
 
 
 // Dynamic loading---------------------------------------------
-$('#work-load').on('click', function() {
-	$('#dynamic-container').fadeOut('fast').queue(function( nxt ) {
-		$(this).load('inc/works-overzicht.php', function() {
-			$(this).fadeIn('fast');
-		});
+// Load and unload works-overzicht.php
+$(document).on('click','#work-load', function() {
+	$('#dynamic-container').animate({ left : '-100%' }).queue(function( nxt ) {
+		$(this).css({ left: '100%'})
+		$(this).load('inc/works-overzicht.php');
 		nxt();
+		$('#dynamic-container').animate({ left : '0' }, 500);
 	});
 	return false;
 });
 
 $(document).on('click','.back', function(){
-    $('#dynamic-container').fadeOut('fast').queue(function( nxt ) {
-		$(this).load('inc/works-content.php .works', function() {
-			$(this).fadeIn('fast');
-		});
+    $('#dynamic-container').animate({ left : '100%' }, 500).queue(function( nxt ) {
+		$(this).load('inc/works-content.php .works');
 		nxt();
+		$('#dynamic-container').css({ left : '-100%' }, 500);
+		$('#dynamic-container').animate({ left : '0' }, 500);
 	});
 	return false;
 })
+
+// Filter different projects
+$(document).on('click','#all', function() {
+	$('#results img').hide();
+	$('#results img').fadeIn();
+	
+	$('#works-overzicht article a').removeClass('active');
+	$(this).addClass('active');
+	return false;
+});
+
+$(document).on('click','#stores', function() {
+	$('#results img').hide();
+	$('#results img').filter('.stores').fadeIn();
+	
+	$('#works-overzicht article a').removeClass('active');
+	$(this).addClass('active');
+	return false;
+});
+
+$(document).on('click','#commercials', function() {
+	$('#results img').hide();
+	$('#results img').filter('.commercials').fadeIn();
+	
+	$('#works-overzicht article a').removeClass('active');
+	$(this).addClass('active');
+	return false;
+});
+
+$(document).on('click','#interiors', function() {
+	$('#results img').hide();
+	$('#results img').filter('.interiors').fadeIn();
+	
+	$('#works-overzicht article a').removeClass('active');
+	$(this).addClass('active');
+	return false;
+});
+
+$(document).on('click','#designs', function() {
+	$('#results img').hide();
+	$('#results img').filter('.designs').fadeIn();
+	
+	$('#works-overzicht article a').removeClass('active');
+	$(this).addClass('active');
+	return false;
+});
+
+// Load project information
+$(document).on('click','#results div', function() {
+	var navClass = $(this).attr("id");
+	
+	$('#dynamic-container').animate({ left : '-100%' }, 500).queue(function( nxt ) {
+		$(this).css({ left : '100%' })
+		$(this).load('inc/works-content.php' + ' #' + navClass, function(){
+		});
+		nxt();
+		$('#dynamic-container').animate({ left : '0' }, 500);
+	});
+	return false;
+});
+
+$(document).on('click','.back-to-overzicht', function(){
+    $('#dynamic-container').animate({ left : '100%' }, 500).queue(function( nxt ) {
+		$(this).load('inc/works-overzicht.php');
+		nxt();
+		$('#dynamic-container').css({ left : '-100%' }, 500);
+		$('#dynamic-container').animate({ left : '0' }, 500);
+	});
+	return false;
+})
+
+
+
 
 
 

@@ -75,8 +75,8 @@ a.btn-rood, a.btn-wit, a.btn-turq, a.btn-zwart, a.btn-antra {
 	text-transform:uppercase; 
 	font-weight:bold; 
 	border-radius: .3em; 
-	padding: .3em 5em .3em .5em;
-	margin: 3em -13% 0 0;
+	padding: .3em .5em .3em .5em;
+	margin: 3em 0 3em 0;
 	display: inline-block;
 /* 	float: right; */
 }
@@ -89,11 +89,11 @@ a.btn-zwart	{ color:#F6F6F6; background:#282B30; }
 a.btn-antra	{ color:#F6F6F6; background:#404951; }
 
 /* Hovers */
-a.btn-rood:hover	{ background:#ce3042; }
-a.btn-wit:hover		{ background:#e4e4e4; }
-a.btn-turq:hover	{ background:#2ea5a4; }
-a.btn-zwart:hover	{ background:#23262a; }
-a.btn-antra:hover	{ background:#343c42; }
+a.btn-rood:hover, a.btn-rood.active		{ background:#ce3042; }
+a.btn-wit:hover, a.btn-wit.active		{ background:#e4e4e4; }
+a.btn-turq:hover, a.btn-turq.active		{ background:#2ea5a4; }
+a.btn-zwart:hover, a.btn-zwart.active	{ background:#23262a; }
+a.btn-antra:hover, a.btn-antra.active	{ background:#343c42; }
 
 /* Borders */
 .br-turg 	{ border: 1px solid #33B6B3; }
@@ -176,7 +176,6 @@ section, footer {
 	background: #efefef;
 	position: relative;
 	z-index: 9;
-/* 	border-bottom: 1em solid #282B30; */
 }
 
 section.twee 	{ height: 20%; }
@@ -270,7 +269,7 @@ article.map-overlay {
 }
 
 #works-container {
-	background: #E64154 url(../img/works-1.jpg) center center no-repeat;
+	background: #E64154;
 	background-size: cover;
 }
 
@@ -281,8 +280,19 @@ article.map-overlay {
 
 /* \\\\\\\\\\\\\\ DYNAMISCHE CONTENT ///////// */
 #works-overzicht img {
-	display: inline-block;
+	display: block;
 	margin: 1px;
+	width: 100%;
+}
+
+#dynamic-container {
+	position: relative;
+	height: 100%;
+}
+
+.clickable {
+	cursor: pointer;
+	display: inline-block;
 	width: 19%;
 }
 
