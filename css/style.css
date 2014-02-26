@@ -219,21 +219,35 @@ article span {
 #map-canvas {
 	position: relative;
 	width: 100%;	
-	height: 100%;
+	height: 85%;
 	overflow: hidden;
 	z-index: 999;
 }
 
-article.map-overlay {
-	width: 30%;
-	position: absolute;
-	right: 1%;
-	bottom: 5em;
-	z-index: 9999;
-	border-radius: 3px;
-	padding: 1em;
-	-webkit-box-shadow: 0 2px 13px 0 #404040;
-	box-shadow: 0 2px 13px 0 #404040;
+/*article.map-overlay {*/
+/*	width: 95%;*/
+/*	position: absolute;*/
+/*	right: 1%;*/
+/*	bottom: 5em;*/
+/*	z-index: 9999;*/
+/*	border-radius: 3px;*/
+/*	padding: 1em;*/
+/*	-webkit-box-shadow: 0 2px 13px 0 #404040;*/
+/*	box-shadow: 0 2px 13px 0 #404040;*/
+/*}*/
+
+section.clear article{
+	text-align: center;
+}
+
+section.clear article div {
+	display: inline-block;
+	width: 25%;
+	margin: 2em;
+}
+
+section.clear article div img, section.clear article div p {
+	display: inline-block;
 }
 
 
@@ -290,10 +304,29 @@ article.map-overlay {
 	height: 100%;
 }
 
+#dynamic-container article.content {
+	overflow: scroll;
+	height: 80%;
+}
+
 .clickable {
 	cursor: pointer;
 	display: inline-block;
 	width: 19%;
+}
+
+#works-overzicht img:after {
+    content:'\A';
+    position:absolute;
+    width:100%; height:100%;
+    top:0; left:0;
+    background:rgba(0,0,0,0.6);
+    opacity:0;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}
+#works-overzicht img:hover:after {
+    opacity:1;
 }
 
 /* \\\\\\\\\\\\\\ MEDIAQUERIES ///////// */
