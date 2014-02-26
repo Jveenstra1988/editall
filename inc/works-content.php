@@ -1,52 +1,69 @@
+
 <!-- Just Brands Salzburg -->
 <section class="bg-wit" id="just-brands">
-	<article class="bg-antra content">
+	<article class="bg-wit content">
 		<a href="#" class="btn-zwart back-to-overzicht">Back</a>
-		<h1 class="txt-turq">Just Brands Showroom Salzburg</h1>
+		<h1 class="txt-turq txt-left">Just Brands Showroom Salzburg</h1>
 		<img src="img/projects/just-brands.jpg" class="attribute">
-		<p class="txt-wit">
+		<p class="txt-zwart">
 			Voor Just Brands gaan we ook over de grenzen.
 			Wij maken showroom’s zodat PME legend daar goed word gepresenteerd.
 		</p>
-		<img src="img/projects/just-brands.jpg" class="">
+		<img src="img/projects/just-brands.jpg" class="img-stack">
+		<img src="img/projects/just-brands.jpg" class="img-stack">
+		<img src="img/projects/just-brands.jpg" class="img-stack">
 	</article>
 </section>
 
 <!-- Just Brands Munchen -->
 <section class="bg-wit" id="just-brands-munchen">
-	<article class="bg-antra content">
+	<article class="bg-wit content">
+	  
 		<a href="#" class="btn-zwart back-to-overzicht">Back</a>
-		<h1 class="txt-turq">Just Brands Showroom Salzburg</h1>
+		<h1 class="txt-turq txt-left">Just Brands Showroom Salzburg</h1>
 		<img src="img/projects/just-brands-munchen.jpg" class="attribute">
-		<p class="txt-wit">
+		  
+		<p class="txt-zwart">
 			Voor Just Brands gaan we ook over de grenzen.
 			Wij maken showroom’s zodat PME legend daar goed word gepresenteerd.
 		</p>
-		<img src="img/projects/just-brands-munchen-2.jpg" class="">
+		<img src="img/projects/just-brands-munchen-2.jpg" class="img-stack">
+		<img src="img/projects/just-brands-munchen-2.jpg" class="img-stack">
+		<img src="img/projects/just-brands-munchen-2.jpg" class="img-stack">
+		<img src="img/projects/just-brands-munchen-2.jpg" class="img-stack">
+		<img src="img/projects/just-brands-munchen-2.jpg" class="img-stack">
 	</article>
 </section>
 
 <!-- Just Brands Munchen -->
 <section class="bg-wit" id="friends-emmen">
-	<article class="bg-antra content">
+	<article class="bg-wit content">
+	  
 		<a href="#" class="btn-zwart back-to-overzicht">Back</a>
-		<h1 class="txt-turq">Just Brands Showroom Salzburg</h1>
+		<h1 class="txt-turq txt-left">Just Brands Showroom Salzburg</h1>
 		<img src="img/projects/friends-emmen.jpg" class="attribute">
-		<p class="txt-wit">
+		  
+		<p class="txt-zwart">
 			Voor Just Brands gaan we ook over de grenzen.
 			Wij maken showroom’s zodat PME legend daar goed word gepresenteerd.
 		</p>
-		<img src="img/projects/friends-emmen-2.jpg" class="">
+		<img src="img/projects/friends-emmen-2.jpg" class="img-stack">
+		<img src="img/projects/friends-emmen-2.jpg" class="img-stack">
+		<img src="img/projects/friends-emmen-2.jpg" class="img-stack">
+		<img src="img/projects/friends-emmen-2.jpg" class="img-stack">
+		<img src="img/projects/friends-emmen-2.jpg" class="img-stack">
 	</article>
 </section>
 
 <!-- OLLI winkel Blijdorp -->
 <section class="bg-wit" id="olli">
-	<article class="bg-antra content">
+	<article class="bg-wit content">
+	  
 		<a href="#" class="btn-zwart back-to-overzicht">Back</a>
-		<h1 class="txt-turq">OLLI winkel Blijdorp</h1>
+		<h1 class="txt-turq txt-left">OLLI winkel Blijdorp</h1>
 		<img src="img/projects/olli-2.jpg" class="attribute">
-		<p class="txt-wit">
+		  
+		<p class="txt-zwart">
 			De meest populaire olifant van Nederland, “OLLI”, heeft zijn eigen
 			verblijf in Diergaarde Blijdorp gekregen.
 			Diergaarde Blijdorp opende op 28 maart vanaf 15.30 uur gratis de deuren
@@ -57,16 +74,23 @@
 			In opdracht van Jelier&Schaaf. Zeer geslaagt en tevreden opende dierenpark
 			Blijdorp zijn deuren.
 		</p>
-		<img src="img/projects/olli.jpg" class="">
+		<img src="img/projects/olli.jpg" class="img-stack">
+		<img src="img/projects/olli.jpg" class="img-stack">
+		<img src="img/projects/olli.jpg" class="img-stack">
+		<img src="img/projects/olli.jpg" class="img-stack">
+		<img src="img/projects/olli.jpg" class="img-stack">
 	</article>
 </section>
 
+<!-- PME shop in shop-->
 <section class="bg-wit" id="pme-shop">
-	<article class="bg-antra content">
+	<article class="bg-wit content">
+	  
 		<a href="#" class="btn-zwart back-to-overzicht">Back</a>
-		<h1 class="txt-turq">PME Shop in Shop</h1>
+		<h1 class="txt-turq txt-left">PME Shop in Shop</h1>
 		<img src="img/projects/pme-shop-in-shop.jpg" class="attribute">
-		<p class="txt-wit">
+		  
+		<p class="txt-zwart">
 			Voor het Merk PME Legend hebben we een shop in shop systeem ontwikkeld.
 			Uitstraling en ontwerp is helemaal gecreëerd met het gevoel PME Legend
 			wat een zeer stoere en klasse uitstraling vertegenwoordigd.
@@ -75,12 +99,13 @@
 			In de shop in shop wordt gewerkt met ‘bewegend beeld’ (4 plasmaschermen )
 			PME Legend presenteert hierdoor prachtig gevoel richting de klant.
 		</p>
-		<img src="http://placehold.it/600x400" class="">
+		<img src="http://placehold.it/600x400" class="img-stack">
+		<img src="http://placehold.it/600x400" class="img-stack">
 	</article>
 </section>
 
 <!-- standaard content-->
-<article class="txt-wit works">
+<article class="txt-turq works">
 	<header>
 		<img src="img/icon-works.png" class="icon">
 		<h1>

@@ -17,8 +17,8 @@
 							<img src="img/icon-phone.png" class="icon">
 							<p>
 								Bel ons<br />
-								<a href="tel:+316-51525382"> +316-51525382</a><br />
-								<a href="tel:+316-50602207"> +316-50602207</a><br />
+								<a href="tel:+316-51525382" class="btn-turq"> +316-51525382</a><br />
+								<a href="tel:+316-50602207" class="btn-turq"> +316-50602207</a><br />
 								
 							</p>
 						</div>
@@ -26,7 +26,7 @@
 							<img src="img/icon-email.png" class="icon">
 							<p>
 								E-mail ons<br />
-								<a href="mailto:info@edit-all.nl"> info@edit-all.nl</a>            
+								<a href="mailto:info@edit-all.nl" class="btn-rood"> info@edit-all.nl</a>            
 							</p>
 						</div>
 						<span class="bg-turq"></span>
@@ -34,63 +34,20 @@
 							<img src="img/pic-ruben.png" class="icon">
 							<p>
 								<strong>Ruben Rosen</strong><br />
-								<a href="mailto:ruben@edit-all.nl"> ruben@edit-all.nl</a> <br />
-								<a href="tel:+316-51525382"> +316-51525382</a><br />           
+								<a href="mailto:ruben@edit-all.nl" class="btn-rood"> ruben@edit-all.nl</a> <br />
+								<a href="tel:+316-51525382" class="btn-turq"> +316-51525382</a><br />           
 							</p>
 						</div>
 						<div>
 							<img src="img/pic-rob.png" class="icon">
 							<p>
 								<strong>Rob Valent</strong><br />
-								<a href="mailto:rob@edit-all.nl"> rob@edit-all.nl</a><br />
-								<a href="tel:+316-50602207"> +316-50602207</a><br />           
+								<a href="mailto:rob@edit-all.nl" class="btn-rood"> rob@edit-all.nl</a><br />
+								<a href="tel:+316-50602207" class="btn-turq"> +316-50602207</a><br />           
 							</p>
 						</div>
 					</article>
 				</section>
-			<!--<article class="bg-wit map-overlay">-->
-			<!--	<div>-->
-			<!--			<img src="img/icon-place.png" class="icon">-->
-			<!--			<p class="three-col">-->
-			<!--				Venserweg 7<br />-->
-			<!--				1112 AR  Diemen<br />-->
-			<!--				Nederland<br />-->
-			<!--			</p>-->
-			<!--	</div>-->
-			<!--	<div>-->
-			<!--			<img src="img/icon-phone.png" class="icon">-->
-			<!--			<p>-->
-			<!--				Bel ons<br />-->
-			<!--				<a href="tel:+316-51525382"> +316-51525382</a><br />-->
-			<!--				<a href="tel:+316-50602207"> +316-50602207</a><br />-->
-			<!--				-->
-			<!--			</p>-->
-			<!--	</div>-->
-			<!--	<div>-->
-			<!--			<img src="img/icon-email.png" class="icon">-->
-			<!--			<p>-->
-			<!--				E-mail ons<br />-->
-			<!--				<a href="mailto:info@edit-all.nl"> info@edit-all.nl</a>            -->
-			<!--			</p>-->
-			<!--	</div>-->
-			<!--	<div>-->
-			<!--			<img src="img/pic-ruben.png" class="icon">-->
-			<!--			<p>-->
-			<!--				<strong>Ruben Rosen</strong><br />-->
-			<!--				<a href="mailto:ruben@edit-all.nl"> ruben@edit-all.nl</a> <br />-->
-			<!--				<a href="tel:+316-51525382"> +316-51525382</a><br />           -->
-			<!--			</p>-->
-			<!--	</div>-->
-			<!--	<div>-->
-			<!--			<img src="img/pic-rob.png" class="icon">-->
-			<!--			<p>-->
-			<!--				<strong>Rob Valent</strong><br />-->
-			<!--				<a href="mailto:rob@edit-all.nl"> rob@edit-all.nl</a><br />-->
-			<!--				<a href="tel:+316-50602207"> +316-50602207</a><br />           -->
-			<!--			</p>-->
-			<!--	</div>-->
-			<!--	<a id="get-in-touch" class="btn-turq">< Get in touch</a>-->
-			<!--</article>-->
 		</footer>
 		
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>

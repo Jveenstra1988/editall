@@ -2,7 +2,7 @@
 <section id="works-overzicht" class="bg-wit">
 	<article>
 		<a href="#" class="btn-zwart back">Back</a>
-		<h1 class="txt-turq">Checkout works</h1>
+		<h1 class="txt-turq txt-left">Checkout works</h1>
 		<a href="#" class="btn-turq active" id="all">All</a>
 		<a href="#" class="btn-turq" id="stores">Stores</a>
 		<a href="#" class="btn-turq" id="commercials">Commercials</a>
@@ -13,16 +13,16 @@
 				<img src="img/projects/just-brands.jpg" class="stores">
 			</div>
 			<div id="just-brands-munchen" class="clickable">
-				<img src="img/projects/just-brands-munchen.jpg" class="stores">
+				<img src="img/projects/just-brands-munchen.jpg" class="commercials">
 			</div>
 			<div id="friends-emmen" class="clickable">
-				<img src="img/projects/friends-emmen.jpg" class="stores">
+				<img src="img/projects/friends-emmen.jpg" class="interiors">
 			</div>
 			<div id="olli" class="clickable">
 				<img src="img/projects/olli-2.jpg" class="stores">
 			</div>
 			<div id="pme-shop" class="clickable">
-				<img src="img/projects/pme-shop-in-shop.jpg" class="stores">
+				<img src="img/projects/pme-shop-in-shop.jpg" class="designs">
 			</div>
 			
 		</div>
