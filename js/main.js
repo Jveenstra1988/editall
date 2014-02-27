@@ -39,7 +39,7 @@ $(document).ready(function(){
 		
 		// change class of nav img so it can come out of nav
 		// and get back in
-		if ( $window.scrollTop() >= distance - 170 ) {
+		if ( $window.scrollTop() >= distance - 130 ) {
 			// Your div has reached  top 130px
 			$("nav img").removeClass("header-icon");
 		} else {
@@ -174,7 +174,7 @@ function initialize() {
 	var marker = new google.maps.Marker({
 		position: myLatLng,
 		map: map,
-		title: 'Hello World!',
+		title: 'Edit-All',
 		icon: image,
 		animation: google.maps.Animation.DROP	
 	});
@@ -186,18 +186,16 @@ function initialize() {
 	});
 	
 	// Create content for info window
-	var contentString = '<a href="https://www.google.nl/maps/dir//Venserweg+7,+1112+AR+Diemen/@52.3340203,4.9650486,17z/data=!4m13!1m4!3m3!1s0x47c60bf8f0b87e2d:0xe8daae88b74de79f!2sVenserweg+7!3b1!4m7!1m0!1m5!1m1!1s0x47c60bf8f0b87e2d:0xe8daae88b74de79f!2m2!1d4.9650552!2d52.3340164" target=_blank>'+
-	  '<div id="content">'+
+	var contentString = '<div id="content">'+
       '<div id="siteNotice">'+
       '</div>'+
-      '<h1 class="txt-turq">Zie routebeschrijving</h1>'+
       '<div>'+
       '<p>'+
-      'Ga naar Edit-All, </a> '+
+      '<a>Venserweg 7<br> 1112 AR Diemen <br> Nederland</a> '+
       '</p>'+
+	  '<a href="https://www.google.nl/maps/dir//Venserweg+7,+1112+AR+Diemen/@52.3340203,4.9650486,17z/data=!4m13!1m4!3m3!1s0x47c60bf8f0b87e2d:0xe8daae88b74de79f!2sVenserweg+7!3b1!4m7!1m0!1m5!1m1!1s0x47c60bf8f0b87e2d:0xe8daae88b74de79f!2m2!1d4.9650552!2d52.3340164" target=_blank" class="btn-turq">Routebeschrijving</a>'+
       '</div>'+
-      '</div>'+
-	  '</a>';
+      '</div>';
 	
 	// fill info window with content
 	var infowindow = new google.maps.InfoWindow({
@@ -246,8 +244,7 @@ $(document).on('click','.back', function(){
 
 // Filter different projects
 $(document).on('click','#all', function() {
-	$('#results img').hide();
-	$('#results img').fadeIn();
+	$('#results img').fadeTo( "slow" , 1);
 	
 	$('#works-overzicht article a').removeClass('active');
 	$(this).addClass('active');
@@ -255,8 +252,8 @@ $(document).on('click','#all', function() {
 });
 
 $(document).on('click','#stores', function() {
-	$('#results img').hide();
-	$('#results img').filter('.stores').fadeIn();
+	$('#results img').fadeTo( 200 , 0.1);
+	$('#results img').filter('.stores').fadeTo( 200 , 1);
 	
 	$('#works-overzicht article a').removeClass('active');
 	$(this).addClass('active');
@@ -264,8 +261,8 @@ $(document).on('click','#stores', function() {
 });
 
 $(document).on('click','#commercials', function() {
-	$('#results img').hide();
-	$('#results img').filter('.commercials').fadeIn();
+	$('#results img').fadeTo( 200 , 0.1);
+	$('#results img').filter('.commercials').fadeTo( 200 , 1);
 	
 	$('#works-overzicht article a').removeClass('active');
 	$(this).addClass('active');
@@ -273,8 +270,8 @@ $(document).on('click','#commercials', function() {
 });
 
 $(document).on('click','#interiors', function() {
-	$('#results img').hide();
-	$('#results img').filter('.interiors').fadeIn();
+	$('#results img').fadeTo( 200 , 0.1);
+	$('#results img').filter('.interiors').fadeTo( 200 , 1);
 	
 	$('#works-overzicht article a').removeClass('active');
 	$(this).addClass('active');
@@ -282,8 +279,8 @@ $(document).on('click','#interiors', function() {
 });
 
 $(document).on('click','#designs', function() {
-	$('#results img').hide();
-	$('#results img').filter('.designs').fadeIn();
+	$('#results img').fadeTo( 200 , 0.1);
+	$('#results img').filter('.designs').fadeTo( 200 , 1);
 	
 	$('#works-overzicht article a').removeClass('active');
 	$(this).addClass('active');
@@ -296,7 +293,7 @@ $(document).on('click','#results div', function() {
 	
 	$('#dynamic-container').animate({ left : '-100%' }, 500).queue(function( nxt ) {
 		$(this).css({ left : '100%' })
-		$(this).load('inc/works-content.php' + ' #' + navClass, function(){
+		$(this).load('inc/works-content.php' + ' #' + navClass, function(){			
 		});
 		nxt();
 		$('#dynamic-container').animate({ left : '0' }, 500);
@@ -313,6 +310,15 @@ $(document).on('click','.back-to-overzicht', function(){
 	});
 	return false;
 })
+
+
+
+
+
+
+
+
+
 
 
 

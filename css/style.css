@@ -79,14 +79,19 @@ a.btn-rood, a.btn-wit, a.btn-turq, a.btn-zwart, a.btn-antra {
 	margin: 3em 0 3em 0;
 	display: inline-block;
 /* 	float: right; */
+	-webkit-transition: all 200ms ease-in;
+	-moz-transition: all 200ms ease-in;
+	-ms-transition: all 200ms ease-in;
+	-o-transition: all 200ms ease-in;
+	transition: all 200ms ease-in;
 }
 
 /* Buttons */
-a.btn-rood	{ color:#F6F6F6; background:#E64154; }
-a.btn-wit	{ color:#282B30; background:#F6F6F6; }
-a.btn-turq	{ color:#F6F6F6; background:#33B6B3; }
-a.btn-zwart	{ color:#F6F6F6; background:#282B30; }
-a.btn-antra	{ color:#F6F6F6; background:#404951; }
+a.btn-rood	{ color:#F6F6F6; background:#E64154; border: solid 2px #E64154 }
+a.btn-wit	{ color:#282B30; background:#F6F6F6; border: solid 2px #F6F6F6 }
+a.btn-turq	{ color:#F6F6F6; background:#33B6B3; border: solid 2px #33B6B3 }
+a.btn-zwart	{ color:#F6F6F6; background:#282B30; border: solid 2px #282B30 }
+a.btn-antra	{ color:#F6F6F6; background:#404951; border: solid 2px #404951 }
 
 /* Hovers */
 a.btn-rood:hover, a.btn-rood.active		{ background:#ce3042; }
@@ -96,6 +101,10 @@ a.btn-zwart:hover, a.btn-zwart.active	{ background:#23262a; }
 a.btn-antra:hover, a.btn-antra.active	{ background:#343c42; }
 
 /* Special Buttons */
+a.next-project {
+	float: right;
+	margin: 0;
+}
 
 /* Borders */
 .br-turg 	{ border: 1px solid #33B6B3; }
@@ -169,7 +178,9 @@ nav ul li a:hover { color: #E64154; }
 
 nav ul li a.active { color: #E64154; }
 
-nav ul li img { width: 20%; }
+nav ul li img {
+	width: 26%;
+}
 
 /* Content */
 section, footer {
