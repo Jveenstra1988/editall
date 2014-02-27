@@ -323,6 +323,21 @@ section.clear article div img, section.clear article div p {
 	background-size: cover;
 }
 
+#profile-container #first-step {
+	background: url(../img/header-1.jpg) center center no-repeat;
+	background-size: cover;
+}
+
+#profile-container #second-step {
+	background: url(../img/header-2.jpg) center center no-repeat;
+	background-size: cover;
+}
+
+#profile-container #third-step {
+	background: url(../img/header-3.jpg) center center no-repeat;
+	background-size: cover;
+}
+
 #works-container {
 	background-size: cover;
 }
@@ -344,7 +359,7 @@ section.clear article div img, section.clear article div p {
 	width: 100%;
 }
 
-#dynamic-container {
+#dynamic-container, #dynamic-container-profile {
 	position: relative;
 	height: 100%;
 }
@@ -368,7 +383,7 @@ section.clear article div img, section.clear article div p {
 }
 
 #dynamic-container article.content img.img-stack {
-	width: 18%;
+	width: 16%;
 	display: inline-block;
 	vertical-align: top;
 	margin: 1em 1em 0 0;
@@ -386,7 +401,7 @@ section.clear article div img, section.clear article div p {
 -------------------------------------------
 */
 
-@media screen and (min-width: 1400px) {
+@media screen and (min-width: 1024px) {
 	article {
 		width: 60%;
 	}

@@ -11,6 +11,18 @@ $(document).ready(function(){
 		//calculateHeight: true
 		//etc..
 	});
+	
+	var mySwiper2 = $('.swiper-container2').swiper({
+		//Your options here:
+		mode:'horizontal',
+		loop: true,
+		autoplay: 3000,
+		speed: 2400,
+		autoResize: true,
+		//calculateHeight: true
+		//etc..
+	});
+	
 	$('.arrow-left').on('click', function(e){
 		e.preventDefault()
 		mySwiper.swipePrev()
@@ -227,21 +239,21 @@ google.maps.event.addDomListener(window, 'load', initialize);
 // Dynamic loading---------------------------------------------
 // Load and unload works-overzicht.php
 $(document).on('click','#work-load', function() {
-	$('#dynamic-container').animate({ left : '-100%' }).queue(function( nxt ) {
+	$('#dynamic-container').animate({ left : '-100%' }, 300).queue(function( nxt ) {
 		$(this).css({ left: '100%'})
 		$(this).load('inc/works-overzicht.php');
 		nxt();
-		$('#dynamic-container').animate({ left : '0' }, 500);
+		$('#dynamic-container').animate({ left : '0' }, 300);
 	});
 	return false;
 });
 
 $(document).on('click','.back', function(){
-    $('#dynamic-container').animate({ left : '100%' }, 500).queue(function( nxt ) {
+    $('#dynamic-container').animate({ left : '100%' }, 300).queue(function( nxt ) {
 		$(this).load('inc/works-content.php .works');
 		nxt();
-		$('#dynamic-container').css({ left : '-100%' }, 500);
-		$('#dynamic-container').animate({ left : '0' }, 500);
+		$('#dynamic-container').css({ left : '-100%' });
+		$('#dynamic-container').animate({ left : '0' }, 300);
 	});
 	return false;
 })
@@ -295,22 +307,45 @@ $(document).on('click','#designs', function() {
 $(document).on('click','#results div', function() {
 	var navClass = $(this).attr("id");
 	
-	$('#dynamic-container').animate({ left : '-100%' }, 500).queue(function( nxt ) {
-		$(this).css({ left : '100%' })
+	$('#dynamic-container').animate({ left : '-100%' }, 300).queue(function( nxt ) {
+		$(this).css({ left : '100%' });
 		$(this).load('inc/works-content.php' + ' #' + navClass, function(){			
 		});
 		nxt();
-		$('#dynamic-container').animate({ left : '0' }, 500);
+		$('#dynamic-container').animate({ left : '0' }, 300);
 	});
+	$('#works-container').css({ background: '#333'});
 	return false;
 });
 
 $(document).on('click','.back-to-overzicht', function(){
-    $('#dynamic-container').animate({ left : '100%' }, 500).queue(function( nxt ) {
+    $('#dynamic-container').animate({ left : '100%' }, 300).queue(function( nxt ) {
 		$(this).load('inc/works-overzicht.php');
 		nxt();
-		$('#dynamic-container').css({ left : '-100%' }, 500);
-		$('#dynamic-container').animate({ left : '0' }, 500);
+		$('#dynamic-container').css({ left : '-100%' });
+		$('#dynamic-container').animate({ left : '0' }, 300);
+	});
+	$('#works-container').css({ background: '#e1e1e1'});
+	return false;
+})
+
+// Load and unload how-we-work.php
+$(document).on('click','#how-we-work', function() {
+	$('#dynamic-container-profile').animate({ left : '-100%' }, 300).queue(function( nxt ) {
+		$(this).css({ left: '100%'})
+		$(this).load('inc/how-we-work.php');
+		nxt();
+		$('#dynamic-container-profile').animate({ left : '0' }, 300);
+	});
+	return false;
+});
+
+$(document).on('click','.back', function(){
+    $('#dynamic-container-profile').animate({ left : '100%' }, 300).queue(function( nxt ) {
+		$(this).load('inc/works-content.php .works');
+		nxt();
+		$('#dynamic-container-profile').css({ left : '-100%' });
+		$('#dynamic-container-profile').animate({ left : '0' }, 300);
 	});
 	return false;
 })
