@@ -72,10 +72,10 @@
 <!--Content - WORKS-->
 <section id="works-container" class="bg-wit">
     <div id="dynamic-container">
-        <article class="txt-turq works">
+        <article class="txt-zwart works">
             <header>
                 <img src="img/icon-works.png" class="icon">
-                <h1>
+                <h1 class="txt-rood">
                     Works
                 </h1>
             </header>

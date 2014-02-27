@@ -3,15 +3,17 @@
 <section class="bg-wit" id="just-brands">
 	<article class="bg-wit content">
 		<a href="#" class="btn-zwart back-to-overzicht">Back</a>
-		<h1 class="txt-turq txt-left">Just Brands Showroom Salzburg</h1>
-		<img src="img/projects/just-brands.jpg" class="attribute">
+		<h1 class="txt-rood txt-left">Just Brands Showroom Salzburg</h1>
 		<p class="txt-zwart">
 			Voor Just Brands gaan we ook over de grenzen.
-			Wij maken showroom’s zodat PME legend daar goed word gepresenteerd.
+			Wij maken showrooms zodat PME legend daar goed wordt 
+			gepresenteerd.
 		</p>
-		<img src="img/projects/just-brands.jpg" class="img-stack">
-		<img src="img/projects/just-brands.jpg" class="img-stack">
-		<img src="img/projects/just-brands.jpg" class="img-stack">
+		
+		<img src="img/projects/sto-1.jpg" class="attribute">
+		<img src="img/projects/sto-2.jpg" class="img-stack">
+		<img src="img/projects/sto-3.jpg" class="img-stack">
+		<img src="img/projects/sto-1.jpg" class="img-stack">
 	</article>
 </section>
 
@@ -20,12 +22,13 @@
 	<article class="bg-wit content">
 	  
 		<a href="#" class="btn-zwart back-to-overzicht">Back</a>
-		<h1 class="txt-turq txt-left">Just Brands Showroom Salzburg</h1>
+		<h1 class="txt-rood txt-left">Just Brands Showroom Salzburg</h1>
 		<img src="img/projects/just-brands-munchen.jpg" class="attribute">
 		  
 		<p class="txt-zwart">
 			Voor Just Brands gaan we ook over de grenzen.
-			Wij maken showroom’s zodat PME legend daar goed word gepresenteerd.
+			Wij maken showrooms zodat PME legend daar goed 
+			wordt gepresenteerd.
 		</p>
 		<img src="img/projects/just-brands-munchen-2.jpg" class="img-stack">
 		<img src="img/projects/just-brands-munchen-2.jpg" class="img-stack">
@@ -40,12 +43,13 @@
 	<article class="bg-wit content">
 	  
 		<a href="#" class="btn-zwart back-to-overzicht">Back</a>
-		<h1 class="txt-turq txt-left">Just Brands Showroom Salzburg</h1>
+		<h1 class="txt-rood txt-left">Just Brands Showroom Salzburg</h1>
 		<img src="img/projects/friends-emmen.jpg" class="attribute">
 		  
 		<p class="txt-zwart">
 			Voor Just Brands gaan we ook over de grenzen.
-			Wij maken showroom’s zodat PME legend daar goed word gepresenteerd.
+			Wij maken showrooms zodat PME legend daar goed wordt 
+			gepresenteerd.
 		</p>
 		<img src="img/projects/friends-emmen-2.jpg" class="img-stack">
 		<img src="img/projects/friends-emmen-2.jpg" class="img-stack">
@@ -60,7 +64,7 @@
 	<article class="bg-wit content">
 	  
 		<a href="#" class="btn-zwart back-to-overzicht">Back</a>
-		<h1 class="txt-turq txt-left">OLLI winkel Blijdorp</h1>
+		<h1 class="txt-rood txt-left">OLLI winkel Blijdorp</h1>
 		<img src="img/projects/olli-2.jpg" class="attribute">
 		  
 		<p class="txt-zwart">
@@ -87,7 +91,7 @@
 	<article class="bg-wit content">
 	  
 		<a href="#" class="btn-zwart back-to-overzicht">Back</a>
-		<h1 class="txt-turq txt-left">PME Shop in Shop</h1>
+		<h1 class="txt-rood txt-left">PME Shop in Shop</h1>
 		<img src="img/projects/pme-shop-in-shop.jpg" class="attribute">
 		  
 		<p class="txt-zwart">
@@ -105,10 +109,10 @@
 </section>
 
 <!-- standaard content-->
-<article class="txt-turq works">
+<article class="txt-zwart works">
 	<header>
 		<img src="img/icon-works.png" class="icon">
-		<h1>
+		<h1 class="txt-rood">
 			Works
 		</h1>
 	</header>
@@ -118,5 +122,5 @@
 		Ons passie ligt in de vorm, de kleur en uitstraling en het effect op de gebruiker.<br>
 		Edit-All huisvest een groep zeer vakbekwame mensen die hart en ziel in hun werk leggen.<br>
 	</p>
-	<a href="#" class="btn-zwart" id="work-load">Checkout works</a>
+	<a href="#" class="btn-rood" id="work-load">Checkout works</a>
 </article>
