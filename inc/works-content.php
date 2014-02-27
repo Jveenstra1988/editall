@@ -1,10 +1,10 @@
 
 <!-- Just Brands Salzburg -->
-<section class="bg-wit" id="just-brands">
-	<article class="bg-wit content">
-		<a href="#" class="btn-zwart back-to-overzicht">Back</a>
-		<h1 class="txt-rood txt-left">Just Brands Showroom Salzburg</h1>
-		<p class="txt-zwart">
+<section class="bg-grijs" id="just-brands">
+	<article class="bg-antra content">
+		<a href="#" class="btn-wit stroke back-to-overzicht">&#8592; Works checkout</a>
+		<h1 class="txt-wit txt-left">Just Brands Showroom Salzburg</h1>
+		<p class="txt-wit">
 			Voor Just Brands gaan we ook over de grenzen.
 			Wij maken showrooms zodat PME legend daar goed wordt 
 			gepresenteerd.
@@ -22,7 +22,7 @@
 	<article class="bg-wit content">
 	  
 		<a href="#" class="btn-zwart back-to-overzicht">Back</a>
-		<h1 class="txt-rood txt-left">Just Brands Showroom Salzburg</h1>
+		<h1 class="txt-wit txt-left">Just Brands Showroom Salzburg</h1>
 		<img src="img/projects/just-brands-munchen.jpg" class="attribute">
 		  
 		<p class="txt-zwart">

@@ -85,7 +85,7 @@
                 Ons passie ligt in de vorm, de kleur en uitstraling en het effect op de gebruiker.<br>
                 Edit-All huisvest een groep zeer vakbekwame mensen die hart en ziel in hun werk leggen.<br>
             </p>
-            <a href="#" class="btn-zwart" id="work-load">Checkout works</a>
+            <a href="#" class="btn-rood" id="work-load">Works Checkout &#8594;</a>
         </article>
     </div>
 </section>

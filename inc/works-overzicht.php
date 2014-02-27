@@ -2,8 +2,8 @@
 <section id="works-overzicht" class="bg-wit">
 	<article class="bg-grijs">
 		<header>
-			<a href="#" class="btn-zwart back">Back</a>
-			<h1 class="txt-rood txt-left">Checkout works</h1>
+			<a href="#" class="btn-zwart stroke back">&#8592; Works</a>
+			<h1 class="txt-rood txt-left">Checkout</h1>
 		</header>
 		
 		<a href="#" class="btn-rood stroke active" id="all">All</a>
@@ -12,7 +12,7 @@
 		<a href="#" class="btn-rood stroke" id="interiors">Interiors</a>
 		<a href="#" class="btn-rood stroke" id="designs">Designs</a>
 
-		<div id="results">
+		<div id="results" class="imageholder">
 			<div id="just-brands" class="clickable">
 				<img src="img/projects/sto-1.jpg" class="stores">
 			</div>
@@ -27,6 +27,22 @@
 			</div>
 			<div id="pme-shop" class="clickable">
 				<img src="img/projects/int-1.jpg" class="designs">
+			</div>
+
+			<div id="just-brands" class="clickable">
+				<img src="img/projects/sto-2.jpg" class="commercials">
+			</div>
+			<div id="just-brands-munchen" class="clickable">
+				<img src="img/projects/com-1.jpg" class="stores">
+			</div>
+			<div id="friends-emmen" class="clickable">
+				<img src="img/projects/sto-1.jpg" class="designs">
+			</div>
+			<div id="olli" class="clickable">
+				<img src="img/projects/int-1.jpg" class="interiors">
+			</div>
+			<div id="pme-shop" class="clickable">
+				<img src="img/projects/sto-2.jpg" class="designs">
 			</div>
 		</div>
 	</article>
