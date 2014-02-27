@@ -18,6 +18,11 @@
 
         <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 		<script type="text/javascript" src="//use.typekit.net/led7cxt.js"></script>
+
+		<!-- Font-face -->
+		<link rel="stylesheet" href="css/fonts.css" type="text/css" charset="utf-8" />
+
+		<!-- Typekit font -->
 		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 		<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBj5-QRLtxngjfwUMk_byK4EBpwIJxK6uM&sensor=false"></script>
     </head>
