@@ -94,29 +94,19 @@ a.btn-rood, a.btn-wit, a.btn-turq, a.btn-zwart, a.btn-antra {
 	transition: all 200ms ease-in;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 /* Buttons fill */
 a.btn-rood	{ color:#F6F6F6; background:#E64154; }
 a.btn-wit	{ color:#282B30; background:#F6F6F6; }
 a.btn-turq	{ color:#F6F6F6; background:#33B6B3; }
 a.btn-zwart	{ color:#F6F6F6; background:#282B30; }
 a.btn-antra	{ color:#F6F6F6; background:#404951; }
-=======
-=======
->>>>>>> 0e434066933d428edb4037b970fbed885b8bc74c
-=======
->>>>>>> 0e434066933d428edb4037b970fbed885b8bc74c
+
 /* Buttons */
 a.btn-rood	{ color:#F6F6F6; background:#E64154; border: solid 2px #E64154 }
 a.btn-wit	{ color:#282B30; background:#F6F6F6; border: solid 2px #F6F6F6 }
 a.btn-turq	{ color:#F6F6F6; background:#33B6B3; border: solid 2px #33B6B3 }
 a.btn-zwart	{ color:#F6F6F6; background:#282B30; border: solid 2px #282B30 }
 a.btn-antra	{ color:#F6F6F6; background:#404951; border: solid 2px #404951 }
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 0e434066933d428edb4037b970fbed885b8bc74c
 
 /* Buttons stroke */
 a.btn-rood  .stroke	{ border: 1px solid #F6F6F6; background:none; }
@@ -124,10 +114,6 @@ a.btn-wit   .stroke	{ border: 1px solid #282B30; background:none; }
 a.btn-turq  .stroke	{ border: 1px solid #F6F6F6; background:none; }
 a.btn-zwart .stroke	{ border: 1px solid #F6F6F6; background:none; }
 a.btn-antra .stroke	{ border: 1px solid #F6F6F6; background:none; }
-=======
->>>>>>> 0e434066933d428edb4037b970fbed885b8bc74c
-=======
->>>>>>> 0e434066933d428edb4037b970fbed885b8bc74c
 
 /* Hovers */
 a.btn-rood:hover, a.btn-rood.active		{ background:#ce3042; }
@@ -136,15 +122,12 @@ a.btn-turq:hover, a.btn-turq.active		{ background:#2ea5a4; }
 a.btn-zwart:hover, a.btn-zwart.active	{ background:#23262a; }
 a.btn-antra:hover, a.btn-antra.active	{ background:#343c42; }
 
-<<<<<<< HEAD
-=======
 /* Special Buttons */
 a.next-project {
 	float: right;
 	margin: 0;
 }
 
->>>>>>> 0e434066933d428edb4037b970fbed885b8bc74c
 /* Borders */
 .br-turg 	{ border: 1px solid #33B6B3; }
 .br-zwart 	{ border: 1px solid #282B30; }
@@ -206,8 +189,6 @@ nav ul li a.active { color: #E64154; }
 nav ul li img {
 	width: 26%;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 
 /* Images */
@@ -235,10 +216,6 @@ nav ul li img {
 //////////// MAIN CONTENT STYLES //////////
 -------------------------------------------
 */
-=======
->>>>>>> 0e434066933d428edb4037b970fbed885b8bc74c
-=======
->>>>>>> 0e434066933d428edb4037b970fbed885b8bc74c
 
 /* --- Sections --- */
 section, footer {
@@ -287,7 +264,7 @@ article span {
 */
 
 footer a {
-	color: #26B6B4
+	color: #26B6B4;
 	margin: .3em 0 !important;
 }
 

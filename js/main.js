@@ -21,9 +21,9 @@ $(document).ready(function(){
 	})
 	
 	//	Change header after scrolling-----------------------------------------
-	var home 	= 	$('#home-container').offset();
+	var home 		= 	$('#home-container').offset();
 	var profile 	= 	$('#profile-container').offset();
-	var works 	= 	$('#works-container').offset();
+	var works 		= 	$('#works-container').offset();
 	var contact 	= 	$('#contact-container').offset();
 	var distance	=	$('nav').offset().top;
 	$window 		= 	$(window);
@@ -178,20 +178,7 @@ function initialize() {
 	var marker = new google.maps.Marker({
 		position: myLatLng,
 		map: map,
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-		title: 'Hello World!',
-
-=======
 		title: 'Edit-All',
->>>>>>> 0e434066933d428edb4037b970fbed885b8bc74c
-=======
-		title: 'Edit-All',
->>>>>>> 0e434066933d428edb4037b970fbed885b8bc74c
-=======
-		title: 'Edit-All',
->>>>>>> 0e434066933d428edb4037b970fbed885b8bc74c
 		icon: image,
 		animation: google.maps.Animation.DROP
 	});
