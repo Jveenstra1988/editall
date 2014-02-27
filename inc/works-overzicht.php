@@ -6,11 +6,11 @@
 			<h1 class="txt-rood txt-left">Checkout</h1>
 		</header>
 		
-		<a href="#" class="btn-rood stroke active" id="all">All</a>
-		<a href="#" class="btn-rood stroke" id="stores">Stores</a>
-		<a href="#" class="btn-rood stroke" id="commercials">Commercials</a>
-		<a href="#" class="btn-rood stroke" id="interiors">Interiors</a>
-		<a href="#" class="btn-rood stroke" id="designs">Designs</a>
+		<a href="#" class="btn-wit stroke active" id="all">All</a>
+		<a href="#" class="btn-wit stroke" id="stores">Stores</a>
+		<a href="#" class="btn-wit stroke" id="commercials">Commercials</a>
+		<a href="#" class="btn-wit stroke" id="interiors">Interiors</a>
+		<a href="#" class="btn-wit stroke" id="designs">Designs</a>
 
 		<div id="results" class="imageholder">
 			<div id="just-brands" class="clickable">
