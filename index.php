@@ -68,9 +68,9 @@
 </section>
 
 <!--Content - WORKS-->
-<section id="works-container" class="bg-rood">
+<section id="works-container" class="bg-wit">
     <div id="dynamic-container">
-        <article class="txt-wit works">
+        <article class="txt-turq works">
             <header>
                 <img src="img/icon-works.png" class="icon">
                 <h1>

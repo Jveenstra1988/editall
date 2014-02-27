@@ -80,13 +80,12 @@ p, ul, li {
 
 /* Buttons Overall */
 a.btn-rood, a.btn-wit, a.btn-turq, a.btn-zwart, a.btn-antra {
-	text-transform:uppercase; 
-	font-weight:bold; 
+	text-transform: uppercase; 
+	font-weight: bold; 
 	border-radius: .3em; 
 	padding: .3em .5em .3em .5em;
-	margin: 3em 0 3em 0;
 	display: inline-block;
-/* 	float: right; */
+	
 	-webkit-transition: all 200ms ease-in;
 	-moz-transition: all 200ms ease-in;
 	-ms-transition: all 200ms ease-in;
@@ -121,12 +120,6 @@ a.btn-wit:hover, a.btn-wit.active		{ background:#e4e4e4; }
 a.btn-turq:hover, a.btn-turq.active		{ background:#2ea5a4; }
 a.btn-zwart:hover, a.btn-zwart.active	{ background:#23262a; }
 a.btn-antra:hover, a.btn-antra.active	{ background:#343c42; }
-
-/* Special Buttons */
-a.next-project {
-	float: right;
-	margin: 0;
-}
 
 /* Borders */
 .br-turg 	{ border: 1px solid #33B6B3; }
@@ -173,9 +166,9 @@ nav ul li {
 }
 
 nav ul li a {
-	   text-shadow: 2px 1px 0px #0c0d0d;
+	text-shadow: 2px 1px 0px #0c0d0d;
    
-   -webkit-transition: all 300ms ease-in;
+    -webkit-transition: all 300ms ease-in;
     -moz-transition: all 300ms ease-in;
     -ms-transition: all 300ms ease-in;
     -o-transition: all 300ms ease-in;
@@ -186,9 +179,7 @@ nav ul li a:hover { color: #E64154; }
 
 nav ul li a.active { color: #E64154; }
 
-nav ul li img {
-	width: 26%;
-}
+nav ul li img { width: 26%; }
 
 
 /* Images */
@@ -248,7 +239,7 @@ article header img {
 }
 
 article p {
-	margin-top: 1em;
+	margin: 1em 0;
 }
 
 article span {
@@ -308,37 +299,36 @@ section.clear article div img, section.clear article div p {
 }
 
 #home-container #stores {
-	background: #282B30 url(../img/header-1.jpg) center center no-repeat;
+	background: url(../img/header-1.jpg) center center no-repeat;
 	background-size: cover;
 }
 
 #home-container #commercials {
-	background: #282B30 url(../img/header-2.jpg) center center no-repeat;
+	background: url(../img/header-2.jpg) center center no-repeat;
 	background-size: cover;
 }
 
 #home-container #interiors {
-	background: #282B30 url(../img/header-3.jpg) center center no-repeat;
+	background: url(../img/header-3.jpg) center center no-repeat;
 	background-size: cover;
 }
 
 #home-container #designs {
-	background: #282B30 url(../img/header-4.jpg) center center no-repeat;
+	background: url(../img/header-4.jpg) center center no-repeat;
 	background-size: cover;
 }
 
 #profile-container {
-	background: #404951 url(../img/profile-1.jpg) center center no-repeat;
+	background: url(../img/profile-1.jpg) center center no-repeat;
 	background-size: cover;
 }
 
 #works-container {
-	background: #E64154;
 	background-size: cover;
 }
 
 #contact-container {
-	background: #33B6B3 url(../img/contact-1.png) center center no-repeat;
+	background: url(../img/contact-1.png) center center no-repeat;
 	background-size: cover;
 }
 
