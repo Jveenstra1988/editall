@@ -179,8 +179,12 @@ function initialize() {
 		position: myLatLng,
 		map: map,
 <<<<<<< HEAD
+<<<<<<< HEAD
 		title: 'Hello World!',
 
+=======
+		title: 'Edit-All',
+>>>>>>> 0e434066933d428edb4037b970fbed885b8bc74c
 =======
 		title: 'Edit-All',
 >>>>>>> 0e434066933d428edb4037b970fbed885b8bc74c

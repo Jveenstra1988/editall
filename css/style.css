@@ -2,6 +2,11 @@
 
 
 /* \\\\\\\\\\\\\\ TYPOGRAFIE ///////// */
+/*
+-------------------------------------------
+//////////// TYPOGRAFIE STYLES ////////////
+-------------------------------------------
+*/
 
 html, body {
 	font-family: 	"milibus",sans-serif;
@@ -32,6 +37,8 @@ a {
 .bg-zwart a	{ color: #F6F6F6; }
 .bg-antra a	{ color: #F6F6F6; }
 
+/* --- Overall Heading --- */
+
 h1, h2, h3, h4, h5, p, ul, li, sub, sup, a, 
 article, section, aside, strong {
 	margin: 0 0 0 0;
@@ -53,14 +60,26 @@ p, ul, li {
 }
 
 /* Tekstkleuren */
+/* --- Tekstkleuren --- */
 .txt-rood	{ color: #E64154; }
 .txt-wit	{ color: #F6F6F6; }
 .txt-turq	{ color: #33B6B3; }
 .txt-zwart	{ color: #282B30; }
 .txt-antra	{ color: #404951; }
 
+.txt-left  {text-align: left;}
+.txt-right {text-align: right;}
+
+p, ul, li {
+	font-weight: 300;
+}
 
 /* \\\\\\\\\\\\\\ ELEMENTEN ///////// */
+/*
+-------------------------------------------
+//////////// COLORSTYLES ////////////
+-------------------------------------------
+*/
 
 /* Background kleuren */
 .bg-rood	{ background: #E64154; }
@@ -79,14 +98,42 @@ a.btn-rood, a.btn-wit, a.btn-turq, a.btn-zwart, a.btn-antra {
 	margin: 3em 0 3em 0;
 	display: inline-block;
 /* 	float: right; */
+	-webkit-transition: all 200ms ease-in;
+	-moz-transition: all 200ms ease-in;
+	-ms-transition: all 200ms ease-in;
+	-o-transition: all 200ms ease-in;
+	transition: all 200ms ease-in;
 }
 
 /* Buttons */
+<<<<<<< HEAD
+<<<<<<< HEAD
+/* Buttons fill */
 a.btn-rood	{ color:#F6F6F6; background:#E64154; }
 a.btn-wit	{ color:#282B30; background:#F6F6F6; }
 a.btn-turq	{ color:#F6F6F6; background:#33B6B3; }
 a.btn-zwart	{ color:#F6F6F6; background:#282B30; }
 a.btn-antra	{ color:#F6F6F6; background:#404951; }
+=======
+=======
+>>>>>>> 0e434066933d428edb4037b970fbed885b8bc74c
+/* Buttons */
+a.btn-rood	{ color:#F6F6F6; background:#E64154; border: solid 2px #E64154 }
+a.btn-wit	{ color:#282B30; background:#F6F6F6; border: solid 2px #F6F6F6 }
+a.btn-turq	{ color:#F6F6F6; background:#33B6B3; border: solid 2px #33B6B3 }
+a.btn-zwart	{ color:#F6F6F6; background:#282B30; border: solid 2px #282B30 }
+a.btn-antra	{ color:#F6F6F6; background:#404951; border: solid 2px #404951 }
+<<<<<<< HEAD
+>>>>>>> 0e434066933d428edb4037b970fbed885b8bc74c
+
+/* Buttons stroke */
+a.btn-rood  .stroke	{ border: 1px solid #F6F6F6; background:none; }
+a.btn-wit   .stroke	{ border: 1px solid #282B30; background:none; }
+a.btn-turq  .stroke	{ border: 1px solid #F6F6F6; background:none; }
+a.btn-zwart .stroke	{ border: 1px solid #F6F6F6; background:none; }
+a.btn-antra .stroke	{ border: 1px solid #F6F6F6; background:none; }
+=======
+>>>>>>> 0e434066933d428edb4037b970fbed885b8bc74c
 
 /* Hovers */
 a.btn-rood:hover, a.btn-rood.active		{ background:#ce3042; }
@@ -95,8 +142,15 @@ a.btn-turq:hover, a.btn-turq.active		{ background:#2ea5a4; }
 a.btn-zwart:hover, a.btn-zwart.active	{ background:#23262a; }
 a.btn-antra:hover, a.btn-antra.active	{ background:#343c42; }
 
+<<<<<<< HEAD
+=======
 /* Special Buttons */
+a.next-project {
+	float: right;
+	margin: 0;
+}
 
+>>>>>>> 0e434066933d428edb4037b970fbed885b8bc74c
 /* Borders */
 .br-turg 	{ border: 1px solid #33B6B3; }
 .br-zwart 	{ border: 1px solid #282B30; }
@@ -120,6 +174,11 @@ a.btn-antra:hover, a.btn-antra.active	{ background:#343c42; }
 	left: 47%;
 	width: 6%;
 }
+/*
+-------------------------------------------
+//////////// NAVIGATIE STYLES ////////////
+-------------------------------------------
+*/
 
 /* Navigatie */
 nav {
@@ -170,8 +229,41 @@ nav ul li a:hover { color: #E64154; }
 nav ul li a.active { color: #E64154; }
 
 nav ul li img { width: 20%; }
+nav ul li img {
+	width: 26%;
+}
+<<<<<<< HEAD
+
+
+/* Images */
+.logo {
+	text-align: center;
+	z-index: 999;
+	position: fixed;
+	left: 50%;
+	margin-left: -12.5%;
+	top: 250px;
+	width: 25%;
+	z-index: 9;
+}
+
+.header-icon {
+	position: fixed;
+	top: 130px;
+	left: 47%;
+	width: 6%;
+}
+
+
+/*
+-------------------------------------------
+//////////// MAIN CONTENT STYLES //////////
+-------------------------------------------
+*/
+=======
 
 /* Content */
+/* --- Sections --- */
 section, footer {
 	width: 100%;
 	height: 100%;
@@ -183,9 +275,11 @@ section, footer {
 footer a {
 	margin: .3em 0 !important;
 }
+section.clear { height:auto;}
 
 section.clear	{ height:auto;}
 
+/* --- Articles --- */
 article {
 	width: 82%;
 	padding: 4%;
@@ -214,10 +308,28 @@ article span {
 }
 
 /* Maps */
+/*
+-------------------------------------------
+//////////// FOOTER STYLES ////////////
+-------------------------------------------
+*/
+
+footer a {
+	color: #26B6B4
+	margin: .3em 0 !important;
+}
+
+/*
+-------------------------------------------
+//////////// GOOGLE MAPS STYLE ////////////
+-------------------------------------------
+*/
+
 #map-canvas {
 	position: relative;
 	width: 100%;	
 	height: 85%;
+	height: 60%;
 	overflow: hidden;
 	z-index: 999;
 }
@@ -238,6 +350,11 @@ section.clear article div img, section.clear article div p {
 
 
 /* \\\\\\\\\\\\\\ SECTION ID'S ///////// */
+/*
+-------------------------------------------
+//////////// SECTION ID'S ////////////
+-------------------------------------------
+*/
 
 #home-container {
 	border: none;
@@ -279,6 +396,12 @@ section.clear article div img, section.clear article div p {
 }
 
 /* \\\\\\\\\\\\\\ DYNAMISCHE CONTENT ///////// */
+/*
+-------------------------------------------
+//////////// DYNAMISCHE CONTENT ///////////
+-------------------------------------------
+*/
+
 #works-overzicht img {
 	display: block;
 	margin: 1px;
@@ -322,6 +445,11 @@ section.clear article div img, section.clear article div p {
 }
 
 /* \\\\\\\\\\\\\\ MEDIAQUERIES ///////// */
+/*
+-------------------------------------------
+//////////// MEDIQUERIES ///////////
+-------------------------------------------
+*/
 
 @media screen and (min-width: 1400px) {
 	article {
