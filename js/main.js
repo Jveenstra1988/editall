@@ -314,7 +314,7 @@ $(document).on('click','#results div', function() {
 		nxt();
 		$('#dynamic-container').animate({ left : '0' }, 300);
 	});
-	$('#works-container').css({ background: '#333'});
+	$('#works-container').css({ background: '#e1e1e1'});
 	return false;
 });
 
@@ -325,7 +325,7 @@ $(document).on('click','.back-to-overzicht', function(){
 		$('#dynamic-container').css({ left : '-100%' });
 		$('#dynamic-container').animate({ left : '0' }, 300);
 	});
-	$('#works-container').css({ background: '#e1e1e1'});
+	$('#works-container').css({ background: '#f6f6f6'});
 	return false;
 })
 
