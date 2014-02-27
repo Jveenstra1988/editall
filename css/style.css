@@ -1,7 +1,6 @@
 /* Stylesheet Edit All *** Gemaakt door Jesse en Jeroen *** */
 
 
-/* \\\\\\\\\\\\\\ TYPOGRAFIE ///////// */
 /*
 -------------------------------------------
 //////////// TYPOGRAFIE STYLES ////////////
@@ -45,21 +44,12 @@ article, section, aside, strong {
 	padding: 0 0 0 0;
 }
 
-/* Overall Heading */
 h1, h2, h3, h4, h5, nav {
 	text-transform: uppercase;
 	font-weight: 700;
 	text-align: center;
 }
 
-.txt-left  {text-align: left;}
-.txt-right {text-align: right;}
-
-p, ul, li {
-	font-weight: 300;
-}
-
-/* Tekstkleuren */
 /* --- Tekstkleuren --- */
 .txt-rood	{ color: #E64154; }
 .txt-wit	{ color: #F6F6F6; }
@@ -74,7 +64,6 @@ p, ul, li {
 	font-weight: 300;
 }
 
-/* \\\\\\\\\\\\\\ ELEMENTEN ///////// */
 /*
 -------------------------------------------
 //////////// COLORSTYLES ////////////
@@ -105,7 +94,6 @@ a.btn-rood, a.btn-wit, a.btn-turq, a.btn-zwart, a.btn-antra {
 	transition: all 200ms ease-in;
 }
 
-/* Buttons */
 <<<<<<< HEAD
 <<<<<<< HEAD
 /* Buttons fill */
@@ -156,31 +144,12 @@ a.next-project {
 .br-zwart 	{ border: 1px solid #282B30; }
 .br-antra 	{ border: 1px solid #404951; }
 
-/* Images */
-.logo {
-	text-align: center;
-	z-index: 999;
-	position: fixed;
-	left: 50%;
-	margin-left: -12.5%;
-	top: 250px;
-	width: 25%;
-	z-index: 9;
-}
-
-.header-icon {
-	position: fixed;
-	top: 130px;
-	left: 47%;
-	width: 6%;
-}
 /*
 -------------------------------------------
 //////////// NAVIGATIE STYLES ////////////
 -------------------------------------------
 */
 
-/* Navigatie */
 nav {
 	position: fixed;
 	width: 100%;
@@ -228,7 +197,6 @@ nav ul li a:hover { color: #E64154; }
 
 nav ul li a.active { color: #E64154; }
 
-nav ul li img { width: 20%; }
 nav ul li img {
 	width: 26%;
 }
@@ -261,8 +229,8 @@ nav ul li img {
 -------------------------------------------
 */
 =======
+>>>>>>> 0e434066933d428edb4037b970fbed885b8bc74c
 
-/* Content */
 /* --- Sections --- */
 section, footer {
 	width: 100%;
@@ -272,12 +240,8 @@ section, footer {
 	z-index: 9;
 }
 
-footer a {
-	margin: .3em 0 !important;
-}
 section.clear { height:auto;}
 
-section.clear	{ height:auto;}
 
 /* --- Articles --- */
 article {
@@ -307,7 +271,6 @@ article span {
 	display: inline-block;
 }
 
-/* Maps */
 /*
 -------------------------------------------
 //////////// FOOTER STYLES ////////////
@@ -328,7 +291,6 @@ footer a {
 #map-canvas {
 	position: relative;
 	width: 100%;	
-	height: 85%;
 	height: 60%;
 	overflow: hidden;
 	z-index: 999;
@@ -349,7 +311,6 @@ section.clear article div img, section.clear article div p {
 }
 
 
-/* \\\\\\\\\\\\\\ SECTION ID'S ///////// */
 /*
 -------------------------------------------
 //////////// SECTION ID'S ////////////
@@ -395,7 +356,6 @@ section.clear article div img, section.clear article div p {
 	background-size: cover;
 }
 
-/* \\\\\\\\\\\\\\ DYNAMISCHE CONTENT ///////// */
 /*
 -------------------------------------------
 //////////// DYNAMISCHE CONTENT ///////////
@@ -444,7 +404,6 @@ section.clear article div img, section.clear article div p {
 	width: 19%;
 }
 
-/* \\\\\\\\\\\\\\ MEDIAQUERIES ///////// */
 /*
 -------------------------------------------
 //////////// MEDIQUERIES ///////////
