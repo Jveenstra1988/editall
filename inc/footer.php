@@ -3,7 +3,7 @@
 		    <div id="map-canvas"></div>
 				<!--Content - DIVIDER-->
 				<section id="container" class="bg-wit clear">
-					<h1 class="txt-antra">Get in touch &darr;</h1>
+					<h1 class="txt-antra">So, we edit-all</h1>
 					<article class="txt-antra">
 						<div>
 							<img src="img/icon-place.png" class="icon">
@@ -17,8 +17,8 @@
 							<img src="img/icon-phone.png" class="icon">
 							<p>
 								Bel ons<br />
-								<a href="tel:+316-51525382" class="btn-turq"> +316-51525382</a><br />
-								<a href="tel:+316-50602207" class="btn-turq"> +316-50602207</a><br />
+								<a href="tel:+316-51525382">+31(0)6-515 253 82</a><br />
+								<a href="tel:+316-50602207">+31(0)6-506 022 07</a><br />
 								
 							</p>
 						</div>
@@ -26,7 +26,7 @@
 							<img src="img/icon-email.png" class="icon">
 							<p>
 								E-mail ons<br />
-								<a href="mailto:info@edit-all.nl" class="btn-rood"> info@edit-all.nl</a>            
+								<a href="mailto:info@edit-all.nl">info@edit-all.nl</a>            
 							</p>
 						</div>
 						<span class="bg-turq"></span>
@@ -34,16 +34,16 @@
 							<img src="img/pic-ruben.png" class="icon">
 							<p>
 								<strong>Ruben Rosen</strong><br />
-								<a href="mailto:ruben@edit-all.nl" class="btn-rood"> ruben@edit-all.nl</a> <br />
-								<a href="tel:+316-51525382" class="btn-turq"> +316-51525382</a><br />           
+								<a href="mailto:ruben@edit-all.nl">ruben@edit-all.nl</a> <br />
+								<a href="tel:+316-51525382">+31(0)6-515 253 82</a><br />           
 							</p>
 						</div>
 						<div>
 							<img src="img/pic-rob.png" class="icon">
 							<p>
 								<strong>Rob Valent</strong><br />
-								<a href="mailto:rob@edit-all.nl" class="btn-rood"> rob@edit-all.nl</a><br />
-								<a href="tel:+316-50602207" class="btn-turq"> +316-50602207</a><br />           
+								<a href="mailto:rob@edit-all.nl">rob@edit-all.nl</a><br />
+								<a href="tel:+316-50602207">+31(0)6-506 022 07</a><br />           
 							</p>
 						</div>
 					</article>
