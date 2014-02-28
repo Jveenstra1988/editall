@@ -1,6 +1,6 @@
 <!-- Project 1 -->
 <section id="works-overzicht" class="bg-wit">
-	<article class="bg-grijs">
+	<article class="bg-grijs images">
 		<header>
 			<a href="#" class="btn-zwart stroke back">&#8592; Works</a>
 			<h1 class="txt-rood txt-left">Checkout</h1>
