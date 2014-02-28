@@ -13,39 +13,57 @@
 		<a href="#" class="btn-wit stroke" id="designs">Designs</a>
 
 		<div id="results" class="imageholder">
-			<div id="just-brands" class="clickable">
-				<img src="img/projects/sto-1.jpg" class="stores">
+			<div class="clickable stores">
+				<h3 class="overlay-txt" id="just-brands">Just-Brands Munchen</h3>
+				<img src="img/projects/sto-1.jpg" >
+				<div class="overlay" id="just-brands">
+				</div>
 			</div>
-			<div id="just-brands-munchen" class="clickable">
-				<img src="img/projects/com-1.jpg" class="commercials">
+			<div class="clickable commercials">
+				<h3 class="overlay-txt" id="just-brands-munchen">Just-Brands Munchen</h3>
+				<img src="img/projects/com-1.jpg" >
+				<div class="overlay" id="just-brands-munchen"></div>
 			</div>
-			<div id="friends-emmen" class="clickable">
-				<img src="img/projects/sto-2.jpg" class="interiors">
+			<div class="clickable interiors">
+				<h3 class="overlay-txt" id="friends-emmen">Just-Brands Munchen</h3>
+				<img src="img/projects/sto-2.jpg" >
+				<div class="overlay" id="friends-emmen"></div>
 			</div>
-			<div id="olli" class="clickable">
-				<img src="img/projects/sto-3.jpg" class="stores">
-				<span>
-					<h3 class="txt-wit">Olli</h3>
-				</span>
+			<div class="clickable stores">
+				<h3 class="overlay-txt" id="olli">Just-Brands Munchen</h3>
+				<img src="img/projects/sto-3.jpg" >
+				<div class="overlay" id="olli"></div>
 			</div>
-			<div id="pme-shop" class="clickable">
-				<img src="img/projects/int-1.jpg" class="designs">
+			<div class="clickable designs">
+				<h3 class="overlay-txt" id="pme-hop">Just-Brands Munchen</h3>
+				<img src="img/projects/int-1.jpg" >
+				<div class="overlay" id="pme-hop"></div>
 			</div>
 
-			<div id="just-brands" class="clickable">
-				<img src="img/projects/sto-2.jpg" class="commercials">
+			<div class="clickable commercials">
+				<h3 class="overlay-txt" id="just-brands">Just-Brands Munchen</h3>
+				<img src="img/projects/sto-2.jpg" >
+				<div class="overlay" id="just-brands"></div>
 			</div>
-			<div id="just-brands-munchen" class="clickable">
-				<img src="img/projects/com-1.jpg" class="stores">
+			<div class="clickable stores">
+				<h3 class="overlay-txt" id="just-brands-munchen">Just-Brands Munchen</h3>
+				<img src="img/projects/com-1.jpg" >
+				<div class="overlay" id="just-brands-munchen"></div>
 			</div>
-			<div id="friends-emmen" class="clickable">
-				<img src="img/projects/sto-1.jpg" class="designs">
+			<div class="clickable designs">
+				<h3 class="overlay-txt" id="friends-emmen">Just-Brands Munchen</h3>
+				<img src="img/projects/sto-1.jpg" >
+				<div class="overlay" id="friends-emmen"></div>
 			</div>
-			<div id="olli" class="clickable">
-				<img src="img/projects/int-1.jpg" class="interiors">
+			<div class="clickable interiors">
+				<h3 class="overlay-txt" id="olli">Just-Brands Munchen</h3>
+				<img src="img/projects/int-1.jpg" >
+				<div class="overlay" id="olli"></div>
 			</div>
-			<div id="pme-shop" class="clickable">
-				<img src="img/projects/sto-2.jpg" class="designs">
+			<div class="clickable designs">
+				<h3 class="overlay-txt" id="pme-shop">Just-Brands Munchen</h3>
+				<img src="img/projects/sto-2.jpg" >
+				<div class="overlay" id="pme-shop"></div>
 			</div>
 		</div>
 	</article>

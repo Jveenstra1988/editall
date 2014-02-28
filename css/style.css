@@ -380,15 +380,12 @@ section.clear article div img, section.clear article div p {
 	width: 100%;
 }
 
-#works-overzicht img:hover .overlay {
-	background: rgba(0,0,0,.1);
-}
-
 #dynamic-container, #dynamic-container-profile {
 	position: relative;
 	height: 100%;
 }
 
+/* Projecten content */
 #dynamic-container article.content {
 /* 	overflow-y: scroll; */
 	height: 100%;
@@ -416,11 +413,61 @@ section.clear article div img, section.clear article div p {
 	margin: 1em 1em 0 0;
 }
 
+/* Projecten overzicht */
 #dynamic-container .clickable {
 	cursor: pointer;
 	display: inline-block;
 	width: 19%;
 	margin: 1em 0;
+	position: relative;
+}
+
+#dynamic-container .clickable .overlay {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	font-family: 'tahoma';
+	font-size: 15px;
+	color: white;
+	opacity: 0;
+	filter: alpha(opacity=0);
+	z-index: 99;
+	-webkit-transition: all 200ms ease-in;
+	-moz-transition: all 200ms ease-in;
+	-ms-transition: all 200ms ease-in;
+	-o-transition: all 200ms ease-in;
+	transition: all 200ms ease-in;
+}
+
+#dynamic-container .clickable:hover .overlay {
+	opacity: .8;
+	filter: alpha(opacity=60);
+}
+
+#dynamic-container .clickable:hover .overlay-txt {
+	border-top: 2px solid #E64154;
+	border-bottom: 2px solid #E64154;
+	visibility: visible;
+	margin-top: 23%;
+}
+
+#dynamic-container .clickable .overlay-txt {
+	position: absolute;
+	margin-top: 21%;
+	border-top: 0px solid #E64154;
+	border-bottom: 0px solid #E64154;
+	-webkit-transition: all 200ms ease-in;
+	-moz-transition: all 200ms ease-in;
+	-ms-transition: all 200ms ease-in;
+	-o-transition: all 200ms ease-in;
+	transition: all 200ms ease-in;
+	z-index: 999;
+	width: 100%;
+	visibility: hidden;
+	color: #f6f6f6;
 }
 
 #dynamic-container .clickable span {
@@ -430,12 +477,6 @@ section.clear article div img, section.clear article div p {
 	height: 100%;
 	margin-top: -1px;
 	border-radius: 3px;
-}
-
-#dynamic-container .clickable:hover span,
-#dynamic-container .clickable:hover span h3 {
-	background: #f6f6f6;
-	color: #303840;
 }
 
 /*

@@ -264,7 +264,7 @@ $(document).on('click','.back', function(){
 
 // Filter different projects
 $(document).on('click','#all', function() {
-	$('#results img').fadeTo( "slow" , 1);
+	$('#results .clickable').fadeTo( "slow" , 1);
 	
 	$('#works-overzicht article a').removeClass('active');
 	$(this).addClass('active');
@@ -272,8 +272,8 @@ $(document).on('click','#all', function() {
 });
 
 $(document).on('click','#stores', function() {
-	$('#results img').fadeTo( 200 , 0.1);
-	$('#results img').filter('.stores').fadeTo( 200 , 1);
+	$('#results .clickable').fadeTo( 200 , 0.1);
+	$('#results .clickable').filter('.stores').fadeTo( 200 , 1);
 	
 	$('#works-overzicht article a').removeClass('active');
 	$(this).addClass('active');
@@ -281,8 +281,8 @@ $(document).on('click','#stores', function() {
 });
 
 $(document).on('click','#commercials', function() {
-	$('#results img').fadeTo( 200 , 0.1);
-	$('#results img').filter('.commercials').fadeTo( 200 , 1);
+	$('#results .clickable').fadeTo( 200 , 0.1);
+	$('#results .clickable').filter('.commercials').fadeTo( 200 , 1);
 	
 	$('#works-overzicht article a').removeClass('active');
 	$(this).addClass('active');
@@ -290,8 +290,8 @@ $(document).on('click','#commercials', function() {
 });
 
 $(document).on('click','#interiors', function() {
-	$('#results img').fadeTo( 200 , 0.1);
-	$('#results img').filter('.interiors').fadeTo( 200 , 1);
+	$('#results .clickable').fadeTo( 200 , 0.1);
+	$('#results .clickable').filter('.interiors').fadeTo( 200 , 1);
 	
 	$('#works-overzicht article a').removeClass('active');
 	$(this).addClass('active');
@@ -299,8 +299,8 @@ $(document).on('click','#interiors', function() {
 });
 
 $(document).on('click','#designs', function() {
-	$('#results img').fadeTo( 200 , 0.1);
-	$('#results img').filter('.designs').fadeTo( 200 , 1);
+	$('#results .clickable').fadeTo( 200 , 0.1);
+	$('#results .clickable').filter('.designs').fadeTo( 200 , 1);
 	
 	$('#works-overzicht article a').removeClass('active');
 	$(this).addClass('active');
@@ -308,7 +308,7 @@ $(document).on('click','#designs', function() {
 });
 
 // Load project information
-$(document).on('click','#results div', function() {
+$(document).on('click','#results div, .overlay-txt', function() {
 	var navClass = $(this).attr("id");
 	$('#works-container').css({ background: '#e1e1e1'});
 	$('#dynamic-container').animate({ left : '-100%' }, 300).queue(function( nxt ) {
