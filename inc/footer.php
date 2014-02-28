@@ -3,7 +3,10 @@
 		    <div id="map-canvas"></div>
 				<!--Content - DIVIDER-->
 				<section id="container" class="bg-wit clear">
+<<<<<<< HEAD
 					<!--<h1 class="txt-antra">So, we edit-all</h1>-->
+=======
+>>>>>>> a0c931455970cea1528dda9430d7366f01d93b81
 					<article class="txt-antra">
 						<div>
 							<img src="img/icon-place.png" class="icon">
@@ -47,6 +50,7 @@
 							</p>
 						</div>-->
 					</article>
+										<h1 class="txt-antra">So, we edit-all</h1>
 				</section>
 		</footer>
 		
