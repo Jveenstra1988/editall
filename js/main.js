@@ -248,10 +248,14 @@ $(document).on('click','#work-load', function() {
 	return false;
 });
 
+// Load original content
 $(document).on('click','.back', function(){
+	// change background color of main container (in dept effect)
+	$('#works-container').css({ background: '#f6f6f6'});
     $('#dynamic-container').animate({ left : '100%' }, 300).queue(function( nxt ) {
 		$(this).load('inc/works-content.php .works');
 		nxt();
+		
 		$('#dynamic-container').css({ left : '-100%' });
 		$('#dynamic-container').animate({ left : '0' }, 300);
 	});
@@ -306,7 +310,7 @@ $(document).on('click','#designs', function() {
 // Load project information
 $(document).on('click','#results div', function() {
 	var navClass = $(this).attr("id");
-	
+	$('#works-container').css({ background: '#e1e1e1'});
 	$('#dynamic-container').animate({ left : '-100%' }, 300).queue(function( nxt ) {
 		$(this).css({ left : '100%' });
 		$(this).load('inc/works-content.php' + ' #' + navClass, function(){			
@@ -325,7 +329,6 @@ $(document).on('click','.back-to-overzicht', function(){
 		$('#dynamic-container').css({ left : '-100%' });
 		$('#dynamic-container').animate({ left : '0' }, 300);
 	});
-	$('#works-container').css({ background: '#f6f6f6'});
 	return false;
 })
 
@@ -340,7 +343,7 @@ $(document).on('click','#how-we-work', function() {
 	return false;
 });
 
-$(document).on('click','.back', function(){
+$(document).on('click','.back-profile', function(){
     $('#dynamic-container-profile').animate({ left : '100%' }, 300).queue(function( nxt ) {
 		$(this).load('inc/works-content.php .works');
 		nxt();

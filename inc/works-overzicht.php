@@ -24,6 +24,9 @@
 			</div>
 			<div id="olli" class="clickable">
 				<img src="img/projects/sto-3.jpg" class="stores">
+				<span>
+					<h3 class="txt-wit">Olli</h3>
+				</span>
 			</div>
 			<div id="pme-shop" class="clickable">
 				<img src="img/projects/int-1.jpg" class="designs">

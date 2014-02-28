@@ -352,16 +352,8 @@ section.clear article div img, section.clear article div p {
 }
 
 #works-container {
-	background-size: cover;}
-
-/*
-.swipeding {
-	height: 20px;
-	width: 100%;
-	background: #d1d1d1;
-	display: block;
+	background-size: cover;
 }
-*/
 
 #contact-container {
 	background: url(../img/contact-1.png) center center no-repeat;
@@ -386,6 +378,10 @@ section.clear article div img, section.clear article div p {
 	display: block;
 	margin: 1px;
 	width: 100%;
+}
+
+#works-overzicht img:hover .overlay {
+	background: rgba(0,0,0,.1);
 }
 
 #dynamic-container, #dynamic-container-profile {
@@ -420,10 +416,26 @@ section.clear article div img, section.clear article div p {
 	margin: 1em 1em 0 0;
 }
 
-.clickable {
+#dynamic-container .clickable {
 	cursor: pointer;
 	display: inline-block;
 	width: 19%;
+	margin: 1em 0;
+}
+
+#dynamic-container .clickable span {
+	border-left: 1px solid white;
+	border-right: 1px solid white;
+	border-bottom: 1px solid white;
+	height: 100%;
+	margin-top: -1px;
+	border-radius: 3px;
+}
+
+#dynamic-container .clickable:hover span,
+#dynamic-container .clickable:hover span h3 {
+	background: #f6f6f6;
+	color: #303840;
 }
 
 /*
