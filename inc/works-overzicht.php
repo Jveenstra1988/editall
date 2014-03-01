@@ -32,6 +32,18 @@
 				<div class="overlay" id="jb-salzburg"></div>
 			</div>
 
+			<div class="clickable interiors">
+				<h3 class="overlay-txt" id="dejutter-almere">Strandbrasserie de Jutter</h3>
+				<img src="img/works/int/jutter1.jpg" >
+				<div class="overlay" id="dejutter-almere"></div>
+			</div>
+
+			<div class="clickable commercials">
+				<h3 class="overlay-txt" id="the-switch">The Switch | UPC</h3>
+				<img src="img/works/com/switch1.jpg" >
+				<div class="overlay" id="the-switch"></div>
+			</div>
+
 		</div>
 	</article>
 </section>

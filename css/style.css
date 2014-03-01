@@ -153,6 +153,13 @@ a.btn-antra.stroke:hover, a.btn-antra.stroke.active	{ border-color: #404951;}
 	display: block;
 }
 
+.next-project {
+	float: right;
+	margin-right: 30px;
+	margin-top: 40px;
+	display: block;
+}
+
 /*
 -------------------------------------------
 //////////// NAVIGATIE STYLES ////////////
@@ -452,7 +459,9 @@ section.clear article div p {
 
 #dynamic-container article.content p {
 	display: inline-block;
-	width: 45%;
+	width: 46%;
+	vertical-align: top;
+	padding: .4em;
 }
 
 #dynamic-container article.content img.attribute {
@@ -469,7 +478,6 @@ section.clear article div p {
 	margin: 1em 1em 0 0;
 
 	line-height: 1 !important;
-	font-size: .5em;
 	letter-spacing: 1 !important;
 	margin-top: 1.5em;
 }
@@ -490,7 +498,8 @@ section.clear article div p {
 	width: 100%;
 	height: 100%;
 	background-color: #1e1f22; 
-	font-size: .9em;
+	font-size: .5em;
+	letter-spacing: normal;
 	color: #767676;
 	opacity: 0;
 	filter: alpha(opacity=0);
@@ -505,6 +514,7 @@ section.clear article div p {
 #dynamic-container .clickable:hover .overlay {
 	opacity: .8;
 	filter: alpha(opacity=60);
+	font-size: .5em;
 }
 
 #dynamic-container .clickable:hover .overlay-txt {
@@ -624,8 +634,30 @@ section.clear article div p {
 
 @media screen and (max-width: 550px) {
 
+	article.content h1, article.images h1 {
+		display: block;
+		margin-top: 1.5em;
+		line-height: 1;
+	}
+
 	article {
 		width: 80%;
+	}
+	
+	/* Projecten content */
+	#dynamic-container article.content img.attribute,
+	#dynamic-container article.content img.img-stack {
+		width: 45%;
+		margin-right: .5em;
+	}
+	
+	#dynamic-container .clickable {
+		width: 40%;
+	}
+	
+	#dynamic-container article.content p {
+		width: 90%;
+		display: block;
 	}
 	
 	/* Landing Logo */
@@ -660,5 +692,15 @@ section.clear article div p {
 		padding-left: 2em;
 		float: none;
 	}
+	
+	/* buttons */
+	.back, .back-to-overzicht, .next-project {
+			margin-left: 0px;
+			margin-right: 0px;
+			margin-top: 10px;
+			display: block;
+			width: 45%;
+	}
+	
 }
 
