@@ -90,28 +90,28 @@ $(document).ready(function(){
 	$("#home").click(function() {
 		$('html, body').animate({
 		    scrollTop: $("#home-container").offset().top
-		}, 600);
+		}, 1400);
 		return false
 	});
 	
 	$("#profile").click(function() {
 		$('html, body').animate({
 		    scrollTop: $("#profile-container").offset().top -65
-		}, 600);
+		}, 1400);
 	    return false
 	});
 	
 	$("#works").click(function() {
 		$('html, body').animate({
 		    scrollTop: $("#works-container").offset().top -65
-		}, 600);
+		}, 1400);
 		return false
 	});
 	
 	$("#contact").click(function() {
 		$('html, body').animate({
 		    scrollTop: $("#contact-container").offset().top -65
-		}, 600);
+		}, 1400);
 		return false
 	});
 })
@@ -310,7 +310,7 @@ $(document).on('click','#designs', function() {
 // Load project information
 $(document).on('click','#results div, .overlay-txt', function() {
 	var navClass = $(this).attr("id");
-	$('#works-container').css({ background: '#e1e1e1'});
+	$('#works-container').css({ background: '#e64154'});
 	$('#dynamic-container').animate({ left : '-100%' }, 300).queue(function( nxt ) {
 		$(this).css({ left : '100%' });
 		$(this).load('inc/works-content.php' + ' #' + navClass, function(){			
@@ -318,7 +318,7 @@ $(document).on('click','#results div, .overlay-txt', function() {
 		nxt();
 		$('#dynamic-container').animate({ left : '0' }, 300);
 	});
-	$('#works-container').css({ background: '#e1e1e1'});
+	$('#works-container').css({ background: '#e64154'});
 	return false;
 });
 
