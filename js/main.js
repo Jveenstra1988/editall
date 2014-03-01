@@ -51,7 +51,7 @@ $(document).ready(function(){
 		
 		// change class of nav img so it can come out of nav
 		// and get back in
-		if ( $window.scrollTop() >= distance - 130 ) {
+		if ( $window.scrollTop() >= distance - 100 ) {
 			// Your div has reached  top 130px
 			$("nav img").removeClass("header-icon");
 		} else {
@@ -72,15 +72,15 @@ $(document).ready(function(){
 			$("nav a").removeClass('active');		
 			$("#home").addClass('active');
 		}
-		if(position >= (profile.top -65)){
+		if(position >= (profile.top -72)){
 			$("nav a").removeClass('active');		
 			$("#profile").addClass('active');
 		}
-		if(position >= (works.top -68)){
+		if(position >= (works.top -72)){
 			$("nav a").removeClass('active');		
 			$("#works").addClass('active');
 		}
-		if(position >= (contact.top -68)){
+		if(position >= (contact.top -72)){
 			$("nav a").removeClass('active');		
 			$("#contact").addClass('active');
 		}
@@ -96,21 +96,21 @@ $(document).ready(function(){
 	
 	$("#profile").click(function() {
 		$('html, body').animate({
-		    scrollTop: $("#profile-container").offset().top -65
+		    scrollTop: $("#profile-container").offset().top -58
 		}, 1400);
 	    return false
 	});
 	
 	$("#works").click(function() {
 		$('html, body').animate({
-		    scrollTop: $("#works-container").offset().top -65
+		    scrollTop: $("#works-container").offset().top -58
 		}, 1400);
 		return false
 	});
 	
 	$("#contact").click(function() {
 		$('html, body').animate({
-		    scrollTop: $("#contact-container").offset().top -65
+		    scrollTop: $("#contact-container").offset().top -58
 		}, 1400);
 		return false
 	});

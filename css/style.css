@@ -180,7 +180,6 @@ nav ul {
 
 nav ul li {
 	display: inline-block;
-	font-size: larger;
 	font-weight: 300;
 	width: 19%;
 	line-height: 3;
@@ -261,7 +260,7 @@ article header {
 article header img {
 	margin: 0 auto;
 	display: block;
-	max-width: 120px;
+	max-width: 100px;
 	margin-bottom: 2em;
 }
 
@@ -555,12 +554,22 @@ section.clear article div p {
 	article {
 		width: 50%;
 	}
+	
+	/* navigatie */
+	nav ul li {
+		width: 12%;
+	}
+	
+		nav ul li img {
+		width: 70px;
+		
+	}
 }
 
 @media screen and (max-width: 1024px) {
 
 	article {
-		width: 50%;
+		width: 70%;
 	}
 	
 	/* Landing Logo */
@@ -568,6 +577,11 @@ section.clear article div p {
 		width: 12%;
 		left: 42.5%;
 	}
+	
+		nav ul li img {
+		width: 40%;
+	}
+}
 
 @media screen and (max-width: 900px) {
 
@@ -594,7 +608,7 @@ section.clear article div p {
 		font-size: .8em;
 	}
 	nav ul li img {
-		width: 50%;
+		width: 40%;
 	}
 
 	/* 	sections die clear zijn */	
@@ -602,7 +616,7 @@ section.clear article div p {
 		width: 100%;
 	}
 	section.clear article div.blok {
-		width: 30%;
+		width: 40%;
 	}
 }
 
