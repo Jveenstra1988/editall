@@ -7,7 +7,7 @@ STORES - STORES - STORES - STORES -
 <!-- PME LEGEND SHOP-IN-SHOP -->
 <section class="bg-rood" id="pme-legend-sis">
 	<a href="#" class="btn-antra back-to-overzicht">&#8592; Back</a>
-	<a href="#" class="btn-rood next-project">Next Project &#8594;</a>
+	<!--<a href="#" class="btn-rood next-project">Next Project &#8594;</a>-->
 	
 	<article class="bg-antra content">
 		<h1 class="txt-wit txt-left">PME legend Shop-in-Shop</h1>
