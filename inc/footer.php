@@ -54,15 +54,15 @@
 					</article>
 				</section>
 				<!--Content - DIVIDER-->
-<section id="container" class="bg-wit clear">
-    <article class="txt-rood">
-        <header>
-            <h2>
-                So... <span class="txt-zwart">We Edit-All</span>
-            </h2>
-        </header>
-    </article>
-</section>
+				<section id="container" class="bg-wit clear">
+					<article class="txt-rood">
+						<header>
+							<h2>
+								So... <span class="txt-zwart">We Edit-All</span>
+							</h2>
+						</header>
+					</article>
+				</section>
 		</footer>
 		
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
@@ -70,6 +70,61 @@
 		<script src="js/vendor/idangerous.swiper.js"></script>
 		
         <script src="js/main.js"></script>
+		
+		<script type="text/javascript" src="js/vendor/jquery.slicebox.js"></script>
+		<script type="text/javascript">
+			$(function() {
+				
+				var Page = (function() {
+
+					var $navArrows = $( '#nav-arrows' ).hide(),
+						$shadow = $( '#shadow' ).hide(),
+						slicebox = $( '#sb-slider' ).slicebox( {
+							onReady : function() {
+
+								$navArrows.show();
+								$shadow.show();
+
+							},
+							orientation : 'h',
+							cuboidsCount : 1,
+							cuboidsRandom : false,
+							disperseFactor : 30,
+							colorHiddenSides: '#0099CC',
+						} ),
+						
+						init = function() {
+
+							initEvents();
+							
+						},
+						initEvents = function() {
+
+							// add navigation events
+							$navArrows.children( ':first' ).on( 'click', function() {
+
+								slicebox.next();
+								return false;
+
+							} );
+
+							$navArrows.children( ':last' ).on( 'click', function() {
+								
+								slicebox.previous();
+								return false;
+
+							} );
+
+						};
+
+						return { init : init };
+
+				})();
+
+				Page.init();
+
+			});
+		</script>
 
         <script>
             var _gaq=[["_setAccount","UA-XXXXX-X"],["_trackPageview"]];

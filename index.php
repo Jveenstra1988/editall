@@ -9,8 +9,8 @@
             <!--First Slide-->
             <div class="swiper-slide" id="stores"> 
                 <!-- Any HTML content of the first slide goes here -->
-                <p class="txt-wit">We Edit</p>
-                <a href="" class="btn-rood">Commercials</a>
+                <!--<p class="txt-wit">We Edit</p>-->
+                <!--<a href="" class="btn-rood">Commercials</a>-->
             </div>
             
             <!--Second Slide-->

@@ -94,7 +94,8 @@ $(document).ready(function(){
 		return false
 	});
 	
-	$("#profile").click(function() {
+	//$("#profile").click(function() {
+	$(document).on('click','#profile, #how-we-work, .back-to-profile', function() {
 		$('html, body').animate({
 		    scrollTop: $("#profile-container").offset().top -58
 		}, 600);
@@ -343,9 +344,9 @@ $(document).on('click','#how-we-work', function() {
 	return false;
 });
 
-$(document).on('click','.back-profile', function(){
+$(document).on('click','.back-to-profile', function(){
     $('#dynamic-container-profile').animate({ left : '100%' }, 300).queue(function( nxt ) {
-		$(this).load('inc/works-content.php .works');
+		$(this).load('inc/works-content.php .profile');
 		nxt();
 		$('#dynamic-container-profile').css({ left : '-100%' });
 		$('#dynamic-container-profile').animate({ left : '0' }, 300);

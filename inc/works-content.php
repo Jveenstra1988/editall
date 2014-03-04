@@ -393,7 +393,20 @@ STORES - STORES - STORES - STORES -
 +++_______ STANDARD _______+++
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 -->
-<!-- standaard content-->
+<!-- standaard content profile-->
+<article class="txt-wit profile">
+	<header>
+		<img src="img/icon-profile.png" class="icon">
+		<h1> Profile</h1>
+	</header>
+
+	<span class="bg-wit"></span>
+	<p>In ons charismatische en industri&euml;le pand produceren wij interieurs en decors.<br>
+	Met voldoende ruimte om te bouwen nemen wij meerdere projecten tegelijk aan.</p>
+	<a href="" class="btn-rood" id="how-we-work">How we work</a>
+</article>
+
+<!-- standaard content works-->
 <article class="txt-zwart works">
 	<header>
 		<img src="img/icon-works.png" class="icon">

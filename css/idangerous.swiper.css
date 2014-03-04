@@ -110,6 +110,27 @@ sizes, pagination, etc.
   z-index: 999;
 }
 
+.arrow-left2 {
+  background: url(../img/arrows.png) no-repeat left top;
+  position: absolute;
+  left: 20%;
+  top: 50%;
+  margin-top: -15px;
+  width: 17px;
+  height: 30px;
+  z-index: 999;
+}
+.arrow-right2 {
+  background: url(../img/arrows.png) no-repeat left bottom;
+  position: absolute;
+  right: 20%;
+  top: 50%;
+  margin-top: -15px;
+  width: 17px;
+  height: 30px;
+  z-index: 999;
+}
+
 /* ===============================================================
 Pagination Styles
 ================================================================*/
