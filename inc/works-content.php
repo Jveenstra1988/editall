@@ -7,7 +7,7 @@ STORES - STORES - STORES - STORES -
 <!-- PME LEGEND SHOP-IN-SHOP -->
 <section class="bg-rood" id="pme-legend-sis">
 	<a href="#" class="btn-antra back-to-overzicht">&#8592; Back</a>
-	<!--<a href="#" class="btn-rood next-project">Next Project &#8594;</a>-->
+	<a href="#" class="btn-rood next-project" id="jb-rdam">Next Project &#8594;</a>
 	
 	<article class="bg-antra content">
 		<h1 class="txt-wit txt-left">PME legend Shop-in-Shop</h1>
@@ -33,7 +33,7 @@ STORES - STORES - STORES - STORES -
 <!-- JUST BRANDS STORE ROTTERDAM -->
 <section class="bg-rood" id="jb-rdam">
 	<a href="#" class="btn-antra back-to-overzicht">&#8592; Back</a>
-	<!--<a href="#" class="btn-rood next-project">Next Project &#8594;</a>-->
+	<a href="#" class="btn-rood next-project" id="jb-showroom">Next Project &#8594;</a>
 	
 	<article class="bg-antra content">
 		<h1 class="txt-wit txt-left">Just Brands Stores</h1>
@@ -71,7 +71,7 @@ STORES - STORES - STORES - STORES -
 <!-- JUST BRANDS SHOWROOM SALZBURG -->
 <section class="bg-rood" id="jb-showroom">
 	<a href="#" class="btn-antra back-to-overzicht">&#8592; Back</a>
-	<!--<a href="#" class="btn-rood next-project">Next Project &#8594;</a>-->
+	<a href="#" class="btn-rood next-project" id="friends-emmen">Next Project &#8594;</a>
 
 	<article class="bg-antra content">
 		<h1 class="txt-wit txt-left">JUST BRANDS SHOWROOMS</h1>
@@ -106,7 +106,7 @@ STORES - STORES - STORES - STORES -
 <!-- Friends Emmen -->
 <section class="bg-rood" id="friends-emmen">
 	<a href="#" class="btn-antra back-to-overzicht">&#8592; Back</a>
-	<!--<a href="#" class="btn-rood next-project">Next Project &#8594;</a>-->
+	<a href="#" class="btn-rood next-project" id="sol-heineken">Next Project &#8594;</a>
 
 	<article class="bg-antra content">
 		<h1 class="txt-wit txt-left">Friends Emmen</h1>
@@ -127,7 +127,7 @@ STORES - STORES - STORES - STORES -
 <!-- Sol Heineken -->
 <section class="bg-rood" id="sol-heineken">
 	<a href="#" class="btn-antra back-to-overzicht">&#8592; Back</a>
-	<!--<a href="#" class="btn-rood next-project">Next Project &#8594;</a>-->
+	<a href="#" class="btn-rood next-project" id="olli-blijdorp">Next Project &#8594;</a>
 
 	<article class="bg-antra content">
 		<h1 class="txt-wit txt-left">Sol Heineken</h1>
@@ -155,7 +155,7 @@ STORES - STORES - STORES - STORES -
 <!-- Olli Blijdorp -->
 <section class="bg-rood" id="olli-blijdorp">
 	<a href="#" class="btn-antra back-to-overzicht">&#8592; Back</a>
-	<!--<a href="#" class="btn-rood next-project">Next Project &#8594;</a>-->
+	<a href="#" class="btn-rood next-project" id="the-switch">Next Project &#8594;</a>
 
 	<article class="bg-antra content">
 		<h1 class="txt-wit txt-left">Olli Blijdorp</h1>		
@@ -192,7 +192,7 @@ STORES - STORES - STORES - STORES -
 <!-- UPC The Switch -->
 <section class="bg-rood" id="the-switch">
 	<a href="#" class="btn-antra back-to-overzicht">&#8592; Back</a>
-	<!--<a href="#" class="btn-rood next-project">Next Project &#8594;</a>-->
+	<a href="#" class="btn-rood next-project" id="popcorn-bak">Next Project &#8594;</a>
 
 	<article class="bg-antra content">
 		<h1 class="txt-wit txt-left">De Switch | UPC</h1>		
@@ -223,7 +223,7 @@ STORES - STORES - STORES - STORES -
 <!-- UPC Popcorn -->
 <section class="bg-rood" id="popcorn-bak">
 	<a href="#" class="btn-antra back-to-overzicht">&#8592; Back</a>
-	<!--<a href="#" class="btn-rood next-project">Next Project &#8594;</a>-->
+	<a href="#" class="btn-rood next-project" id="tmobile-alib">Next Project &#8594;</a>
 	
 	<article class="bg-antra content">
 		<h1 class="txt-wit txt-left">Popcorn | UPC</h1>		
@@ -248,7 +248,7 @@ STORES - STORES - STORES - STORES -
 <!-- T-Mobile Ali-B -->
 <section class="bg-rood" id="tmobile-alib">
 	<a href="#" class="btn-antra back-to-overzicht">&#8592; Back</a>
-	<!--<a href="#" class="btn-rood next-project">Next Project &#8594;</a>-->
+	<a href="#" class="btn-rood next-project" id="interpolis-pleh">Next Project &#8594;</a>
 	
 	<article class="bg-antra content">
 		<h1 class="txt-wit txt-left">Ali-B zonder Ansjovis | T-Mobile</h1>		
@@ -277,7 +277,7 @@ STORES - STORES - STORES - STORES -
 <!-- Interpolis -->
 <section class="bg-rood" id="interpolis-pleh">
 	<a href="#" class="btn-antra back-to-overzicht">&#8592; Back</a>
-	<!--<a href="#" class="btn-rood next-project">Next Project &#8594;</a>-->
+	<a href="#" class="btn-rood next-project" id="allyou-caneat">Next Project &#8594;</a>
 	
 	<article class="bg-antra content">
 		<h1 class="txt-wit txt-left">PLEH?! | Interpolis</h1>		
@@ -306,7 +306,7 @@ STORES - STORES - STORES - STORES -
 <!-- Interpolis -->
 <section class="bg-rood" id="allyou-caneat">
 	<a href="#" class="btn-antra back-to-overzicht">&#8592; Back</a>
-	<!--<a href="#" class="btn-rood next-project">Next Project &#8594;</a>-->
+	<a href="#" class="btn-rood next-project" id="dejutter-almere">Next Project &#8594;</a>
 	
 	<article class="bg-antra content">
 		<h1 class="txt-wit txt-left">All You Can Eat | Hi</h1>		
@@ -342,7 +342,7 @@ STORES - STORES - STORES - STORES -
 <!-- Strandbrasserie de Jutter -->
 <section class="bg-rood" id="dejutter-almere">
 	<a href="#" class="btn-antra back-to-overzicht">&#8592; Back</a>
-	<!--<a href="#" class="btn-rood next-project">Next Project &#8594;</a>-->
+	<a href="#" class="btn-rood next-project" id="pme-legend-sis">Next Project &#8594;</a>
 	
 	<article class="bg-antra content">
 		<h1 class="txt-wit txt-left">Strandbrasserie de Jutter</h1>
@@ -386,6 +386,13 @@ STORES - STORES - STORES - STORES -
 -->
 
 
+
+
+<!--
+////////////////////////////////////
++++_______ STANDARD _______+++
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-->
 <!-- standaard content-->
 <article class="txt-zwart works">
 	<header>

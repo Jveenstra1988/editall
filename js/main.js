@@ -308,7 +308,7 @@ $(document).on('click','#designs', function() {
 });
 
 // Load project information
-$(document).on('click','#results div, .overlay-txt', function() {
+$(document).on('click','#results div, .overlay-txt, .next-project', function() {
 	var navClass = $(this).attr("id");
 	$('#works-container').css({ background: '#e64154'});
 	$('#dynamic-container').animate({ left : '-100%' }, 300).queue(function( nxt ) {
