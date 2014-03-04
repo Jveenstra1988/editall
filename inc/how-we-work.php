@@ -1,30 +1,30 @@
-<a href="#" class="btn-antra back-to-profile">&#8592; Back</a>
-<ul id="sb-slider" class="sb-slider">
-	<li>
-		<img src="img/works/com/ah1.jpg" alt="image2"/>
-		<div class="sb-description">
-			<h3>Creative Lifesaver</h3>
-		</div>
-	</li>
-	<li>
-		<img src="img/works/com/ah1.jpg" alt="image2"/>
-		<div class="sb-description">
-			<h3>Honest Entertainer</h3>
-		</div>
-	</li>
-	<li>
-		<img src="img/works/com/ah1.jpg" alt="image2"/>
-		<div class="sb-description">
-			<h3>Brave Astronaut</h3>
-		</div>
-	</li>
-</ul>
-
-<div id="shadow" class="shadow"></div>
-
-<div id="nav-arrows" class="nav-arrows">
-	<a href="#" class="arrow-right2"></a>
-	<a href="#" class="arrow-left2"></a>
+<a href="#" class="btn-rood back-to-profile">&#8592; Back</a>
+<div>
+	<ul id="sb-slider" class="sb-slider">
+		<li>
+			<img src="img/works/com/ah1.jpg" alt="image2"/>
+			<div class="sb-description">
+				<h3>Creative Lifesaver</h3>
+			</div>
+		</li>
+		<li>
+			<img src="img/works/com/ah1.jpg" alt="image2"/>
+			<div class="sb-description">
+				<h3>Honest Entertainer</h3>
+			</div>
+		</li>
+		<li>
+			<img src="img/works/com/ah1.jpg" alt="image2"/>
+			<div class="sb-description">
+				<h3>Brave Astronaut</h3>
+			</div>
+		</li>
+	</ul>
+	
+	<div id="nav-arrows" class="nav-arrows">
+		<a href="#" class="arrow-right2"></a>
+		<a href="#" class="arrow-left2"></a>
+	</div>
 </div>
 		
 <script type="text/javascript" src="js/vendor/jquery.slicebox.js"></script>

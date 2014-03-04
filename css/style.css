@@ -153,6 +153,12 @@ a.btn-antra.stroke:hover, a.btn-antra.stroke.active	{ border-color: #404951;}
 	display: block;
 }
 
+.back-to-profile {
+	position: absolute;
+	margin-left: 30px;
+	margin-top: 40px;
+}
+
 .next-project {
 	float: right;
 	margin-right: 30px;
