@@ -212,7 +212,10 @@ nav ul li a:hover { color: #E64154; }
 
 nav ul li a.active { color: #E64154; }
 
-nav ul li img { width: 24%; margin-top: -.15em; }
+nav ul li img {
+	width: 24%;
+	margin-top: -.15em;
+}
 
 
 /* Images */
@@ -414,7 +417,8 @@ section.clear article div p {
 	background-size: cover;
 }
 
-#works-container {
+#dynamic-container {
+	background: url(../img/works-1.jpg) center center no-repeat;
 	background-size: cover;
 }
 
@@ -566,9 +570,8 @@ section.clear article div p {
 		width: 12%;
 	}
 	
-		nav ul li img {
+	nav ul li img {
 		width: 70px;
-		
 	}
 }
 

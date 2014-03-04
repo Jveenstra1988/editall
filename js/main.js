@@ -51,7 +51,7 @@ $(document).ready(function(){
 		
 		// change class of nav img so it can come out of nav
 		// and get back in
-		if ( $window.scrollTop() >= distance - 100 ) {
+		if ( $window.scrollTop() >= distance - 120 ) {
 			// Your div has reached  top 130px
 			$("nav img").removeClass("header-icon");
 		} else {
@@ -90,28 +90,28 @@ $(document).ready(function(){
 	$("#home").click(function() {
 		$('html, body').animate({
 		    scrollTop: $("#home-container").offset().top
-		}, 1400);
+		}, 600);
 		return false
 	});
 	
 	$("#profile").click(function() {
 		$('html, body').animate({
 		    scrollTop: $("#profile-container").offset().top -58
-		}, 1400);
+		}, 600);
 	    return false
 	});
 	
-	$("#works").click(function() {
+	$(document).on('click','#works, #work-load, .back-to-overzicht, .back', function() {
 		$('html, body').animate({
 		    scrollTop: $("#works-container").offset().top -58
-		}, 1400);
+		}, 600);
 		return false
 	});
 	
 	$("#contact").click(function() {
 		$('html, body').animate({
 		    scrollTop: $("#contact-container").offset().top -58
-		}, 1400);
+		}, 600);
 		return false
 	});
 })
