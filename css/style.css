@@ -153,6 +153,13 @@ a.btn-antra.stroke:hover, a.btn-antra.stroke.active	{ border-color: #404951;}
 	display: block;
 }
 
+.absolute {
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 100;
+}
+
 .back-to-profile {
 	position: absolute;
 	margin-left: 30px;
@@ -164,6 +171,20 @@ a.btn-antra.stroke:hover, a.btn-antra.stroke.active	{ border-color: #404951;}
 	margin-right: 30px;
 	margin-top: 40px;
 	display: block;
+}
+
+.minder {
+	right: 30px;
+	top: 80px;
+	display: block;
+	position: absolute;
+}
+
+.meer {
+	right: 30px;
+	top: 120px;
+	display: block;
+	position: absolute;
 }
 
 /*
@@ -460,11 +481,13 @@ section.clear article div p {
 
 /* Projecten content */
 #dynamic-container article.content {
-/* 	overflow-y: scroll; */
-	height: 100%;
+ 	overflow-y: hidden; 
+	height: 80%;
 	padding-right: 40%;
 	margin-left: 12%;
 	border-left: 10px solid #303840;
+	position: absolute;
+	z-index: 99;
 }
 
 #dynamic-container article.content p {

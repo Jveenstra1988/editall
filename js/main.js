@@ -102,7 +102,7 @@ $(document).ready(function(){
 	    return false
 	});
 	
-	$(document).on('click','#works, #work-load, .back-to-overzicht, .back', function() {
+	$(document).on('click','#works, #work-load, .back-to-overzicht, .back, .next-project', function() {
 		$('html, body').animate({
 		    scrollTop: $("#works-container").offset().top -58
 		}, 600);
@@ -113,6 +113,19 @@ $(document).ready(function(){
 		$('html, body').animate({
 		    scrollTop: $("#contact-container").offset().top -58
 		}, 600);
+		return false
+	});
+	
+//	meer en minder content
+	$(document).on('click','.meer', function() {
+		$('.content').animate({
+		    scrollTop: $(".content").offset().top 
+		}, 1400);
+		return false
+	});
+	
+	$(document).on('click','.minder', function() {
+		$('.content').animate({scrollTop: '-100%'}, 600);
 		return false
 	});
 })
@@ -314,7 +327,7 @@ $(document).on('click','#results div, .overlay-txt, .next-project', function() {
 	$('#works-container').css({ background: '#e64154'});
 	$('#dynamic-container').animate({ left : '-100%' }, 300).queue(function( nxt ) {
 		$(this).css({ left : '100%' });
-		$(this).load('inc/works-content.php' + ' #' + navClass, function(){			
+		$(this).load('inc/works-content.php' + ' #' + navClass, function(){
 		});
 		nxt();
 		$('#dynamic-container').animate({ left : '0' }, 300);

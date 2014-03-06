@@ -16,6 +16,7 @@
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/idangerous.swiper.css">
 		<link rel="stylesheet" type="text/css" href="css/slicebox.css" />
+		<link href="css/lightbox.css" rel="stylesheet" />
 
         <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 		<script type="text/javascript" src="//use.typekit.net/led7cxt.js"></script>
