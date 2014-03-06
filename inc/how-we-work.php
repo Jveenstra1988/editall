@@ -1,4 +1,6 @@
+
 <a href="#" class="btn-rood back-to-profile">&#8592; Back</a>
+<article class="bg-turq how-we-work">
 <div>
 	<ul id="sb-slider" class="sb-slider">
 		<li>
@@ -26,6 +28,7 @@
 		<a href="#" class="arrow-left2"></a>
 	</div>
 </div>
+</article>
 		
 <script type="text/javascript" src="js/vendor/jquery.slicebox.js"></script>
 <script type="text/javascript">

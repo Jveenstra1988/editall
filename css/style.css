@@ -459,6 +459,13 @@ section.clear article div p {
 //////////// DYNAMISCHE CONTENT ///////////
 -------------------------------------------
 */
+article.how-we-work {
+	height: 100%;
+	padding-right: 35%;
+	margin-left: 15%;
+	border-left: 10px solid #258C8B;
+
+}
 
 #works-overzicht article {
 	height: 100%;
