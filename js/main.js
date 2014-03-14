@@ -133,52 +133,52 @@ $(document).ready(function(){
 //	MAPS-------------------------------------------------------
 function initialize() {
 	var styles = [
-  {
-    "featureType": "poi",
-    "stylers": [
-      { "visibility": "off" }
-    ]
-  },{
-    "featureType": "road",
-    "stylers": [
-      { "visibility": "simplified" },
-      { "color": "#F2F4F5" }
-    ]
-  },{
-    "featureType": "transit",
-    "stylers": [
-      { "color": "#808080" },
-      { "visibility": "off" }
-    ]
-  },{
-    "featureType": "water",
-    "stylers": [
-      { "visibility": "simplified" },
-      { "color": "#B2CFDC" }
-    ]
-  },{
-    "featureType": "landscape.man_made",
-    "stylers": [
-      { "visibility": "simplified" },
-      { "color": "#E5E9EC" }
-    ]
-  },{
-    "featureType": "landscape.natural",
-    "stylers": [
-      { "color": "#D9E0E3" },
-      { "visibility": "simplified" }
-    ]
-  },{
-    "featureType": "administrative",
-    "stylers": [
-      { "visibility": "off" }
-    ]
-  }
-]
+		{
+		  "featureType": "poi",
+		  "stylers": [
+			{ "visibility": "off" }
+		  ]
+		},{
+		  "featureType": "road",
+		  "stylers": [
+			{ "visibility": "simplified" },
+			{ "color": "#F2F4F5" }
+		  ]
+		},{
+		  "featureType": "transit",
+		  "stylers": [
+			{ "color": "#808080" },
+			{ "visibility": "off" }
+		  ]
+		},{
+		  "featureType": "water",
+		  "stylers": [
+			{ "visibility": "simplified" },
+			{ "color": "#B2CFDC" }
+		  ]
+		},{
+		  "featureType": "landscape.man_made",
+		  "stylers": [
+			{ "visibility": "simplified" },
+			{ "color": "#E5E9EC" }
+		  ]
+		},{
+		  "featureType": "landscape.natural",
+		  "stylers": [
+			{ "color": "#D9E0E3" },
+			{ "visibility": "simplified" }
+		  ]
+		},{
+		  "featureType": "administrative",
+		  "stylers": [
+			{ "visibility": "off" }
+		  ]
+		}
+	]
 	
 	
-// Create a new StyledMapType object, passing it the array of styles,
-  // as well as the name to be displayed on the map type control.
+	// Create a new StyledMapType object, passing it the array of styles,
+	// as well as the name to be displayed on the map type control.
 	var styledMap = new google.maps.StyledMapType(styles, {
 		name: "Styled Map"
 	});
@@ -211,7 +211,7 @@ function initialize() {
 	
 	// marker click events
 	google.maps.event.addListener(marker, 'click',  function() {
-		infowindow.open(map,marker);
+		//infowindow.open(map,marker);
 		toggleBounce();
 	});
 	
@@ -230,8 +230,9 @@ function initialize() {
 	// fill info window with content
 	var infowindow = new google.maps.InfoWindow({
 		content: contentString,
-		maxWidth: 600
+		maxWidth: 600,
 	});
+	infowindow.open(map,marker);
 	
 	// Creat marker animation
 	function toggleBounce() {
@@ -241,6 +242,7 @@ function initialize() {
 			marker.setAnimation(google.maps.Animation.BOUNCE);
 		}
 	}
+	marker.setAnimation(google.maps.Animation.BOUNCE);
   
 	//Associate the styled map with the MapTypeId and set it to display.
 	map.mapTypes.set('map_style', styledMap);
