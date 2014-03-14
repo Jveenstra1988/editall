@@ -3,7 +3,7 @@
 	<a href="#" class="btn-rood back">&#8592; Back</a>
 	<article class="bg-rood images">
 		<header>
-			<h1 class="txt-wit txt-left">Works Checkout</h1>
+			<h1 class="txt-wit txt-left">Projects</h1>
 		</header>
 		
 		<a href="#" class="btn-wit stroke active" id="all">All</a>

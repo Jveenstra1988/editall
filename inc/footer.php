@@ -9,7 +9,7 @@
 								<img src="img/icon-place.png" class="icon">
 							</div>
 							<p class="three-col">
-								Venserweg 7<br />
+								Venserweg 7 (Hal 4)<br />
 								1112 AR  Diemen<br />
 								Nederland<br />
 							</p>
@@ -20,9 +20,9 @@
 							</div>
 							<p>
 								Bel ons<br />
-								<a href="tel:+316-51525382">06-515 253 82</a><br />
-								<a href="tel:+316-50602207">06-506 022 07</a><br />
-								
+								<a href="tel:+316-51525382">Rob: 06-515 253 82</a><br />
+								<a href="tel:+316-50602207">Ruben: 06-506 022 07</a><br />
+								<a href="tel:+316-50602207">Administratie: 06-506 022 07</a><br />
 							</p>
 						</div>
 						<div class="blok">
@@ -31,7 +31,9 @@
 							</div>
 							<p>
 								E-mail ons<br />
-								<a href="mailto:info@edit-all.nl">info@edit-all.nl</a>            
+								<a href="mailto:info@edit-all.nl">info@edit-all.nl</a>  <br />          
+								<a href="mailto:rob@edit-all.nl">rob@edit-all.nl</a>   <br />         
+								<a href="mailto:ruben@edit-all.nl">ruben@edit-all.nl</a> <br />           
 							</p>
 						</div>
 						
@@ -76,10 +78,10 @@
 				$(".various").fancybox({
 					maxWidth	: 800,
 					maxHeight	: 600,
-					fitToView	: true,
+					fitToView	: false,
 					width		: '70%',
 					height		: '70%',
-					autoSize	: true,
+					autoSize	: false,
 					closeClick	: false,
 					openEffect	: 'elastic',
 					closeEffect	: 'elastic'

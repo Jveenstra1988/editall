@@ -45,8 +45,10 @@ $(document).ready(function(){
 		if ( $window.scrollTop() >= distance ) {
 			// Your div has reached the top
 			$("nav").removeClass("bottom");
+			$("nav").addClass("antra");			
 		} else {
 			$("nav").addClass("bottom");
+			$("nav").removeClass("antra");	
 		}
 		
 		// change class of nav img so it can come out of nav
@@ -94,6 +96,13 @@ $(document).ready(function(){
 		return false
 	});
 	
+	$("#divider1").click(function() {
+		$('html, body').animate({
+		    scrollTop: $("#container1").offset().top -250
+		}, 600);
+		return false
+	});
+	
 	//$("#profile").click(function() {
 	$(document).on('click','#profile, #how-we-work, .back-to-profile', function() {
 		$('html, body').animate({
@@ -113,19 +122,6 @@ $(document).ready(function(){
 		$('html, body').animate({
 		    scrollTop: $("#contact-container").offset().top -58
 		}, 600);
-		return false
-	});
-	
-//	meer en minder content
-	$(document).on('click','.meer', function() {
-		$('.content').animate({
-		    scrollTop: $(".content").offset().top 
-		}, 1400);
-		return false
-	});
-	
-	$(document).on('click','.minder', function() {
-		$('.content').animate({scrollTop: '-100%'}, 600);
 		return false
 	});
 })

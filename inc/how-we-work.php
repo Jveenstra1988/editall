@@ -1,6 +1,6 @@
 
 <a href="#" class="btn-rood back-to-profile">&#8592; Back</a>
-<article class="bg-turq how-we-work">
+<article class="bg-grijs how-we-work">
 <div>
 	<ul id="sb-slider" class="sb-slider">
 		<li>
