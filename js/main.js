@@ -98,7 +98,7 @@ $(document).ready(function(){
 	
 	$("#divider1").click(function() {
 		$('html, body').animate({
-		    scrollTop: $("#container1").offset().top -250
+		    scrollTop: $("#container1").offset().top -290
 		}, 600);
 		return false
 	});

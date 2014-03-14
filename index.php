@@ -71,7 +71,11 @@
             <span class="bg-wit"></span>
             <p>In ons charismatische en industri&euml;le pand produceren wij interieurs en decors.<br>
             Met voldoende ruimte om te bouwen nemen wij meerdere projecten tegelijk aan.</p>
-            <a href="" class="btn-turq" id="how-we-work">How we work</a>
+            <a href="" class="btn-turq a-btn" id="how-we-work">
+                <span class="a-btn-text">How we work</span> 
+                <span class="a-btn-slide-text"><img src="img/icon-profile.png" width="50"></span>
+                <span class="a-btn-icon-right"><span>&#8594;</span></span>
+            </a>
         </article>
     </div>
 </section>
@@ -120,7 +124,11 @@
                 Ons passie ligt in de vorm, de kleur en uitstraling en het effect op de gebruiker.<br>
                 Edit-All huisvest een groep zeer vakbekwame mensen die hart en ziel in hun werk leggen.<br>
             </p>
-            <a href="#" class="btn-rood" id="work-load">See our Projects &#8594;</a>
+            <a href="#" class="btn-rood a-btn" id="work-load">
+                <span class="a-btn-text">See our Projects</span> 
+                <span class="a-btn-slide-text"><img src="img/icon-works.png" width="50"></span>
+                <span class="a-btn-icon-right"><span>&#8594;</span></span>
+            </a>
         </article>
     </div>
 </section>
