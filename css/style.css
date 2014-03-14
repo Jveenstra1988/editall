@@ -153,7 +153,7 @@ img.breed {
 
 img.spr {
 	max-width: 9.5%;
-	padding: 4% 0%;
+	padding: 1% 0% 2% 0%;
 }
 
 img.spr {
@@ -568,7 +568,8 @@ a.video {
 	line-height: 1 !important;
 	letter-spacing: 1 !important;
 	margin-top: 1.5em;
-	background: black url(../img/next.png) 40% center no-repeat;
+	background: black url(../img/play.png) 40% center no-repeat;
+	background-size: 70px;
 	-webkit-transition: background 200ms ease-out;
 	-moz-transition: background 200ms ease-out;
 	-ms-transition: background 200ms ease-out;
@@ -721,7 +722,7 @@ a.video img.img-stack {
 
 	/* 	sections die clear zijn */	
 	section.clear article {
-		width: 100%;
+		width: 92%;
 	}
 	section.clear article div.blok {
 		width: 40%;

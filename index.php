@@ -33,24 +33,29 @@
     <img src="img/logo.png" class="logo">    
 </section>
 
-<!--Content - DIVIDER-->
+<!--Content - DIVIDER 1-->
 <section id="container" class="bg-wit clear">
     <article class="txt-antra">
-<img class="spr" src="img/s1.1.jpg">
-<img class="spr" src="img/s-arrow.jpg">
-<img class="spr" src="img/s1.2.jpg">
-<img class="spr" src="img/s-arrow.jpg">
-<img class="spr" src="img/s1.3.jpg">
-<img class="spr" src="img/s-arrow.jpg">
-<img class="spr" src="img/s1.4.jpg">
+		<img class="spr" src="img/s1.1.jpg">
+		<img class="spr" src="img/s-arrow.jpg">
+		<img class="spr" src="img/s1.2.jpg">
+		<img class="spr" src="img/s-arrow.jpg">
+		<img class="spr" src="img/s1.3.jpg">
+		<img class="spr" src="img/s-arrow.jpg">
+		<img class="spr" src="img/s1.4.jpg">
+
         <header>
             <h2 class="txt-left">
                 Wij cre&euml;ren, produceren en monteren.
             </h2>
+            <span class="bg-rood"></span>
         </header>
         
-	    <p>Wij verleggen grenzen in winkels, horecagelegenheden, theaters en kantoren.<br />
-	    Wij diepen het bestaande imago uit, of scheppen iets nieuws.</p>
+	    <p>Binnen elk project werken wij van schets naar een 3-dimensionale werktekening.
+	    Op deze manier cre&euml;eren wij de bouwstenen voor de eindrealisatie van het product
+	    en proberen wij vanuit de conceptuele fase naar een zo realistisch mogelijk beeld van de werkelijkheid
+	    toe te werken.</p>
+	    
     </article>
 </section>
 
@@ -66,23 +71,38 @@
             <span class="bg-wit"></span>
             <p>In ons charismatische en industri&euml;le pand produceren wij interieurs en decors.<br>
             Met voldoende ruimte om te bouwen nemen wij meerdere projecten tegelijk aan.</p>
-            <a href="" class="btn-rood" id="how-we-work">How we work</a>
+            <a href="" class="btn-turq" id="how-we-work">How we work</a>
         </article>
     </div>
 </section>
 
 <!--Content - DIVIDER-->
-<section id="container" class="bg-rood clear">
+<section id="container" class="bg-wit clear">
+    <article class="txt-rood">
+    		<img class="spr" src="img/s2.1.jpg">
+		<img class="spr" src="img/s-arrow.jpg">
+        <header>
+            <h2 class="txt-left">
+                Wij verleggen grenzen.
+            </h2>
+            <span class="bg-wit"></span>
+        </header>
+        
+	    <p>Winkels, horecagelegenheden, theaters en kantoren. Wij werken zowel nationaal als internationaal.</p>
+
+    </article>
+</section>
+<section id="container" class="bg-zwart clear">
     <article class="txt-wit">
         <header>
             <h2 class="txt-left">
-                Wij cre&euml;ren, produceren en monteren.
+	            Wij diepen het bestaande imago uit, of scheppen iets nieuws.
             </h2>
+            <span class="bg-rood"></span>
         </header>
-        
-	    <p>Wij schakelen snel en zorgen voor vertrouwde gezichten op de werkvloer.</p>
     </article>
 </section>
+
 
 <!--Content - PROJECTS-->
 <section id="works-container" class="bg-wit">
@@ -94,7 +114,7 @@
                     Projects
                 </h1>
             </header>
-            <span class="bg-rood"></span>
+            <span class="bg-zwart"></span>
             <p>
                 Wij cree&euml;ren winkels, reclames, interieuren en designs.<br>
                 Ons passie ligt in de vorm, de kleur en uitstraling en het effect op de gebruiker.<br>

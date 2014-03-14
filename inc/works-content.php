@@ -197,7 +197,7 @@ STORES - STORES - STORES - STORES -
         <img src="img/works/com/olli1.jpg" class="attribute">
 		  
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/eL78DQrwprM?feature=player_detailpage">
-		  <img src="img/works/com/olli1.jpg" class="img-stack">
+		  <img src="img/works/com/olli-video.jpg" class="img-stack">
 		</a>
         <a href="img/works/com/olli2.jpg" data-lightbox="olli"><img src="img/works/com/olli2.jpg" class="img-stack"></a>
         <a href="img/works/com/olli3.jpg" data-lightbox="olli"><img src="img/works/com/olli3.jpg" class="img-stack"></a>
