@@ -34,8 +34,8 @@
 		<!--[if lt IE 7]>
 			<p class="chromeframe">Je gebruikt een <strong>sterk verouderde</strong> browser. <a href="http://browsehappy.com/">Upgrade je browser</a> of <a href="http://www.google.com/chromeframe/?redirect=true">activeer Google Chrome Frame</a> om uw webervaring te verbeteren.</p>
 		<![endif]-->
-		<nav class="bg-zwart bottom">
-			<ul class="br-antra">
+		<nav class="bg-wit bottom">
+			<ul class="br-wit">
 				<li>
 					<a href="" id="home" class="active">Home</a>
 				</li>
@@ -48,7 +48,7 @@
 					</a>
 				</li>
 				<li>
-					<a href=""id="works">Works</a>
+					<a href=""id="works">Projects</a>
 				</li>
 				<li>
 					<a href="" id="contact">Contact</a>

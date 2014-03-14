@@ -36,13 +36,20 @@
 <!--Content - DIVIDER-->
 <section id="container" class="bg-wit clear">
     <article class="txt-antra">
+<img class="spr" src="img/s1.1.jpg">
+<img class="spr" src="img/s-arrow.jpg">
+<img class="spr" src="img/s1.2.jpg">
+<img class="spr" src="img/s-arrow.jpg">
+<img class="spr" src="img/s1.3.jpg">
+<img class="spr" src="img/s-arrow.jpg">
+<img class="spr" src="img/s1.4.jpg">
         <header>
             <h2 class="txt-left">
                 Wij cre&euml;ren, produceren en monteren.
             </h2>
         </header>
         
-	    <p>Wij verleggen grenzen in winkels, horecagelegenheden, theaters en kantoren.
+	    <p>Wij verleggen grenzen in winkels, horecagelegenheden, theaters en kantoren.<br />
 	    Wij diepen het bestaande imago uit, of scheppen iets nieuws.</p>
     </article>
 </section>
@@ -65,7 +72,7 @@
 </section>
 
 <!--Content - DIVIDER-->
-<section id="container" class="bg-antra clear">
+<section id="container" class="bg-rood clear">
     <article class="txt-wit">
         <header>
             <h2 class="txt-left">
@@ -73,19 +80,18 @@
             </h2>
         </header>
         
-	    <p>Wij verleggen grenzen in winkels, horecagelegenheden, theaters en kantoren.
-	    Wij diepen het bestaande imago uit, of scheppen iets nieuws.</p>
+	    <p>Wij schakelen snel en zorgen voor vertrouwde gezichten op de werkvloer.</p>
     </article>
 </section>
 
-<!--Content - WORKS-->
+<!--Content - PROJECTS-->
 <section id="works-container" class="bg-wit">
     <div id="dynamic-container">
         <article class="txt-zwart works">
             <header>
                 <img src="img/icon-works.png" class="icon">
                 <h1 class="txt-rood">
-                    Works
+                    Projects
                 </h1>
             </header>
             <span class="bg-rood"></span>
@@ -94,13 +100,13 @@
                 Ons passie ligt in de vorm, de kleur en uitstraling en het effect op de gebruiker.<br>
                 Edit-All huisvest een groep zeer vakbekwame mensen die hart en ziel in hun werk leggen.<br>
             </p>
-            <a href="#" class="btn-rood" id="work-load">Works Checkout &#8594;</a>
+            <a href="#" class="btn-rood" id="work-load">See our Projects &#8594;</a>
         </article>
     </div>
 </section>
 
 <!--Content - DIVIDER-->
-<section id="container" class="bg-turq clear">
+<section id="container" class="bg-zwart clear">
     <article class="txt-wit">
         <header>
             <h2 class="txt-left">
