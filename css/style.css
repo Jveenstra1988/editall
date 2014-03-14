@@ -118,6 +118,70 @@ a.btn-turq	{ color:#F6F6F6; background:#33B6B3; border: solid 1px #33B6B3; }
 a.btn-zwart	{ color:#F6F6F6; background:#282B30; border: solid 1px #282B30; }
 a.btn-antra	{ color:#F6F6F6; background:#404951; border: solid 1px #404951; }
 
+/* Main buttons */
+.a-btn{
+    height: 32px;
+    display: inline-block;
+    position: relative;
+    float: left;
+    overflow: hidden;
+    transition: all 0.3s linear;
+	padding-right: 80px !important;
+	margin-top: 3em;
+}
+.a-btn-text{
+    padding-top: 5px;
+    display: block;
+    font-size: 18px;
+    -webkit-transition: all 200ms ease-in;
+	-moz-transition: all 200ms ease-in;
+	-ms-transition: all 200ms ease-in;
+	-o-transition: all 200ms ease-in;
+	transition: all 200ms ease-in;
+}
+.a-btn-slide-text{
+    position:absolute;
+    height: 100%;
+    top: 0px;
+    right: 52px;
+    width: 0px;
+    background: #262626;
+    text-align: left;
+    overflow: hidden;
+    -webkit-transition: all 200ms ease-in;
+	-moz-transition: all 200ms ease-in;
+	-ms-transition: all 200ms ease-in;
+	-o-transition: all 200ms ease-in;
+	transition: all 200ms ease-in;
+}
+.a-btn-icon-right{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    height: 100%;
+    width: 52px;
+    border-left: 1px solid #333333;
+}
+.a-btn-icon-right span{
+    width: 38px;
+    height: 38px;
+    position: absolute;
+    left: 73%;
+    top: 66%;
+    margin: -20px 0px 0px -20px;
+}
+
+.a-btn:hover{
+    padding-right: 130px !important;
+}
+.a-btn:hover .a-btn-text{
+}
+.a-btn:hover .a-btn-slide-text{
+    width: 50px;
+}
+.a-btn:hover .a-btn-icon-right span{
+}
+
 /* Hovers */
 a.btn-rood:hover, a.btn-rood.active		{ background:#ac1e2e; }
 a.btn-wit:hover, a.btn-wit.active		{ background:#c1c1c1; }
@@ -601,12 +665,8 @@ a.video {
 	line-height: 1 !important;
 	letter-spacing: 1 !important;
 	margin-top: 1.5em;
-<<<<<<< HEAD
-	background: black url(../img/play.png) 40% center no-repeat;
+	background: url(../img/play.png) 50% center no-repeat;
 	background-size: 70px;
-=======
-	background: url(../img/next.png) 40% center no-repeat;
->>>>>>> FETCH_HEAD
 	-webkit-transition: background 200ms ease-out;
 	-moz-transition: background 200ms ease-out;
 	-ms-transition: background 200ms ease-out;
@@ -615,13 +675,14 @@ a.video {
 }
 
 a.video:hover {
-	background-position: 60% center;
+	background-position: 50% center;
+	background-size: 100px;
 }
 
 a.video img.img-stack {
 	width: 100% !important;
 	margin-top: 0 !important;
-	border-radius: 50% / 10%;
+	border-radius: 120% / 80%;
 }
 
 a.video img.img-stack:before {
