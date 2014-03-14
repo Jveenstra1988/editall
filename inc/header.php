@@ -43,7 +43,7 @@
 					<a href="" id="profile">Profile</a>
 				</li>
 				<li>
-					<a href"" id="home">
+					<a href"" id="divider1">
 						<img src="img/icon.png" class="header-icon">
 					</a>
 				</li>

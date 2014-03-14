@@ -156,3 +156,16 @@ Pagination Styles
 	/* Specific visible button style: */	
 	
 }
+
+@media screen and (max-width: 600px){
+	.arrow-right2 {
+		background: url(../img/arrows.png) no-repeat left bottom;
+		position: absolute;
+		right: 2%;
+		top: 45%;
+		margin-top: -15px;
+		width: 30px;
+		height: 62px;
+		z-index: 999;
+	  }
+}

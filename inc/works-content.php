@@ -25,7 +25,7 @@ STORES - STORES - STORES - STORES -
             (4 plasmaschermen) PME Legend presenteert hierdoor prachtig gevoel richting de klant.
         </p>
 
-        <img src="img/works/sto/pme-sis1.jpg" class="attribute">
+        <a href="img/works/sto/pme-sis1.jpg" data-lightbox="sis"><img src="img/works/sto/pme-sis1.jpg" class="attribute"></a>
 
         <a href="img/works/sto/pme-sis1.jpg" data-lightbox="sis"><img src="img/works/sto/pme-sis1.jpg" class="img-stack"></a>
         <a href="img/works/sto/pme-sis2.jpg" data-lightbox="sis"><img src="img/works/sto/pme-sis2.jpg" class="img-stack"></a>
@@ -51,7 +51,7 @@ STORES - STORES - STORES - STORES -
             Edit-All is verantwoordelijk geweest voor de ontwerp, uitvoering en oplevering van dit gehele project.
         </p>
 
-        <img src="img/works/sto/jb-rdam1.jpg" class="attribute">
+        <a href="img/works/sto/jb-rdam2.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-rdam1.jpg" class="attribute"></a>
 
         <a href="img/works/sto/jb-rdam2.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-rdam2.jpg" class="img-stack"></a>
         <a href="img/works/sto/jb-rdam3.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-rdam3.jpg" class="img-stack"></a>
@@ -93,7 +93,7 @@ STORES - STORES - STORES - STORES -
             De showrooms dienen ter presentatie van PME legend.
         </p>
 
-        <img src="img/works/sto/jb-salz1.jpg" class="attribute">
+        <a href="img/works/sto/jb-salz1.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-salz1.jpg" class="attribute"></a>
 
         <a href="img/works/sto/jb-salz1.jpg" data-lightbox="jbs-s"><img src="img/works/sto/jb-salz1.jpg" class="img-stack"></a>
         <a href="img/works/sto/jb-salz2.jpg" data-lightbox="jbs-s"><img src="img/works/sto/jb-salz2.jpg" class="img-stack"></a>
@@ -135,7 +135,7 @@ STORES - STORES - STORES - STORES -
             muren en industriële winkelstellingen en waanzinnig mooie meubels.
         </p>
 
-        <img src="img/works/sto/friends1.jpg" class="attribute">
+        <a href="img/works/sto/friends1.jpg" data-lightbox="jbs"><img src="img/works/sto/friends1.jpg" class="attribute"></a>
     </article>
 </section>
 
@@ -157,7 +157,7 @@ STORES - STORES - STORES - STORES -
             voor het decor. Opdrachtgever: Jelier &amp; Schaaf
         </p>
 
-        <img src="img/works/sto/sol1.jpg" class="attribute">
+        <a href="img/works/sto/sol1.jpg" data-lightbox="sol"><img src="img/works/sto/sol1.jpg" class="attribute"></a>
 
         <a href="img/works/sto/sol2.jpg" data-lightbox="sol"><img src="img/works/sto/sol2.jpg" class="img-stack"></a>
         <a href="img/works/sto/sol3.jpg" data-lightbox="sol"><img src="img/works/sto/sol3.jpg" class="img-stack"></a>
@@ -194,7 +194,7 @@ STORES - STORES - STORES - STORES -
             In opdracht van Jelier &amp; Schaaf.
         </p>
 
-        <img src="img/works/com/olli1.jpg" class="attribute">
+        <a href="img/works/com/olli1.jpg" data-lightbox="olli"><img src="img/works/com/olli1.jpg" class="attribute"></a>
 		  
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/eL78DQrwprM?feature=player_detailpage">
 		  <img src="img/works/com/olli-video.jpg" class="img-stack">
@@ -226,7 +226,7 @@ STORES - STORES - STORES - STORES -
             In opdracht van Jelier &amp; Schaaf.
         </p>
 
-        <img src="img/works/com/switch1.jpg" class="attribute">
+        <a href="img/works/com/switch1.jpg" data-lightbox="switch"><img src="img/works/com/switch1.jpg" class="attribute"></a>
 		
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/D2yeGqKh3p0?feature=player_embedded">
 		  <img src="img/works/com/switch1.jpg" class="img-stack">
@@ -254,7 +254,7 @@ STORES - STORES - STORES - STORES -
             Voor de opdrachtgever Jelier&amp;Schaaf produceren wij de Mega popcornbak
         </p>
 
-        <img src="img/works/com/popcorn1.jpg" class="attribute">
+        <a href="img/works/com/popcorn1.jpg" data-lightbox="switch"><img src="img/works/com/popcorn1.jpg" class="attribute"></a>
 		
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/23Yx8UVq4WA?feature=player_embedded">  
 		  <img src="img/works/com/popcorn1.jpg" class="img-stack">
@@ -281,7 +281,7 @@ STORES - STORES - STORES - STORES -
             Opdrachtgever: Jelier&amp;Schaaf
         </p>
 
-        <img src="img/works/com/alib1.jpg" class="attribute">
+        <a href="img/works/com/alib1.jpg" data-lightbox="alib"><img src="img/works/com/alib1.jpg" class="attribute"></a>
 		
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/3rTdNTHg8nY?feature=player_embedded">
 		  <img src="img/works/com/alib1.jpg" class="img-stack">
@@ -311,7 +311,7 @@ STORES - STORES - STORES - STORES -
             Edit-All was verantwoordelijk voor decorbouw van het ziekenhuis kantoor.
         </p>
 
-        <img src="img/works/com/inter1.jpg" class="attribute">
+        <a href="img/works/com/inter1.jpg" data-lightbox="inter"><img src="img/works/com/inter1.jpg" class="attribute"></a>
 		
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/ZR848vnm0-0">
 		  <img src="img/works/com/inter1.jpg" class="img-stack">
@@ -340,7 +340,7 @@ STORES - STORES - STORES - STORES -
             Edit-All was verantwoordelijk voor decorbouw van het restaurant.
         </p>
 
-        <img src="img/works/com/hi1.jpg" class="attribute">
+        <a href="img/works/com/hi1.jpg" data-lightbox="hi"><img src="img/works/com/hi1.jpg" class="attribute"></a>
  
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/SaQYqJoFBGc">
 		  <img src="img/works/com/hi1.jpg" class="img-stack">
@@ -378,7 +378,7 @@ STORES - STORES - STORES - STORES -
             resultaat opgeleverd aan de haven van Almere.
         </p>
 
-        <img src="img/works/int/jutter1.jpg" class="attribute">
+        <a href="img/works/int/jutter1.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter1.jpg" class="attribute"></a>
 
         <p class="txt-wit">
             Edit-all is gaan sprokkelen en heeft gebruik gemaakt van oude en nieuwe materialen.
@@ -436,7 +436,7 @@ STORES - STORES - STORES - STORES -
     <header>
         <img src="img/icon-works.png" class="icon">
         <h1 class="txt-rood">
-            Works
+            Projects
         </h1>
     </header>
     <span class="bg-rood"></span>

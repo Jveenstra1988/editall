@@ -33,6 +33,7 @@
     <img src="img/logo.png" class="logo">    
 </section>
 
+<<<<<<< HEAD
 <!--Content - DIVIDER 1-->
 <section id="container" class="bg-wit clear">
     <article class="txt-antra">
@@ -44,6 +45,18 @@
 		<img class="spr" src="img/s-arrow.jpg">
 		<img class="spr" src="img/s1.4.jpg">
 
+=======
+<!--Content - DIVIDER-->
+<section id="container1" class="bg-wit clear">
+    <article class="txt-antra">
+        <img class="spr" src="img/s1.1.jpg">
+        <img class="spr" src="img/s-arrow.jpg">
+        <img class="spr" src="img/s1.2.jpg">
+        <img class="spr" src="img/s-arrow.jpg">
+        <img class="spr" src="img/s1.3.jpg">
+        <img class="spr" src="img/s-arrow.jpg">
+        <img class="spr" src="img/s1.4.jpg">
+>>>>>>> FETCH_HEAD
         <header>
             <h2 class="txt-left">
                 Wij cre&euml;ren, produceren en monteren.
