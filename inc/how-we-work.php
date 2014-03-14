@@ -1,5 +1,5 @@
 
-<a href="#" class="btn-rood back-to-profile">&#8592; Back</a>
+<a href="#" class="btn-rood back-to-profile">&#8592; Terug</a>
 <article class="bg-grijs how-we-work">
 <div>
 	<ul id="sb-slider" class="sb-slider">

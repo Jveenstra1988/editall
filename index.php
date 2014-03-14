@@ -33,17 +33,22 @@
     <img src="img/logo.png" class="logo">    
 </section>
 
-<!--Content - DIVIDER-->
+<!--Content - DIVIDER 1-->
 <section id="container1" class="bg-wit clear">
     <article class="txt-antra">
-        <img class="spr" src="img/s1.1.jpg">
-        <img class="spr" src="img/s-arrow.jpg">
-        <img class="spr" src="img/s1.2.jpg">
-        <img class="spr" src="img/s-arrow.jpg">
-        <img class="spr" src="img/s1.3.jpg">
-        <img class="spr" src="img/s-arrow.jpg">
-        <img class="spr" src="img/s1.4.jpg">
+<div class="half">
 
+<img class="spr" src="img/s1.1.jpg">
+<img class="spr" src="img/s-arrow.png">
+ 
+        <div class="flow">
+	        <img src="img/s1.2.jpg">
+	        <img src="img/s-arrow.jpg">
+	        <img src="img/s1.3.jpg">
+	        <img src="img/s-arrow.jpg">
+	        <img src="img/s1.4.jpg">
+        </div>
+        
         <header>
             <h2 class="txt-left">
                 Wij cre&euml;ren, produceren en monteren.
@@ -55,7 +60,30 @@
 	    Op deze manier cre&euml;eren wij de bouwstenen voor de eindrealisatie van het product
 	    en proberen wij vanuit de conceptuele fase naar een zo realistisch mogelijk beeld van de werkelijkheid
 	    toe te werken.</p>
-	    
+</div>
+<div class="half">
+<img class="spr" src="img/s2.1.png">
+<img class="spr" src="img/s-arrow.png">
+
+        <div class="flow">
+	        <img src="img/s1.2.jpg">
+	        <img src="img/s-arrow.jpg">
+	        <img src="img/s1.3.jpg">
+	        <img src="img/s-arrow.jpg">
+	        <img src="img/s1.4.jpg">
+        </div>
+    
+    		<header>
+            	<h2 class="txt-left">
+                	Wij verleggen grenzen.
+                </h2>
+               
+                <span class="bg-rood"></span>
+            </header>
+        
+            <p>	Winkels, horecagelegenheden, theaters en kantoren. 
+            	Wij werken zowel nationaal als internationaal.</p>
+</div>
     </article>
 </section>
 
@@ -65,41 +93,51 @@
         <article class="txt-wit">
             <header>
                 <img src="img/icon-profile.png" class="icon">
-                <h1> Profile</h1>
+                <h1>Profiel</h1>
             </header>
 
             <span class="bg-wit"></span>
             <p>In ons charismatische en industri&euml;le pand produceren wij interieurs en decors.<br>
             Met voldoende ruimte om te bouwen nemen wij meerdere projecten tegelijk aan.</p>
-            <a href="" class="btn-turq" id="how-we-work">How we work</a>
+            <a href="" class="btn-turq" id="how-we-work">Onze werkwijze</a>
         </article>
     </div>
 </section>
 
 <!--Content - DIVIDER-->
-<section id="container" class="bg-wit clear">
-    <article class="txt-rood">
-    		<img class="spr" src="img/s2.1.jpg">
-		<img class="spr" src="img/s-arrow.jpg">
-        <header>
-            <h2 class="txt-left">
-                Wij verleggen grenzen.
-            </h2>
-            <span class="bg-wit"></span>
-        </header>
-        
-	    <p>Winkels, horecagelegenheden, theaters en kantoren. Wij werken zowel nationaal als internationaal.</p>
-
-    </article>
-</section>
 <section id="container" class="bg-zwart clear">
-    <article class="txt-wit">
+    <article class="txt-wit">	
+    	<div class="half">
+    		<img class="spr" src="img/s3.1.png">
+    		<img class="spr" src="img/s-arrow.png">
+
+    		<header>
+            	<h2 class="txt-left">
+	            	Wij verdiepen het bestaande imago.
+	            </h2>
+	            <span class="bg-rood"></span>
+	        </header>
+	        
+	        <p>en scheppen iets nieuws.</p>
+    	</div>
+
+<div class="half">
+
+    <img class="spr" src="img/s4.1.png">
+		<img class="spr" src="img/s-arrow.png">
         <header>
             <h2 class="txt-left">
-	            Wij diepen het bestaande imago uit, of scheppen iets nieuws.
+                Wij schakelen snel en zorgen voor vertrouwde gezichten op de werkvloer.
             </h2>
-            <span class="bg-rood"></span>
         </header>
+	        <p>
+	            Wij schakelen snel en zorgen voor vertrouwde gezichten op de werkvloer.
+	            Wij staan voor korte lijnen en een gedurfde aanpak.
+	            Wij leveren een verfrissend totaalpakket; vakmanschap van A tot Z.
+	        </p>
+</div>
+
+
     </article>
 </section>
 
@@ -111,7 +149,7 @@
             <header>
                 <img src="img/icon-works.png" class="icon">
                 <h1 class="txt-rood">
-                    Projects
+                    Projecten
                 </h1>
             </header>
             <span class="bg-zwart"></span>
@@ -120,17 +158,22 @@
                 Ons passie ligt in de vorm, de kleur en uitstraling en het effect op de gebruiker.<br>
                 Edit-All huisvest een groep zeer vakbekwame mensen die hart en ziel in hun werk leggen.<br>
             </p>
-            <a href="#" class="btn-rood" id="work-load">See our Projects &#8594;</a>
+            <a href="#" class="btn-rood" id="work-load">Bekijk onze projecten &#8594;</a>
         </article>
     </div>
 </section>
 
 <!--Content - DIVIDER-->
 <section id="container" class="bg-zwart clear">
+
     <article class="txt-wit">
+
+<div class="half">
+    <img class="spr" src="img/s5.1.png">
+		<img class="spr" src="img/s-arrow.png">
         <header>
             <h2 class="txt-left">
-                Wij schakelen snel en zorgen voor vertrouwde gezichten op de werkvloer.
+                Wij staan voor korte lijnen en een gedurfde aanpak.
             </h2>
         </header>
 	        <p>
@@ -138,6 +181,21 @@
 	            Wij staan voor korte lijnen en een gedurfde aanpak.
 	            Wij leveren een verfrissend totaalpakket; vakmanschap van A tot Z.
 	        </p>
+</div>
+<div class="half">
+    <img class="spr" src="img/s6.1.png">
+		<img class="spr" src="img/s-arrow.png">
+        <header>
+            <h2 class="txt-left">
+                Wij leveren een verfrissend totaalpakket. Vakmanschap van A tot Z.
+            </h2>
+        </header>
+	        <p>
+	            Wij schakelen snel en zorgen voor vertrouwde gezichten op de werkvloer.
+	            Wij staan voor korte lijnen en een gedurfde aanpak.
+	            Wij leveren een verfrissend totaalpakket; vakmanschap van A tot Z.
+	        </p>
+</div>
     </article>
 </section>
 

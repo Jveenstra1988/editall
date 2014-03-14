@@ -37,10 +37,10 @@
 		<nav class="bg-wit bottom">
 			<ul class="br-wit">
 				<li>
-					<a href="" id="home" class="active">Home</a>
+					<a href="" id="home" class="active">Edit-All</a>
 				</li>
 				<li>
-					<a href="" id="profile">Profile</a>
+					<a href="" id="profile">Profiel</a>
 				</li>
 				<li>
 					<a href"" id="divider1">
@@ -48,7 +48,7 @@
 					</a>
 				</li>
 				<li>
-					<a href=""id="works">Projects</a>
+					<a href=""id="works">Projecten</a>
 				</li>
 				<li>
 					<a href="" id="contact">Contact</a>

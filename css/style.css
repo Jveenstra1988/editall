@@ -55,6 +55,7 @@ h1 i, h2 i, h3 i, h4 i, h5 i {
 	font-style: normal;
 }
 
+
 /* --- Tekstkleuren --- */
 .txt-rood	{ color: #D41217; }
 .txt-wit	{ color: #F6F6F6; }
@@ -147,15 +148,21 @@ a.btn-antra.stroke:hover, a.btn-antra.stroke.active	{ border-color: #404951;}
 
 img.breed {
 	width: 100%;
-	padding-bottom: 2em;
-	padding-top: 2em;
+	padding-bottom: 1em;
+	padding-top: 1em;
 }
 
 img.spr {
-	max-width: 9.5%;
-	padding: 1% 0% 2% 0%;
+	max-width: 18%;
+	padding: 1% 0%;
 }
 
+.flow img {
+	width: 18%;
+	padding: 1% 0%;
+}
+
+/*
 img.spr {
 	padding-left: 5%;
 	padding-right: 5%;
@@ -173,6 +180,7 @@ img.spr:first-of-type {
 img.spr:last-of-type { 
 	padding-right: 0%;
 }
+*/
 
 .back, .back-to-overzicht {
 	float: left;
@@ -237,11 +245,11 @@ nav {
 }
 
 nav.antra {
-	background: #404951;
-	border: .3em solid #303840;
+	background: #0D0D0D;
+	border: .3em solid #0D0D0D;
 }
 
-nav.antra ul li a {
+.antra ul li a {
 	text-shadow: 1px 1px 1px #303840;
 	color: white;
 }
@@ -380,6 +388,13 @@ footer p a:hover {
 section.clear article{
 	text-align: left;
 	width: 80%;
+}
+
+section.clear article .half {
+	width: 40%;
+	padding: 0% 4%;
+	vertical-align: top;
+	display: inline-block;
 }
 
 section.clear article div.blok {
