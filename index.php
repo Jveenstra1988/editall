@@ -38,8 +38,10 @@
     <article class="txt-antra">
 <div class="half">
 
+<!--
 <img class="spr" src="img/s1.1.jpg">
 <img class="spr" src="img/s-arrow.png">
+-->
  
         <div class="flow">
 	        <img src="img/s1.2.jpg">
@@ -51,7 +53,7 @@
         
         <header>
             <h2 class="txt-left">
-                Wij cre&euml;ren, produceren en monteren.
+                Cre&euml;ren, produceren en monteren.
             </h2>
             <span class="bg-rood"></span>
         </header>
@@ -62,29 +64,36 @@
 	    toe te werken.</p>
 </div>
 <div class="half">
+<!--
 <img class="spr" src="img/s2.1.png">
 <img class="spr" src="img/s-arrow.png">
+-->
 
         <div class="flow">
-	        <img src="img/s1.2.jpg">
+	        <img src="img/s2.2.png">
 	        <img src="img/s-arrow.jpg">
-	        <img src="img/s1.3.jpg">
+	        <img src="img/s2.3.png">
 	        <img src="img/s-arrow.jpg">
-	        <img src="img/s1.4.jpg">
+	        <img src="img/s2.4.png">
         </div>
     
     		<header>
             	<h2 class="txt-left">
-                	Wij verleggen grenzen.
+                	Grensverleggend in fysieke vormen.
                 </h2>
                
                 <span class="bg-rood"></span>
             </header>
         
-            <p>	Winkels, horecagelegenheden, theaters en kantoren. 
-            	Wij werken zowel nationaal als internationaal.</p>
+            <p>Wij realiseren elke uitdaging. Van winkels, horeca- gelegenheden, theaters en kantoren. 
+            	Dit doen wij op zowel nationaal als internationaal gebied, bijvoorbeeld Duitsland.</p>
 </div>
     </article>
+    
+    <div class="scroller">
+    	<img src="img/icon-turq.png" class="">
+    </div>
+    
 </section>
 
 <!--Content - PROFILE-->
@@ -102,12 +111,17 @@
 
             <a href="" class="btn-turq a-btn" id="how-we-work">
                 <span class="a-btn-text">Onze werkwijze</span> 
-                <span class="a-btn-slide-text"><img src="img/icon-profile.png" width="50"></span>
-                <span class="a-btn-icon-right"><span>&#8594;</span></span>
+                <span class="a-btn-slide-text"><img src="img/icon-profile-button.png" width="50"></span>
+                <span class="a-btn-icon-right profilebutton"><span><img src="img/next.png"></span></span>
             </a>
             
         </article>
     </div>
+
+    <div class="scroller">
+    	<img src="img/icon-turq.png" class="">
+    </div>
+
 </section>
 
 <!--Content - DIVIDER-->
@@ -115,16 +129,16 @@
     <article class="txt-wit">	
     	<div class="half">
     		<img class="spr" src="img/s3.1.png">
-    		<img class="spr" src="img/s-arrow.png">
+<!--     		<img class="spr" src="img/s-arrow.png"> -->
 
     		<header>
             	<h2 class="txt-left">
-	            	Wij verdiepen het bestaande imago.
+	            	De verdieping van imago.
 	            </h2>
 	            <span class="bg-rood"></span>
 	        </header>
 	        
-	        <p>en scheppen iets nieuws.</p>
+	        <p>Edit-all schept iets nieuws voor het imago, een stukje branding.</p>
     	</div>
 
 <div class="half">
@@ -133,18 +147,21 @@
 		<img class="spr" src="img/s-arrow.png">
         <header>
             <h2 class="txt-left">
-                Wij schakelen snel en zorgen voor vertrouwde gezichten op de werkvloer.
+                Snel schakelen.
             </h2>
+            <span class="bg-rood"></span>
         </header>
 	        <p>
-	            Wij schakelen snel en zorgen voor vertrouwde gezichten op de werkvloer.
-	            Wij staan voor korte lijnen en een gedurfde aanpak.
-	            Wij leveren een verfrissend totaalpakket; vakmanschap van A tot Z.
+	            Edit-all zorgt voor vertrouwde gezichten op de werkvloer.
 	        </p>
 </div>
 
 
     </article>
+
+    <div class="scroller">
+    	<img src="img/icon-turq.png" class="">
+    </div>    
 </section>
 
 
@@ -158,7 +175,7 @@
                     Projecten
                 </h1>
             </header>
-            <span class="bg-zwart"></span>
+            <span class="bg-rood"></span>
             <p>
                 Wij cree&euml;ren winkels, reclames, interieuren en designs.<br>
                 Ons passie ligt in de vorm, de kleur en uitstraling en het effect op de gebruiker.<br>
@@ -166,13 +183,14 @@
             </p>
 
             <a href="#" class="btn-rood a-btn" id="work-load">
-                <span class="a-btn-text">Bekijk onze projecten</span> 
-                <span class="a-btn-slide-text"><img src="img/icon-works.png" width="50"></span>
-                <span class="a-btn-icon-right"><span>&#8594;</span></span>
+                <span class="a-btn-text">bekijk projecten</span> 
+                <span class="a-btn-slide-text"><img src="img/icon-works-button.png" width="50"></span>
+                <span class="a-btn-icon-right"><span><img src="img/next.png"></span></span>
             </a>
             
         </article>
     </div>
+
 </section>
 
 <!--Content - DIVIDER-->
@@ -189,9 +207,7 @@
             </h2>
         </header>
 	        <p>
-	            Wij schakelen snel en zorgen voor vertrouwde gezichten op de werkvloer.
-	            Wij staan voor korte lijnen en een gedurfde aanpak.
-	            Wij leveren een verfrissend totaalpakket; vakmanschap van A tot Z.
+	            Zo werken wij naar een eindproduct van zowel een klein- als school-schalig project. 
 	        </p>
 </div>
 <div class="half">
@@ -199,13 +215,11 @@
 		<img class="spr" src="img/s-arrow.png">
         <header>
             <h2 class="txt-left">
-                Wij leveren een verfrissend totaalpakket. Vakmanschap van A tot Z.
+                Wij leveren een verfrissend totaalpakket.
             </h2>
         </header>
 	        <p>
-	            Wij schakelen snel en zorgen voor vertrouwde gezichten op de werkvloer.
-	            Wij staan voor korte lijnen en een gedurfde aanpak.
-	            Wij leveren een verfrissend totaalpakket; vakmanschap van A tot Z.
+	            Dat realiseren wij door de inzet van vakmanschap die een pakket kunnen leveren van A to Z.
 	        </p>
 </div>
     </article>

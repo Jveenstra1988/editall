@@ -57,11 +57,11 @@
 				</section>
 				<!--Content - DIVIDER-->
 				
-				<section id="container" class="bg-wit clear">
+				<section id="container" class="bg-zwart clear">
 					<article class="txt-rood">
 						<header>
 							<h2>
-								So... <span class="txt-zwart">We Edit-All</span>
+								So... <span class="txt-wit">We Edit-All</span>
 							</h2>
 						</header>
 					</article>

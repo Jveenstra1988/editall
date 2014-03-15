@@ -53,7 +53,7 @@ $(document).ready(function(){
 		
 		// change class of nav img so it can come out of nav
 		// and get back in
-		if ( $window.scrollTop() >= distance - 120 ) {
+		if ( $window.scrollTop() >= distance - 124 ) {
 			// Your div has reached  top 130px
 			$("nav img").removeClass("header-icon");
 		} else {
@@ -98,7 +98,7 @@ $(document).ready(function(){
 	
 	$("#divider1").click(function() {
 		$('html, body').animate({
-		    scrollTop: $("#container1").offset().top -290
+		    scrollTop: $("#container1").offset().top -50
 		}, 600);
 		return false
 	});
