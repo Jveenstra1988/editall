@@ -3,7 +3,7 @@
 	<a href="#" class="btn-rood back">&#8592; Terug</a>
 	<article class="bg-donkergrijs images">
 		<header>
-			<h1 class="txt-wit txt-left">Projecten</h1>
+			<h1 class="txt-rood txt-left">Projecten</h1>
 		</header>
 		
 		<a href="#" class="btn-wit stroke active" id="all">All</a>
