@@ -132,37 +132,12 @@
 
 <!--Content - DIVIDER-->
 <section id="container2" class="bg-zwart clear">
-    <article class="txt-wit">	
-    	<div class="half">
-    		<img class="spr" src="img/s3.1.png">
-<!--     		<img class="spr" src="img/s-arrow.png"> -->
-
-    		<header>
-            	<h2 class="txt-left">
-	            	De verdieping van imago.
-	            </h2>
-	            <span class="bg-rood"></span>
-	        </header>
-	        
-	        <p>Edit-all schept iets nieuws voor het imago, een stukje branding.</p>
-    	</div>
-
-<div class="half">
-
-    <img class="spr" src="img/s4.1.png">
-		<img class="spr" src="img/s-arrow.png">
-        <header>
-            <h2 class="txt-left">
-                Snel schakelen.
+    <article class="txt-rood">	
+    	<header>
+            <h2>
+                So... <span class="txt-wit">We Edit-All</span>
             </h2>
-            <span class="bg-rood"></span>
         </header>
-	        <p>
-	            Edit-all zorgt voor vertrouwde gezichten op de werkvloer.
-	        </p>
-        </div>
-
-
     </article>
 
     <a class="scroller" id="divider4">
@@ -203,33 +178,12 @@
 
 <!--Content - DIVIDER-->
 <section id="container3" class="bg-zwart clear">
-
-    <article class="txt-wit">
-
-<div class="half">
-    <img class="spr" src="img/s5.1.png">
-		<img class="spr" src="img/s-arrow.png">
+    <article class="txt-rood">
         <header>
-            <h2 class="txt-left">
-                Wij staan voor korte lijnen en een gedurfde aanpak.
+            <h2>
+                So... <span class="txt-wit">We Edit-All</span>
             </h2>
         </header>
-	        <p>
-	            Zo werken wij naar een eindproduct van zowel een klein- als school-schalig project. 
-	        </p>
-</div>
-<div class="half">
-    <img class="spr" src="img/s6.1.png">
-		<img class="spr" src="img/s-arrow.png">
-        <header>
-            <h2 class="txt-left">
-                Wij leveren een verfrissend totaalpakket.
-            </h2>
-        </header>
-	        <p>
-	            Dat realiseren wij door de inzet van vakmanschap die een pakket kunnen leveren van A to Z.
-	        </p>
-</div>
     </article>
     <a class="scroller" id="divider6">
         <img src="img/icon-turq.png" class="">
