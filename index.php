@@ -30,74 +30,85 @@
             
           </div>
     </div>
+    <img src="img/beeldmerk.png" class="beeldmerk">  
     <img src="img/logo.png" class="logo">    
 </section>
 
 <!--Content - DIVIDER 1-->
 <section id="container1" class="bg-wit clear">
     <article class="txt-antra">
-<div class="half">
 
-<!--
-<img class="spr" src="img/s1.1.jpg">
-<img class="spr" src="img/s-arrow.png">
--->
- 
-        <div class="flow">
-        <a title="schets" class="tooltip" target="_blank" href="#">
-			<span>Wij starten met een schets</span>
-	    	<img src="img/s1.2.jpg">
-        </a>
-           
-	        <img src="img/s-arrow.jpg">
-	      <a title="schets" class="tooltip" target="_blank" href="#">
-			<span>Wij produceren het product</span>
-	        <img src="img/s1.3.jpg">
-	      </a>
-	        <img src="img/s-arrow.jpg">
-	        <a title="schets" class="tooltip" target="_blank" href="#">
-			<span>En zetten het in elkaar</span>
-	        <img src="img/s1.4.jpg">
-	        </a>
-        </div>
-        
+
+<div class="drie">
         <header>
-            <h2 class="txt-left">
-                Cre&euml;ren, produceren en monteren.
-            </h2>
+ 			<img class="spr" src="img/s1.2.jpg">
+            <h4 class="txt-left">
+                Wij Cre&euml;ren, produceren en monteren.
+            </h4>
             <span class="bg-rood"></span>
         </header>
         
-	    <p>Binnen elk project werken wij van schets naar een 3-dimensionale werktekening.
-	    Op deze manier cre&euml;eren wij de bouwstenen voor de eindrealisatie van het product
-	    en proberen wij vanuit de conceptuele fase naar een zo realistisch mogelijk beeld van de werkelijkheid
-	    toe te werken.</p>
+	    <p>Binnen elk project werken wij van schets naar een 3-dimensionale werktekening.</p>
 </div>
-<div class="half">
-<!--
-<img class="spr" src="img/s2.1.png">
-<img class="spr" src="img/s-arrow.png">
--->
-
-        <div class="flow">
-	        <img src="img/s2.2.png">
-	        <img src="img/s-arrow.jpg">
-	        <img src="img/s2.3.png">
-	        <img src="img/s-arrow.jpg">
-	        <img src="img/s2.4.png">
-        </div>
-    
-    		<header>
-            	<h2 class="txt-left">
-                	Grensverleggend in fysieke vormen.
-                </h2>
+<div class="drie">
+    	<header>
+  	        <img class="spr" src="img/s1.4.jpg">
+	    	<h4 class="txt-left">
+            	Grensverleggend in fysieke vormen.
+            </h4>
                
-                <span class="bg-rood"></span>
-            </header>
+            <span class="bg-rood"></span>
+        </header>
         
-            <p>Wij realiseren elke uitdaging. Van winkels, horeca- gelegenheden, theaters en kantoren. 
-            	Dit doen wij op zowel nationaal als internationaal gebied, bijvoorbeeld Duitsland.</p>
+        <p>	Wij realiseren elke uitdaging. Van winkels, horeca- gelegenheden, theaters en kantoren. 
+            </p>
 </div>
+<div class="drie">     
+        <header>
+ 		    <img class="spr" src="img/s2.2.png">   
+            <h4 class="txt-left">
+                Wij diepen het bestaande imago uit of scheppen iets nieuws.
+            </h4>
+            <span class="bg-rood"></span>
+        </header>
+        
+	    <p>Binnen elk project werken wij van schets naar een 3-dimensionale werktekening.</p>
+</div>
+<div class="drie">
+        <header>
+ 			<img class="spr" src="img/s2.4.png">
+            <h4 class="txt-left">
+                Wij schakelen snel en zorgen voor vertrouwde gezichten op de werkvloer.
+            </h4>
+            <span class="bg-rood"></span>
+        </header>
+        
+	    <p>Binnen elk project werken wij van schets naar een 3-dimensionale werktekening.</p>
+</div>
+<div class="drie">
+    	<header>
+  	        <img class="spr" src="img/s2.3.png">
+	    	<h4 class="txt-left">
+            	Wij staan voor korte lijnen en een gedurfde aanpak.
+            </h4>
+               
+            <span class="bg-rood"></span>
+        </header>
+        
+        <p>	Wij realiseren elke uitdaging. Van winkels, horeca- gelegenheden, theaters en kantoren. </p>
+</div>
+<div class="drie">     
+        <header>
+ 		    <img class="spr" src="img/s1.3.jpg">   
+            <h4 class="txt-left">
+                Wij leveren een verfrissend totaalpakket; vakmanschap van A tot Z.
+            </h4>
+            <span class="bg-rood"></span>
+        </header>
+        
+	    <p>Binnen elk project werken wij van schets naar een 3-dimensionale werktekening.</p>
+</div>
+
     </article>
     
     <div class="scroller">

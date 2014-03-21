@@ -80,7 +80,9 @@ p, ul, li {
 .bg-rood		{ background: #D41217; }
 .bg-wit			{ background: #F6F6F6; }
 .bg-grijs		{ background: #e1e1e1; }
-.bg-donkergrijs	{ background: #cccccc; }
+.bg-grijs2		{ background: #9b9b9b; }
+.bg-grijs3		{ background: #4a4a4a; }
+.bg-donkergrijs	{ background: #c7c7c7; }
 .bg-turq		{ background: #33B6B3; }
 /* .bg-zwart	{ background: #282B30; } */
 .bg-zwart		{ background: #0D0D0D; }
@@ -112,11 +114,11 @@ a.btn-rood, a.btn-wit, a.btn-turq, a.btn-zwart, a.btn-antra {
 }
 
 /* Buttons */
-a.btn-rood	{ color:#F6F6F6; background:#D41217; border: solid 1px #93130a; }
-a.btn-wit	{ color:#282B30; background:#F6F6F6; border: solid 1px #F6F6F6; }
-a.btn-turq	{ color:#F6F6F6; background:#33B6B3; border: solid 1px #33B6B3; }
-a.btn-zwart	{ color:#F6F6F6; background:#282B30; border: solid 1px #282B30; }
-a.btn-antra	{ color:#F6F6F6; background:#404951; border: solid 1px #404951; }
+a.btn-rood	{ color:#F6F6F6; background:#D41217; border: solid 1px #93130a; border-bottom: 5px solid #93130a; text-shadow: 2px 2px 1px #93130a; }
+a.btn-wit	{ color:#282B30; background:#F6F6F6; border: solid 1px #F6F6F6; border-bottom: 5px solid #F6F6F6; }
+a.btn-turq	{ color:#F6F6F6; background:#33B6B3; border: solid 1px #258c8b; border-bottom: 5px solid #258c8b; text-shadow: 2px 2px 1px #258c8b; }
+a.btn-zwart	{ color:#F6F6F6; background:#282B30; border: solid 1px #282B30; border-bottom: 5px solid #282B30; }
+a.btn-antra	{ color:#F6F6F6; background:#404951; border: solid 1px #404951; border-bottom: 5px solid #2c3338; }
 
 /* Main buttons */
 .a-btn{
@@ -145,7 +147,7 @@ a.btn-antra	{ color:#F6F6F6; background:#404951; border: solid 1px #404951; }
     top: 0px;
     right: 52px;
     width: 0px;
-    background: #f8f8f8;
+    background: #26b6b4;
     text-align: left;
     overflow: hidden;
     -webkit-transition: all 200ms ease-in;
@@ -154,6 +156,11 @@ a.btn-antra	{ color:#F6F6F6; background:#404951; border: solid 1px #404951; }
 	-o-transition: all 200ms ease-in;
 	transition: all 200ms ease-in;
 }
+
+.btn-rood .a-btn-slide-text{
+	background: #d41217;
+}
+
 .a-btn-icon-right{
     position: absolute;
     right: 0px;
@@ -164,7 +171,7 @@ a.btn-antra	{ color:#F6F6F6; background:#404951; border: solid 1px #404951; }
 }
 
 .a-btn-icon-right.profilebutton {
-    border-left: 2px solid green;
+    border-left: 2px solid #258c8b;
 }
 
 .a-btn-icon-right span{
@@ -188,11 +195,11 @@ a.btn-antra	{ color:#F6F6F6; background:#404951; border: solid 1px #404951; }
 }
 
 /* Hovers */
-a.btn-rood:hover, a.btn-rood.active		{ background:#ac1e2e; }
-a.btn-wit:hover, a.btn-wit.active		{ background:#c1c1c1; }
-a.btn-turq:hover, a.btn-turq.active		{ background:#258c8b; }
+a.btn-rood:hover, a.btn-rood.active		{ background:#93130a; border-bottom: 5px solid #590f16; }
+a.btn-wit:hover, a.btn-wit.active		{ background:#bbbbbb; }
+a.btn-turq:hover, a.btn-turq.active		{ background:#218281; border-bottom: 5px solid #165c5b; }
 a.btn-zwart:hover, a.btn-zwart.active	{ background:#121315; }
-a.btn-antra:hover, a.btn-antra.active	{ background:#1e2326; }
+a.btn-antra:hover, a.btn-antra.active	{ background:#2c3338; border-bottom: 5px solid #0f1113;}
 
 
 
@@ -224,6 +231,8 @@ img.breed {
 img.spr {
 	max-width: 18%;
 	padding: 1% 0%;
+	margin: auto;
+	display: inline;
 }
 
 .flow {
@@ -370,20 +379,33 @@ nav ul li img {
 
 
 /* Images */
+
+.beeldmerk {
+	text-align: center;
+	z-index: 999;
+	position: fixed;
+	left: 56.5%;
+	margin-left: -12.5%;
+	top: 100px;
+	width: 12%;
+	z-index: 9;	
+}
+
 .logo {
 	text-align: center;
 	z-index: 999;
 	position: fixed;
 	left: 50%;
 	margin-left: -12.5%;
-	top: 250px;
+/* 	top: 340px; */
+	top: 43%;
 	width: 25%;
 	z-index: 9;
 }
 
 .header-icon {
 	position: fixed;
-	top: 130px;
+	bottom: 15%;
 	left: 47%;
 	width: 6%;
 	-webkit-transition: all 300ms ease-in-out;
@@ -471,6 +493,92 @@ article.images {
 }
 
 
+/* Articles die minder hoog zijn */
+
+section.clear article{
+	text-align: left;
+	width: 90%;
+}
+
+section.clear article .half {
+	width: 40%;
+	padding: 0% 4%;
+	vertical-align: top;
+	display: inline-block;
+}
+
+section.clear article .drie {
+	width: 29%;
+	padding: 0% 2%;
+	vertical-align: top;
+	display: inline-block;
+}
+
+article .drie header {
+	margin-top: 4em;
+}
+
+article .drie header h4 {
+	height: 7%;
+	width: 76%;
+	float: right;
+}
+
+section.clear article div.blok {
+	display: inline-block;
+	width: 31.5%;
+	margin: 0em .3em 0em .3em;
+	vertical-align: top;
+/* 	background: #e9e9e9; */
+}
+
+section.clear article div p {
+	display: inline-block;
+	font-size: .9em;
+	line-height: 1.6em;
+	margin: 0 0 0 0;
+}
+
+.blokimg {
+	display: block;
+	float: left;
+}
+
+.blokimg img {
+	width: 60px;
+}
+
+@media screen and (min-width: 900px) {
+
+	section.clear article .drie h4 {
+		min-height: 4em;
+	}
+
+}
+
+@media screen and (max-width: 900px) {
+	section.clear article .drie {
+		width: 42%;
+	}
+	
+	section.clear article .drie h4 {
+		min-height: 6.5em;
+	}
+}
+
+@media screen and (max-width: 550px) {
+	section.clear article .drie {
+		width: 94%;
+		display: block;
+	}
+	
+	section.clear article .drie h4 {
+		min-height: 3em;
+	}
+	
+}
+
+
 /*
 -------------------------------------------
 //////////// FOOTER STYLES ////////////
@@ -485,42 +593,7 @@ footer p a:hover {
 	color: #26B6B4 !important;
 }
 
-section.clear article{
-	text-align: left;
-	width: 80%;
-}
 
-section.clear article .half {
-	width: 40%;
-	padding: 0% 4%;
-	vertical-align: top;
-	display: inline-block;
-}
-
-section.clear article div.blok {
-	display: inline-block;
-	width: 31.5%;
-	margin: 0em .3em 0em .3em;
-	vertical-align: top;
-/* 	background: #e9e9e9; */
-}
-
-section.clear article div p {
-	display: inline-block;
-/* 	float: right; */
-	font-size: 1em;
-/* 	padding-left: .5em; */
-	margin: 0 0 0 0;
-}
-
-.blokimg {
-	display: block;
-	float: left;
-}
-
-.blokimg img {
-	width: 60px;
-}
 
 /*
 -------------------------------------------
@@ -621,14 +694,15 @@ article.how-we-work {
 	height: 100%;
 	padding-right: 35%;
 	margin-left: 15%;
-	border-left: 10px solid #ccc;
+	border-left: 10px solid #474747;
 }
 
 #works-overzicht article {
 	height: 90%;
 	padding-right: 24%;
 	margin-left: 12%;
-	border-left: 10px solid #c42c41;
+	border-left: 10px solid #8b8b8b;
+	border-left: 10px solid rgba(94,94,94,0.4);
 }
 
 #works-overzicht article header {
@@ -1014,7 +1088,7 @@ a.tooltip:hover span {
 		margin: 2em 0em;
 	}
 	section.clear article div p {
-		padding-left: 2em;
+/* 		padding-left: 2em; */
 		float: none;
 	}
 	

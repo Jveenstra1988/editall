@@ -23,9 +23,9 @@ body {
 }
 
 ::selection {
-    background: #F6F6F6;
-    text-shadow: 1px 1px white;
-    color: #33B6B3;
+    background: rgba(212,17,23,0.64);
+/*     text-shadow: 1px 1px #383838; */
+    color: #f6f6f6;
 }
 
 hr {
