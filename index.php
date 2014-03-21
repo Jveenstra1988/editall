@@ -70,7 +70,6 @@
             <span class="bg-rood"></span>
         </header>
         
-<<<<<<< HEAD
 	    <p>Binnen elk project werken wij van schets naar een 3-dimensionale werktekening.</p>
 </div>
 <div class="drie">
@@ -90,36 +89,9 @@
 	    	<h4 class="txt-left">
             	Wij staan voor korte lijnen en een gedurfde aanpak.
             </h4>
-=======
-	    <p>Binnen elk project werken wij van schets naar een 3-dimensionale werktekening.
-	    Op deze manier cre&euml;eren wij de bouwstenen voor de eindrealisatie van het product
-	    en proberen wij vanuit de conceptuele fase naar een zo realistisch mogelijk beeld van de werkelijkheid
-	    toe te werken.</p>
-        </div>
-        <div class="half">
-        <!--
-        <img class="spr" src="img/s2.1.png">
-        <img class="spr" src="img/s-arrow.png">
-        -->
-
-            <div class="flow">
-                <img src="img/s2.2.png">
-                <img src="img/s-arrow.jpg">
-                <img src="img/s2.3.png">
-                <img src="img/s-arrow.jpg">
-                <img src="img/s2.4.png">
-            </div>
-    
-    		<header>
-            	<h2 class="txt-left">
-                	Grensverleggend in fysieke vormen.
-                </h2>
->>>>>>> FETCH_HEAD
-               
             <span class="bg-rood"></span>
         </header>
-        
-        <p>	Wij realiseren elke uitdaging. Van winkels, horeca- gelegenheden, theaters en kantoren. </p>
+ 	    <p>Binnen elk project werken wij van schets naar een 3-dimensionale werktekening.</p>       
 </div>
 <div class="drie">     
         <header>
@@ -130,15 +102,8 @@
             <span class="bg-rood"></span>
         </header>
         
-<<<<<<< HEAD
 	    <p>Binnen elk project werken wij van schets naar een 3-dimensionale werktekening.</p>
 </div>
-
-=======
-            <p>Wij realiseren elke uitdaging. Van winkels, horeca- gelegenheden, theaters en kantoren. 
-            	Dit doen wij op zowel nationaal als internationaal gebied, bijvoorbeeld Duitsland.</p>
-        </div>
->>>>>>> FETCH_HEAD
     </article>
     
     <a class="scroller" id="divider2">
