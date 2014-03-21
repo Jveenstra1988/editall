@@ -9,8 +9,6 @@
             <!--First Slide-->
             <div class="swiper-slide" id="stores"> 
                 <!-- Any HTML content of the first slide goes here -->
-                <!--<p class="txt-wit">We Edit</p>-->
-                <!--<a href="" class="btn-rood">Commercials</a>-->
             </div>
             
             <!--Second Slide-->
@@ -72,6 +70,7 @@
             <span class="bg-rood"></span>
         </header>
         
+<<<<<<< HEAD
 	    <p>Binnen elk project werken wij van schets naar een 3-dimensionale werktekening.</p>
 </div>
 <div class="drie">
@@ -91,6 +90,31 @@
 	    	<h4 class="txt-left">
             	Wij staan voor korte lijnen en een gedurfde aanpak.
             </h4>
+=======
+	    <p>Binnen elk project werken wij van schets naar een 3-dimensionale werktekening.
+	    Op deze manier cre&euml;eren wij de bouwstenen voor de eindrealisatie van het product
+	    en proberen wij vanuit de conceptuele fase naar een zo realistisch mogelijk beeld van de werkelijkheid
+	    toe te werken.</p>
+        </div>
+        <div class="half">
+        <!--
+        <img class="spr" src="img/s2.1.png">
+        <img class="spr" src="img/s-arrow.png">
+        -->
+
+            <div class="flow">
+                <img src="img/s2.2.png">
+                <img src="img/s-arrow.jpg">
+                <img src="img/s2.3.png">
+                <img src="img/s-arrow.jpg">
+                <img src="img/s2.4.png">
+            </div>
+    
+    		<header>
+            	<h2 class="txt-left">
+                	Grensverleggend in fysieke vormen.
+                </h2>
+>>>>>>> FETCH_HEAD
                
             <span class="bg-rood"></span>
         </header>
@@ -106,14 +130,20 @@
             <span class="bg-rood"></span>
         </header>
         
+<<<<<<< HEAD
 	    <p>Binnen elk project werken wij van schets naar een 3-dimensionale werktekening.</p>
 </div>
 
+=======
+            <p>Wij realiseren elke uitdaging. Van winkels, horeca- gelegenheden, theaters en kantoren. 
+            	Dit doen wij op zowel nationaal als internationaal gebied, bijvoorbeeld Duitsland.</p>
+        </div>
+>>>>>>> FETCH_HEAD
     </article>
     
-    <div class="scroller">
+    <a class="scroller" id="divider2">
     	<img src="img/icon-turq.png" class="">
-    </div>
+    </a>
     
 </section>
 
@@ -138,51 +168,24 @@
             
         </article>
     </div>
-
-    <div class="scroller">
-    	<img src="img/icon-turq.png" class="">
-    </div>
-
+    <a class="scroller2" id="divider3">
+        <img src="img/icon-turq.png" class="">
+    </a>
 </section>
 
 <!--Content - DIVIDER-->
-<section id="container" class="bg-zwart clear">
-    <article class="txt-wit">	
-    	<div class="half">
-    		<img class="spr" src="img/s3.1.png">
-<!--     		<img class="spr" src="img/s-arrow.png"> -->
-
-    		<header>
-            	<h2 class="txt-left">
-	            	De verdieping van imago.
-	            </h2>
-	            <span class="bg-rood"></span>
-	        </header>
-	        
-	        <p>Edit-all schept iets nieuws voor het imago, een stukje branding.</p>
-    	</div>
-
-<div class="half">
-
-    <img class="spr" src="img/s4.1.png">
-		<img class="spr" src="img/s-arrow.png">
-        <header>
-            <h2 class="txt-left">
-                Snel schakelen.
+<section id="container2" class="bg-zwart clear">
+    <article class="txt-rood">	
+    	<header>
+            <h2>
+                So... <span class="txt-wit">We Edit-All</span>
             </h2>
-            <span class="bg-rood"></span>
         </header>
-	        <p>
-	            Edit-all zorgt voor vertrouwde gezichten op de werkvloer.
-	        </p>
-</div>
-
-
     </article>
 
-    <div class="scroller">
+    <a class="scroller" id="divider4">
     	<img src="img/icon-turq.png" class="">
-    </div>    
+    </a>    
 </section>
 
 
@@ -211,39 +214,23 @@
             
         </article>
     </div>
-
+    <a class="scroller2" id="divider5">
+        <img src="img/icon-turq.png" class="">
+    </a>
 </section>
 
 <!--Content - DIVIDER-->
-<section id="container" class="bg-zwart clear">
-
-    <article class="txt-wit">
-
-<div class="half">
-    <img class="spr" src="img/s5.1.png">
-		<img class="spr" src="img/s-arrow.png">
+<section id="container3" class="bg-zwart clear">
+    <article class="txt-rood">
         <header>
-            <h2 class="txt-left">
-                Wij staan voor korte lijnen en een gedurfde aanpak.
+            <h2>
+                So... <span class="txt-wit">We Edit-All</span>
             </h2>
         </header>
-	        <p>
-	            Zo werken wij naar een eindproduct van zowel een klein- als school-schalig project. 
-	        </p>
-</div>
-<div class="half">
-    <img class="spr" src="img/s6.1.png">
-		<img class="spr" src="img/s-arrow.png">
-        <header>
-            <h2 class="txt-left">
-                Wij leveren een verfrissend totaalpakket.
-            </h2>
-        </header>
-	        <p>
-	            Dat realiseren wij door de inzet van vakmanschap die een pakket kunnen leveren van A to Z.
-	        </p>
-</div>
     </article>
+    <a class="scroller" id="divider6">
+        <img src="img/icon-turq.png" class="">
+    </a>
 </section>
 
 <?php require 'inc/footer.php'; ?>
