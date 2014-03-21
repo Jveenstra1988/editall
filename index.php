@@ -44,11 +44,21 @@
 -->
  
         <div class="flow">
-	        <img src="img/s1.2.jpg">
+        <a title="schets" class="tooltip" target="_blank" href="#">
+			<span>Wij starten met een schets</span>
+	    	<img src="img/s1.2.jpg">
+        </a>
+           
 	        <img src="img/s-arrow.jpg">
+	      <a title="schets" class="tooltip" target="_blank" href="#">
+			<span>Wij produceren het product</span>
 	        <img src="img/s1.3.jpg">
+	      </a>
 	        <img src="img/s-arrow.jpg">
+	        <a title="schets" class="tooltip" target="_blank" href="#">
+			<span>En zetten het in elkaar</span>
 	        <img src="img/s1.4.jpg">
+	        </a>
         </div>
         
         <header>

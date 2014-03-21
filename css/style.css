@@ -819,6 +819,67 @@ a.video img.img-stack:before {
 	height: 100%;
 }
 
+
+/* TOOLTIP */
+
+a.tooltip {
+    position:absolute;    
+    color:#020305;
+    text-decoration:none;
+}
+
+a.tooltip:before {
+    content:"";
+    color:#020305;
+}
+
+a.tooltip span {
+    padding:.6em;
+    background:#d41217;
+    font-size: .75em;
+    height: auto;
+    color:#F6F6F6;
+    box-shadow:0px 1px 0px #fff;
+    text-align:center;
+
+    opacity:0;
+    -moz-transition: opacity .5s ease; 
+    -webkit-transition: opacity .5s ease;
+    -o-transition:opacity .5s ease;
+    transition: opacity .5s ease;
+}
+
+a.tooltip span:before {
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #020305;
+    z-index:5;
+    content: " ";
+    position:absolute;
+    top:24px;
+    left:10px;
+}
+
+a.tooltip span:after {
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #020305;
+    display:block;
+    content: " ";
+    position:absolute;
+    top:24px;
+    left:10px;
+}
+
+a.tooltip:hover span {
+    opacity:1;
+}
+
+
 /*
 -------------------------------------------
 //////////// MEDIQUERIES ///////////
