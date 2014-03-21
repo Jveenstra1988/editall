@@ -104,21 +104,67 @@ $(document).ready(function(){
 	});
 	
 	//$("#profile").click(function() {
-	$(document).on('click','#profile, #how-we-work, .back-to-profile', function() {
+	$(document).on('click','#profile, #how-we-work, .back-to-profile, #divider2', function() {
 		$('html, body').animate({
 		    scrollTop: $("#profile-container").offset().top -58
 		}, 600);
 	    return false
 	});
 	
-	$(document).on('click','#works, #work-load, .back-to-overzicht, .back, .next-project', function() {
+	$("#divider3").click(function() {
+		$('html, body').animate({
+		    scrollTop: $("#container2").offset().top -50
+		}, 600);
+		return false
+	});
+	
+	$(document).on('click','#work-load, .back-to-overzicht, .next-project', function() {
+		$('html, body').animate({
+		    scrollTop: $("#works-container").offset().top
+		}, 600);
+		return false
+	});
+	
+	//	Zorg dat de ruimte van de menu balk weer wordt meegenomen
+	$(document).on('click','#works, .back, #divider4', function() {
 		$('html, body').animate({
 		    scrollTop: $("#works-container").offset().top -58
 		}, 600);
 		return false
 	});
 	
-	$("#contact").click(function() {
+//	disable scroll
+	$(document).on('click', '#work-load', function() {
+		$('nav').slideUp();
+		$('body').addClass('no-overflow');
+		$('body').bind('touchmove', function(e){e.preventDefault()});
+		//$('body').unbind('touchmove');
+		$('body').bind('mousewheel', function(e) {
+				if (e.target.id == 'el') return;
+				e.preventDefault();
+		});
+		
+		return false
+	});
+	
+//	enable scroll
+	$(document).on('click', '.back', function() {
+		$('nav').slideDown();
+		$('body').removeClass('no-overflow');
+		$('body').unbind('touchmove');
+		$('body').unbind('mousewheel');
+		
+		return false
+	});
+	
+	$("#divider5").click(function() {
+		$('html, body').animate({
+		    scrollTop: $("#container3").offset().top -50
+		}, 600);
+		return false
+	});
+	
+	$("#contact, #divider6").click(function() {
 		$('html, body').animate({
 		    scrollTop: $("#contact-container").offset().top -58
 		}, 600);
@@ -274,51 +320,6 @@ $(document).on('click','.back', function(){
 	return false;
 })
 
-// Filter different projects
-$(document).on('click','#all', function() {
-	$('#results .clickable').fadeTo( "slow" , 1);
-	
-	$('#works-overzicht article a').removeClass('active');
-	$(this).addClass('active');
-	return false;
-});
-
-$(document).on('click','#stores', function() {
-	$('#results .clickable').fadeTo( 200 , 0.1);
-	$('#results .clickable').filter('.stores').fadeTo( 200 , 1);
-	
-	$('#works-overzicht article a').removeClass('active');
-	$(this).addClass('active');
-	return false;
-});
-
-$(document).on('click','#commercials', function() {
-	$('#results .clickable').fadeTo( 200 , 0.1);
-	$('#results .clickable').filter('.commercials').fadeTo( 200 , 1);
-	
-	$('#works-overzicht article a').removeClass('active');
-	$(this).addClass('active');
-	return false;
-});
-
-$(document).on('click','#interiors', function() {
-	$('#results .clickable').fadeTo( 200 , 0.1);
-	$('#results .clickable').filter('.interiors').fadeTo( 200 , 1);
-	
-	$('#works-overzicht article a').removeClass('active');
-	$(this).addClass('active');
-	return false;
-});
-
-$(document).on('click','#designs', function() {
-	$('#results .clickable').fadeTo( 200 , 0.1);
-	$('#results .clickable').filter('.designs').fadeTo( 200 , 1);
-	
-	$('#works-overzicht article a').removeClass('active');
-	$(this).addClass('active');
-	return false;
-});
-
 // Load project information
 $(document).on('click','#results div, .overlay-txt, .next-project', function() {
 	var navClass = $(this).attr("id");
@@ -365,8 +366,51 @@ $(document).on('click','.back-to-profile', function(){
 	return false;
 })
 
+//Filter functie-------------------------------------------
+// Filter different projects
+$(document).on('click','#all', function() {
+	$('#results .clickable').fadeTo( "slow" , 1);
+	
+	$('#works-overzicht article a').removeClass('active');
+	$(this).addClass('active');
+	return false;
+});
 
+$(document).on('click','#stores', function() {
+	$('#results .clickable').fadeTo( 200 , 0.1);
+	$('#results .clickable').filter('.stores').fadeTo( 200 , 1);
+	
+	$('#works-overzicht article a').removeClass('active');
+	$(this).addClass('active');
+	return false;
+});
 
+$(document).on('click','#commercials', function() {
+	$('#results .clickable').fadeTo( 200 , 0.1);
+	$('#results .clickable').filter('.commercials').fadeTo( 200 , 1);
+	
+	$('#works-overzicht article a').removeClass('active');
+	$(this).addClass('active');
+	return false;
+});
+
+$(document).on('click','#interiors', function() {
+	$('#results .clickable').fadeTo( 200 , 0.1);
+	$('#results .clickable').filter('.interiors').fadeTo( 200 , 1);
+	
+	$('#works-overzicht article a').removeClass('active');
+	$(this).addClass('active');
+	return false;
+});
+
+$(document).on('click','#designs', function() {
+	$('#results .clickable').fadeTo( 200 , 0.1);
+	$('#results .clickable').filter('.designs').fadeTo( 200 , 1);
+	
+	$('#works-overzicht article a').removeClass('active');
+	$(this).addClass('active');
+	return false;
+});
 
 
 

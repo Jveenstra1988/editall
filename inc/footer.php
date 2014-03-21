@@ -5,9 +5,7 @@
 				<section id="container" class="bg-wit clear">
 					<article class="txt-antra">
 						<div class="blok">
-							<div class="blokimg">
-								<img src="img/icon-place.png" class="icon">
-							</div>
+						    <img src="img/icon-place.png">
 							<p class="three-col">
 								Venserweg 7 (Hal 4)<br />
 								1112 AR  Diemen<br />
@@ -15,25 +13,21 @@
 							</p>
 						</div>
 						<div class="blok">
-							<div class="blokimg">
-								<img src="img/icon-phone.png" class="icon">
-							</div>
+						    <img src="img/icon-phone.png">
 							<p>
 								Bel ons<br />
 								<a href="tel:+316-51525382">Rob: 06-515 253 82</a><br />
 								<a href="tel:+316-50602207">Ruben: 06-506 022 07</a><br />
-								<a href="tel:+316-50602207">Administratie: 06-506 022 07</a><br />
+								<a href="tel:+316-50602207">Elsemieke: 06-506 022 07</a>
 							</p>
 						</div>
 						<div class="blok">
-							<div class="blokimg">
-								<img src="img/icon-email.png" class="icon">
-							</div>
+						    <img src="img/icon-email.png">
 							<p>
-								E-mail ons<br />
-								<a href="mailto:info@edit-all.nl">info@edit-all.nl</a>  <br />          
+								E-mail ons<br />          
 								<a href="mailto:rob@edit-all.nl">rob@edit-all.nl</a>   <br />         
-								<a href="mailto:ruben@edit-all.nl">ruben@edit-all.nl</a> <br />           
+								<a href="mailto:ruben@edit-all.nl">ruben@edit-all.nl</a> <br />
+								<a href="mailto:elsemieke@edit-all.nl">elsemieke@edit-all.nl</a>
 							</p>
 						</div>
 						

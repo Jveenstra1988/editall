@@ -9,8 +9,6 @@
             <!--First Slide-->
             <div class="swiper-slide" id="stores"> 
                 <!-- Any HTML content of the first slide goes here -->
-                <!--<p class="txt-wit">We Edit</p>-->
-                <!--<a href="" class="btn-rood">Commercials</a>-->
             </div>
             
             <!--Second Slide-->
@@ -72,20 +70,20 @@
 	    Op deze manier cre&euml;eren wij de bouwstenen voor de eindrealisatie van het product
 	    en proberen wij vanuit de conceptuele fase naar een zo realistisch mogelijk beeld van de werkelijkheid
 	    toe te werken.</p>
-</div>
-<div class="half">
-<!--
-<img class="spr" src="img/s2.1.png">
-<img class="spr" src="img/s-arrow.png">
--->
-
-        <div class="flow">
-	        <img src="img/s2.2.png">
-	        <img src="img/s-arrow.jpg">
-	        <img src="img/s2.3.png">
-	        <img src="img/s-arrow.jpg">
-	        <img src="img/s2.4.png">
         </div>
+        <div class="half">
+        <!--
+        <img class="spr" src="img/s2.1.png">
+        <img class="spr" src="img/s-arrow.png">
+        -->
+
+            <div class="flow">
+                <img src="img/s2.2.png">
+                <img src="img/s-arrow.jpg">
+                <img src="img/s2.3.png">
+                <img src="img/s-arrow.jpg">
+                <img src="img/s2.4.png">
+            </div>
     
     		<header>
             	<h2 class="txt-left">
@@ -97,12 +95,12 @@
         
             <p>Wij realiseren elke uitdaging. Van winkels, horeca- gelegenheden, theaters en kantoren. 
             	Dit doen wij op zowel nationaal als internationaal gebied, bijvoorbeeld Duitsland.</p>
-</div>
+        </div>
     </article>
     
-    <div class="scroller">
+    <a class="scroller" id="divider2">
     	<img src="img/icon-turq.png" class="">
-    </div>
+    </a>
     
 </section>
 
@@ -127,15 +125,13 @@
             
         </article>
     </div>
-
-    <div class="scroller">
-    	<img src="img/icon-turq.png" class="">
-    </div>
-
+    <a class="scroller2" id="divider3">
+        <img src="img/icon-turq.png" class="">
+    </a>
 </section>
 
 <!--Content - DIVIDER-->
-<section id="container" class="bg-zwart clear">
+<section id="container2" class="bg-zwart clear">
     <article class="txt-wit">	
     	<div class="half">
     		<img class="spr" src="img/s3.1.png">
@@ -164,14 +160,14 @@
 	        <p>
 	            Edit-all zorgt voor vertrouwde gezichten op de werkvloer.
 	        </p>
-</div>
+        </div>
 
 
     </article>
 
-    <div class="scroller">
+    <a class="scroller" id="divider4">
     	<img src="img/icon-turq.png" class="">
-    </div>    
+    </a>    
 </section>
 
 
@@ -200,11 +196,13 @@
             
         </article>
     </div>
-
+    <a class="scroller2" id="divider5">
+        <img src="img/icon-turq.png" class="">
+    </a>
 </section>
 
 <!--Content - DIVIDER-->
-<section id="container" class="bg-zwart clear">
+<section id="container3" class="bg-zwart clear">
 
     <article class="txt-wit">
 
@@ -233,6 +231,9 @@
 	        </p>
 </div>
     </article>
+    <a class="scroller" id="divider6">
+        <img src="img/icon-turq.png" class="">
+    </a>
 </section>
 
 <?php require 'inc/footer.php'; ?>
