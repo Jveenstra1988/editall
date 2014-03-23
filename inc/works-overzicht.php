@@ -1,15 +1,15 @@
 <!-- Project 1 -->
 <section id="works-overzicht" class="bg-wit">
 	<a href="#" class="btn-rood back">&#8592; Terug</a>
-	<article class="bg-donkergrijs images">
+	<article class="bg-grijs2 images">
 		<header>
 			<h1 class="txt-zwart txt-left">Projecten</h1>
 		</header>
 		
-		<a href="#" class="btn-wit stroke active" id="all">All</a>
+		<a href="#" class="btn-wit stroke active" id="all">Alle projecten</a>
 		<a href="#" class="btn-wit stroke" id="stores">Stores</a>
 		<a href="#" class="btn-wit stroke" id="commercials">Commercials</a>
-		<a href="#" class="btn-wit stroke" id="interiors">Interiors</a>
+		<a href="#" class="btn-wit stroke" id="interiors">Interieur</a>
 		<a href="#" class="btn-wit stroke" id="designs">Designs</a>
 		
 		<div id="results" class="imageholder">

@@ -6,16 +6,18 @@ STORES - STORES - STORES - STORES -
 
 <!-- PME LEGEND SHOP-IN-SHOP -->
 <section class="bg-grijs22" id="jb-sis">
-    <a href="#" class="btn-antra back-to-overzicht">&#8592; Overzicht</a>
-    <div class="absolute">
-        <a href="#" class="btn-rood next-project" id="jb-stores">Volgende &#8594;</a>
-
-
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
+    <div class="absolute"> 
+	    <a title="volgende" class="tooltip btn-rood next-project" href="#" id="jb-stores">
+	    <span>
+		    <img src="img/works/sto/jb-store1.jpg">
+		    <p>Just Brands Stores</p>
+	    </span>Volgende &#8594;</a>    	
     </div>
 
     <article class="bg-grijs3 content">
-        <h1 class="txt-wit txt-left">PME legend Shop-in-Shop</h1>
-        <p class="txt-wit">
+        <h1 class="txt-zwart txt-left">PME legend Shop-in-Shop</h1>
+        <p class="txt-zwart">
             Voor het Merk PME Legend hebben we een shop in shop systeem ontwikkeld.
             Uitstraling en ontwerp is helemaal gecre&euml;erd met het gevoel PME Legend wat een
             zeer stoere en klasse uitstraling vertegenwoordigd.
@@ -34,16 +36,18 @@ STORES - STORES - STORES - STORES -
 
 <!-- JUST BRANDS STORES -->
 <section class="bg-grijs2" id="jb-stores">
-    <a href="#" class="btn-antra back-to-overzicht">&#8592; Overzicht</a>
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a href="#" class="btn-rood next-project" id="jb-showroom">Volgende &#8594;</a>
-
-
+        <a title="volgende" class="tooltip btn-rood next-project" id="jb-showroom">
+        <span>
+		    <img src="img/works/sto/jb-show1.jpg">
+		    <p>Just Brands Showrooms</p>
+	    </span>Volgende &#8594;</a>
     </div>
 
     <article class="bg-grijs3 content">
-        <h1 class="txt-wit txt-left">Just Brands Stores</h1>
-        <p class="txt-wit">
+        <h1 class="txt-zwart txt-left">Just Brands Stores</h1>
+        <p class="txt-zwart">
             Op vrijdag 1 maart 2013 is de nieuwe Just Brands store geopend in Rotterdam.
             Onder veel aandacht is de nieuwe winkel van 300 m2 geopend met split level, eerste etage.
             Edit-All is verantwoordelijk geweest voor de ontwerp, uitvoering en oplevering van dit gehele project.
@@ -83,16 +87,20 @@ STORES - STORES - STORES - STORES -
 
 <!-- JUST BRANDS SHOWROOMS -->
 <section class="bg-grijs2" id="jb-showroom">
-    <a href="#" class="btn-antra back-to-overzicht">&#8592; Overzicht</a>
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a href="#" class="btn-rood next-project" id="ah-jamie">Volgende &#8594;</a>
+        <a title="volgende" class="tooltip btn-rood next-project" id="ah-jamie">
+        <span>
+		    <img src="img/works/com/ah4.jpg">
+		    <p>AH Jamie Oliver</p>
+	    </span>Volgende &#8594;</a>
 
 
     </div>
 
     <article class="bg-grijs3 content">
-        <h1 class="txt-wit txt-left">JUST BRANDS SHOWROOMS</h1>
-        <p class="txt-wit">
+        <h1 class="txt-zwart txt-left">JUST BRANDS SHOWROOMS</h1>
+        <p class="txt-zwart">
             Met Just Brands gaan wij voorbij de grenzen van Nederland.
             Zo hebben wij het ontwerp uitgevoerd voor diverse showrooms in binnen- en buitenland.
             De showrooms dienen ter presentatie van PME legend.
@@ -123,16 +131,16 @@ STORES - STORES - STORES - STORES -
 <!--
 Friends Emmen
 <section class="bg-grijs2" id="friends-emmen">
-    <a href="#" class="btn-antra back-to-overzicht">&#8592; Overzicht</a>
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a href="#" class="btn-rood next-project" id="sol-heineken">Volgende &#8594;</a>
+        <a title="volgende" class="tooltip btn-rood next-project" id="sol-heineken">Volgende &#8594;</a>
 
 
     </div>
 
     <article class="bg-grijs3 content">
-        <h1 class="txt-wit txt-left">Friends Emmen</h1>
-        <p class="txt-wit">
+        <h1 class="txt-zwart txt-left">Friends Emmen</h1>
+        <p class="txt-zwart">
             Edit-All heeft de nieuwe winkel van Friends ontworpen en gebouwd.
             Een nieuwe frisse industriële look en feel was de opdracht.
             De winkel is uiteindelijk 2,5 week dicht geweest. Daarin is de totale
@@ -154,16 +162,19 @@ Friends Emmen
 
 <!-- Albert Heijn Jamie Oliver -->
 <section class="bg-grijs2" id="ah-jamie">
-    <a href="#" class="btn-antra back-to-overzicht">&#8592; Overzicht</a>
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a href="#" class="btn-rood next-project" id="rabobank">Volgende &#8594;</a>
-
+        <a title="volgende" class="tooltip btn-rood next-project" id="rabobank">
+        <span>
+		    <img src="img/works/com/rabo1.jpg">
+		    <p>Rabobank Slooppand</p>
+	    </span>Volgende &#8594;</a>
 
     </div>
 
     <article class="bg-grijs3 content">
-        <h1 class="txt-wit txt-left">Albert Heijn Jamie Oliver</h1>
-        <p class="txt-wit">
+        <h1 class="txt-zwart txt-left">Albert Heijn Jamie Oliver</h1>
+        <p class="txt-zwart">
             Voor Albert Heijn heeft Edit-All een keuken gemaakt waar
             Jamie Oliver samen met de filiaalmanager meneer Van Dalen
             een heerlijk gerecht in elkaar weet te zetten.
@@ -184,16 +195,20 @@ Friends Emmen
 
 <!-- Rabobank Commercial -->
 <section class="bg-grijs2" id="rabobank">
-    <a href="#" class="btn-antra back-to-overzicht">&#8592; Overzicht</a>
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a href="#" class="btn-rood next-project" id="olli-blijdorp">Volgende &#8594;</a>
+        <a title="volgende" class="tooltip btn-rood next-project" id="olli-blijdorp">
+        <span>
+		    <img src="img/works/com/olli1.jpg">
+		    <p>Olli Blijdorp</p>
+	    </span>Volgende &#8594;</a>        
 
 
     </div>
 
     <article class="bg-grijs3 content">
-        <h1 class="txt-wit txt-left">Rabobank Slooppand</h1>
-        <p class="txt-wit">
+        <h1 class="txt-zwart txt-left">Rabobank Slooppand</h1>
+        <p class="txt-zwart">
             Voor Albert Heijn heeft Edit-All een keuken gemaakt waar
             Jamie Oliver samen met de filiaalmanager meneer Van Dalen
             een heerlijk gerecht in elkaar weet te zetten.
@@ -213,18 +228,21 @@ Friends Emmen
 
 <!-- Olli Blijdorp -->
 <section class="bg-grijs2" id="olli-blijdorp">
-    <a href="#" class="btn-antra back-to-overzicht">&#8592; Overzicht</a>
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a href="#" class="btn-rood next-project" id="the-switch">Volgende &#8594;</a>
-
+        <a title="volgende" class="tooltip btn-rood next-project" id="the-switch">
+        <span>
+		    <img src="img/works/com/switch3.jpg">
+		    <p>De Switch | UPC</p>
+	    </span>Volgende &#8594;</a>
 
     </div>
 
 
     <article class="bg-grijs3 content">
-        <h1 class="txt-wit txt-left">Olli Blijdorp</h1>
+        <h1 class="txt-zwart txt-left">Olli Blijdorp</h1>
 
-        <p class="txt-wit">
+        <p class="txt-zwart">
             De meest populaire olifant van Nederland, OLLI, heeft zijn eigen verblijf in
             Diergaarde Blijdorp gekregen. Diergaarde Blijdorp opende op 28 maart 2013 de deuren
             voor de duizenden Olli-fans.
@@ -250,15 +268,19 @@ Friends Emmen
 
 <!-- UPC The Switch -->
 <section class="bg-grijs2" id="the-switch">
-    <a href="#" class="btn-antra back-to-overzicht">&#8592; Overzicht</a>
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a href="#" class="btn-rood next-project" id="popcorn-bak">Volgende &#8594;</a>
-    </div>
+        <a title="volgende" class="tooltip btn-rood next-project" id="popcorn-bak">
+        <span>
+		    <img src="img/works/com/popcorn1.jpg">
+		    <p>Popcorn | UPC</p>
+	    </span>Volgende &#8594;</a>
+	 </div>
 
     <article class="bg-grijs3 content">
-        <h1 class="txt-wit txt-left">De Switch | UPC</h1>
+        <h1 class="txt-zwart txt-left">De Switch | UPC</h1>
 
-        <p class="txt-wit">
+        <p class="txt-zwart">
             Voor de commercial van UPC met Johnny de Mol in de hoofdrol,
             produceerde Edit-All het decor
             <br /><br />
@@ -279,16 +301,19 @@ Friends Emmen
 
 <!-- UPC Popcorn -->
 <section class="bg-grijs2" id="popcorn-bak">
-    <a href="#" class="btn-antra back-to-overzicht">&#8592; Overzicht</a>
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a href="#" class="btn-rood next-project" id="tmobile-alib">Volgende &#8594;</a>
-
+        <a title="volgende" class="tooltip btn-rood next-project" id="tmobile-alib">
+        <span>
+		    <img src="img/works/com/alib4.jpg">
+		    <p>Ali-B T-mobile</p>
+	    </span>Volgende &#8594;</a>
     </div>
 
     <article class="bg-grijs3 content">
-        <h1 class="txt-wit txt-left">Popcorn | UPC</h1>
+        <h1 class="txt-zwart txt-left">Popcorn | UPC</h1>
 
-        <p class="txt-wit">
+        <p class="txt-zwart">
             UPC lanceert een nieuwe commercial in samenwerking met Jonny de Mol.
             Voor de opdrachtgever Jelier&amp;Schaaf produceren wij de Mega popcornbak
         </p>
@@ -311,15 +336,19 @@ Friends Emmen
 
 <!-- T-Mobile Ali-B -->
 <section class="bg-grijs2" id="tmobile-alib">
-    <a href="#" class="btn-antra back-to-overzicht">&#8592; Overzicht</a>
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a href="#" class="btn-rood next-project" id="interpolis-pleh">Volgende &#8594;</a>
+        <a title="volgende" class="tooltip btn-rood next-project" id="interpolis-pleh">
+        <span>
+		    <img src="img/works/com/inter1.jpg">
+		    <p>Pleh!? Interpolis</p>
+	    </span>Volgende &#8594;</a>
     </div>
 
     <article class="bg-grijs3 content">
-        <h1 class="txt-wit txt-left">Ali-B zonder Ansjovis | T-Mobile</h1>
+        <h1 class="txt-zwart txt-left">Ali-B zonder Ansjovis | T-Mobile</h1>
 
-        <p class="txt-wit">
+        <p class="txt-zwart">
             Voor de commercial van T-Mobile met Ali B was Edit-all verantwoordelijk voor het decor.
             Opdrachtgever: Jelier&amp;Schaaf
         </p>
@@ -339,17 +368,20 @@ Friends Emmen
 
 <!-- Interpolis -->
 <section class="bg-grijs2" id="interpolis-pleh">
-    <a href="#" class="btn-antra back-to-overzicht">&#8592; Overzicht</a>
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a href="#" class="btn-rood next-project" id="allyou-caneat">Volgende &#8594;</a>
-
+        <a title="volgende" class="tooltip btn-rood next-project" id="allyou-caneat">
+        <span>
+		    <img src="img/works/com/hi1.jpg">
+		    <p>All You Can Eat | Hi</p>
+	    </span>Volgende &#8594;</a>
 
     </div>
 
     <article class="bg-grijs3 content">
-        <h1 class="txt-wit txt-left">PLEH?! | Interpolis</h1>
+        <h1 class="txt-zwart txt-left">PLEH?! | Interpolis</h1>
 
-        <p class="txt-wit">
+        <p class="txt-zwart">
             Recentelijk is op de Nederlandse televisie de Interpolis commercial verschenen.
             Edit-All was verantwoordelijk voor decorbouw van het ziekenhuis kantoor.
         </p>
@@ -367,17 +399,20 @@ Friends Emmen
 
 <!-- All You Can Eat Hi -->
 <section class="bg-grijs2" id="allyou-caneat">
-    <a href="#" class="btn-antra back-to-overzicht">&#8592; Overzicht</a>
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a href="#" class="btn-rood next-project" id="eneco">Volgende &#8594;</a>
-
+        <a title="volgende" class="tooltip btn-rood next-project" id="eneco">
+        <span>
+		    <img src="img/works/com/eneco1.jpg">
+		    <p>Eneco</p>
+	    </span>Volgende &#8594;</a>
 
     </div>
 
     <article class="bg-grijs3 content">
-        <h1 class="txt-wit txt-left">All You Can Eat | Hi</h1>
+        <h1 class="txt-zwart txt-left">All You Can Eat | Hi</h1>
 
-        <p class="txt-wit">
+        <p class="txt-zwart">
             Recentelijk is op de Nederlandse televisie de HI commercial verschijnen.
             Edit-All was verantwoordelijk voor decorbouw van het restaurant.
         </p>
@@ -397,16 +432,19 @@ Friends Emmen
 
 <!-- Eneco -->
 <section class="bg-grijs2" id="eneco">
-    <a href="#" class="btn-antra back-to-overzicht">&#8592; Overzicht</a>
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a href="#" class="btn-rood next-project" id="dejutter-almere">Volgende &#8594;</a>
-
+        <a title="volgende" class="tooltip btn-rood next-project" id="dejutter-almere">
+        <span>
+		    <img src="img/works/int/jutter1.jpg">
+		    <p>De Jutter Almere</p>
+	    </span>Volgende &#8594;</a>
 
     </div>
 
     <article class="bg-grijs3 content">
-        <h1 class="txt-wit txt-left">Eneco</h1>
-        <p class="txt-wit">
+        <h1 class="txt-zwart txt-left">Eneco</h1>
+        <p class="txt-zwart">
             Voor Eneco heeft Edit-All een
             carvan gemaakt. [tekst]
         </p>
@@ -429,16 +467,19 @@ Friends Emmen
 
 <!-- Strandbrasserie de Jutter -->
 <section class="bg-grijs2" id="dejutter-almere">
-    <a href="#" class="btn-antra back-to-overzicht">&#8592; Overzicht</a>
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a href="#" class="btn-rood next-project" id="sol-heineken">Volgende &#8594;</a>
-
+        <a title="volgende" class="tooltip btn-rood next-project" id="sol-heineken">
+        <span>
+		    <img src="img/works/sto/sol1.jpg">
+		    <p>Sol Heineken</p>
+	    </span>Volgende &#8594;</a>
 
     </div>
 
     <article class="bg-grijs3 content">
-        <h1 class="txt-wit txt-left">Strandbrasserie de Jutter</h1>
-        <p class="txt-wit">
+        <h1 class="txt-zwart txt-left">Strandbrasserie de Jutter</h1>
+        <p class="txt-zwart">
             De Jutter is de nieuwe strandbrasserie in Almere haven,
             Edit-All heeft dit project geproduceerd, begeleid en ontwikkeld.
             In samenwerking met ontwerper Hans Klaver ( &amp;Hans ) hebben is een prachtig
@@ -448,12 +489,12 @@ Friends Emmen
         <a href="img/works/int/color/jutter1.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter1.jpg" class="attribute"></a>
 
 <!--
-        <p class="txt-wit">
+        <p class="txt-zwart">
             Edit-all is gaan sprokkelen en heeft gebruik gemaakt van oude en nieuwe materialen.
             Deze combinatie geeft de sfeer zoals we deze voor ogen hadden. De ruwe schetsen worden
             getoond en besproken met de opdrachtgever.
         </p>
-        <p class="txt-wit">
+        <p class="txt-zwart">
             In samenwerking met:<br />
             Ontwerp ; &amp;Hans en Edit-All<br />
             Decoratie ; Henk Bouten<br />
@@ -474,16 +515,19 @@ Friends Emmen
 
 <!-- Sol Heineken -->
 <section class="bg-grijs2" id="sol-heineken">
-    <a href="#" class="btn-antra back-to-overzicht">&#8592; Overzicht</a>
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a href="#" class="btn-rood next-project" id="wildschut">Volgende &#8594;</a>
-
+        <a title="volgende" class="tooltip btn-rood next-project" id="wildschut">
+        <span>
+		    <img src="img/works/int/wildschut1.jpg">
+		    <p>Wildschut</p>
+	    </span>Volgende &#8594;</a>
 
     </div>
 
     <article class="bg-grijs3 content">
-        <h1 class="txt-wit txt-left">Sol Heineken</h1>
-        <p class="txt-wit">
+        <h1 class="txt-zwart txt-left">Sol Heineken</h1>
+        <p class="txt-zwart">
             Heineken promoot het zomerse biertje Sol met een stand in de
             Beurs van Berlage in Amsterdam. Edit-All was verantwoordelijk
             voor het decor. Opdrachtgever: Jelier &amp; Schaaf
@@ -503,16 +547,19 @@ Friends Emmen
 
 <!-- Wildschut -->
 <section class="bg-grijs2" id="wildschut">
-    <a href="#" class="btn-antra back-to-overzicht">&#8592; Overzicht</a>
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a href="#" class="btn-rood next-project" id="ah-jamie">Volgende &#8594;</a>
-
+        <a title="volgende" class="tooltip btn-rood next-project" id="ah-jamie">
+        <span>
+		    <img src="img/works/sto/jb-store1.jpg">
+		    <p>Just Brands Stores</p>
+	    </span>Volgende &#8594;</a>
 
     </div>
 
     <article class="bg-grijs3 content">
-        <h1 class="txt-wit txt-left">Wildschut</h1>
-        <p class="txt-wit">
+        <h1 class="txt-zwart txt-left">Wildschut</h1>
+        <p class="txt-zwart">
             Wildschut tekst. Edit all heeft voor
             wildschut het interieur gemaakt. Prachtige en conformtabele stoelen om heerlijk aan te zitten een drankje te drinken.
         </p>

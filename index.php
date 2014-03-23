@@ -46,7 +46,7 @@
             <span class="bg-rood"></span>
         </header>
         
-	    <p>Binnen elk project werken wij van schets naar een 3-dimensionale werktekening.</p>
+	    <p>Eerst werken wij. Zo werken wij van schets naar een 3-dimensionale werktekening.</p>
 </div>
 <div class="drie">
     	<header>
@@ -91,7 +91,7 @@
             </h4>
             <span class="bg-rood"></span>
         </header>
- 	    <p>Binnen elk project werken wij van schets naar een 3-dimensionale werktekening.</p>       
+ 	    <p>Alles doen wij zelf. Vanuit ons pand schets naar een 3-dimensionale werktekening.</p>       
 </div>
 <div class="drie">     
         <header>
@@ -122,8 +122,9 @@
             </header>
 
             <span class="bg-wit"></span>
-            <p>In ons charismatische en industri&euml;le pand produceren wij interieurs en decors.
-            Met voldoende ruimte om te bouwen nemen wij meerdere projecten tegelijk aan.</p>
+            <p>In een charismatisch en industri&euml;el pand produceren wij interieurs en decors voor alle mogelijke doeleinden.
+            Met voldoende ruimte en een productieve manier om te bouwen kunnen wij meerdere projecten tegelijk aannemen. Daarmee
+            zorgen wij ervoor dat elk project binnen de deadline zorgvoldig kan worden afgerond.</p>
 
             <a href="" class="btn-turq a-btn" id="how-we-work">
                 <span class="a-btn-text">Onze werkwijze</span> 
@@ -140,10 +141,10 @@
 
 <!--Content - DIVIDER-->
 <section id="container2" class="bg-zwart clear">
-    <article class="txt-rood">	
+    <article class="txt-wit">	
     	<header>
             <h2>
-                So... <span class="txt-wit">We Edit-All</span>
+                <span class="groot">So' We<br /> Edit-All</span>
             </h2>
         </header>
     </article>
@@ -166,9 +167,9 @@
             </header>
             <span class="bg-rood"></span>
             <p>
-                Wij cree&euml;ren winkels, reclames, interieuren en designs.
-                Ons passie ligt in de vorm, de kleur en uitstraling en het effect op de gebruiker.
-                Edit-All huisvest een groep zeer vakbekwame mensen die hart en ziel in hun werk leggen.
+                Wij cree&euml;ren winkels, reclames, interieuren en designs. Ons passie ligt in de vorm, 
+                de kleur en uitstraling en het effect op de gebruiker. Edit-All huisvest een groep zeer 
+                vakbekwame mensen die hart en ziel in hun werk leggen.
             </p>
 
             <a href="#" class="btn-rood a-btn" id="work-load">
