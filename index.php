@@ -122,7 +122,7 @@
             </header>
 
             <span class="bg-wit"></span>
-            <p>In ons charismatische en industri&euml;le pand produceren wij interieurs en decors.<br>
+            <p>In ons charismatische en industri&euml;le pand produceren wij interieurs en decors.
             Met voldoende ruimte om te bouwen nemen wij meerdere projecten tegelijk aan.</p>
 
             <a href="" class="btn-turq a-btn" id="how-we-work">
@@ -166,9 +166,9 @@
             </header>
             <span class="bg-rood"></span>
             <p>
-                Wij cree&euml;ren winkels, reclames, interieuren en designs.<br>
-                Ons passie ligt in de vorm, de kleur en uitstraling en het effect op de gebruiker.<br>
-                Edit-All huisvest een groep zeer vakbekwame mensen die hart en ziel in hun werk leggen.<br>
+                Wij cree&euml;ren winkels, reclames, interieuren en designs.
+                Ons passie ligt in de vorm, de kleur en uitstraling en het effect op de gebruiker.
+                Edit-All huisvest een groep zeer vakbekwame mensen die hart en ziel in hun werk leggen.
             </p>
 
             <a href="#" class="btn-rood a-btn" id="work-load">

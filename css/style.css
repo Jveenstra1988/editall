@@ -7,6 +7,7 @@
 -------------------------------------------
 */
 
+
 html, body {
 	font-family: 	"milibus",sans-serif;
 	color: 			#282B30; /* Dit is de standaard zwart */
@@ -83,9 +84,9 @@ p, ul, li {
 /* Background kleuren */
 .bg-rood		{ background: #D41217; }
 .bg-wit			{ background: #F6F6F6; }
-.bg-grijs		{ background: #e1e1e1; }
-.bg-grijs2		{ background: #9b9b9b; }
-.bg-grijs3		{ background: #4a4a4a; }
+.bg-grijs		{ background: #c7c7c7; }
+.bg-grijs2		{ background: #c7c7c7; }
+.bg-grijs3		{ background: #6b6b6b; }
 .bg-donkergrijs	{ background: #c7c7c7; }
 .bg-turq		{ background: #33B6B3; }
 /* .bg-zwart	{ background: #282B30; } */
@@ -217,7 +218,7 @@ a.btn-antra.stroke	{ border: 1px solid white;   background:none; }
 
 /* Hovers Stroke */
 a.btn-rood.stroke:hover, a.btn-rood.stroke.active   { border-color: #D41217;}
-a.btn-wit.stroke:hover,  a.btn-wit.stroke.active    { border-color: #F6F6F6; background: #F6F6F6; color: #0D0D0D;}
+a.btn-wit.stroke:hover,  a.btn-wit.stroke.active    { border-color: #282b30; background: #282b30; color: #f6f6f6;}
 a.btn-turq.stroke:hover,  a.btn-turq.stroke.active	{ border-color: #33B6B3;}
 a.btn-zwart.stroke:hover, a.btn-zwart.stroke.active	{ border-color: #191B1E; background: #191B1E; color: #E1E1E1;}
 a.btn-antra.stroke:hover, a.btn-antra.stroke.active	{ border-color: #404951;}
@@ -459,6 +460,18 @@ a.scroller2 img {
 
 a.scroller2 img:hover, a.scroller img:hover  {
 	width: 90px;
+}
+
+.verloop { 
+background: #c7c7c7; /* Old browsers */
+background: -moz-linear-gradient(left,  #c7c7c7 67%, #9b9b9b 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right top, color-stop(67%,#c7c7c7), color-stop(100%,#9b9b9b)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left,  #c7c7c7 67%,#9b9b9b 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(left,  #c7c7c7 67%,#9b9b9b 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(left,  #c7c7c7 67%,#9b9b9b 100%); /* IE10+ */
+background: linear-gradient(to right,  #c7c7c7 67%,#9b9b9b 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c7c7c7', endColorstr='#9b9b9b',GradientType=1 ); /* IE6-9 */
+
 }
 
 /*
@@ -751,7 +764,8 @@ article.how-we-work {
 	height: 84%;
 	padding-right: 40%;
 	margin-left: 12%;
-	border-left: 10px solid #303840;
+	border-left: 10px solid #525252;
+	border-left: 10px solid rgba(43,43,43,0.5);
 	position: absolute;
 	z-index: 99;
 }
@@ -1126,4 +1140,8 @@ a.tooltip:hover span {
 	}
 	
 }
+
+
+
+
 

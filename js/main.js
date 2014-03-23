@@ -265,7 +265,7 @@ function initialize() {
       '<p>'+
       '<a>Venserweg 7<br> 1112 AR Diemen <br> Nederland</a> '+
       '</p>'+
-	  '<a href="https://www.google.nl/maps/dir//Venserweg+7,+1112+AR+Diemen/@52.3340203,4.9650486,17z/data=!4m13!1m4!3m3!1s0x47c60bf8f0b87e2d:0xe8daae88b74de79f!2sVenserweg+7!3b1!4m7!1m0!1m5!1m1!1s0x47c60bf8f0b87e2d:0xe8daae88b74de79f!2m2!1d4.9650552!2d52.3340164" target=_blank" class="btn-turq">Routebeschrijving</a>'+
+	  '<a href="https://www.google.nl/maps/dir//Venserweg+7,+1112+AR+Diemen/@52.3340203,4.9650486,17z/data=!4m13!1m4!3m3!1s0x47c60bf8f0b87e2d:0xe8daae88b74de79f!2sVenserweg+7!3b1!4m7!1m0!1m5!1m1!1s0x47c60bf8f0b87e2d:0xe8daae88b74de79f!2m2!1d4.9650552!2d52.3340164" target=_blank" class="btn-rood">Route</a>'+
       '</div>'+
       '</div>';
 	
@@ -331,7 +331,7 @@ $(document).on('click','#results div, .overlay-txt, .next-project', function() {
 		nxt();
 		$('#dynamic-container').animate({ left : '0' }, 300);
 	});
-	$('#works-container').css({ background: '#9b9b9b'});
+	$('#works-container').css({ background: '#c7c7c7'});
 	return false;
 });
 
