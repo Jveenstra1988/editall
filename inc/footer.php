@@ -62,11 +62,6 @@
 				</section>
 		</footer>
 		
-		<script async src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
-		<script async type="text/javascript" src="//use.typekit.net/led7cxt.js"></script>
-		<!-- Typekit font -->
-		<script async type="text/javascript">try{Typekit.load();}catch(e){}</script>
-		<script async type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBj5-QRLtxngjfwUMk_byK4EBpwIJxK6uM&sensor=false"></script>
 		<script async src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
         <!--<script>window.jQuery || document.write("<script src="js/vendor/jquery-1.10.1.min.js"><\/script>")</script>-->
 		<script async src="js/vendor/idangerous.swiper.js"></script>
