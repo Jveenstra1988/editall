@@ -141,17 +141,13 @@
 
 <!--Content - DIVIDER-->
 <section id="container2" class="bg-zwart clear">
-    <article class="txt-wit">	
+    <article class="txt-rood">	
     	<header>
             <h2>
-                <span class="groot">So' We<br /> Edit-All</span>
+                So... <span class="txt-wit">We Edit-All</span>
             </h2>
         </header>
     </article>
-
-    <a class="scroller" id="divider4">
-    	<img src="img/icon-turq.png" class="">
-    </a>    
 </section>
 
 
@@ -194,9 +190,6 @@
             </h2>
         </header>
     </article>
-    <a class="scroller" id="divider6">
-        <img src="img/icon-turq.png" class="">
-    </a>
 </section>
 
 <?php require 'inc/footer.php'; ?>

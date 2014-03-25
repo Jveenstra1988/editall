@@ -68,13 +68,13 @@
 				</section>
 		</footer>
 		
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+		<script async src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
         <!--<script>window.jQuery || document.write("<script src="js/vendor/jquery-1.10.1.min.js"><\/script>")</script>-->
-		<script src="js/vendor/idangerous.swiper.js"></script>
-		<script src="js/vendor/lightbox-2.6.min.js"></script>
-		<script type="text/javascript" src="js/vendor/jquery.fancybox.js"></script>
-        <script src="js/main.js"></script>
-		<script type="text/javascript">
+		<script async src="js/vendor/idangerous.swiper.js"></script>
+		<script async src="js/vendor/lightbox-2.6.min.js"></script>
+		<script async type="text/javascript" src="js/vendor/jquery.fancybox.js"></script>
+        <script async src="js/main.js"></script>
+		<script async type="text/javascript">
 		$(document).ready(function() {
 				$(".various").fancybox({
 					maxWidth	: 800,

@@ -1,5 +1,5 @@
 <!-- Project 1 -->
-<section id="works-overzicht" class="bg-wit">
+<section id="works-overzicht" class="">
 	<a href="#" class="btn-rood back">&#8592; Terug</a>
 	<article class="bg-grijs2 images">
 		<header>
