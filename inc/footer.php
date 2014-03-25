@@ -15,18 +15,24 @@
 						<div class="blok">
 						    <img src="img/icon-phone.png">
 							<p>
-								Bel ons<br />
-								<a href="tel:+316-51525382">Rob: 06-515 253 82</a><br />
-								<a href="tel:+316-50602207">Ruben: 06-506 022 07</a><br />
-								<a href="tel:+316-50602207">Elsemieke: 06-506 022 07</a>
+								<strong>Rob Valent</strong>
+								<a href="tel:+316-51525382">06-515 253 82</a>
+								<a href="mailto:rob@edit-all.nl">rob@edit-all.nl</a>
+							</p>
+						</div>
+						<div class="blok">
+						<img src="img/icon-phone.png">
+							<p>
+								<strong>Ruben Roosen</strong>
+								<a href="tel:+316-50602207">06-506 022 07</a>
+								<a href="mailto:ruben@edit-all.nl">ruben@edit-all.nl</a>
 							</p>
 						</div>
 						<div class="blok">
 						    <img src="img/icon-email.png">
-							<p>
-								E-mail ons<br />          
-								<a href="mailto:rob@edit-all.nl">rob@edit-all.nl</a>   <br />         
-								<a href="mailto:ruben@edit-all.nl">ruben@edit-all.nl</a> <br />
+							<p>	
+								<strong>Elsemieke</strong>
+								<a href="tel:+316-50602207">06-506 022 07</a>
 								<a href="mailto:elsemieke@edit-all.nl">elsemieke@edit-all.nl</a>
 							</p>
 						</div>

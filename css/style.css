@@ -75,7 +75,7 @@ p, ul, li {
 	font-weight: 300;
 }
 
-article p:first-of-type:first-letter {
+section article p:first-of-type:first-letter {
 float: left;
 padding: 0px 10px 0 3px;
 font-size: 50px;
@@ -84,7 +84,7 @@ font-weight: normal;
 color: #282b30;
 }
 
-article.txt-wit p:first-of-type:first-letter {
+section article.txt-wit p:first-of-type:first-letter {
 	color: #f6f6f6;
 }
 
@@ -492,18 +492,6 @@ a.scroller2 img:hover, a.scroller img:hover  {
 	width: 90px;
 }
 
-.verloop { 
-background: #c7c7c7; /* Old browsers */
-background: -moz-linear-gradient(left,  #c7c7c7 67%, #9b9b9b 100%); /* FF3.6+ */
-background: -webkit-gradient(linear, left top, right top, color-stop(67%,#c7c7c7), color-stop(100%,#9b9b9b)); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(left,  #c7c7c7 67%,#9b9b9b 100%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(left,  #c7c7c7 67%,#9b9b9b 100%); /* Opera 11.10+ */
-background: -ms-linear-gradient(left,  #c7c7c7 67%,#9b9b9b 100%); /* IE10+ */
-background: linear-gradient(to right,  #c7c7c7 67%,#9b9b9b 100%); /* W3C */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c7c7c7', endColorstr='#9b9b9b',GradientType=1 ); /* IE6-9 */
-
-}
-
 /*
 -------------------------------------------
 //////////// MAIN CONTENT STYLES //////////
@@ -593,9 +581,9 @@ article .drie header h4 {
 
 section.clear article div.blok {
 	display: inline-block;
-	width: 31.5%;
-	margin: 0em .3em 0em .3em;
+	width: 24%;
 	vertical-align: top;
+	padding: 1.5em 0em;
 }
 
 section.clear article div p {
@@ -730,11 +718,26 @@ a.tooltip:hover span {
 */
 
 footer p a {
-	color: #98a0a4 !important;
+	color: #373E45 !important;
+	display: block;
+	border-bottom: 1px dashed #D41217;
 }
 
 footer p a:hover {
-	color: #26B6B4 !important;
+	color: #D41217 !important;
+}
+
+footer p strong {
+	display: block;
+}
+
+footer section article p:first-of-type:first-letter {
+	float: none;
+	padding: 0 0 0 0;
+	font-size: inherit;
+	line-height: inherit;
+	font-weight: inherit;
+	color: inherit;
 }
 
 
@@ -1120,8 +1123,19 @@ a.video img.img-stack:before {
 		width: 92%;
 	}
 	section.clear article div.blok {
-		width: 40%;
+		width: 23%;
 	}
+	
+	/* Footer styles */
+	footer section.clear article div p {
+		display: block;
+	}
+	
+	footer img {
+		display: block;
+		float: none;
+	}
+	
 }
 
 /* /// FOOTER MEDIAQURIES \\\ */
