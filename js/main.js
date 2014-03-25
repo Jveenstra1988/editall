@@ -53,14 +53,18 @@ $(document).ready(function(){
 		
 		// change class of nav img so it can come out of nav
 		// and get back in
-		if ( $window.scrollTop() >= distance - 124 ) {
+		if ( $window.scrollTop() >= distance - 510 ) {
 			// Your div has reached  top 130px
 			$("nav img").removeClass("header-icon");
+			$('nav a.back-to-home').removeAttr('id', 'divider1');
+			$("nav a.back-to-home").attr('id', 'bth');
 		} else {
 			$("nav img").addClass("header-icon");
+			$("nav a.back-to-home").removeAttr('id', 'bth');
+			$('nav a.back-to-home').attr('id', 'divider1');
 		}
 		
-		// change icone in nav
+		// change icon in nav
 		if( $('nav img').hasClass('header-icon') ) {
 			$('nav img').attr('src', 'img/icon.png');
 		}else {
@@ -89,7 +93,15 @@ $(document).ready(function(){
 	});
 	
 //  scroll to navigation-----------------------------------------
-	$("#home").click(function() {
+	//$("#home, #bth").click(function() {
+	$(document).on('click','#home', function() {
+		$('html, body').animate({
+		    scrollTop: $("#home-container").offset().top
+		}, 600);
+		return false
+	});
+	
+	$(document).on('click','#bth', function() {
 		$('html, body').animate({
 		    scrollTop: $("#home-container").offset().top
 		}, 600);
@@ -104,9 +116,16 @@ $(document).ready(function(){
 	});
 	
 	//$("#profile").click(function() {
-	$(document).on('click','#profile, #how-we-work, .back-to-profile, #divider2', function() {
+	$(document).on('click','#profile, .back-to-profile, #divider2', function() {
 		$('html, body').animate({
 		    scrollTop: $("#profile-container").offset().top -58
+		}, 600);
+	    return false
+	});
+	
+	$(document).on('click','#how-we-work', function() {
+		$('html, body').animate({
+		    scrollTop: $("#profile-container").offset().top
 		}, 600);
 	    return false
 	});
@@ -118,6 +137,7 @@ $(document).ready(function(){
 		return false
 	});
 	
+	//	Zorg dat de ruimte van de menu balk weer wordt meegenomen
 	$(document).on('click','#work-load, .back-to-overzicht, .next-project', function() {
 		$('html, body').animate({
 		    scrollTop: $("#works-container").offset().top
@@ -134,7 +154,7 @@ $(document).ready(function(){
 	});
 	
 //	disable scroll
-	$(document).on('click', '#work-load', function() {
+	$(document).on('click', '#work-load, #how-we-work', function() {
 		$('nav').slideUp();
 		$('body').addClass('no-overflow');
 		$('body').bind('touchmove', function(e){e.preventDefault()});
@@ -148,7 +168,7 @@ $(document).ready(function(){
 	});
 	
 //	enable scroll
-	$(document).on('click', '.back', function() {
+	$(document).on('click', '.back, .back-to-profile', function() {
 		$('nav').slideDown();
 		$('body').removeClass('no-overflow');
 		$('body').unbind('touchmove');
@@ -276,7 +296,7 @@ function initialize() {
 	});
 	infowindow.open(map,marker);
 	
-	// Creat marker animation
+	// Create marker animation
 	function toggleBounce() {
 		if (marker.getAnimation() != null) {
 			marker.setAnimation(null);
@@ -309,7 +329,7 @@ $(document).on('click','#work-load', function() {
 // Load original content
 $(document).on('click','.back', function(){
 	// change background color of main container (in dept effect)
-	$('#works-container').css({ background: '#f6f6f6'});
+	$('#works-container').css({ 'background': 'url(../img/works-1.jpg) center center no-repeat'});
     $('#dynamic-container').animate({ left : '100%' }, 300).queue(function( nxt ) {
 		$(this).load('inc/works-content.php .works');
 		nxt();
@@ -323,7 +343,6 @@ $(document).on('click','.back', function(){
 // Load project information
 $(document).on('click','#results div, .overlay-txt, .next-project', function() {
 	var navClass = $(this).attr("id");
-	$('#works-container').css({ background: '#c7c7c7'});
 	$('#dynamic-container').animate({ left : '-100%' }, 300).queue(function( nxt ) {
 		$(this).css({ left : '100%' });
 		$(this).load('inc/works-content.php' + ' #' + navClass, function(){
@@ -342,6 +361,7 @@ $(document).on('click','.back-to-overzicht', function(){
 		$('#dynamic-container').css({ left : '-100%' });
 		$('#dynamic-container').animate({ left : '0' }, 300);
 	});
+	$('#works-container').css({ 'background': 'url(../img/works-1.jpg) center center no-repeat'});
 	return false;
 })
 
