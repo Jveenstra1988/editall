@@ -152,7 +152,7 @@ a.btn-antra	{ color:#F6F6F6; background:#404951; border: solid 1px #404951; bord
     overflow: hidden;
     transition: all 0.3s linear;
 	padding-right: 80px !important;
-	margin-top: 3em;
+/* 	margin-top: 3em; */
 }
 .a-btn-text{
     padding-top: 5px;
@@ -467,6 +467,7 @@ a.scroller img:hover {
 	margin-top: -.5em;
 }
 
+<<<<<<< HEAD
 .verloop { 
 background: #c7c7c7; /* Old browsers */
 background: -moz-linear-gradient(left,  #c7c7c7 67%, #9b9b9b 100%); /* FF3.6+ */
@@ -479,6 +480,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c7c7c7', end
 
 }
 
+=======
+>>>>>>> 324f2decfa98ba5e8a125684e5aeda4137c3761d
 /*
 -------------------------------------------
 //////////// MAIN CONTENT STYLES //////////
@@ -517,6 +520,26 @@ article header img {
 
 article p {
 	margin: 1em 0;
+}
+
+article.works p {
+	display: inline-block;
+	width: 47%;
+	padding-right: 2.5%; 
+}
+
+article.works .afbeelding {
+	width: 40%;
+	margin-top: 1em;
+	height: inherit;
+	vertical-align: top;
+	padding-left: 9%;
+}
+
+article.works .afbeelding img {
+	width: 47.5%;
+	line-height: 0;
+	padding: .2em;
 }
 
 article span {

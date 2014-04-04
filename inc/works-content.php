@@ -318,7 +318,7 @@ Friends Emmen
             Voor de opdrachtgever Jelier&amp;Schaaf produceren wij de Mega popcornbak
         </p>
 
-        <a href="img/works/com/popcorn1.jpg" data-lightbox="switch"><img src="img/works/com/popcorn3.jpg" class="attribute"></a>
+        <a href="img/works/com/color/popcorn3.jpg" data-lightbox="switch"><img src="img/works/com/color/popcorn3.jpg" class="attribute"></a>
 
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/-gPHCXCV2qg?autoplay=1">
 		  <img src="img/works/video/popcorn-video2.jpg" class="img-stack">
@@ -330,6 +330,7 @@ Friends Emmen
 
         <a href="img/works/com/color/popcorn1.jpg" data-lightbox="alib"><img src="img/works/com/color/popcorn1.jpg" class="img-stack"></a>
         <a href="img/works/com/color/popcorn2.jpg" data-lightbox="alib"><img src="img/works/com/color/popcorn2.jpg" class="img-stack"></a>
+        <a href="img/works/com/color/popcorn4.jpg" data-lightbox="alib"><img src="img/works/com/color/popcorn4.jpg" class="img-stack"></a>
 
     </article>
 </section>
