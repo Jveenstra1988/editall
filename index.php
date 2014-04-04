@@ -176,10 +176,13 @@
             
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <span class="afbeelding">
             <img src="img/works/sto/jb-store1.jpg"><img src="img/works/sto/jb-store2.jpg"><img src="img/works/sto/jb-store3.jpg"><img src="img/works/sto/jb-store4.jpg">
             </span>
             
+=======
+>>>>>>> 5fd56f44b1deb777ca1b9fe138c3a4b47ed25448
 =======
 >>>>>>> 5fd56f44b1deb777ca1b9fe138c3a4b47ed25448
 =======
