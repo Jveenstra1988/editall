@@ -174,19 +174,10 @@
                 vakbekwame mensen die hart en ziel in hun werk leggen.
             </p>
             
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
             <span class="afbeelding">
             <img src="img/works/sto/jb-store1.jpg"><img src="img/works/sto/jb-store2.jpg"><img src="img/works/sto/jb-store3.jpg"><img src="img/works/sto/jb-store4.jpg">
             </span>
-            
-=======
->>>>>>> 5fd56f44b1deb777ca1b9fe138c3a4b47ed25448
-=======
->>>>>>> 5fd56f44b1deb777ca1b9fe138c3a4b47ed25448
-=======
->>>>>>> 5fd56f44b1deb777ca1b9fe138c3a4b47ed25448
+
             <a href="#" class="btn-rood a-btn" id="work-load">
                 <span class="a-btn-text">bekijk projecten</span> 
                 <span class="a-btn-slide-text"><img src="img/icon-works-button.png" width="50"></span>
