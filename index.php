@@ -7,22 +7,27 @@
     <div class="swiper-container">
         <div class="swiper-wrapper">
             <!--First Slide-->
-            <div class="swiper-slide" id="stores"> 
+            <div class="swiper-slide" id="een"> 
                 <!-- Any HTML content of the first slide goes here -->
             </div>
             
             <!--Second Slide-->
-            <div class="swiper-slide" id="commercials">
+            <div class="swiper-slide" id="twee">
                 <!-- Any HTML content of the second slide goes here -->
             </div>
             
             <!--Third Slide-->
-            <div class="swiper-slide" id="interiors"> 
+            <div class="swiper-slide" id="drie"> 
                 <!-- Any HTML content of the third slide goes here -->
             </div>
 
-            <!--Third Slide-->
-            <div class="swiper-slide" id="designs"> 
+            <!--Fourth Slide-->
+            <div class="swiper-slide" id="vier"> 
+                <!-- Any HTML content of the third slide goes here -->
+            </div>
+
+            <!--Fifth Slide-->
+            <div class="swiper-slide" id="vijf"> 
                 <!-- Any HTML content of the third slide goes here -->
             </div>
             
@@ -107,7 +112,7 @@
     </article>
     
     <a class="scroller" id="divider2">
-    	<img src="img/icon-turq.png" class="">
+    	<img src="img/icon.png" class="">
     </a>
     
 </section>
@@ -121,10 +126,13 @@
                 <h1>Profiel</h1>
             </header>
 
-            <span class="bg-wit"></span>
-            <p>In een charismatisch en industri&euml;el pand produceren wij interieurs en decors voor alle mogelijke doeleinden.
-            Met voldoende ruimte en een productieve manier om te bouwen kunnen wij meerdere projecten tegelijk aannemen. Daarmee
-            zorgen wij ervoor dat elk project binnen de deadline zorgvoldig kan worden afgerond.</p>
+            <span class="bg-turq"></span>
+            <p>Onze werkplaats bevindt zich op de Venserweg 7 te Diemen. In dit industi&euml;le pand produceren wij 
+            onze interieurs en decors. Wij hebben voldoende ruimte om te bouwen, zodat we meerdere projecten tegelijk 
+            aannemen en kunnen oppakken. Wij werken met een groep zeer vakbekwame mensen, die hun ziel en zaligheid 
+            in hun werk kunnen leggen. De mogelijkheden zijn legio in dit pand. Zo kunnen wij tijdelijke opslag aanbieden 
+            en door de karakteristieke en industri&euml;le uitstraling raken mensen g&euml;inspireerd en bestaat er de mogelijkheid 
+            voor film en fotoshoots in &eacute;&eacute;n van onze hallen.</p>
 
             <a href="" class="btn-turq a-btn" id="how-we-work">
                 <span class="a-btn-text">Onze werkwijze</span> 
@@ -140,12 +148,10 @@
 </section>
 
 <!--Content - DIVIDER-->
-<section id="container2" class="bg-zwart clear">
+<section id="container2" class="bg-wit clear">
     <article class="txt-rood">	
     	<header>
-            <h2>
-                So... <span class="txt-wit">We Edit-All</span>
-            </h2>
+            <img src="img/soweeditall-zwart.png" class="">
         </header>
     </article>
 </section>
@@ -154,10 +160,10 @@
 <!--Content - PROJECTS-->
 <section id="works-container" class="bg-wit">
     <div id="dynamic-container">
-        <article class="txt-zwart works">
+        <article class="txt-wit works">
             <header>
                 <img src="img/icon-works.png" class="icon">
-                <h1 class="txt-rood">
+                <h1 class="txt-wit">
                     Projecten
                 </h1>
             </header>
@@ -168,10 +174,6 @@
                 vakbekwame mensen die hart en ziel in hun werk leggen.
             </p>
             
-            <span class="afbeelding">
-            <img src="img/works/sto/jb-store1.jpg"><img src="img/works/sto/jb-store2.jpg"><img src="img/works/sto/jb-store3.jpg"><img src="img/works/sto/jb-store4.jpg">
-            </span>
-            
             <a href="#" class="btn-rood a-btn" id="work-load">
                 <span class="a-btn-text">bekijk projecten</span> 
                 <span class="a-btn-slide-text"><img src="img/icon-works-button.png" width="50"></span>
@@ -181,7 +183,7 @@
         </article>
     </div>
     <a class="scroller2" id="divider5">
-        <img src="img/icon-turq.png" class="">
+        <img src="img/icon.png" class="">
     </a>
 </section>
 
@@ -189,9 +191,7 @@
 <section id="container3" class="bg-zwart clear">
     <article class="txt-rood">
         <header>
-            <h2>
-                So... <span class="txt-wit">We Edit-All</span>
-            </h2>
+	        <img src="img/soweeditall-wit.png" class="">
         </header>
     </article>
 </section>

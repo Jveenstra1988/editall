@@ -607,16 +607,16 @@ Friends Emmen
             </article>
 
 <!-- standaard content works-->
-        <article class="txt-zwart works">
+        <article class="txt-wit works">
             <header>
                 <img src="img/icon-works.png" class="icon">
-                <h1 class="txt-rood">
+                <h1 class="txt-wit">
                     Projecten
                 </h1>
             </header>
-            <span class="bg-grijs2"></span>
+            <span class="bg-rood"></span>
             <p>
-                Wij cree&euml;ren winkels, reclames, interieuren en designs.<br>
+                Wij cree&euml;ren winkels, reclames, interieuren en designs.
                 Ons passie ligt in de vorm, de kleur en uitstraling en het effect op de gebruiker.<br>
                 Edit-All huisvest een groep zeer vakbekwame mensen die hart en ziel in hun werk leggen.<br>
             </p>

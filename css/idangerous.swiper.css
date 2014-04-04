@@ -100,7 +100,7 @@ sizes, pagination, etc.
   z-index: 999;
 }
 .arrow-right {
-  background: url(../img/arrows.png) no-repeat left bottom;
+  background: url(../img/arrows.png) no-repeat right bottom;
 	position: absolute;
 	right: 50px;
 	top: 45%;
@@ -121,7 +121,7 @@ sizes, pagination, etc.
   z-index: 999;
 }
 .arrow-right2 {
-  background: url(../img/arrows.png) no-repeat left bottom;
+  background: url(../img/arrows.png) no-repeat right bottom;
   position: absolute;
   right: 20%;
   top: 45%;
@@ -138,7 +138,7 @@ sizes, pagination, etc.
 
 .arrow-right:hover,
 .arrow-right2:hover {
-	background: url(../img/arrows-hover.png) no-repeat left bottom;	
+	background: url(../img/arrows-hover.png) no-repeat right bottom;	
 }
 
 /* ===============================================================
@@ -169,3 +169,18 @@ Pagination Styles
 		z-index: 999;
 	  }
 }
+
+@media screen and (max-width: 550px) {
+	a.arrow-left {
+		left:24px;
+		width: 20px;
+	}
+	
+	a.arrow-right {
+		right:24px;
+		width: 20px;
+	}
+}	
+	
+	
+	
