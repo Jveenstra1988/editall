@@ -167,7 +167,11 @@
                 de kleur en uitstraling en het effect op de gebruiker. Edit-All huisvest een groep zeer 
                 vakbekwame mensen die hart en ziel in hun werk leggen.
             </p>
-
+            
+            <span class="afbeelding">
+            <img src="img/works/sto/jb-store1.jpg"><img src="img/works/sto/jb-store2.jpg"><img src="img/works/sto/jb-store3.jpg"><img src="img/works/sto/jb-store4.jpg">
+            </span>
+            
             <a href="#" class="btn-rood a-btn" id="work-load">
                 <span class="a-btn-text">bekijk projecten</span> 
                 <span class="a-btn-slide-text"><img src="img/icon-works-button.png" width="50"></span>
