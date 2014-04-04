@@ -463,8 +463,6 @@ a.scroller2 img:hover, a.scroller img:hover  {
 	width: 90px;
 }
 
-<<<<<<< HEAD
-=======
 a.scroller img:hover {
 	margin-top: -.5em;
 }
@@ -481,7 +479,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c7c7c7', end
 
 }
 
->>>>>>> FETCH_HEAD
 /*
 -------------------------------------------
 //////////// MAIN CONTENT STYLES //////////
@@ -878,7 +875,7 @@ article.how-we-work {
 }
 
 #dynamic-container article.content p a {
-	/*background: #252b30;*/
+	background: #252b30;
 	color: #d5d5d5;
 	padding: .2em .3em;
 	border-radius: .3em;

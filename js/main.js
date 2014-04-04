@@ -94,14 +94,7 @@ $(document).ready(function(){
 	
 //  scroll to navigation-----------------------------------------
 	//$("#home, #bth").click(function() {
-	$(document).on('click','#home', function() {
-		$('html, body').animate({
-		    scrollTop: $("#home-container").offset().top
-		}, 600);
-		return false
-	});
-	
-	$(document).on('click','#bth', function() {
+	$(document).on('click','#home, #bth', function() {
 		$('html, body').animate({
 		    scrollTop: $("#home-container").offset().top
 		}, 600);
@@ -130,14 +123,7 @@ $(document).ready(function(){
 	    return false
 	});
 	
-	$("#divider3").click(function() {
-		$('html, body').animate({
-		    scrollTop: $("#container2").offset().top -50
-		}, 600);
-		return false
-	});
-	
-	//	Zorg dat de ruimte van de menu balk weer wordt meegenomen
+	//	Zorg dat de ruimte van de menu balk niet wordt meegenomen
 	$(document).on('click','#work-load, .back-to-overzicht, .next-project', function() {
 		$('html, body').animate({
 		    scrollTop: $("#works-container").offset().top
@@ -146,7 +132,7 @@ $(document).ready(function(){
 	});
 	
 	//	Zorg dat de ruimte van de menu balk weer wordt meegenomen
-	$(document).on('click','#works, .back, #divider4', function() {
+	$(document).on('click','#works, .back, #divider3', function() {
 		$('html, body').animate({
 		    scrollTop: $("#works-container").offset().top -58
 		}, 600);
@@ -177,14 +163,8 @@ $(document).ready(function(){
 		return false
 	});
 	
-	$("#divider5").click(function() {
-		$('html, body').animate({
-		    scrollTop: $("#container3").offset().top -50
-		}, 600);
-		return false
-	});
-	
-	$("#contact, #divider6").click(function() {
+//	scroll to contact
+	$("#contact, #divider5").click(function() {
 		$('html, body').animate({
 		    scrollTop: $("#contact-container").offset().top -58
 		}, 600);
