@@ -31,7 +31,7 @@
 						<div class="blok">
 						    <img src="img/icon-email.png">
 							<p>	
-								<strong>Elsemieke</strong>
+								<strong>Elsemieke Meijer (administratie)</strong>
 								<a href="tel:+316-50602207">06-506 022 07</a>
 								<a href="mailto:elsemieke@edit-all.nl">elsemieke@edit-all.nl</a>
 							</p>
@@ -55,18 +55,17 @@
 						</div>-->
 					</article>
 				</section>
-				<!--Content - DIVIDER-->
-				
-				<section id="container" class="bg-zwart clear">
-					<article class="txt-rood">
-						<header>
-							<h2>
-								So... <span class="txt-wit">We Edit-All</span>
-							</h2>
-						</header>
-					</article>
-				</section>
 		</footer>
+
+				<!--Content - DIVIDER-->
+				<section id="container3" class="bg-zwart clear">
+				    <article class="txt-rood">
+				        <header>
+					        <img src="img/soweeditall-wit.png" class="">
+				        </header>
+				    </article>
+				</section>
+
 		
 		<!--<script src="js/vendor/jquery-1.10.1.min.js"></script>-->
 		<script async src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>

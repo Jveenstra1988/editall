@@ -469,6 +469,7 @@ a.scroller img:hover {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .verloop { 
 background: #c7c7c7; /* Old browsers */
 background: -moz-linear-gradient(left,  #c7c7c7 67%, #9b9b9b 100%); /* FF3.6+ */
@@ -485,6 +486,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c7c7c7', end
 >>>>>>> 324f2decfa98ba5e8a125684e5aeda4137c3761d
 =======
 >>>>>>> 324f2decfa98ba5e8a125684e5aeda4137c3761d
+=======
+>>>>>>> 5fd56f44b1deb777ca1b9fe138c3a4b47ed25448
 /*
 -------------------------------------------
 //////////// MAIN CONTENT STYLES //////////
@@ -523,6 +526,7 @@ article header img {
 
 article p {
 	margin: 1em 0;
+	line-height: 1.6em;
 }
 
 article.works p {
@@ -694,7 +698,6 @@ a.tooltip:hover span {
 
 
 @media screen and (min-width: 900px) {
-
 	section.clear article .drie h4 {
 		min-height: 4em;
 	}
@@ -800,23 +803,28 @@ footer section article p:first-of-type:first-letter {
 	border: none;
 }
 
-#home-container #stores {
+#home-container #een {
 	background: url(../img/header-1.jpg) center center no-repeat;
 	background-size: cover;
 }
 
-#home-container #commercials {
+#home-container #twee {
 	background: url(../img/header-2.jpg) center center no-repeat;
 	background-size: cover;
 }
 
-#home-container #interiors {
+#home-container #drie {
 	background: url(../img/header-3.jpg) center center no-repeat;
 	background-size: cover;
 }
 
-#home-container #designs {
+#home-container #vier {
 	background: url(../img/header-4.jpg) center center no-repeat;
+	background-size: cover;
+}
+
+#home-container #vijf {
+	background: url(../img/header-5.jpg) center center no-repeat;
 	background-size: cover;
 }
 
@@ -1142,11 +1150,61 @@ a.video img.img-stack:before {
 	}
 	
 }
+@media screen and (max-width: 320px) {
+	
+	/* Landing Logo */
+	.logo {
+		width: 50%;
+		left: 37%;
+	}
 
-/* /// FOOTER MEDIAQURIES \\\ */
-
+	.beeldmerk {
+		width: 25%;
+		left: 37.5%;
+		top:60px;
+		margin-left: 0%;
+	}
+	
+	.header-icon {
+		width: 20%;
+		left: 40%;
+		bottom: 20%;
+	}
+	
+	.header-icon:hover {
+		width: 22%;
+		left: 38.75%;
+		bottom: 20%;
+	}
+	
+}
 @media screen and (max-width: 550px) {
 
+	/* Landing Logo */
+	.logo {
+		width: 50%;
+		left: 37%;
+	}
+
+	.beeldmerk {
+		width: 25%;
+		left: 37.5%;
+		top:60px;
+		margin-left: 0%;
+	}
+	
+	.header-icon {
+		width: 20%;
+		left: 40%;
+		bottom: 20%;
+	}
+	
+	.header-icon:hover {
+		width: 22%;
+		left: 38.75%;
+		bottom: 20%;
+	}
+	
 	article.content h1, article.images h1 {
 		display: block;
 		margin-top: 1.5em;
@@ -1172,18 +1230,7 @@ a.video img.img-stack:before {
 		width: 90%;
 		display: block;
 	}
-	
-	/* Landing Logo */
-	.header-icon {
-		width: 20%;
-		left: 40%;
-	}
-	
-	.logo {
-		width: 40%;
-		left: 42%;
-	}
-	
+		
 	/* Navigatie */
 	nav ul li {
 		width: 18%;
