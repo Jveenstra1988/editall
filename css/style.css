@@ -520,26 +520,6 @@ article p {
 	line-height: 1.6em;
 }
 
-article.works p {
-	display: inline-block;
-	width: 47%;
-	padding-right: 2.5%; 
-}
-
-article.works .afbeelding {
-	width: 40%;
-	margin-top: 1em;
-	height: inherit;
-	vertical-align: top;
-	padding-left: 9%;
-}
-
-article.works .afbeelding img {
-	width: 47.5%;
-	line-height: 0;
-	padding: .2em;
-}
-
 article span {
 	width: 100%;
 	height: 3px;
