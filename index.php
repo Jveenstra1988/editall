@@ -33,8 +33,10 @@
             
           </div>
     </div>
-    <img src="img/beeldmerk.png" class="beeldmerk">  
-    <img src="img/logo.png" class="logo">    
+    <img src="img/logo.png" class="logo">
+    <a href"" id="divider1" class="back-to-home">
+        <img src="img/icon.png" class="header-icon">
+    </a>
 </section>
 
 <!--Content - DIVIDER 1-->
@@ -131,10 +133,10 @@
             </header>
 
             <span class="bg-turq"></span>
-            <p>Onze werkplaats bevindt zich op de Venserweg 7 te Diemen. In dit industi&euml;le pand produceren wij 
+            <p>In ons industi&euml;le pand produceren wij 
             onze interieurs en decors. Wij hebben voldoende ruimte om te bouwen, zodat we meerdere projecten tegelijk 
-            aannemen en kunnen oppakken. Wij werken met een groep zeer vakbekwame mensen, die hun ziel en zaligheid 
-            in hun werk kunnen leggen. De mogelijkheden zijn legio in dit pand. Zo kunnen wij tijdelijke opslag aanbieden 
+            aannemen. Wij werken met een groep zeer vakbekwame mensen, die hun ziel en zaligheid 
+            in hun werk leggen. De mogelijkheden zijn legio in dit pand. Zo kunnen wij tijdelijke opslag aanbieden 
             en door de karakteristieke en industri&euml;le uitstraling raken mensen g&euml;inspireerd en bestaat er de mogelijkheid 
             voor film en fotoshoots in &eacute;&eacute;n van onze hallen.</p>
 

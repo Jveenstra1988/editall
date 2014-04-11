@@ -184,7 +184,9 @@ Friends Emmen
 
 
         <a class="various fancybox.iframe video" href="//www.youtube.com/embed/Jnf5i-Cm3EY?autoplay=1" frameborder="0" allowfullscreen>
-		<img src="img/works/video/ah-video1.jpg" class="img-stack"></a>
+			<img src="img/works/video/ah-video1.jpg" class="img-stack">
+			<span><img src="../img/play.png"></span>
+		</a>
 		
 		<a href="img/works/com/color/ah2.jpg" data-lightbox="jamie"><img src="img/works/com/color/ah2.jpg" class="img-stack"></a>
         <a href="img/works/com/color/ah3.jpg" data-lightbox="jamie"><img src="img/works/com/color/ah3.jpg" class="img-stack"></a>

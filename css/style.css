@@ -7,7 +7,6 @@
 -------------------------------------------
 */
 
-
 html, body {
 	font-family: 	"milibus",sans-serif;
 	color: 			#282B30; /* Dit is de standaard zwart */
@@ -239,8 +238,6 @@ a.btn-turq:hover, a.btn-turq.active		{ background:#218281; border-bottom: 5px so
 a.btn-zwart:hover, a.btn-zwart.active	{ background:#121315; }
 a.btn-antra:hover, a.btn-antra.active	{ background:#2c3338; border-bottom: 5px solid #0f1113;}
 
-
-
 a.btn-rood:active,
 a.btn-wit:active,
 a.btn-grijs:active,
@@ -257,7 +254,6 @@ a.btn-antra:active {
 }
 
 /* Buttons Stroke */
-
 a.btn-rood.stroke,
 a.btn-wit.stroke,
 a.btn-turq.stroke,
@@ -272,7 +268,6 @@ a.btn-wit.stroke	{ border: 1px solid #F6F6F6; background:none; color: #F6F6F6; b
 a.btn-turq.stroke	{ border: 1px solid #33B6B3; background:none; color: #33B6B3; border-bottom: 3px solid #165c5b;}
 a.btn-zwart.stroke	{ border: 1px solid #191B1E; background:none; color: #191B1E; border-bottom: 3px solid #191B1E;}
 a.btn-antra.stroke	{ border: 1px solid #404951; background:none; color: #404951; border-bottom: 3px solid #404951;}
-
 
 /* Hovers Stroke */
 a.btn-rood.stroke:hover, a.btn-rood.stroke.active   { border-color: #D41217;}
@@ -298,11 +293,14 @@ img.spr {
 	margin: auto;
 	display: inline;
 }
+
 .back, .back-to-overzicht {
 	float: left;
 	margin-left: 30px;
 	margin-top: 40px;
 	display: block;
+	z-index: 9999;
+	position: absolute;
 }
 
 .absolute {
@@ -399,16 +397,18 @@ nav ul li img {
 
 
 /* Images */
-
 .beeldmerk {
+}
+
+.in-nav {
 	text-align: center;
 	z-index: 999;
 	position: fixed;
-	left: 56.5%;
-	margin-left: -12.5%;
+	left: 50%;
+	margin-left: -6%;
 	top: 100px;
 	width: 12%;
-	z-index: 9;	
+	z-index: 9;
 }
 
 .logo {
@@ -417,7 +417,6 @@ nav ul li img {
 	position: fixed;
 	left: 50%;
 	margin-left: -12.5%;
-/* 	top: 340px; */
 	top: 43%;
 	width: 25%;
 	z-index: 9;
@@ -433,7 +432,7 @@ nav ul li img {
     -ms-transition: all 150ms ease-in-out;
     -o-transition: all 150ms ease-in-out;
     transition: all 150ms ease-in-out;
-
+	z-index: 9;
 }
 
 .header-icon:hover {
@@ -481,15 +480,14 @@ a.scroller img:hover {
 }
 
 .verloop { 
-background: #c7c7c7; /* Old browsers */
-background: -moz-linear-gradient(left,  #c7c7c7 67%, #9b9b9b 100%); /* FF3.6+ */
-background: -webkit-gradient(linear, left top, right top, color-stop(67%,#c7c7c7), color-stop(100%,#9b9b9b)); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(left,  #c7c7c7 67%,#9b9b9b 100%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(left,  #c7c7c7 67%,#9b9b9b 100%); /* Opera 11.10+ */
-background: -ms-linear-gradient(left,  #c7c7c7 67%,#9b9b9b 100%); /* IE10+ */
-background: linear-gradient(to right,  #c7c7c7 67%,#9b9b9b 100%); /* W3C */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c7c7c7', endColorstr='#9b9b9b',GradientType=1 ); /* IE6-9 */
-
+	background: #c7c7c7; /* Old browsers */
+	background: -moz-linear-gradient(left,  #c7c7c7 67%, #9b9b9b 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right top, color-stop(67%,#c7c7c7), color-stop(100%,#9b9b9b)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(left,  #c7c7c7 67%,#9b9b9b 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(left,  #c7c7c7 67%,#9b9b9b 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(left,  #c7c7c7 67%,#9b9b9b 100%); /* IE10+ */
+	background: linear-gradient(to right,  #c7c7c7 67%,#9b9b9b 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c7c7c7', endColorstr='#9b9b9b',GradientType=1 ); /* IE6-9 */
 }
 
 /*
@@ -681,36 +679,6 @@ a.tooltip:hover span {
 }
 
 
-@media screen and (min-width: 900px) {
-	section.clear article .drie h4 {
-		min-height: 4em;
-	}
-
-}
-
-@media screen and (max-width: 900px) {
-	section.clear article .drie {
-		width: 42%;
-	}
-	
-	section.clear article .drie h4 {
-		min-height: 6.5em;
-	}
-}
-
-@media screen and (max-width: 550px) {
-	section.clear article .drie {
-		width: 94%;
-		display: block;
-	}
-	
-	section.clear article .drie h4 {
-		min-height: 3em;
-	}
-	
-}
-
-
 /*
 -------------------------------------------
 //////////// FOOTER STYLES ////////////
@@ -787,44 +755,47 @@ footer section article p:first-of-type:first-letter {
 	border: none;
 }
 
+#home-container #een,
+#home-container #twee,
+#home-container #drie,
+#home-container #vier,
+#home-container #vijf,
+#profile-container,
+#works-container,
+#contact-container {
+	background-size: cover;
+}
+
 #home-container #een {
 	background: url(../img/header-1.jpg) center center no-repeat;
-	background-size: cover;
 }
 
 #home-container #twee {
 	background: url(../img/header-2.jpg) center center no-repeat;
-	background-size: cover;
 }
 
 #home-container #drie {
 	background: url(../img/header-3.jpg) center center no-repeat;
-	background-size: cover;
 }
 
 #home-container #vier {
 	background: url(../img/header-4.jpg) center center no-repeat;
-	background-size: cover;
 }
 
 #home-container #vijf {
 	background: url(../img/header-5.jpg) center center no-repeat;
-	background-size: cover;
 }
 
 #profile-container {
 	background: url(../img/profile-1.jpg) center center no-repeat;
-	background-size: cover;
 }
 
 #works-container {
 	background: url(../img/works-1.jpg) center center no-repeat;
-	background-size: cover;
 }
 
 #contact-container {
 	background: url(../img/contact-1.png) center center no-repeat;
-	background-size: cover;
 }
 
 /*
@@ -923,20 +894,11 @@ article.how-we-work {
 	line-height: 1 !important;
 	letter-spacing: 1 !important;
 	border-bottom: 3px solid #b5b5b5;
-
-/*
-	-webkit-transition: all 200ms ease-out;
-	-moz-transition: all 200ms ease-out;
-	-ms-transition: all 200ms ease-out;
-	-o-transition: all 200ms ease-out;
-	transition: all 200ms ease-out;
-*/
 }
 
 #dynamic-container article.content img.attribute:hover,
 #dynamic-container article.content img.img-stack:hover {
 	opacity: .6;	
-
 }
 
 a.video {
@@ -947,8 +909,8 @@ a.video {
 
 	line-height: 1 !important;
 	letter-spacing: 1 !important;
-	background: url(../img/play.png) 50% center no-repeat;
-	background-size: 70px;
+	/*background: url(../img/play.png) 50% center no-repeat;*/
+	/*background-size: 70px;*/
 
 	-webkit-transition: background 200ms ease-out;
 	-moz-transition: background 200ms ease-out;
@@ -957,9 +919,24 @@ a.video {
 	transition: background 200ms ease-out;
 }
 
-a.video:hover {
-	background-position: 50% center;
-	background-size: 100px;
+a.video span img {
+	margin-top: -84%;
+	margin-left: 34%;
+	width: 70px;
+	-webkit-transition: all 200ms ease-out;
+	-moz-transition: all 200ms ease-out;
+	-ms-transition: all 200ms ease-out;
+	-o-transition: all 200ms ease-out;
+	transition: all 200ms ease-out;
+}
+
+a.video:hover span img {
+	width: 100px;
+	margin-left: 27%;
+}
+
+a.video img:hover {
+	opacity: 1 !important;
 }
 
 a.video img.img-stack {
@@ -1071,7 +1048,6 @@ a.video img.img-stack:before {
 }
 
 @media screen and (max-width: 1024px) {
-
 	article {
 		width: 70%;
 	}
@@ -1088,7 +1064,6 @@ a.video img.img-stack:before {
 }
 
 @media screen and (max-width: 900px) {
-
 	article {
 		width: 90%;
 	}
@@ -1108,9 +1083,11 @@ a.video img.img-stack:before {
 	nav ul li {
 		width: 18%;
 	}
+	
 	nav ul li a {
 		font-size: .8em;
 	}
+	
 	nav ul li img {
 		width: 40%;
 	}
@@ -1119,6 +1096,15 @@ a.video img.img-stack:before {
 	section.clear article {
 		width: 92%;
 	}
+	
+	section.clear article .drie {
+		width: 42%;
+	}
+	
+	section.clear article .drie h4 {
+		min-height: 6.5em;
+	}
+	
 	section.clear article div.blok {
 		width: 23%;
 	}
@@ -1133,41 +1119,30 @@ a.video img.img-stack:before {
 		float: none;
 	}
 	
-}
-@media screen and (max-width: 320px) {
-	
-	/* Landing Logo */
-	.logo {
-		width: 50%;
-		left: 37%;
+	#dynamic-container h1 {
+		margin-top: 2em;
 	}
+	
+	#dynamic-container article.content {
+		width: 88%
+	}
+}
 
-	.beeldmerk {
-		width: 25%;
-		left: 37.5%;
-		top:60px;
-		margin-left: 0%;
+@media screen and (min-width: 900px) {
+	section.clear article .drie h4 {
+		min-height: 4em;
 	}
-	
-	.header-icon {
-		width: 20%;
-		left: 40%;
-		bottom: 20%;
-	}
-	
-	.header-icon:hover {
-		width: 22%;
-		left: 38.75%;
-		bottom: 20%;
-	}
-	
 }
+
 @media screen and (max-width: 550px) {
-
 	/* Landing Logo */
 	.logo {
 		width: 50%;
 		left: 37%;
+	}
+	
+	.icon {
+		width: 20%;
 	}
 
 	.beeldmerk {
@@ -1187,11 +1162,20 @@ a.video img.img-stack:before {
 		width: 22%;
 		left: 38.75%;
 		bottom: 20%;
+	}
+	
+	section.clear article .drie {
+		width: 94%;
+		display: block;
+	}
+	
+	section.clear article .drie h4 {
+		min-height: 3em;
 	}
 	
 	article.content h1, article.images h1 {
 		display: block;
-		margin-top: 1.5em;
+		margin-top: 2.5em;
 		line-height: 1;
 	}
 
@@ -1199,15 +1183,48 @@ a.video img.img-stack:before {
 		width: 80%;
 	}
 	
+	article header {
+		margin-bottom: 0;
+	}
+	
+	article p {
+		font-size: 80%;
+	}
+	
 	/* Projecten content */
 	#dynamic-container article.content img.attribute,
-	#dynamic-container article.content img.img-stack {
-		width: 45%;
-		margin-right: .5em;
+	#dynamic-container article.content img.img-stack, 
+	a.video, a.video img.img-stack {
+		width: 20%;
+		margin-top: .8em;
 	}
 	
 	#dynamic-container .clickable {
-		width: 40%;
+		width: 22%;
+	}
+	
+	#dynamic-container .clickable .overlay-txt {
+		font-size: 80%;
+	}
+	
+	#dynamic-container article, #dynamic-container article.content, #dynamic-container-profile article {
+		width: 100%;
+		display: block;
+		margin-left: 0;
+		height: 100%;
+	}
+	
+	#dynamic-container-profile article {
+		position: absolute;
+		top: 0;
+	}
+	
+	article.content h1 {
+		font-size: 120%;
+	}
+	
+	#dynamic-container article.images a {
+		display: none;
 	}
 	
 	#dynamic-container article.content p {
@@ -1225,6 +1242,9 @@ a.video img.img-stack:before {
 	nav ul li img {
 		width: 80%;
 	}
+	a.scroller2 img {
+		margin-top: -120px;
+	}
 
 	section.clear article div.blok {
 		width: 100%;
@@ -1238,14 +1258,93 @@ a.video img.img-stack:before {
 	}
 	
 	/* buttons */
-	.back, .back-to-overzicht, .next-project {
-			margin-left: 0px;
-			margin-right: 0px;
-			margin-top: 10px;
-			display: block;
-			width: 45%;
+	.back, .back-to-overzicht, .back-to-profile, .next-project {
+		margin-left: 5px;
+		margin-right: 5px;
+		margin-top: 10px;
+		display: block;
+		width: 45%;
 	}
 	
+	.back-to-overzicht, .back-to-profile {
+		z-index: 99999;
+		position: relative;
+	}
+	
+	.a-btn-text {
+		padding-top: 8px;
+		font-size: 78%;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	/* Landing Logo */
+	.logo {
+		width: 50%;
+		left: 37%;
+	}
+	
+	.icon {
+		width: 20%;
+	}
+
+	.beeldmerk {
+		width: 25%;
+		left: 37.5%;
+		top:60px;
+		margin-left: 0%;
+	}
+	
+	.header-icon {
+		width: 20%;
+		left: 40%;
+		bottom: 20%;
+	}
+	
+	.header-icon:hover {
+		width: 22%;
+		left: 38.75%;
+		bottom: 20%;
+	}
+	
+	a.scroller2 img, a.scroller img {
+		margin-top: -70px;
+	}
+	
+	.a-btn-text {
+		padding-top: 1px;
+		font-size: 12px;
+	}
+	
+	.a-btn {
+		height: 18px;
+	}
+	.a-btn-slide-text img {
+		margin-top: -5px;
+	}
+	
+	#dynamic-container .clickable {
+		width: 29%;
+	}
+	
+	#dynamic-container .clickable .overlay-txt {
+		font-size: 80%;
+	}
+	
+	#dynamic-container article, #dynamic-container article.content {
+		width: 100%;
+		display: block;
+		margin-left: 0;
+		height: 100%;
+	}
+	
+	#dynamic-container article.images a {
+		display: none;
+	}
+	
+	.back {
+		margin-left: 5px;
+	}
 }
 
 

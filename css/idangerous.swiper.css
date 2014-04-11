@@ -180,7 +180,20 @@ Pagination Styles
 		right:24px;
 		width: 20px;
 	}
-}	
+}
+
+@media screen and (max-width: 320px) {
+	.arrow-right2 {
+		top: 15%;
+		right: 10%;
+		position: fixed;
+	}
 	
+	.arrow-left2 {
+		left: 10%;
+		top: 15%;
+		position: fixed;
+	}
+}
 	
 	

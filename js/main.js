@@ -51,24 +51,12 @@ $(document).ready(function(){
 			$("nav").removeClass("antra");	
 		}
 		
-		// change class of nav img so it can come out of nav
-		// and get back in
-		if ( $window.scrollTop() >= distance - 510 ) {
+		 //change class of nav img so it can come out of nav and get back in
+		if ( $window.scrollTop() >= distance - 170 ) {
 			// Your div has reached  top 130px
-			$("nav img").removeClass("header-icon");
-			$('nav a.back-to-home').removeAttr('id', 'divider1');
-			$("nav a.back-to-home").attr('id', 'bth');
+			$(".beeldmerk").removeClass("in-nav");
 		} else {
-			$("nav img").addClass("header-icon");
-			$("nav a.back-to-home").removeAttr('id', 'bth');
-			$('nav a.back-to-home').attr('id', 'divider1');
-		}
-		
-		// change icon in nav
-		if( $('nav img').hasClass('header-icon') ) {
-			$('nav img').attr('src', 'img/icon.png');
-		}else {
-			$('nav img').attr('src', 'img/icon-rood.png');
+			$(".beeldmerk").addClass("in-nav");
 		}
 		
 		// add active class when scrolled to element

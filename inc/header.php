@@ -44,9 +44,9 @@
 					<a href="" id="profile">Profiel</a>
 				</li>
 				<li>
-					<a href"" id="divider1" class="back-to-home">
-						<img src="img/icon.png" class="header-icon">
-					</a>
+					 <a href"" id="home" class="">
+						<img src="img/beeldmerk.png" class="beeldmerk">  
+					 </a>
 				</li>
 				<li>
 					<a href=""id="works">Projecten</a>
