@@ -1074,6 +1074,11 @@ a.video img.img-stack:before {
 		left: 42.5%;
 	}
 	
+	.header-icon:hover {
+		width: 15%;
+		left: 42%;
+	}
+	
 	.logo {
 		width: 40%;
 		left: 42%;
