@@ -44,70 +44,74 @@
 
 <div class="drie">
         <header>
- 			<img class="spr" src="img/s1.2.jpg">
+ 			<img class="spr" src="img/zs-6.png">
             <h4 class="txt-left">
                 Wij Cre&euml;ren, produceren en monteren.
             </h4>
-            <span class="bg-rood"></span>
+            <span class="lijn-rood"></span>
         </header>
         
-	    <p>Eerst werken wij. Zo werken wij van schets naar een 3-dimensionale werktekening.</p>
+	    <p>Wij zetten de woorden van de klant op papier, 
+	    laten onze gedachten gaan en maken er een digitale tekening van.</p>
 </div>
 <div class="drie">
     	<header>
-  	        <img class="spr" src="img/s1.4.jpg">
+  	        <img class="spr" src="img/zs-3.png">
 	    	<h4 class="txt-left">
             	Grensverleggend in fysieke vormen.
             </h4>
                
-            <span class="bg-rood"></span>
+            <span class="lijn-rood"></span>
         </header>
         
-        <p>	Wij realiseren elke uitdaging. Van winkels, horeca- gelegenheden, theaters en kantoren. 
-            </p>
+        <p>Door gesprekken met de klant ontstaat de juiste uitstraling. Dit kan alle kant op.</p>
 </div>
 <div class="drie">     
         <header>
- 		    <img class="spr" src="img/s2.2.png">   
+ 		    <img class="spr" src="img/zs-5.png">   
             <h4 class="txt-left">
                 Wij diepen het bestaande imago uit of scheppen iets nieuws.
             </h4>
-            <span class="bg-rood"></span>
+            <span class="lijn-rood"></span>
         </header>
         
-	    <p>Binnen elk project werken wij van schets naar een 3-dimensionale werktekening.</p>
+	    <p> 
+	    	Edit-All gaat met de wensen van de klant aan de slag en al werkend 
+	    	onstaat het juiste gevoel.
+	    </p>
 </div>
 <div class="drie">
         <header>
- 			<img class="spr" src="img/s2.4.png">
+ 			<img class="spr" src="img/zs-2.png">
             <h4 class="txt-left">
                 Wij schakelen snel en zorgen voor vertrouwde gezichten op de werkvloer.
             </h4>
-            <span class="bg-rood"></span>
+            <span class="lijn-rood"></span>
         </header>
         
-	    <p>Binnen elk project werken wij van schets naar een 3-dimensionale werktekening.</p>
+	    <p>Wij zijn niet bang om dan te veranderen.</p>
 </div>
 <div class="drie">
     	<header>
-  	        <img class="spr" src="img/s2.3.png">
+  	        <img class="spr" src="img/zs-1.png">
 	    	<h4 class="txt-left">
             	Wij staan voor korte lijnen en een gedurfde aanpak.
             </h4>
-            <span class="bg-rood"></span>
+            <span class="lijn-rood"></span>
         </header>
- 	    <p>Alles doen wij zelf. Vanuit ons pand schets naar een 3-dimensionale werktekening.</p>       
+ 	    <p>We houden van korte lijnen. De diensten die wij doen zijn verschillend en veelzijdig.</p>       
 </div>
 <div class="drie">     
         <header>
- 		    <img class="spr" src="img/s1.3.jpg">   
+ 		    <img class="spr" src="img/zs-4.png">   
             <h4 class="txt-left">
                 Wij leveren een verfrissend totaalpakket; vakmanschap van A tot Z.
             </h4>
-            <span class="bg-rood"></span>
+            <span class="lijn-rood"></span>
         </header>
         
-	    <p>Binnen elk project werken wij van schets naar een 3-dimensionale werktekening.</p>
+	    <p>Wij maken digitale tekeningen om de wensen van de klant te visualizeren. 
+	    Wij ontwerpen, tekenen, produceren en begeleiden.</p>
 </div>
     </article>
     

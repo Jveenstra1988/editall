@@ -88,6 +88,15 @@ section article.txt-wit p:first-of-type:first-letter {
 	color: #f6f6f6;
 }
 
+section article .drie p:first-of-type:first-letter {
+	float: none;
+	padding: 0 0 0 0;
+	font-size: 100%;
+	line-height: 1em;
+	font-weight: 100;
+	color: #282b30;	
+}
+
 .groot {
 	font-size: 1.6em;
 }
@@ -118,6 +127,10 @@ section article.txt-wit p:first-of-type:first-letter {
 .bg-turq.clear 			{ border-bottom: 10px solid #268c8a; }
 .bg-zwart.clear 		{ border-bottom: 10px solid #090909; }
 .bg-antra.clear 		{ border-bottom: 10px solid #303840; }
+
+.lijn-rood {
+	border-bottom: 1px dashed #E83F50;
+}
 
 
 /* Buttons Overall */
@@ -334,12 +347,12 @@ nav {
 }
 
 nav.antra {
-	background: #0D0D0D;
+	background: #282B30;
 	border: .3em solid #0D0D0D;
 }
 
 .antra ul li a {
-	text-shadow: 1px 1px 1px #303840;
+	text-shadow: 1px 1px 1px #0D0D0D;
 	color: white;
 }
 

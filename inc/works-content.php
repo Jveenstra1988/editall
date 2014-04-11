@@ -251,7 +251,7 @@ Friends Emmen
             In opdracht van Jelier &amp; Schaaf.
         </p>
 
-        <a href="img/works/com/color/olli1.jpg" data-lightbox="olli"><img src="img/works/com/color/olli1.jpg" class="attribute"></a>
+        <a href="img/works/com/color/olli9.jpg" data-lightbox="olli"><img src="img/works/com/color/olli9.jpg" class="attribute"></a>
 		  
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/eL78DQrwprM?autoplay=1">
 		  <img src="img/works/video/olli-video1.jpg" class="img-stack">

@@ -13,7 +13,7 @@
 							</p>
 						</div>
 						<div class="blok">
-						    <img src="img/icon-phone.png">
+						    <img src="img/icon-rob.png">
 							<p>
 								<strong>Rob Valent</strong>
 								<a href="tel:+316-51525382">06-515 253 82</a>
@@ -21,7 +21,7 @@
 							</p>
 						</div>
 						<div class="blok">
-						<img src="img/icon-phone.png">
+						<img src="img/icon-ruben.png">
 							<p>
 								<strong>Ruben Roosen</strong>
 								<a href="tel:+316-50602207">06-506 022 07</a>
@@ -29,9 +29,9 @@
 							</p>
 						</div>
 						<div class="blok">
-						    <img src="img/icon-email.png">
+						    <img src="img/icon-elsemieke.png">
 							<p>	
-								<strong>Elsemieke Meijer (administratie)</strong>
+								<strong>Elsemieke Meijer</strong>
 								<a href="tel:+316-50602207">06-506 022 07</a>
 								<a href="mailto:elsemieke@edit-all.nl">elsemieke@edit-all.nl</a>
 							</p>
