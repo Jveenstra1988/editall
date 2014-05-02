@@ -1054,8 +1054,15 @@ a.video img.img-stack:before {
 		left: 42.5%;
 	}
 	
-		nav ul li img {
+	nav ul li img {
 		width: 40%;
+	}
+	
+	.in-nav {
+		width: 12%;
+		top: 310px !important;
+		left: 50% !important;
+		margin-left: -7% !important	;
 	}
 }
 
@@ -1146,9 +1153,9 @@ a.video img.img-stack:before {
 		width: 20%;
 	}
 
-	.beeldmerk {
+	.in-nav {
 		width: 25%;
-		left: 37.5%;
+		left: 45%;
 		top:60px;
 		margin-left: 0%;
 	}
