@@ -58,13 +58,13 @@
 		</footer>
 
 				<!--Content - DIVIDER-->
-				<section id="container3" class="bg-zwart clear">
+				<!--<section id="container3" class="bg-zwart clear">
 				    <article class="txt-rood">
 				        <header>
 					        <img src="img/soweeditall-wit.png" class="">
 				        </header>
 				    </article>
-				</section>
+				</section>-->
 
 		
 		<!--<script src="js/vendor/jquery-1.10.1.min.js"></script>-->

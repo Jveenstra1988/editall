@@ -41,15 +41,15 @@
 					<a href="" id="home" class="active">Edit-All</a>
 				</li>
 				<li>
-					<a href="" id="profile">Profiel</a>
+					<a href=""id="works">Projecten</a>
 				</li>
 				<li>
 					 <a href"" id="home" class="">
-						<img src="img/beeldmerk.png" class="beeldmerk">  
+						<img src="img/beeldmerk.png" class="beeldmerk in-nav">  
 					 </a>
 				</li>
 				<li>
-					<a href=""id="works">Projecten</a>
+					<a href="" id="profile">Profiel</a>
 				</li>
 				<li>
 					<a href="" id="contact">Contact</a>

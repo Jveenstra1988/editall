@@ -44,7 +44,7 @@
     <article class="txt-antra">
 
 
-<div class="drie">
+    <div class="drie">
         <header>
  			<img class="spr" src="img/zs-6.png">
             <h4 class="txt-left">
@@ -117,10 +117,48 @@
 </div>
     </article>
     
-    <a class="scroller" id="divider2">
+    <a class="scroller" id="divider3">
+        <img src="img/icon.png" class="">
+    </a>
+</section>
+
+<!--Content - PROJECTS-->
+<section id="works-container" class="bg-wit">
+    <div id="dynamic-container">
+        <article class="txt-wit works">
+            <header>
+                <img src="img/icon-works.png" class="icon">
+                <h1 class="txt-wit">
+                    Projecten
+                </h1>
+            </header>
+            <span class="bg-rood"></span>
+            <p>
+                Wij cree&euml;ren winkels, reclames, interieuren en designs. Ons passie ligt in de vorm, 
+                de kleur en uitstraling en het effect op de gebruiker. Edit-All huisvest een groep zeer 
+                vakbekwame mensen die hart en ziel in hun werk leggen.
+            </p>
+
+            <a href="#" class="btn-rood a-btn" id="work-load">
+                <span class="a-btn-text">bekijk projecten</span> 
+                <span class="a-btn-slide-text"><img src="img/icon-works-button.png" width="50"></span>
+                <span class="a-btn-icon-right"><span><img src="img/next.png"></span></span>
+            </a>
+            
+        </article>
+    </div>
+    <a class="scroller2" id="divider2">
     	<img src="img/icon.png" class="">
     </a>
-    
+</section>
+
+<!--Content - DIVIDER-->
+<section id="container2" class="bg-wit clear">
+    <article class="txt-rood">	
+    	<header>
+            <img src="img/soweeditall-zwart.png" class="">
+        </header>
+    </article>
 </section>
 
 <!--Content - PROFILE-->
@@ -148,48 +186,8 @@
             
         </article>
     </div>
-    <a class="scroller2" id="divider3">
-        <img src="img/icon-turq.png" class="">
-    </a>
-</section>
-
-<!--Content - DIVIDER-->
-<section id="container2" class="bg-wit clear">
-    <article class="txt-rood">	
-    	<header>
-            <img src="img/soweeditall-zwart.png" class="">
-        </header>
-    </article>
-</section>
-
-
-<!--Content - PROJECTS-->
-<section id="works-container" class="bg-wit">
-    <div id="dynamic-container">
-        <article class="txt-wit works">
-            <header>
-                <img src="img/icon-works.png" class="icon">
-                <h1 class="txt-wit">
-                    Projecten
-                </h1>
-            </header>
-            <span class="bg-rood"></span>
-            <p>
-                Wij cree&euml;ren winkels, reclames, interieuren en designs. Ons passie ligt in de vorm, 
-                de kleur en uitstraling en het effect op de gebruiker. Edit-All huisvest een groep zeer 
-                vakbekwame mensen die hart en ziel in hun werk leggen.
-            </p>
-
-            <a href="#" class="btn-rood a-btn" id="work-load">
-                <span class="a-btn-text">bekijk projecten</span> 
-                <span class="a-btn-slide-text"><img src="img/icon-works-button.png" width="50"></span>
-                <span class="a-btn-icon-right"><span><img src="img/next.png"></span></span>
-            </a>
-            
-        </article>
-    </div>
     <a class="scroller2" id="divider5">
-        <img src="img/icon.png" class="">
+        <img src="img/icon-turq.png" class="">
     </a>
 </section>
 
