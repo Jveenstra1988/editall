@@ -18,13 +18,9 @@ STORES - STORES - STORES - STORES -
     <article class="bg-grijs3 content">
         <h1 class="txt-zwart txt-left">PME legend Shop-in-Shop</h1>
         <p class="txt-zwart">
-            Voor het Merk PME Legend hebben we een shop in shop systeem ontwikkeld.
-            Uitstraling en ontwerp is helemaal gecre&euml;erd met het gevoel PME Legend wat een
-            zeer stoere en klasse uitstraling vertegenwoordigd.
-            <br /><br />
-            Daardoor past Edit-All duurzame materialen toe. Het resultaat daardoor een
-            prachtig totaalplaatje geworden. In de shop in shop wordt gewerkt met bewegend beeld
-            (4 plasmaschermen) PME Legend presenteert hierdoor prachtig gevoel richting de klant.
+            Wij zijn de bedenkers van een uniek shop in shop systeem voor 
+            PME-LEGEND, Cast Iron en Vanguard. Dat zorgt letterlijk voor 
+            een directe herkenning op de vierkante meter.
         </p>
 
         <a href="img/works/sto/color/jb-sis1.jpg" data-lightbox="sis"><img src="img/works/sto/color/jb-sis1.jpg" class="attribute"></a>
@@ -48,9 +44,8 @@ STORES - STORES - STORES - STORES -
     <article class="bg-grijs3 content">
         <h1 class="txt-zwart txt-left">Just Brands Stores</h1>
         <p class="txt-zwart">
-            Op vrijdag 1 maart 2013 is de nieuwe Just Brands store geopend in Rotterdam.
-            Onder veel aandacht is de nieuwe winkel van 300 m2 geopend met split level, eerste etage.
-            Edit-All is verantwoordelijk geweest voor de ontwerp, uitvoering en oplevering van dit gehele project.
+            In Rotterdam, Hilversum en Utrecht zijn nieuw Just Brands stores verrezen.
+            Hierbij is het volledige traject (turn key) afgelegd.
         </p>
 
         <a href="img/works/sto/color/jb-store1.jpg" data-lightbox="jbs"><img src="img/works/sto/color/jb-store1.jpg" class="attribute"></a>
@@ -68,19 +63,20 @@ STORES - STORES - STORES - STORES -
         <a href="img/works/sto/color/jb-store7.jpg" data-lightbox="jbs"><img src="img/works/sto/color/jb-store7.jpg" class="img-stack"></a>
         <a href="img/works/sto/color/jb-store8.jpg" data-lightbox="jbs"><img src="img/works/sto/color/jb-store8.jpg" class="img-stack"></a>
         
-        <p class="txt-wit breed">
+        <p class="txt-grijs breed">
             Locaties Just Brands Stores<br />
-            <a href="#">Rotterdam</a>
-            <a href="#">Hilversum</a>
-            <a href="#">Utrecht</a>
-            <a href="#">Haarlem</a>
-            <a href="#">Alkmaar</a>
-            <a href="#">Amsterdam</a>
-            <a href="#">Almere</a>
-            <a href="#">Osdorp Outlet</a>
-            <a href="#">Den Haag</a>
-            <a href="#">Zoetermeer</a>
-            <a href="#">Zwolle</a>
+            
+            Rotterdam	<b class="txt-rood">|</b> 
+            Hilversum	<b class="txt-rood">|</b>
+            Utrecht		<b class="txt-rood">|</b>
+            Haarlem		<b class="txt-rood">|</b>
+            Alkmaar		<b class="txt-rood">|</b>
+            Amsterdam	<b class="txt-rood">|</b>
+            Almere		<b class="txt-rood">|</b>
+            Osdorp  	<b class="txt-rood">|</b>
+            Den Haag 	<b class="txt-rood">|</b>
+            Zoetermeer	<b class="txt-rood">|</b>
+            Zwolle		<b class="txt-rood">|</b>
         </p>
 
     </article>
@@ -102,9 +98,8 @@ STORES - STORES - STORES - STORES -
     <article class="bg-grijs3 content">
         <h1 class="txt-zwart txt-left">JUST BRANDS SHOWROOMS</h1>
         <p class="txt-zwart">
-            Met Just Brands gaan wij voorbij de grenzen van Nederland.
-            Zo hebben wij het ontwerp uitgevoerd voor diverse showrooms in binnen- en buitenland.
-            De showrooms dienen ter presentatie van PME legend.
+            In opdracht van Just Brands hebben wij in binnen- en buitenland diverse 
+            showrooms ingericht die de sfeer van de merken perfect weergeeft.
         </p>
 
         <a href="img/works/sto/color/jb-show1.jpg" data-lightbox="jbs-s"><img src="img/works/sto/color/jb-show1.jpg" class="attribute"></a>
@@ -114,15 +109,15 @@ STORES - STORES - STORES - STORES -
         <a href="img/works/sto/color/jb-show3.jpg" data-lightbox="jbs-s"><img src="img/works/sto/color/jb-show3.jpg" class="img-stack"></a>
         <a href="img/works/sto/color/jb-show4.jpg" data-lightbox="jbs-s"><img src="img/works/sto/color/jb-show4.jpg" class="img-stack"></a>
 
-        <p class="txt-wit breed">
-        Showrooms<br />
-            <a href="#">Antwerpen</a>
-            <a href="#">Berlijn</a>
-            <a href="#">Dusseldorf</a>
-            <a href="#">Hamburg</a>
-            <a href="#">Munchen</a>
-            <a href="#">Sindelfinger</a>
-            <a href="#">Salzburg</a>
+        <p class="txt-grijs breed">
+        Showrooms<br>
+           Antwerpen	<b class="txt-rood">|</b> 
+           Berlijn		<b class="txt-rood">|</b> 
+           Dusseldorf	<b class="txt-rood">|</b> 
+           Hamburg		<b class="txt-rood">|</b> 
+           Munchen		<b class="txt-rood">|</b> 
+           Sindelfinger	<b class="txt-rood">|</b> 
+           Salzburg		<b class="txt-rood">|</b> 
         </p>
 
     </article>
@@ -492,10 +487,8 @@ Friends Emmen
     <article class="bg-grijs3 content">
         <h1 class="txt-zwart txt-left">Strandbrasserie de Jutter</h1>
         <p class="txt-zwart">
-            De Jutter is de nieuwe strandbrasserie in Almere haven,
-            Edit-All heeft dit project geproduceerd, begeleid en ontwikkeld.
-            In samenwerking met ontwerper Hans Klaver ( &amp;Hans ) hebben is een prachtig
-            resultaat opgeleverd aan de haven van Almere.
+            Oude blokhut omgebouwd tot een karakteristieke strandbrasserie. 
+            Het ontwerp is geïnspireerd op het eiland Texel, strand, jutten en drijfhout.
         </p>
 
         <a href="img/works/int/color/jutter1.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter1.jpg" class="attribute"></a>

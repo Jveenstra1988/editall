@@ -53,45 +53,41 @@
             <span class="lijn-rood"></span>
         </header>
         
-	    <p>Wij zetten de woorden van de klant op papier, 
-	    laten onze gedachten gaan en maken er een digitale tekening van.</p>
+	    <p>-</p>
 </div>
 <div class="drie">
     	<header>
   	        <img class="spr" src="img/zs-3.png">
 	    	<h4 class="txt-left">
-            	Grensverleggend in fysieke vormen.
+            	Wij zijn grensverleggend in ontwerpen.
             </h4>
                
             <span class="lijn-rood"></span>
         </header>
         
-        <p>Door gesprekken met de klant ontstaat de juiste uitstraling. Dit kan alle kant op.</p>
+        <p>-</p>
 </div>
 <div class="drie">     
         <header>
  		    <img class="spr" src="img/zs-5.png">   
             <h4 class="txt-left">
-                Wij diepen het bestaande imago uit of scheppen iets nieuws.
+                Wij bedenken een nieuw imago of versterken een bestaand.
             </h4>
             <span class="lijn-rood"></span>
         </header>
         
-	    <p> 
-	    	Edit-All gaat met de wensen van de klant aan de slag en al werkend 
-	    	onstaat het juiste gevoel.
-	    </p>
+	    <p>-</p>
 </div>
 <div class="drie">
         <header>
  			<img class="spr" src="img/zs-2.png">
             <h4 class="txt-left">
-                Wij schakelen snel en zorgen voor vertrouwde gezichten op de werkvloer.
+                Wij schakelen snel.
             </h4>
             <span class="lijn-rood"></span>
         </header>
         
-	    <p>Wij zijn niet bang om dan te veranderen.</p>
+	    <p>-</p>
 </div>
 <div class="drie">
     	<header>
@@ -101,19 +97,18 @@
             </h4>
             <span class="lijn-rood"></span>
         </header>
- 	    <p>We houden van korte lijnen. De diensten die wij doen zijn verschillend en veelzijdig.</p>       
+ 	    <p>-</p>       
 </div>
 <div class="drie">     
         <header>
  		    <img class="spr" src="img/zs-4.png">   
             <h4 class="txt-left">
-                Wij leveren een verfrissend totaalpakket; vakmanschap van A tot Z.
+                Wij leveren een verfrissend totaalpakket.
             </h4>
             <span class="lijn-rood"></span>
         </header>
         
-	    <p>Wij maken digitale tekeningen om de wensen van de klant te visualizeren. 
-	    Wij ontwerpen, tekenen, produceren en begeleiden.</p>
+	    <p>-</p>
 </div>
     </article>
     
@@ -171,12 +166,16 @@
             </header>
 
             <span class="bg-turq"></span>
-            <p>In ons industi&euml;le pand produceren wij 
-            onze interieurs en decors. Wij hebben voldoende ruimte om te bouwen, zodat we meerdere projecten tegelijk 
-            aannemen. Wij werken met een groep zeer vakbekwame mensen, die hun ziel en zaligheid 
-            in hun werk leggen. De mogelijkheden zijn legio in dit pand. Zo kunnen wij tijdelijke opslag aanbieden 
-            en door de karakteristieke en industri&euml;le uitstraling raken mensen g&euml;inspireerd en bestaat er de mogelijkheid 
-            voor film en fotoshoots in &eacute;&eacute;n van onze hallen.</p>
+            <p>
+	            Wij bedenken creatieve oplossingen voor winkels en horeca, 
+	            gelet op de gewenste uitstraling van een merk of een plek. 
+	            Tevens maken wij decors voor tv-commercials en films.
+	            <br /><br />
+	
+	            Wij werken met een vaste groep zeer vakbekwame mensen, 
+	            die snel maar gedegen projecten voorbouwen in onze werkplaats 
+	            en vervolgens monteren op de gewenste locatie.
+            </p>
 
             <a href="" class="btn-turq a-btn" id="how-we-work">
                 <span class="a-btn-text">Onze werkwijze</span> 

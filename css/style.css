@@ -927,8 +927,9 @@ a.video span img {
 }
 
 a.video:hover span img {
-	width: 100px;
-	margin-left: 27%;
+	width: 85px;
+	margin-left: 29%;
+
 }
 
 a.video img:hover {
@@ -1110,7 +1111,7 @@ a.video img.img-stack:before {
 	}
 	
 	section.clear article .drie h4 {
-		min-height: 6.5em;
+		min-height: 4.5em;
 	}
 	
 	section.clear article div.blok {
