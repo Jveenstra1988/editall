@@ -296,7 +296,6 @@ $(document).on('click','#work-load', function() {
 // Load original content
 $(document).on('click','.back', function(){
 	// change background color of main container (in dept effect)
-	$('#works-container').css({ 'background': 'url(../img/works-1.jpg) center center no-repeat'});
     $('#dynamic-container').animate({ left : '100%' }, 300).queue(function( nxt ) {
 		$(this).load('inc/works-content.php .works');
 		nxt();
