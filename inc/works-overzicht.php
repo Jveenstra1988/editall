@@ -9,8 +9,15 @@
 		<a href="#" class="btn-wit stroke active" id="all">Projecten</a>
 		<a href="#" class="btn-wit stroke" id="stores">Stores</a>
 		<a href="#" class="btn-wit stroke" id="commercials">Commercials</a>
-		<a href="#" class="btn-wit stroke" id="interiors">Interieur</a>
+		<a href="#" class="btn-wit stroke" id="interiors">Interieurs</a>
+		
+		<!-- Deze is nieuw en moet nog ID's voor gemaakt worden -->
+		<a href="#" class="btn-wit stroke" id="horeca">Horeca</a>
+		<!-- Deze is nieuw en moet nog ID's voor gemaakt worden -->
+		<a href="#" class="btn-wit stroke" id="horeca">Stands</a>
+
 		<a href="#" class="btn-wit stroke" id="designs">Designs</a>
+
 		
 		<div id="results" class="imageholder">
 			

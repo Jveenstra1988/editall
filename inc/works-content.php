@@ -44,7 +44,8 @@ STORES - STORES - STORES - STORES -
     <article class="bg-grijs3 content">
         <h1 class="txt-zwart txt-left">Just Brands Stores</h1>
         <p class="txt-zwart">
-            In Rotterdam, Hilversum en Utrecht zijn nieuw Just Brands stores verrezen.
+        	Edit-all ontwerpt alles van Just Brands!       	
+            In Rotterdam, Hilversum en Utrecht zijn nieuwe Just Brands stores verrezen.
             Hierbij is het volledige traject (turn key) afgelegd.
         </p>
 
@@ -98,7 +99,7 @@ STORES - STORES - STORES - STORES -
     <article class="bg-grijs3 content">
         <h1 class="txt-zwart txt-left">JUST BRANDS SHOWROOMS</h1>
         <p class="txt-zwart">
-            In opdracht van Just Brands hebben wij in binnen- en buitenland diverse 
+            In opdracht van Just Brands hebben wij in het buitenland diverse 
             showrooms ingericht die de sfeer van de merken perfect weergeeft.
         </p>
 
@@ -169,11 +170,10 @@ Friends Emmen
     </div>
 
     <article class="bg-grijs3 content">
-        <h1 class="txt-zwart txt-left">Albert Heijn Jamie Oliver</h1>
+        <h1 class="txt-zwart txt-left">Albert Heijn Pasen met Jamie Oliver</h1>
         <p class="txt-zwart">
-            Voor Albert Heijn heeft Edit-All een keuken gemaakt waar
-            Jamie Oliver samen met de filiaalmanager meneer Van Dalen
-            een heerlijk gerecht in elkaar weet te zetten.
+            Kookeiland en de achterwand van de keuken waar Jamie 
+            Oliver zijn gerechten klaarmaakt voor Albert Heijn.
         </p>
 
         <a href="img/works/com/color/ah4.jpg" data-lightbox="jamie"><img src="img/works/com/color/ah4.jpg" class="attribute"></a>
@@ -207,9 +207,9 @@ Friends Emmen
     <article class="bg-grijs3 content">
         <h1 class="txt-zwart txt-left">Rabobank Slooppand</h1>
         <p class="txt-zwart">
-            Voor Albert Heijn heeft Edit-All een keuken gemaakt waar
-            Jamie Oliver samen met de filiaalmanager meneer Van Dalen
-            een heerlijk gerecht in elkaar weet te zetten.
+            Voor een Rabobank commercial produceerde Edit-All deze grote set. 
+            De opdracht luidde, set 1: oud slooppand, set 2: oud slooppand gerenoveerd, set 3: laboratorium.
+            Alle sets zijn gebouwd in de filmstudio.
         </p>
 
         <a href="img/works/com/color/rabo1.jpg" data-lightbox="jamie"><img src="img/works/com/color/rabo1.jpg" class="attribute"></a>
@@ -246,8 +246,9 @@ Friends Emmen
             Diergaarde Blijdorp gekregen. Diergaarde Blijdorp opende op 28 maart 2013 de deuren
             voor de duizenden Olli-fans.
             <br /><br />
-            Edit-All was verandwoordelijk voor de realisatie van de Ollie-winkel.
-            In opdracht van Jelier &amp; Schaaf.
+            Voor de commercial bouwden wij het café en de slaapkamer van Giovanni van Bronckhorst.
+            In Diergaarde Blijdorp bouwden wij de enorme verkoopkast met daarin Olli-knuffels. 
+            Voor de kids-fandagen maakten wij de grote transportkist waar Olli in vervoerd kon worden.
         </p>
 
         <a href="img/works/com/color/olli9.jpg" data-lightbox="olli"><img src="img/works/com/color/olli9.jpg" class="attribute"></a>
@@ -353,8 +354,8 @@ Friends Emmen
         <h1 class="txt-zwart txt-left">Ali-B zonder Ansjovis | T-Mobile</h1>
 
         <p class="txt-zwart">
-            Voor de commercial van T-Mobile met Ali B was Edit-all verantwoordelijk voor het decor.
-            Opdrachtgever: Jelier&amp;Schaaf
+            Voor de T-mobile commercials met Ali B cre&euml;erden wij 
+            de directie/vergaderruimte in de filmstudio.
         </p>
 
         <a href="img/works/com/color/alib1.jpg" data-lightbox="alib"><img src="img/works/com/alib1.jpg" class="attribute"></a>
@@ -387,8 +388,8 @@ Friends Emmen
         <h1 class="txt-zwart txt-left">PLEH?! | Interpolis</h1>
 
         <p class="txt-zwart">
-            Recentelijk is op de Nederlandse televisie de Interpolis commercial verschenen.
-            Edit-All was verantwoordelijk voor decorbouw van het ziekenhuis kantoor.
+            Voor een recente Interpolis commercial produceerde wij het kantoor van de dokter
+            in de studio.
         </p>
 
         <a href="img/works/com/color/inter1.jpg" data-lightbox="inter"><img src="img/works/com/color/inter1.jpg" class="attribute"></a>
@@ -419,8 +420,7 @@ Friends Emmen
         <h1 class="txt-zwart txt-left">All You Can Eat | Hi</h1>
 
         <p class="txt-zwart">
-            Recentelijk is op de Nederlandse televisie de HI commercial verschijnen.
-            Edit-All was verantwoordelijk voor decorbouw van het restaurant.
+        	Edit-All was verantwoordelijk voor decorbouw van het sushi restaurant.
         </p>
 
         <a href="img/works/com/color/hi1.jpg" data-lightbox="hi"><img src="img/works/com/color/hi1.jpg" class="attribute"></a>
@@ -565,8 +565,8 @@ Friends Emmen
     <article class="bg-grijs3 content">
         <h1 class="txt-zwart txt-left">Wildschut</h1>
         <p class="txt-zwart">
-            Wildschut tekst. Edit all heeft voor
-            wildschut het interieur gemaakt. Prachtige en conformtabele stoelen om heerlijk aan te zitten een drankje te drinken.
+         	Good Food Group heeft diverse cafés/restaurants in het centrum van Amsterdam. 
+         	Hieronder valt ook Wildschut. Daarvoor hebben wij diverse tafelbladen gemaakt.
         </p>
 
         <a href="img/works/int/color/wildschut1.jpg" data-lightbox="wildschut"><img src="img/works/int/color/wildschut1.jpg" class="attribute"></a>

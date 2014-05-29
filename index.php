@@ -129,9 +129,9 @@
             </header>
             <span class="bg-rood"></span>
             <p>
-                Wij cree&euml;ren winkels, reclames, interieuren en designs. Ons passie ligt in de vorm, 
-                de kleur en uitstraling en het effect op de gebruiker. Edit-All huisvest een groep zeer 
-                vakbekwame mensen die hart en ziel in hun werk leggen.
+                Wij cree&euml;ren winkels, interieurs, decors voor films en commercials. 
+                Ons passie ligt in de vorm, uitstraling en het effect op de gebruiker. 
+                Edit-All huisvest een groep zeer vakbekwame mensen die hart en ziel in hun werk leggen.
             </p>
 
             <a href="#" class="btn-rood a-btn" id="work-load">
