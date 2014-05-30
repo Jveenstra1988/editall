@@ -1,9 +1,11 @@
-<!-- Project 1 -->
+<!-- Projectpagina 1 -->
 <section id="works-overzicht" class="">
 	<a href="#" class="btn-rood back">&#8592; Terug</a>
 	<article class="bg-grijs2 images">
 		<header>
 			<h1 class="txt-zwart txt-left">Projecten</h1>
+			<a href='#' class='btn-grijs active' id='page-one'>1</a>
+			<a href='#' class='btn-grijs' id='page-two'>2</a>
 		</header>
 		
 		<a href="#" class="btn-wit stroke active" id="all">Projecten</a>
@@ -14,7 +16,7 @@
 		<!-- Deze is nieuw en moet nog ID's voor gemaakt worden -->
 		<a href="#" class="btn-wit stroke" id="horeca">Horeca</a>
 		<!-- Deze is nieuw en moet nog ID's voor gemaakt worden -->
-		<a href="#" class="btn-wit stroke" id="horeca">Stands</a>
+		<a href="#" class="btn-wit stroke" id="stands">Stands</a>
 
 		<a href="#" class="btn-wit stroke" id="designs">Designs</a>
 

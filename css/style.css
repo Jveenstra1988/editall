@@ -1235,6 +1235,10 @@ a.video img.img-stack:before {
 	#dynamic-container article.images a {
 		display: none;
 	}
+	#dynamic-container header a {
+		display: inline-block !important;
+	}
+	
 	
 	#dynamic-container article.content p {
 		width: 90%;

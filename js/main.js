@@ -293,6 +293,17 @@ $(document).on('click','#work-load', function() {
 	return false;
 });
 
+//	Load next or previous page
+$(document).on('click','#page-one', function() {
+	$('#dynamic-container').load('inc/works-overzicht.php');
+	return false;
+});
+
+$(document).on('click','#page-two', function() {
+	$('#dynamic-container').load('inc/works-overzicht-2.php');
+	return false;
+});
+
 // Load original content
 $(document).on('click','.back', function(){
 	// change background color of main container (in dept effect)
@@ -383,6 +394,24 @@ $(document).on('click','#commercials', function() {
 $(document).on('click','#interiors', function() {
 	$('#results .clickable').fadeTo( 200 , 0.1);
 	$('#results .clickable').filter('.interiors').fadeTo( 200 , 1);
+	
+	$('#works-overzicht article a').removeClass('active');
+	$(this).addClass('active');
+	return false;
+});
+
+$(document).on('click','#horeca', function() {
+	$('#results .clickable').fadeTo( 200 , 0.1);
+	$('#results .clickable').filter('.horeca').fadeTo( 200 , 1);
+	
+	$('#works-overzicht article a').removeClass('active');
+	$(this).addClass('active');
+	return false;
+});
+
+$(document).on('click','#stands', function() {
+	$('#results .clickable').fadeTo( 200 , 0.1);
+	$('#results .clickable').filter('.stands').fadeTo( 200 , 1);
 	
 	$('#works-overzicht article a').removeClass('active');
 	$(this).addClass('active');
