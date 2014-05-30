@@ -916,8 +916,8 @@ a.video {
 }
 
 a.video span img {
-	margin-top: -84%;
-	margin-left: 34%;
+	margin-top: -89%;
+	margin-left: 30%;
 	width: 70px;
 	-webkit-transition: all 200ms ease-out;
 	-moz-transition: all 200ms ease-out;
@@ -928,7 +928,7 @@ a.video span img {
 
 a.video:hover span img {
 	width: 85px;
-	margin-left: 29%;
+	margin-left: 25%;
 
 }
 

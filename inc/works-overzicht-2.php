@@ -23,38 +23,38 @@
 		
 		<div id="results" class="imageholder">
 			
-			<div class="clickable commercials">
-				<h3 class="overlay-txt" id="ah-jamie">Een volgend project</h3>
-				<img src="img/works/com/color/ah4.jpg" >
-				<div class="overlay" id="ah-jamie">
+			<div class="clickable horeca">
+				<h3 class="overlay-txt" id="koning">de Koning</h3>
+				<img src="img/works/hor/color/koning6.jpg" >
+				<div class="overlay" id="koning">
+				</div>
+			</div>
+			
+			<div class="clickable stores">
+				<h3 class="overlay-txt" id="koopman">Koopman Optiek</h3>
+				<img src="img/works/sto/color/koopman1.jpg" >
+				<div class="overlay" id="koopman">
 				</div>
 			</div>
 			
 			<div class="clickable commercials">
-				<h3 class="overlay-txt" id="ah-jamie">Een volgend project</h3>
-				<img src="img/works/com/color/ah4.jpg" >
-				<div class="overlay" id="ah-jamie">
+				<h3 class="overlay-txt" id="bewuzt">Bewuzt</h3>
+				<img src="img/works/com/color/bewuzt1.jpg" >
+				<div class="overlay" id="bewuzt">
+				</div>
+			</div>
+
+			<div class="clickable horeca">
+				<h3 class="overlay-txt" id="peters">Peter's Irish Pub</h3>
+				<img src="img/works/hor/color/peters6.jpg" >
+				<div class="overlay" id="peters">
 				</div>
 			</div>
 			
-			<div class="clickable commercials">
-				<h3 class="overlay-txt" id="ah-jamie">Een volgend project</h3>
-				<img src="img/works/com/color/ah4.jpg" >
-				<div class="overlay" id="ah-jamie">
-				</div>
-			</div>
-			
-			<div class="clickable commercials">
-				<h3 class="overlay-txt" id="ah-jamie">Een volgend project</h3>
-				<img src="img/works/com/color/ah4.jpg" >
-				<div class="overlay" id="ah-jamie">
-				</div>
-			</div>
-			
-			<div class="clickable commercials">
-				<h3 class="overlay-txt" id="ah-jamie">Een volgend project</h3>
-				<img src="img/works/com/color/ah4.jpg" >
-				<div class="overlay" id="ah-jamie">
+			<div class="clickable designs">
+				<h3 class="overlay-txt" id="jb-design">Just Brands Design</h3>
+				<img src="img/works/des/color/jb-design1.jpg" >
+				<div class="overlay" id="jb-design">
 				</div>
 			</div>
 			
