@@ -1,11 +1,9 @@
-<!--
-////////////////////////////////////
+<!--////////////////////////////////////
 STORES - STORES - STORES - STORES -
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
--->
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
-<!-- PME LEGEND SHOP-IN-SHOP -->
-<section class="bg-grijs22" id="jb-sis">
+	<!-- PME LEGEND SHOP-IN-SHOP -->
+	<section class="bg-grijs22" id="jb-sis">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute"> 
 	    <a title="volgende" class="tooltip btn-rood next-project" href="#" id="jb-stores">
@@ -29,9 +27,8 @@ STORES - STORES - STORES - STORES -
         <a href="img/works/sto/color/jb-sis3.jpg" data-lightbox="sis"><img src="img/works/sto/color/jb-sis3.jpg" class="img-stack"></a>
     </article>
 </section>
-
-<!-- JUST BRANDS STORES -->
-<section class="bg-grijs2" id="jb-stores">
+	<!-- JUST BRANDS STORES -->
+	<section class="bg-grijs2" id="jb-stores">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
         <a title="volgende" class="tooltip btn-rood next-project" id="jb-showroom">
@@ -82,9 +79,8 @@ STORES - STORES - STORES - STORES -
   
     </article>
 </section>
-
-<!-- JUST BRANDS SHOWROOMS -->
-<section class="bg-grijs2" id="jb-showroom">
+	<!-- JUST BRANDS SHOWROOMS -->
+	<section class="bg-grijs2" id="jb-showroom">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
         <a title="volgende" class="tooltip btn-rood next-project" id="ah-jamie">
@@ -121,9 +117,8 @@ STORES - STORES - STORES - STORES -
         <a href="img/works/sto/color/jb-show4.jpg" data-lightbox="jbs-s"><img src="img/works/sto/color/jb-show4.jpg" class="img-stack"></a>
     </article>
 </section>
-
-<!-- Friends Emmen -->
-<section class="bg-grijs2" id="friends-emmen">
+	<!-- Friends Emmen -->
+	<section class="bg-grijs2" id="friends-emmen">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
         <a title="volgende" class="tooltip btn-rood next-project" id="sol-heineken">Volgende &#8594;</a>
@@ -146,14 +141,13 @@ STORES - STORES - STORES - STORES -
     </article>
 </section>
 
-<!--
-////////////////////////////////////
-+++_______ COMMERCIALS _______+++
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
--->
 
-<!-- Albert Heijn Jamie Oliver -->
-<section class="bg-grijs2" id="ah-jamie">
+<!--////////////////////////////////////
++++_______ COMMERCIALS _______+++
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+
+	<!-- Albert Heijn Jamie Oliver -->
+	<section class="bg-grijs2" id="ah-jamie">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
         <a title="volgende" class="tooltip btn-rood next-project" id="ah-route99">
@@ -184,9 +178,8 @@ STORES - STORES - STORES - STORES -
         <a href="img/works/com/color/ah1.jpg" data-lightbox="jamie"><img src="img/works/com/color/ah1.jpg" class="img-stack"></a>
     </article>
 </section>
-
-<!-- Albert Heijn Route 99 -->
-<section class="bg-grijs2" id="ah-route99">
+	<!-- Albert Heijn Route 99 -->
+	<section class="bg-grijs2" id="ah-route99">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
         <a title="volgende" class="tooltip btn-rood next-project" id="rabobank">
@@ -217,9 +210,8 @@ STORES - STORES - STORES - STORES -
         <a href="img/works/com/color/route99-3.jpg" data-lightbox="jamie"><img src="img/works/com/color/route99-3.jpg" class="img-stack"></a>
     </article>
 </section>
-
-<!-- Rabobank Commercial -->
-<section class="bg-grijs2" id="rabobank">
+	<!-- Rabobank Commercial -->
+	<section class="bg-grijs2" id="rabobank">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
         <a title="volgende" class="tooltip btn-rood next-project" id="olli-blijdorp">
@@ -251,9 +243,8 @@ STORES - STORES - STORES - STORES -
         <a href="img/works/com/color/rabo5.jpg" data-lightbox="jamie"><img src="img/works/com/color/rabo5.jpg" class="img-stack"></a>
     </article>
 </section>
-
-<!-- Olli Blijdorp -->
-<section class="bg-grijs2" id="olli-blijdorp">
+	<!-- Olli Blijdorp -->
+	<section class="bg-grijs2" id="olli-blijdorp">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
         <a title="volgende" class="tooltip btn-rood next-project" id="popcorn-bak">
@@ -293,9 +284,8 @@ STORES - STORES - STORES - STORES -
         <a href="img/works/com/color/olli8.jpg" data-lightbox="olli"><img src="img/works/com/color/olli8.jpg" class="img-stack"></a>
 	</article>
 </section>
-
-<!-- UPC The Switch -->
-<section class="bg-grijs2" id="the-switch">
+	<!-- UPC The Switch -->
+	<section class="bg-grijs2" id="the-switch">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
         <a title="volgende" class="tooltip btn-rood next-project" id="popcorn-bak">
@@ -316,9 +306,8 @@ STORES - STORES - STORES - STORES -
         </p>
     </article>
 </section>
-
-<!-- UPC Popcorn -->
-<section class="bg-grijs2" id="popcorn-bak">
+	<!-- UPC Popcorn -->
+	<section class="bg-grijs2" id="popcorn-bak">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
         <a title="volgende" class="tooltip btn-rood next-project" id="tmobile-alib">
@@ -362,9 +351,8 @@ STORES - STORES - STORES - STORES -
 
     </article>
 </section>
-
-<!-- T-Mobile Ali-B -->
-<section class="bg-grijs2" id="tmobile-alib">
+	<!-- T-Mobile Ali-B -->
+	<section class="bg-grijs2" id="tmobile-alib">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
         <a title="volgende" class="tooltip btn-rood next-project" id="interpolis-pleh">
@@ -395,9 +383,8 @@ STORES - STORES - STORES - STORES -
         <a href="img/works/com/color/alib5.jpg" data-lightbox="alib"><img src="img/works/com/color/alib5.jpg" class="img-stack"></a>
     </article>
 </section>
-
-<!-- Interpolis -->
-<section class="bg-grijs2" id="interpolis-pleh">
+	<!-- Interpolis -->
+	<section class="bg-grijs2" id="interpolis-pleh">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
         <a title="volgende" class="tooltip btn-rood next-project" id="allyou-caneat">
@@ -427,9 +414,8 @@ STORES - STORES - STORES - STORES -
         <a href="img/works/com/color/inter4.jpg" data-lightbox="inter"><img src="img/works/com/color/inter4.jpg" class="img-stack"></a>
     </article>
 </section>
-
-<!-- All You Can Eat Hi -->
-<section class="bg-grijs2" id="allyou-caneat">
+	<!-- All You Can Eat Hi -->
+	<section class="bg-grijs2" id="allyou-caneat">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
         <a title="volgende" class="tooltip btn-rood next-project" id="bbb">
@@ -460,9 +446,234 @@ STORES - STORES - STORES - STORES -
         <a href="img/works/com/color/hi5.jpg" data-lightbox="hi"><img src="img/works/com/color/hi5.jpg" class="img-stack"></a>
     </article>
 </section>
+	<!-- Ziggo -->
+	<section class="bg-grijs2" id="ziggo">
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
+    <div class="absolute">
+        <a title="volgende" class="tooltip btn-rood next-project" id="ah-jamie">
+        <span>
+		    <img src="img/works/com/ah2.jpg">
+		    <p>Albert Heijn Jamie</p>
+	    </span>Volgende &#8594;</a>
 
-<!-- Bread and Butter Berlin -->
-<section class="bg-grijs2" id="bbb">
+    </div>
+
+    <article class="bg-grijs3 content">
+        <h1 class="txt-zwart txt-left">Ziggo</h1>
+        <p class="txt-zwart">
+         	Voor Ziggo maakte Edit-all onder andere het decor van de woonkamer van de vriendengroep
+         	en de Chineese kamer van de vriend ver weg.
+        </p>
+
+        <a href="img/works/com/color/ziggo1.jpg" data-lightbox="ziggo"><img src="img/works/com/color/ziggo3.jpg" class="attribute"></a>
+ 
+        <!-- Ziggo commercial 1 -->
+        <a class="various fancybox.iframe video" href="//www.youtube.com/embed/iapKMeHpE-U?autoplay=1">
+		  <img src="img/works/video/ziggo-video1.jpg" class="img-stack">
+		  <span><img src="../img/play.png"></span>
+        </a>
+
+        <!-- Ziggo commercial 2 -->
+        <a class="various fancybox.iframe video" href="//www.youtube.com/embed/6I10c5d2JUw?autoplay=1">
+		  <img src="img/works/video/ziggo-video2.jpg" class="img-stack">
+		  <span><img src="../img/play.png"></span>
+        </a>
+
+        <!-- Ziggo commercial 3 -->
+        <a class="various fancybox.iframe video" href="//www.youtube.com/embed/C-sfYyxf2pI?autoplay=1">
+		  <img src="img/works/video/ziggo-video3.jpg" class="img-stack">
+		  <span><img src="../img/play.png"></span>
+        </a>
+
+        <a href="img/works/com/color/ziggo1.jpg" data-lightbox="ziggo"><img src="img/works/com/color/ziggo1.jpg" class="img-stack"></a>                
+        <a href="img/works/com/color/ziggo2.jpg" data-lightbox="ziggo"><img src="img/works/com/color/ziggo2.jpg" class="img-stack"></a>        
+    </article>
+</section>
+
+
+<!--////////////////////////////////////
++++_______ INTERIORS _______+++
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+
+	<!-- Strandbrasserie de Jutter -->
+	<section class="bg-grijs2" id="dejutter-almere">
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
+    <div class="absolute">
+        <a title="volgende" class="tooltip btn-rood next-project" id="sol-heineken">
+        <span>
+		    <img src="img/works/sto/sol7.jpg">
+		    <p>Heineken</p>
+	    </span>Volgende &#8594;</a>
+
+    </div>
+
+    <article class="bg-grijs3 content">
+        <h1 class="txt-zwart txt-left">Strandbrasserie de Jutter</h1>
+        <p class="txt-zwart">
+            Oude blokhut omgebouwd tot een karakteristieke strandbrasserie. 
+            Het ontwerp is geïnspireerd op het eiland Texel, strand, jutten en drijfhout.
+        </p>
+
+        <a href="img/works/int/color/jutter1.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter1.jpg" class="attribute"></a>
+
+        <a href="img/works/int/color/jutter2.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter2.jpg" class="img-stack"></a>
+        <a href="img/works/int/color/jutter3.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter3.jpg" class="img-stack"></a>
+        <a href="img/works/int/color/jutter4.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter4.jpg" class="img-stack"></a>
+        <a href="img/works/int/color/jutter5.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter5.jpg" class="img-stack"></a>
+        <a href="img/works/int/color/jutter6.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter6.jpg" class="img-stack"></a>
+        <a href="img/works/int/color/jutter7.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter7.jpg" class="img-stack"></a>
+        <a href="img/works/int/color/jutter8.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter8.jpg" class="img-stack"></a>
+        <a href="img/works/int/color/jutter10.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter10.jpg" class="img-stack"></a>
+    </article>
+</section>
+	<!-- Wildschut -->
+	<section class="bg-grijs2" id="wildschut">
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
+    <div class="absolute">
+        <a title="volgende" class="tooltip btn-rood next-project" id="koning">
+        <span>
+		    <img src="img/works/hor/koning6.jpg">
+		    <p>de Koning</p>
+	    </span>Volgende &#8594;</a>
+
+    </div>
+
+    <article class="bg-grijs3 content">
+        <h1 class="txt-zwart txt-left">Wildschut</h1>
+        <p class="txt-zwart">
+         	Good Food Group heeft diverse cafés/restaurants in het centrum van Amsterdam. 
+         	Hieronder valt ook Wildschut. Daarvoor hebben wij diverse tafelbladen gemaakt.
+        </p>
+
+        <a href="img/works/int/color/wildschut1.jpg" data-lightbox="wildschut"><img src="img/works/int/color/wildschut1.jpg" class="attribute"></a>
+                
+        <a href="img/works/int/color/wildschut1.jpg" data-lightbox="wildschut"><img src="img/works/int/color/wildschut1.jpg" class="img-stack"></a>
+        <a href="img/works/int/color/wildschut2.jpg" data-lightbox="wildschut"><img src="img/works/int/color/wildschut2.jpg" class="img-stack"></a>
+        <a href="img/works/int/color/wildschut3.jpg" data-lightbox="wildschut"><img src="img/works/int/color/wildschut3.jpg" class="img-stack"></a>
+        <a href="img/works/int/color/wildschut4.jpg" data-lightbox="wildschut"><img src="img/works/int/color/wildschut4.jpg" class="img-stack"></a>
+    </article>
+</section>
+	<!-- Koopman Optiek -->
+	<section class="bg-grijs2" id="koopman">
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
+    <div class="absolute">
+        <a title="volgende" class="tooltip btn-rood next-project" id="bewuzt">
+        <span>
+		    <img src="img/works/com/bewuzt1.jpg">
+		    <p>Bewuzt</p>
+	    </span>Volgende &#8594;</a>
+
+    </div>
+
+    <article class="bg-grijs3 content">
+        <h1 class="txt-zwart txt-left">Koopman Optiek</h1>
+        <p class="txt-zwart">
+         	Nieuw winkelinterieur bedacht en gecreëerd.
+        </p>
+
+        <a href="img/works/sto/color/koopman1.jpg" data-lightbox="koopman"><img src="img/works/sto/color/koopman1.jpg" class="attribute"></a>
+        
+        <a href="img/works/sto/color/koopman2.jpg" data-lightbox="koopman"><img src="img/works/sto/color/koopman2.jpg" class="img-stack"></a>        
+        <a href="img/works/sto/color/koopman3.jpg" data-lightbox="koopman"><img src="img/works/sto/color/koopman3.jpg" class="img-stack"></a>
+        <a href="img/works/sto/color/koopman4.jpg" data-lightbox="koopman"><img src="img/works/sto/color/koopman4.jpg" class="img-stack"></a>
+        <a href="img/works/sto/color/koopman5.jpg" data-lightbox="koopman"><img src="img/works/sto/color/koopman5.jpg" class="img-stack"></a>
+        <a href="img/works/sto/color/koopman6.jpg" data-lightbox="koopman"><img src="img/works/sto/color/koopman6.jpg" class="img-stack"></a>
+        <a href="img/works/sto/color/koopman7.jpg" data-lightbox="koopman"><img src="img/works/sto/color/koopman7.jpg" class="img-stack"></a>
+        <a href="img/works/sto/color/koopman8.jpg" data-lightbox="koopman"><img src="img/works/sto/color/koopman8.jpg" class="img-stack"></a>
+        
+    </article>
+</section>
+	<!-- Bewuzt -->
+	<section class="bg-grijs2" id="bewuzt">
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
+    <div class="absolute">
+        <a title="volgende" class="tooltip btn-rood next-project" id="modefabriek">
+        <span>
+		    <img src="img/works/std/modefabriek7.jpg">
+		    <p>Modefabriek Amsterdam</p>
+	    </span>Volgende &#8594;</a>
+
+    </div>
+
+    <article class="bg-grijs3 content">
+        <h1 class="txt-zwart txt-left">Bewuzt</h1>
+        <p class="txt-zwart">
+         	3 decors gebouwd en totaal gespoten in verschillende kleuren.
+        </p>
+
+        <a href="img/works/com/color/bewuzt1.jpg" data-lightbox="bewuzt"><img src="img/works/com/color/bewuzt1.jpg" class="attribute"></a>
+        
+        <a href="img/works/com/color/bewuzt2.jpg" data-lightbox="bewuzt"><img src="img/works/com/color/bewuzt2.jpg" class="img-stack"></a>        
+        <a href="img/works/com/color/bewuzt3.jpg" data-lightbox="bewuzt"><img src="img/works/com/color/bewuzt3.jpg" class="img-stack"></a>
+        <a href="img/works/com/color/bewuzt4.jpg" data-lightbox="bewuzt"><img src="img/works/com/color/bewuzt4.jpg" class="img-stack"></a>
+        <a href="img/works/com/color/bewuzt5.jpg" data-lightbox="bewuzt"><img src="img/works/com/color/bewuzt5.jpg" class="img-stack"></a>
+        <a href="img/works/com/color/bewuzt6.jpg" data-lightbox="bewuzt"><img src="img/works/com/color/bewuzt6.jpg" class="img-stack"></a>
+        <a href="img/works/com/color/bewuzt7.jpg" data-lightbox="bewuzt"><img src="img/works/com/color/bewuzt7.jpg" class="img-stack"></a>        
+    </article>
+</section>
+
+<!--////////////////////////////////////
++++_______ STANDS _______+++
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+
+	<!-- Heineken -->
+	<section class="bg-grijs2" id="sol-heineken">
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
+    <div class="absolute">
+        <a title="volgende" class="tooltip btn-rood next-project" id="wildschut">
+        <span>
+		    <img src="img/works/int/wildschut1.jpg">
+		    <p>Wildschut</p>
+	    </span>Volgende &#8594;</a>
+
+    </div>
+
+    <article class="bg-grijs3 content">
+        <h1 class="txt-zwart txt-left">Heineken</h1>
+        <p class="txt-zwart">
+        	Beurs van Berlage Amsterdam, internationale productpresentatie van Heineken
+        	- Sol - Fresh Beer - AB Free
+        </p>
+
+        <a href="img/works/sto/color/sol1.jpg" data-lightbox="sol"><img src="img/works/sto/color/sol3.jpg" class="attribute"></a>
+
+        <a href="img/works/sto/color/sol2.jpg" data-lightbox="sol"><img src="img/works/sto/color/sol1.jpg" class="img-stack"></a>
+        <a href="img/works/sto/color/sol3.jpg" data-lightbox="sol"><img src="img/works/sto/color/sol7.jpg" class="img-stack"></a>
+        <a href="img/works/sto/color/sol4.jpg" data-lightbox="sol"><img src="img/works/sto/color/sol4.jpg" class="img-stack"></a>
+        <a href="img/works/sto/color/sol5.jpg" data-lightbox="sol"><img src="img/works/sto/color/sol5.jpg" class="img-stack"></a>
+        <a href="img/works/sto/color/sol6.jpg" data-lightbox="sol"><img src="img/works/sto/color/sol6.jpg" class="img-stack"></a>
+        <a href="img/works/sto/color/sol7.jpg" data-lightbox="sol"><img src="img/works/sto/color/sol2.jpg" class="img-stack"></a>
+    </article>
+</section>
+	<!-- Modefabriek Amsterdam -->
+	<section class="bg-grijs2" id="modefabriek">
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
+    <div class="absolute">
+        <a title="volgende" class="tooltip btn-rood next-project" id="jb-design">
+        <span>
+		    <img src="img/works/des/color/jb-design1.jpg">
+		    <p>Just Brands Design</p>
+	    </span>Volgende &#8594;</a>
+
+    </div>
+
+    <article class="bg-grijs3 content">
+        <h1 class="txt-zwart txt-left">Modefabriek Amsterdam</h1>
+        <p class="txt-zwart">
+         	De jaarlijkse modebeurs in Amsterdam, standbouw voor Vanguard en Cast Iron
+        </p>
+
+        <a href="img/works/std/color/modefabriek7.jpg" data-lightbox="modefabriek"><img src="img/works/std/color/modefabriek7.jpg" class="attribute"></a>
+        <a href="img/works/std/color/modefabriek2.jpg" data-lightbox="modefabriek"><img src="img/works/std/color/modefabriek2.jpg" class="img-stack"></a>        
+        <a href="img/works/std/color/modefabriek3.jpg" data-lightbox="modefabriek"><img src="img/works/std/color/modefabriek3.jpg" class="img-stack"></a>
+        <a href="img/works/std/color/modefabriek4.jpg" data-lightbox="modefabriek"><img src="img/works/std/color/modefabriek4.jpg" class="img-stack"></a>
+        <a href="img/works/std/color/modefabriek5.jpg" data-lightbox="modefabriek"><img src="img/works/std/color/modefabriek5.jpg" class="img-stack"></a>
+        <a href="img/works/std/color/modefabriek6.jpg" data-lightbox="modefabriek"><img src="img/works/std/color/modefabriek6.jpg" class="img-stack"></a>
+        <a href="img/works/std/color/modefabriek1.jpg" data-lightbox="modefabriek"><img src="img/works/std/color/modefabriek1.jpg" class="img-stack"></a>        
+    </article>
+</section>
+	<!-- Bread and Butter Berlin -->
+	<section class="bg-grijs2" id="bbb">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
         <a title="volgende" class="tooltip btn-rood next-project" id="dejutter-almere">
@@ -495,118 +706,13 @@ STORES - STORES - STORES - STORES -
     </article>
 </section>
 
-<!--
-////////////////////////////////////
-+++_______ INTERIORS _______+++
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
--->
 
-<!-- Strandbrasserie de Jutter -->
-<section class="bg-grijs2" id="dejutter-almere">
-    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
-    <div class="absolute">
-        <a title="volgende" class="tooltip btn-rood next-project" id="sol-heineken">
-        <span>
-		    <img src="img/works/sto/sol7.jpg">
-		    <p>Heineken</p>
-	    </span>Volgende &#8594;</a>
+<!--////////////////////////////////////
++++_______ HORECA _______+++
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
-    </div>
-
-    <article class="bg-grijs3 content">
-        <h1 class="txt-zwart txt-left">Strandbrasserie de Jutter</h1>
-        <p class="txt-zwart">
-            Oude blokhut omgebouwd tot een karakteristieke strandbrasserie. 
-            Het ontwerp is geïnspireerd op het eiland Texel, strand, jutten en drijfhout.
-        </p>
-
-        <a href="img/works/int/color/jutter1.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter1.jpg" class="attribute"></a>
-
-<!--
-        <p class="txt-zwart">
-            Edit-all is gaan sprokkelen en heeft gebruik gemaakt van oude en nieuwe materialen.
-            Deze combinatie geeft de sfeer zoals we deze voor ogen hadden. De ruwe schetsen worden
-            getoond en besproken met de opdrachtgever.
-        </p>
-        <p class="txt-zwart">
-            In samenwerking met:<br />
-            Ontwerp ; &amp;Hans en Edit-All<br />
-            Decoratie ; Henk Bouten<br />
-            Grafisch ontwerp; Jeroen Klaver
-        </p>
--->
-
-        <a href="img/works/int/color/jutter2.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter2.jpg" class="img-stack"></a>
-        <a href="img/works/int/color/jutter3.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter3.jpg" class="img-stack"></a>
-        <a href="img/works/int/color/jutter4.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter4.jpg" class="img-stack"></a>
-        <a href="img/works/int/color/jutter5.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter5.jpg" class="img-stack"></a>
-        <a href="img/works/int/color/jutter6.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter6.jpg" class="img-stack"></a>
-        <a href="img/works/int/color/jutter7.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter7.jpg" class="img-stack"></a>
-        <a href="img/works/int/color/jutter8.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter8.jpg" class="img-stack"></a>
-        <a href="img/works/int/color/jutter9.jpg" data-lightbox="dejutter"><img src="img/works/int/color/jutter9.jpg" class="img-stack"></a>
-    </article>
-</section>
-
-<!-- Heineken -->
-<section class="bg-grijs2" id="sol-heineken">
-    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
-    <div class="absolute">
-        <a title="volgende" class="tooltip btn-rood next-project" id="wildschut">
-        <span>
-		    <img src="img/works/int/wildschut1.jpg">
-		    <p>Wildschut</p>
-	    </span>Volgende &#8594;</a>
-
-    </div>
-
-    <article class="bg-grijs3 content">
-        <h1 class="txt-zwart txt-left">Heineken</h1>
-        <p class="txt-zwart">
-        	Beurs van Berlage Amsterdam, internationale productpresentatie van Heineken
-        	- Sol - Fresh Beer - AB Free
-        </p>
-
-        <a href="img/works/sto/color/sol1.jpg" data-lightbox="sol"><img src="img/works/sto/color/sol3.jpg" class="attribute"></a>
-
-        <a href="img/works/sto/color/sol2.jpg" data-lightbox="sol"><img src="img/works/sto/color/sol1.jpg" class="img-stack"></a>
-        <a href="img/works/sto/color/sol3.jpg" data-lightbox="sol"><img src="img/works/sto/color/sol7.jpg" class="img-stack"></a>
-        <a href="img/works/sto/color/sol4.jpg" data-lightbox="sol"><img src="img/works/sto/color/sol4.jpg" class="img-stack"></a>
-        <a href="img/works/sto/color/sol5.jpg" data-lightbox="sol"><img src="img/works/sto/color/sol5.jpg" class="img-stack"></a>
-        <a href="img/works/sto/color/sol6.jpg" data-lightbox="sol"><img src="img/works/sto/color/sol6.jpg" class="img-stack"></a>
-        <a href="img/works/sto/color/sol7.jpg" data-lightbox="sol"><img src="img/works/sto/color/sol2.jpg" class="img-stack"></a>
-    </article>
-</section>
-
-<!-- Wildschut -->
-<section class="bg-grijs2" id="wildschut">
-    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
-    <div class="absolute">
-        <a title="volgende" class="tooltip btn-rood next-project" id="koning">
-        <span>
-		    <img src="img/works/hor/koning6.jpg">
-		    <p>de Koning</p>
-	    </span>Volgende &#8594;</a>
-
-    </div>
-
-    <article class="bg-grijs3 content">
-        <h1 class="txt-zwart txt-left">Wildschut</h1>
-        <p class="txt-zwart">
-         	Good Food Group heeft diverse cafés/restaurants in het centrum van Amsterdam. 
-         	Hieronder valt ook Wildschut. Daarvoor hebben wij diverse tafelbladen gemaakt.
-        </p>
-
-        <a href="img/works/int/color/wildschut1.jpg" data-lightbox="wildschut"><img src="img/works/int/color/wildschut1.jpg" class="attribute"></a>
-                
-        <a href="img/works/int/color/wildschut1.jpg" data-lightbox="wildschut"><img src="img/works/int/color/wildschut1.jpg" class="img-stack"></a>
-        <a href="img/works/int/color/wildschut2.jpg" data-lightbox="wildschut"><img src="img/works/int/color/wildschut2.jpg" class="img-stack"></a>
-        <a href="img/works/int/color/wildschut3.jpg" data-lightbox="wildschut"><img src="img/works/int/color/wildschut3.jpg" class="img-stack"></a>
-        <a href="img/works/int/color/wildschut4.jpg" data-lightbox="wildschut"><img src="img/works/int/color/wildschut4.jpg" class="img-stack"></a>
-    </article>
-</section>
-
-<!-- de Koning Alkmaar -->
-<section class="bg-grijs2" id="koning">
+	<!-- de Koning Alkmaar -->
+	<section class="bg-grijs2" id="koning">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
         <a title="volgende" class="tooltip btn-rood next-project" id="peters">
@@ -624,18 +730,17 @@ STORES - STORES - STORES - STORES -
          	van het interieur voor caf&eacute; de Koning gemaakt. Een turn-key project met als thema een jazz café.
         </p>
 
-        <a href="img/works/hor/color/koning6.jpg" data-lightbox="wildschut"><img src="img/works/hor/color/koning6.jpg" class="attribute"></a>
+        <a href="img/works/hor/color/koning6.jpg" data-lightbox="dekoning"><img src="img/works/hor/color/koning6.jpg" class="attribute"></a>
                 
-        <a href="img/works/hor/color/koning2.jpg" data-lightbox="wildschut"><img src="img/works/hor/color/koning2.jpg" class="img-stack"></a>
-        <a href="img/works/hor/color/koning3.jpg" data-lightbox="wildschut"><img src="img/works/hor/color/koning3.jpg" class="img-stack"></a>
-        <a href="img/works/hor/color/koning4.jpg" data-lightbox="wildschut"><img src="img/works/hor/color/koning4.jpg" class="img-stack"></a>
-        <a href="img/works/hor/color/koning5.jpg" data-lightbox="wildschut"><img src="img/works/hor/color/koning5.jpg" class="img-stack"></a>
-        <a href="img/works/hor/color/koning1.jpg" data-lightbox="wildschut"><img src="img/works/hor/color/koning1.jpg" class="img-stack"></a>
+        <a href="img/works/hor/color/koning2.jpg" data-lightbox="dekoning"><img src="img/works/hor/color/koning2.jpg" class="img-stack"></a>
+        <a href="img/works/hor/color/koning3.jpg" data-lightbox="dekoning"><img src="img/works/hor/color/koning3.jpg" class="img-stack"></a>
+        <a href="img/works/hor/color/koning4.jpg" data-lightbox="dekoning"><img src="img/works/hor/color/koning4.jpg" class="img-stack"></a>
+        <a href="img/works/hor/color/koning5.jpg" data-lightbox="dekoning"><img src="img/works/hor/color/koning5.jpg" class="img-stack"></a>
+        <a href="img/works/hor/color/koning1.jpg" data-lightbox="dekoning"><img src="img/works/hor/color/koning1.jpg" class="img-stack"></a>
     </article>
 </section>
-
-<!-- Peter's Irish Pub Maastricht -->
-<section class="bg-grijs2" id="peters">
+	<!-- Peter's Irish Pub Maastricht -->
+	<section class="bg-grijs2" id="peters">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
         <a title="volgende" class="tooltip btn-rood next-project" id="koopman">
@@ -654,123 +759,33 @@ STORES - STORES - STORES - STORES -
          	te liggen op de restaurantbeleving.
         </p>
 
-        <a href="img/works/hor/color/peters6.jpg" data-lightbox="wildschut"><img src="img/works/hor/color/peters6.jpg" class="attribute"></a>
+        <a href="img/works/hor/color/peters6.jpg" data-lightbox="peterspub"><img src="img/works/hor/color/peters6.jpg" class="attribute"></a>
         
-        <a href="img/works/hor/color/peters1.jpg" data-lightbox="wildschut"><img src="img/works/hor/color/peters1.jpg" class="img-stack"></a>        
-        <a href="img/works/hor/color/peters2.jpg" data-lightbox="wildschut"><img src="img/works/hor/color/peters2.jpg" class="img-stack"></a>
-        <a href="img/works/hor/color/peters3.jpg" data-lightbox="wildschut"><img src="img/works/hor/color/peters3.jpg" class="img-stack"></a>
-        <a href="img/works/hor/color/peters4.jpg" data-lightbox="wildschut"><img src="img/works/hor/color/peters4.jpg" class="img-stack"></a>
-        <a href="img/works/hor/color/peters5.jpg" data-lightbox="wildschut"><img src="img/works/hor/color/peters5.jpg" class="img-stack"></a>
-        <a href="img/works/hor/color/peters7.jpg" data-lightbox="wildschut"><img src="img/works/hor/color/peters7.jpg" class="img-stack"></a>
-        <a href="img/works/hor/color/peters8.jpg" data-lightbox="wildschut"><img src="img/works/hor/color/peters8.jpg" class="img-stack"></a>
-        <a href="img/works/hor/color/peters9.jpg" data-lightbox="wildschut"><img src="img/works/hor/color/peters9.jpg" class="img-stack"></a>
-        
-    </article>
-</section>
-
-<!-- Koopman Optiek -->
-<section class="bg-grijs2" id="koopman">
-    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
-    <div class="absolute">
-        <a title="volgende" class="tooltip btn-rood next-project" id="bewuzt">
-        <span>
-		    <img src="img/works/com/bewuzt1.jpg">
-		    <p>Bewuzt</p>
-	    </span>Volgende &#8594;</a>
-
-    </div>
-
-    <article class="bg-grijs3 content">
-        <h1 class="txt-zwart txt-left">Koopman Optiek</h1>
-        <p class="txt-zwart">
-         	Nieuw winkelinterieur bedacht en gecreëerd.
-        </p>
-
-        <a href="img/works/sto/color/koopman1.jpg" data-lightbox="wildschut"><img src="img/works/sto/color/koopman1.jpg" class="attribute"></a>
-        
-        <a href="img/works/sto/color/koopman2.jpg" data-lightbox="wildschut"><img src="img/works/sto/color/koopman2.jpg" class="img-stack"></a>        
-        <a href="img/works/sto/color/koopman3.jpg" data-lightbox="wildschut"><img src="img/works/sto/color/koopman3.jpg" class="img-stack"></a>
-        <a href="img/works/sto/color/koopman4.jpg" data-lightbox="wildschut"><img src="img/works/sto/color/koopman4.jpg" class="img-stack"></a>
-        <a href="img/works/sto/color/koopman5.jpg" data-lightbox="wildschut"><img src="img/works/sto/color/koopman5.jpg" class="img-stack"></a>
-        <a href="img/works/sto/color/koopman6.jpg" data-lightbox="wildschut"><img src="img/works/sto/color/koopman6.jpg" class="img-stack"></a>
-        <a href="img/works/sto/color/koopman7.jpg" data-lightbox="wildschut"><img src="img/works/sto/color/koopman7.jpg" class="img-stack"></a>
-        <a href="img/works/sto/color/koopman8.jpg" data-lightbox="wildschut"><img src="img/works/sto/color/koopman8.jpg" class="img-stack"></a>
+        <a href="img/works/hor/color/peters1.jpg" data-lightbox="peterspub"><img src="img/works/hor/color/peters1.jpg" class="img-stack"></a>        
+        <a href="img/works/hor/color/peters2.jpg" data-lightbox="peterspub"><img src="img/works/hor/color/peters2.jpg" class="img-stack"></a>
+        <a href="img/works/hor/color/peters3.jpg" data-lightbox="peterspub"><img src="img/works/hor/color/peters3.jpg" class="img-stack"></a>
+        <a href="img/works/hor/color/peters4.jpg" data-lightbox="peterspub"><img src="img/works/hor/color/peters4.jpg" class="img-stack"></a>
+        <a href="img/works/hor/color/peters5.jpg" data-lightbox="peterspub"><img src="img/works/hor/color/peters5.jpg" class="img-stack"></a>
+        <a href="img/works/hor/color/peters7.jpg" data-lightbox="peterspub"><img src="img/works/hor/color/peters7.jpg" class="img-stack"></a>
+        <a href="img/works/hor/color/peters8.jpg" data-lightbox="peterspub"><img src="img/works/hor/color/peters8.jpg" class="img-stack"></a>
+        <a href="img/works/hor/color/peters9.jpg" data-lightbox="peterspub"><img src="img/works/hor/color/peters9.jpg" class="img-stack"></a>
         
     </article>
 </section>
 
-<!-- Bewuzt -->
-<section class="bg-grijs2" id="bewuzt">
-    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
-    <div class="absolute">
-        <a title="volgende" class="tooltip btn-rood next-project" id="modefabriek">
-        <span>
-		    <img src="img/works/std/modefabriek1.jpg">
-		    <p>Just Brands Design</p>
-	    </span>Volgende &#8594;</a>
 
-    </div>
-
-    <article class="bg-grijs3 content">
-        <h1 class="txt-zwart txt-left">Bewuzt</h1>
-        <p class="txt-zwart">
-         	3 decors gebouwd en totaal gespoten in verschillende kleuren.
-        </p>
-
-        <a href="img/works/com/color/bewuzt1.jpg" data-lightbox="wildschut"><img src="img/works/com/color/bewuzt1.jpg" class="attribute"></a>
-        
-        <a href="img/works/com/color/bewuzt2.jpg" data-lightbox="wildschut"><img src="img/works/com/color/bewuzt2.jpg" class="img-stack"></a>        
-        <a href="img/works/com/color/bewuzt3.jpg" data-lightbox="wildschut"><img src="img/works/com/color/bewuzt3.jpg" class="img-stack"></a>
-        <a href="img/works/com/color/bewuzt4.jpg" data-lightbox="wildschut"><img src="img/works/com/color/bewuzt4.jpg" class="img-stack"></a>
-        <a href="img/works/com/color/bewuzt5.jpg" data-lightbox="wildschut"><img src="img/works/com/color/bewuzt5.jpg" class="img-stack"></a>
-        <a href="img/works/com/color/bewuzt6.jpg" data-lightbox="wildschut"><img src="img/works/com/color/bewuzt6.jpg" class="img-stack"></a>
-        <a href="img/works/com/color/bewuzt7.jpg" data-lightbox="wildschut"><img src="img/works/com/color/bewuzt7.jpg" class="img-stack"></a>        
-    </article>
-</section>
-
-<!-- Modefabriek Amsterdam -->
-<section class="bg-grijs2" id="modefabriek">
-    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
-    <div class="absolute">
-        <a title="volgende" class="tooltip btn-rood next-project" id="jb-design">
-        <span>
-		    <img src="img/works/des/color/jb-design1.jpg">
-		    <p>Just Brands Design</p>
-	    </span>Volgende &#8594;</a>
-
-    </div>
-
-    <article class="bg-grijs3 content">
-        <h1 class="txt-zwart txt-left">Modefabriek Amsterdam</h1>
-        <p class="txt-zwart">
-         	De jaarlijkse modebeurs in Amsterdam, standbouw voor Vanguard en Cast Iron
-        </p>
-
-        <a href="img/works/com/color/modefabriek1.jpg" data-lightbox="wildschut"><img src="img/works/com/color/modefabriek1.jpg" class="attribute"></a>
-        
-        <a href="img/works/com/color/modefabriek2.jpg" data-lightbox="wildschut"><img src="img/works/com/color/modefabriek2.jpg" class="img-stack"></a>        
-        <a href="img/works/com/color/modefabriek3.jpg" data-lightbox="wildschut"><img src="img/works/com/color/modefabriek3.jpg" class="img-stack"></a>
-        <a href="img/works/com/color/modefabriek4.jpg" data-lightbox="wildschut"><img src="img/works/com/color/modefabriek4.jpg" class="img-stack"></a>
-        <a href="img/works/com/color/modefabriek5.jpg" data-lightbox="wildschut"><img src="img/works/com/color/modefabriek5.jpg" class="img-stack"></a>
-        <a href="img/works/com/color/modefabriek6.jpg" data-lightbox="wildschut"><img src="img/works/com/color/modefabriek6.jpg" class="img-stack"></a>
-        <a href="img/works/com/color/modefabriek7.jpg" data-lightbox="wildschut"><img src="img/works/com/color/modefabriek7.jpg" class="img-stack"></a>        
-    </article>
-</section>
-
-<!--
-////////////////////////////////////
+<!--////////////////////////////////////
 +++_______ DESIGNS _______+++
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
--->
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
 <!-- JB Design -->
 <section class="bg-grijs2" id="jb-design">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a title="volgende" class="tooltip btn-rood next-project" id="ah-jamie">
+        <a title="volgende" class="tooltip btn-rood next-project" id="ziggo">
         <span>
-		    <img src="img/works/com/ah1.jpg">
-		    <p>Albert Heijn Jamie Oliver</p>
+		    <img src="img/works/com/ziggo1.jpg">
+		    <p>Ziggo</p>
 	    </span>Volgende &#8594;</a>
 
     </div>
@@ -782,23 +797,24 @@ STORES - STORES - STORES - STORES -
          	presentatie-modellen voor kleding en meubels in elke denkbare vorm.
         </p>
 
-        <a href="img/works/des/color/jb-design1.jpg" data-lightbox="wildschut"><img src="img/works/des/color/jb-design1.jpg" class="attribute"></a>
+        <a href="img/works/des/color/jb-design1.jpg" data-lightbox="jb-designs"><img src="img/works/des/color/jb-design1.jpg" class="attribute"></a>
         
-        <a href="img/works/des/color/jb-design2.jpg" data-lightbox="wildschut"><img src="img/works/des/color/jb-design2.jpg" class="img-stack"></a>        
-        <a href="img/works/des/color/jb-design3.jpg" data-lightbox="wildschut"><img src="img/works/des/color/jb-design3.jpg" class="img-stack"></a>
-        <a href="img/works/des/color/jb-design4.jpg" data-lightbox="wildschut"><img src="img/works/des/color/jb-design4.jpg" class="img-stack"></a>
-        <a href="img/works/des/color/jb-design5.jpg" data-lightbox="wildschut"><img src="img/works/des/color/jb-design5.jpg" class="img-stack"></a>
-        <a href="img/works/des/color/jb-design6.jpg" data-lightbox="wildschut"><img src="img/works/des/color/jb-design6.jpg" class="img-stack"></a>
-        <a href="img/works/des/color/jb-design7.jpg" data-lightbox="wildschut"><img src="img/works/des/color/jb-design7.jpg" class="img-stack"></a>        
+        <a href="img/works/des/color/jb-design2.jpg" data-lightbox="jb-designs"><img src="img/works/des/color/jb-design2.jpg" class="img-stack"></a>        
+        <a href="img/works/des/color/jb-design3.jpg" data-lightbox="jb-designs"><img src="img/works/des/color/jb-design3.jpg" class="img-stack"></a>
+        <a href="img/works/des/color/jb-design4.jpg" data-lightbox="jb-designs"><img src="img/works/des/color/jb-design4.jpg" class="img-stack"></a>
+        <a href="img/works/des/color/jb-design5.jpg" data-lightbox="jb-designs"><img src="img/works/des/color/jb-design5.jpg" class="img-stack"></a>
+        <a href="img/works/des/color/jb-design6.jpg" data-lightbox="jb-designs"><img src="img/works/des/color/jb-design6.jpg" class="img-stack"></a>
+        <a href="img/works/des/color/jb-design7.jpg" data-lightbox="jb-designs"><img src="img/works/des/color/jb-design7.jpg" class="img-stack"></a>        
     </article>
 </section>
 
 
-<!--
-////////////////////////////////////
+
+
+<!--////////////////////////////////////
 +++_______ STANDARD _______+++
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
--->
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+
 <!-- standaard content profile-->
 <article class="txt-wit profile">
             <header>
@@ -816,9 +832,8 @@ STORES - STORES - STORES - STORES -
                 <span class="a-btn-icon-right profilebutton"><span><img src="img/next.png"></span></span>
             </a>
             </article>
-
 <!-- standaard content works-->
-        <article class="txt-wit works">
+<article class="txt-wit works">
             <header>
                 <img src="img/icon-works.png" class="icon">
                 <h1 class="txt-wit">

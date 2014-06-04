@@ -798,6 +798,11 @@ footer section article p:first-of-type:first-letter {
 	background-size: cover;
 }
 
+#home-container #zes {
+	background: url(../img/header-6.jpg) center center no-repeat;
+	background-size: cover;
+}
+
 #profile-container {
 	background: url(../img/profile-1.jpg) center center no-repeat;
 	background-size: cover;

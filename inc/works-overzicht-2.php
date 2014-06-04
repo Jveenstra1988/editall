@@ -27,7 +27,7 @@
 				</div>
 			</div>
 			
-			<div class="clickable stores">
+			<div class="clickable interiors">
 				<h3 class="overlay-txt" id="koopman">Koopman Optiek</h3>
 				<img src="img/works/sto/color/koopman1.jpg" >
 				<div class="overlay" id="koopman">
@@ -53,6 +53,18 @@
 				<img src="img/works/des/color/jb-design1.jpg" >
 				<div class="overlay" id="jb-design">
 				</div>
+			</div>
+
+			<div class="clickable stands">
+				<h3 class="overlay-txt" id="modefabriek">Modefabriek Amsterdam</h3>
+				<img src="img/works/std/color/modefabriek7.jpg" >
+				<div class="overlay" id="modefabriek"></div>
+			</div>
+
+			<div class="clickable commercials">
+				<h3 class="overlay-txt" id="ziggo">Ziggo</h3>
+				<img src="img/works/com/color/ziggo3.jpg" >
+				<div class="overlay" id="ziggo"></div>
 			</div>
 
 			<div class="clickable stores">

@@ -31,6 +31,11 @@
                 <!-- Any HTML content of the third slide goes here -->
             </div>
             
+            <!--Sixt Slide-->
+            <div class="swiper-slide" id="zes"> 
+                <!-- Any HTML content of the third slide goes here -->
+            </div>
+            
           </div>
     </div>
     <img src="img/logo.png" class="logo">
@@ -111,11 +116,12 @@
 	    <p></p>
 </div>
     </article>
-    
+        
     <a class="scroller" id="divider3">
         <img src="img/icon.png" class="">
     </a>
 </section>
+
 
 <!--Content - PROJECTS-->
 <section id="works-container" class="bg-wit">

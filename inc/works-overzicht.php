@@ -98,7 +98,6 @@
 				<div class="overlay" id="popcorn-bak"></div>
 			</div>
 
-
 			<div class="clickable stands">
 				<h3 class="overlay-txt" id="sol-heineken">Heineken</h3>
 				<img src="img/works/sto/color/sol3.jpg" >
@@ -118,15 +117,6 @@
 				<div class="overlay" id="bbb">
 				</div>
 			</div>
-
-<!--
-			<div class="clickable stores">
-				<h3 class="overlay-txt" id="friends-emmen">Friends Emmen</h3>
-				<img src="img/works/sto/friends1.jpg" >
-				<div class="overlay" id="friends-emmen"></div>
-			</div>
--->
-
 		</div>
 	</article>
 </section>
