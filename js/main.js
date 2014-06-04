@@ -376,7 +376,7 @@ $(document).on('click','.back-to-overzicht', function(){
 		$('#dynamic-container').css({ left : '-100%' });
 		$('#dynamic-container').animate({ left : '0' }, 300);
 	});
-	$('#works-container').css({ 'background': 'url(../img/works-1.jpg) center center no-repeat'});
+	$('#works-container').css({ 'background': 'url(img/works-1.jpg) center center no-repeat'});
 	return false;
 })
 
