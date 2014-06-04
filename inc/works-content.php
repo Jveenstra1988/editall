@@ -44,9 +44,25 @@ STORES - STORES - STORES - STORES -
     <article class="bg-grijs3 content">
         <h1 class="txt-zwart txt-left">Just Brands Stores</h1>
         <p class="txt-zwart">
-        	Edit-all ontwerpt alles van Just Brands!       	
-            In Rotterdam, Hilversum en Utrecht zijn nieuwe Just Brands stores verrezen.
-            Hierbij is het volledige traject (turn key) afgelegd.
+        	In samenwerking met Just Brands ontwerpt en ontwikkelt Edit-all de gehele huisstijl. 
+        	Van winkels, showrooms en stands, tot shop-in-shop systemen voor retailers. 
+        	Elk merk heeft een unieke uitstraling die doorgezet wordt in de meubels.
+
+        <br /><br /> 
+        
+        Just Brands Stores zijn te vinden in:
+	    <b>Rotterdam, 
+	    Hilversum, 
+	    Utrecht, 
+	    Haarlem, 
+	    Alkmaar, 
+	    Amsterdam, 
+	    Almere, 
+	    Osdorp, 
+	    Den Haag, 
+	    Zoetermeer, 
+	    Zwolle </b>
+
         </p>
 
         <a href="img/works/sto/color/jb-store1.jpg" data-lightbox="jbs"><img src="img/works/sto/color/jb-store1.jpg" class="attribute"></a>
@@ -56,30 +72,14 @@ STORES - STORES - STORES - STORES -
 		  <span><img src="../img/play.png"></span>
         </a> 
 
-        <a href="img/works/sto/color/jb-store2.jpg" data-lightbox="jbs"><img src="img/works/sto/color/jb-store2.jpg" class="img-stack"></a>
+        <a href="img/works/sto/color/jb-store9.jpg" data-lightbox="jbs"><img src="img/works/sto/color/jb-store9.jpg" class="img-stack"></a>
         <a href="img/works/sto/color/jb-store3.jpg" data-lightbox="jbs"><img src="img/works/sto/color/jb-store3.jpg" class="img-stack"></a>
-        <a href="img/works/sto/color/jb-store4.jpg" data-lightbox="jbs"><img src="img/works/sto/color/jb-store4.jpg" class="img-stack"></a>
-        <a href="img/works/sto/color/jb-store5.jpg" data-lightbox="jbs"><img src="img/works/sto/color/jb-store5.jpg" class="img-stack"></a>
-        <a href="img/works/sto/color/jb-store6.jpg" data-lightbox="jbs"><img src="img/works/sto/color/jb-store6.jpg" class="img-stack"></a>
+        <a href="img/works/sto/color/jb-store10.jpg" data-lightbox="jbs"><img src="img/works/sto/color/jb-store10.jpg" class="img-stack"></a>
+        <a href="img/works/sto/color/jb-store11.jpg" data-lightbox="jbs"><img src="img/works/sto/color/jb-store11.jpg" class="img-stack"></a>
+        <a href="img/works/sto/color/jb-store12.jpg" data-lightbox="jbs"><img src="img/works/sto/color/jb-store12.jpg" class="img-stack"></a>
         <a href="img/works/sto/color/jb-store7.jpg" data-lightbox="jbs"><img src="img/works/sto/color/jb-store7.jpg" class="img-stack"></a>
         <a href="img/works/sto/color/jb-store8.jpg" data-lightbox="jbs"><img src="img/works/sto/color/jb-store8.jpg" class="img-stack"></a>
-        
-        <p class="txt-grijs breed">
-            Locaties Just Brands Stores<br />
-            
-            Rotterdam	<b class="txt-rood">|</b> 
-            Hilversum	<b class="txt-rood">|</b>
-            Utrecht		<b class="txt-rood">|</b>
-            Haarlem		<b class="txt-rood">|</b>
-            Alkmaar		<b class="txt-rood">|</b>
-            Amsterdam	<b class="txt-rood">|</b>
-            Almere		<b class="txt-rood">|</b>
-            Osdorp  	<b class="txt-rood">|</b>
-            Den Haag 	<b class="txt-rood">|</b>
-            Zoetermeer	<b class="txt-rood">|</b>
-            Zwolle		<b class="txt-rood">|</b>
-        </p>
-
+  
     </article>
 </section>
 
@@ -101,6 +101,16 @@ STORES - STORES - STORES - STORES -
         <p class="txt-zwart">
             In opdracht van Just Brands hebben wij in het buitenland diverse 
             showrooms ingericht die de sfeer van de merken perfect weergeeft.
+           <br /><br /> 
+           Showrooms zijn te vinden in:
+           <b>Antwerpen, 
+           Berlijn, 
+           Dusseldorf, 
+           Hamburg, 
+           Munchen, 
+           Sindelfinger,  
+           Salzburg</b> 
+            
         </p>
 
         <a href="img/works/sto/color/jb-show1.jpg" data-lightbox="jbs-s"><img src="img/works/sto/color/jb-show1.jpg" class="attribute"></a>
@@ -109,24 +119,10 @@ STORES - STORES - STORES - STORES -
         <a href="img/works/sto/color/jb-show2.jpg" data-lightbox="jbs-s"><img src="img/works/sto/color/jb-show2.jpg" class="img-stack"></a>
         <a href="img/works/sto/color/jb-show3.jpg" data-lightbox="jbs-s"><img src="img/works/sto/color/jb-show3.jpg" class="img-stack"></a>
         <a href="img/works/sto/color/jb-show4.jpg" data-lightbox="jbs-s"><img src="img/works/sto/color/jb-show4.jpg" class="img-stack"></a>
-
-        <p class="txt-grijs breed">
-        Showrooms<br>
-           Antwerpen	<b class="txt-rood">|</b> 
-           Berlijn		<b class="txt-rood">|</b> 
-           Dusseldorf	<b class="txt-rood">|</b> 
-           Hamburg		<b class="txt-rood">|</b> 
-           Munchen		<b class="txt-rood">|</b> 
-           Sindelfinger	<b class="txt-rood">|</b> 
-           Salzburg		<b class="txt-rood">|</b> 
-        </p>
-
     </article>
 </section>
 
-
-<!--
-Friends Emmen
+<!-- Friends Emmen -->
 <section class="bg-grijs2" id="friends-emmen">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
@@ -149,7 +145,6 @@ Friends Emmen
         <a href="img/works/sto/friends1.jpg" data-lightbox="jbs"><img src="img/works/sto/friends1.jpg" class="attribute"></a>
     </article>
 </section>
--->
 
 <!--
 ////////////////////////////////////
@@ -614,7 +609,7 @@ Friends Emmen
 <section class="bg-grijs2" id="koning">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a title="volgende" class="tooltip btn-rood next-project" id="ah-jamie">
+        <a title="volgende" class="tooltip btn-rood next-project" id="peters">
         <span>
 		    <img src="img/works/hor/peters1.jpg">
 		    <p>Peter's Irish Pub</p>
@@ -643,7 +638,7 @@ Friends Emmen
 <section class="bg-grijs2" id="peters">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a title="volgende" class="tooltip btn-rood next-project" id="peters">
+        <a title="volgende" class="tooltip btn-rood next-project" id="koopman">
         <span>
 		    <img src="img/works/sto/koopman1.jpg">
 		    <p>Koopman Optiek</p>
@@ -677,7 +672,7 @@ Friends Emmen
 <section class="bg-grijs2" id="koopman">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a title="volgende" class="tooltip btn-rood next-project" id="peters">
+        <a title="volgende" class="tooltip btn-rood next-project" id="bewuzt">
         <span>
 		    <img src="img/works/com/bewuzt1.jpg">
 		    <p>Bewuzt</p>
@@ -708,9 +703,9 @@ Friends Emmen
 <section class="bg-grijs2" id="bewuzt">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a title="volgende" class="tooltip btn-rood next-project" id="ah-jamie">
+        <a title="volgende" class="tooltip btn-rood next-project" id="modefabriek">
         <span>
-		    <img src="img/works/des/jb-design1.jpg">
+		    <img src="img/works/std/modefabriek1.jpg">
 		    <p>Just Brands Design</p>
 	    </span>Volgende &#8594;</a>
 
@@ -737,9 +732,9 @@ Friends Emmen
 <section class="bg-grijs2" id="modefabriek">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
-        <a title="volgende" class="tooltip btn-rood next-project" id="ah-jamie">
+        <a title="volgende" class="tooltip btn-rood next-project" id="jb-design">
         <span>
-		    <img src="img/works/des/jb-design1.jpg">
+		    <img src="img/works/des/color/jb-design1.jpg">
 		    <p>Just Brands Design</p>
 	    </span>Volgende &#8594;</a>
 
@@ -768,7 +763,7 @@ Friends Emmen
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 -->
 
-<!-- Bewuzt -->
+<!-- JB Design -->
 <section class="bg-grijs2" id="jb-design">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">

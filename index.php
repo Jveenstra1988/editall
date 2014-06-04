@@ -34,7 +34,7 @@
           </div>
     </div>
     <img src="img/logo.png" class="logo">
-    <a href"" id="divider1" class="back-to-home">
+    <a href="" id="divider1" class="back-to-home">
         <img src="img/icon.png" class="header-icon">
     </a>
 </section>
@@ -53,7 +53,7 @@
             <span class="lijn-rood"></span>
         </header>
         
-	    <p>-</p>
+	    <p></p>
 </div>
 <div class="drie">
     	<header>
@@ -65,7 +65,7 @@
             <span class="lijn-rood"></span>
         </header>
         
-        <p>-</p>
+        <p></p>
 </div>
 <div class="drie">     
         <header>
@@ -76,7 +76,7 @@
             <span class="lijn-rood"></span>
         </header>
         
-	    <p>-</p>
+	    <p></p>
 </div>
 <div class="drie">
         <header>
@@ -87,7 +87,7 @@
             <span class="lijn-rood"></span>
         </header>
         
-	    <p>-</p>
+	    <p></p>
 </div>
 <div class="drie">
     	<header>
@@ -97,7 +97,7 @@
             </h4>
             <span class="lijn-rood"></span>
         </header>
- 	    <p>-</p>       
+ 	    <p></p>       
 </div>
 <div class="drie">     
         <header>
@@ -108,7 +108,7 @@
             <span class="lijn-rood"></span>
         </header>
         
-	    <p>-</p>
+	    <p></p>
 </div>
     </article>
     

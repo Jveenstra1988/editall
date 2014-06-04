@@ -4,23 +4,22 @@
 	<article class="bg-grijs2 images">
 		<header>
 			<h1 class="txt-zwart txt-left">Projecten</h1>
-			<a href='#' class='btn-grijs active' id='page-one'>1</a>
-			<a href='#' class='btn-grijs' id='page-two'>2</a>
+			
+			<span class="pager">
+				<a href='#' class='btn-rood active' id='page-one'>1</a>
+				<a href='#' class='btn-rood' id='page-two'>2</a>
+			</span>
+		
 		</header>
 		
 		<a href="#" class="btn-wit stroke active" id="all">Projecten</a>
 		<a href="#" class="btn-wit stroke" id="stores">Stores</a>
 		<a href="#" class="btn-wit stroke" id="commercials">Commercials</a>
 		<a href="#" class="btn-wit stroke" id="interiors">Interieurs</a>
-		
-		<!-- Deze is nieuw en moet nog ID's voor gemaakt worden -->
 		<a href="#" class="btn-wit stroke" id="horeca">Horeca</a>
-		<!-- Deze is nieuw en moet nog ID's voor gemaakt worden -->
 		<a href="#" class="btn-wit stroke" id="stands">Stands</a>
-
 		<a href="#" class="btn-wit stroke" id="designs">Designs</a>
-
-		
+				
 		<div id="results" class="imageholder">
 			
 			<div class="clickable commercials">

@@ -74,6 +74,20 @@ p, ul, li {
 	font-weight: 300;
 }
 
+p b {
+	background: white;
+	padding: .2em;
+	font-size: .8em;
+}
+
+.pager {
+	float: right;
+	display: inline-block;
+	width: 10%;
+	text-align: right;
+	margin-top: -2.4em;
+}
+
 /*section article p:first-of-type:first-letter {
 float: left;
 padding: 0px 10px 0 3px;
@@ -528,7 +542,7 @@ article header img {
 
 article p {
 	margin: 1em 0;
-	line-height: 1.6em;
+	line-height: 1.45em;
 }
 
 article span {
@@ -1135,6 +1149,11 @@ a.video img.img-stack:before {
 	#dynamic-container article.content {
 		width: 88%
 	}
+
+	.pager {
+		width: 15%;
+	}
+
 }
 
 @media screen and (min-width: 900px) {
@@ -1288,9 +1307,23 @@ a.video img.img-stack:before {
 		padding-top: 8px;
 		font-size: 78%;
 	}
+
+	a.video span img,
+		a.video:hover span img {
+		width: 45px;
+		margin-left: 20px;
+		margin-top: -80px;
+	}
+	
+	.pager {
+		width: 25%;
+		text-align: left;
+	}
+
 }
 
 @media screen and (max-width: 320px) {
+		
 	/* Landing Logo */
 	.logo {
 		width: 50%;
@@ -1358,6 +1391,14 @@ a.video img.img-stack:before {
 	.back {
 		margin-left: 5px;
 	}
+	
+	a.video span img,
+		a.video:hover span img {
+		width: 30px;
+		margin-left: 14px;
+		margin-top: -62px;
+	}
+	
 }
 
 
