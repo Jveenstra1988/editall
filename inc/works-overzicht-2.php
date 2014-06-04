@@ -14,7 +14,7 @@
 		<a href="#" class="btn-wit stroke" id="commercials">Commercials</a>
 		<a href="#" class="btn-wit stroke" id="interiors">Interieurs</a>
 		<a href="#" class="btn-wit stroke" id="horeca">Horeca</a>
-		<a href="#" class="btn-wit stroke" id="horeca">Stands</a>
+		<a href="#" class="btn-wit stroke" id="stands">Stands</a>
 		<a href="#" class="btn-wit stroke" id="designs">Designs</a>
 
 		

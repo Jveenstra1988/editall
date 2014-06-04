@@ -20,6 +20,9 @@ html, body {
 .no-overflow {
 	overflow: hidden;
 }
+.stick-top {
+	top: 0 !important;
+}
 
 a {
 	font-size: 			100%;
@@ -823,7 +826,7 @@ article.how-we-work {
 }
 
 #works-overzicht article {
-	height: 90%;
+	height: 100%;
 	padding-right: 24%;
 	margin-left: 12%;
 	border-left: 10px solid #8b8b8b;
@@ -1232,7 +1235,7 @@ a.video img.img-stack:before {
 	}
 	
 	#dynamic-container .clickable .overlay-txt {
-		font-size: 80%;
+		font-size: 60%;
 	}
 	
 	#dynamic-container article, #dynamic-container article.content, #dynamic-container-profile article {
@@ -1307,6 +1310,10 @@ a.video img.img-stack:before {
 		padding-top: 8px;
 		font-size: 78%;
 	}
+	
+	a.tooltip span {
+		display: none !important;
+	}
 
 	a.video span img,
 		a.video:hover span img {
@@ -1369,12 +1376,16 @@ a.video img.img-stack:before {
 		margin-top: -5px;
 	}
 	
+	a.tooltip span {
+		display: none !important;
+	}
+	
 	#dynamic-container .clickable {
 		width: 29%;
 	}
 	
 	#dynamic-container .clickable .overlay-txt {
-		font-size: 80%;
+		font-size: 40%;
 	}
 	
 	#dynamic-container article, #dynamic-container article.content {
