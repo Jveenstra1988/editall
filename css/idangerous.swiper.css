@@ -113,7 +113,7 @@ sizes, pagination, etc.
 .arrow-left2 {
   background: url(../img/arrows.png) no-repeat left top;
   position: absolute;
-  left: 20%;
+  left: 5%;
   top: 45%;
   margin-top: -15px;
   width: 30px;
@@ -123,7 +123,7 @@ sizes, pagination, etc.
 .arrow-right2 {
   background: url(../img/arrows.png) no-repeat right bottom;
   position: absolute;
-  right: 20%;
+  right: 36%;
   top: 45%;
   margin-top: -15px;
   width: 30px;

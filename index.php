@@ -157,7 +157,7 @@
 <section id="container2" class="bg-wit clear">
     <article class="txt-rood">	
     	<header>
-            <img src="img/soweeditall-zwart.png" class="">
+            <img src="img/logo.png" class="big">
         </header>
     </article>
 </section>
@@ -200,7 +200,7 @@
 <section id="container3" class="bg-zwart clear">
     <article class="txt-rood">
         <header>
-	        <img src="img/soweeditall-wit.png" class="">
+	        <img src="img/logo.png" class="big">
         </header>
     </article>
 </section>
