@@ -157,7 +157,7 @@
 <section id="container2" class="bg-wit clear">
     <article class="txt-rood">	
     	<header>
-            <img src="img/logo.png" class="big">
+            <img src="img/logo-zwart.png" class="big">
         </header>
     </article>
 </section>

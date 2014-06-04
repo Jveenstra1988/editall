@@ -29,26 +29,29 @@
 }
 
 .sb-description {
-	padding: 20px;
+	padding: 10px;
 	bottom: 10px;
 	left: 10px;
 	right: 10px;
 	z-index: 1000;
 	position: absolute;
 	background: #FFF;
-	background: rgba(255,255,255,0.4);
-	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	background: rgba(255, 255, 255, 0.81);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);	
-	opacity: 0;
-	color: #fff;
-	-webkit-box-shadow: 0 0 30px 0 #404040;
-	box-shadow: 0 0 30px 0 #404040;	
 
 	-webkit-transition: all 400ms;
 	-moz-transition: all 400ms;
 	-o-transition: all 400ms;
 	-ms-transition: all 400ms;
 	transition: all 400ms;
+
+	border-radius: .3em;
+	-webkit-border-radius: .3em;
+	-moz-border-radius: .3em;
+	border: 1px solid #C4C4C4;
+	box-shadow: 0em .1em .2em #7C7C7C;
+
 }
 
 .sb-slider li.sb-current .sb-description {
@@ -95,6 +98,14 @@
 	-o-transform-style: preserve-3d;
 	-ms-transform-style: preserve-3d;
 	transform-style: preserve-3d;
+}
+
+.sb-slider h1, 
+.sb-slider h2, 
+.sb-slider h3, 
+.sb-slider h4, 
+.sb-slider h5 {
+	text-align: left;
 }
 
 @media screen and (max-width: 600px){

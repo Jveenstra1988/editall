@@ -826,12 +826,22 @@ footer section article p:first-of-type:first-letter {
 -------------------------------------------
 */
 article.how-we-work {
+/*
 	height: 100%;
 	padding-right: 35%;
 	margin-left: 15%;
 	border-left: 10px solid #474747;
 	z-index: 9999;
 	position: relative;
+*/
+	height: 100%;
+	padding-right: 45%;
+	margin-left: 15%;
+	border-left: 10px solid #474747;
+	z-index: 9999;
+	position: relative;
+	width: 60%;
+
 }
 
 #works-overzicht article {
