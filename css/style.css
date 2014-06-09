@@ -728,12 +728,24 @@ footer section article p:first-of-type:first-letter {
 	background: url(../img/header-1.jpg) center center no-repeat;
 	background-size: cover;
 }
+#home-container #een.hires {
+	background: url(../img/header-1-hires.jpg) center center no-repeat;
+	background-size: cover;
+}
 #home-container #twee {
 	background: url(../img/header-2.jpg) center center no-repeat;
 	background-size: cover;
 }
+#home-container #twee.hires {
+	background: url(../img/header-2-hires.jpg) center center no-repeat;
+	background-size: cover;
+}
 #home-container #drie {
 	background: url(../img/header-3.jpg) center center no-repeat;
+	background-size: cover;
+}
+#home-container #drie.hires {
+	background: url(../img/header-3-hires.jpg) center center no-repeat;
 	background-size: cover;
 }
 #home-container #vier {
@@ -744,16 +756,32 @@ footer section article p:first-of-type:first-letter {
 	background: url(../img/header-5.jpg) center center no-repeat;
 	background-size: cover;
 }
+#home-container #vijf.hires {
+	background: url(../img/header-5.jpg) center center no-repeat;
+	background-size: cover;
+}
 #home-container #zes {
 	background: url(../img/header-6.jpg) center center no-repeat;
+	background-size: cover;
+}
+#home-container #zes.hires {
+	background: url(../img/header-6-hires.jpg) center center no-repeat;
 	background-size: cover;
 }
 #profile-container {
 	background: url(../img/profile-1.jpg) center center no-repeat;
 	background-size: cover;
 }
+#profile-container.hires {
+	background: url(../img/profile-1-hires.jpg) center center no-repeat;
+	background-size: cover;
+}
 #works-container {
-	background: url(../img/works-1.jpg) center center no-repeat;
+	background-image: url(../img/works-1.jpg);
+	background-size: cover;
+}
+#works-container.hires {
+	background-image: url(../img/works-1-hires.jpg);
 	background-size: cover;
 }
 #contact-container {

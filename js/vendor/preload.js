@@ -1,6 +1,6 @@
 $(document).ready(function()
 {
-	var preloader 	= new createjs.LoadQueue(true, '');
+	var preloader 	= new createjs.LoadQueue(true, 'Preloading');
 	var images 		= $('.hires');
 	var manifest 	= [];
 
@@ -39,7 +39,7 @@ $(document).ready(function()
 
 
 	function handleProgress(event) {
-		//console.log('TOTAL: ' + (preloader.progress * 100) + '%');
+		console.log('TOTAL: ' + (preloader.progress * 100) + '%');
 	}
 
 	function makeid()
