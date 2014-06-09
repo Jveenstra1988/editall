@@ -584,7 +584,7 @@ $(document).on('click','#stores', function() {
 //	$('#results .clickable').filter('.stores').fadeTo( 200 , 1);
 	$('#results .clickable').fadeOut(0);
 	$('#results .clickable').filter('.stores').fadeIn( 500);
-
+	$('.stores').css({display:'inline-block'});
 	$('#works-overzicht article > a').removeClass('active');
 	$(this).addClass('active');
 	return false;
@@ -593,7 +593,7 @@ $(document).on('click','#stores', function() {
 $(document).on('click','#commercials', function() {
 	$('#results .clickable').fadeOut(0);
 	$('#results .clickable').filter('.commercials').fadeIn( 500);
-
+	$('.commercials').css({display:'inline-block'});
 	$('#works-overzicht article > a').removeClass('active');
 	$(this).addClass('active');
 	return false;
@@ -604,7 +604,7 @@ $(document).on('click','#interiors', function() {
 	//$('#results .clickable').filter('.interiors').fadeTo( 200 , 1);
 	$('#results .clickable').fadeOut(0);
 	$('#results .clickable').filter('.interiors').fadeIn( 500);
-	
+	$('.interiors').css({display:'inline-block'});
 	$('#works-overzicht article > a').removeClass('active');
 	$(this).addClass('active');
 	return false;
@@ -615,7 +615,7 @@ $(document).on('click','#horeca', function() {
 	//$('#results .clickable').filter('.horeca').fadeTo( 200 , 1);
 	$('#results .clickable').fadeOut(0);
 	$('#results .clickable').filter('.horeca').fadeIn( 500);
-	
+	$('.horeca').css({display:'inline-block'});
 	$('#works-overzicht article > a').removeClass('active');
 	$(this).addClass('active');
 	return false;
@@ -626,7 +626,7 @@ $(document).on('click','#stands', function() {
 	//$('#results .clickable').filter('.stands').fadeTo( 200 , 1);
 	$('#results .clickable').fadeOut(0);
 	$('#results .clickable').filter('.stands').fadeIn( 500);
-	
+	$('.stands').css({display:'inline-block'});
 	$('#works-overzicht article > a').removeClass('active');
 	$(this).addClass('active');
 	return false;
@@ -637,7 +637,7 @@ $(document).on('click','#designs', function() {
 	//$('#results .clickable').filter('.designs').fadeTo( 200 , 1);
 	$('#results .clickable').fadeOut(0);
 	$('#results .clickable').filter('.designs').fadeIn( 500);
-	
+	$('.designs').css({display:'inline-block'});
 	$('#works-overzicht article > a').removeClass('active');
 	$(this).addClass('active');
 	return false;
