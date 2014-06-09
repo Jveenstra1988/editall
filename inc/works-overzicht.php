@@ -22,25 +22,25 @@
                                 
                 <div id="results" class="imageholder">
 
-<!-- STORES -->                        
-
-                        <div class="clickable stores">
-                                <h3 class="overlay-txt" id="jb-showroom">Just Brands Showrooms</h3>
-                                <img src="img/works/sto/jb-show3.jpg" >
-                                <div class="overlay" id="jb-showroom"></div>
-                        </div>
+<!-- STORES -->
                         
                         <div class="clickable stores">
                                 <h3 class="overlay-txt" id="jb-stores">Just Brands Stores</h3>
                                 <img src="img/works/sto/jb-store4.jpg" >
                                 <div class="overlay" id="jb-stores"></div>
-                        </div>
-                        
-                        <div class="clickable stores">
+                        </div> 
+
+						<div class="clickable stores">
                                 <h3 class="overlay-txt" id="jb-sis">PME Legend Shop-in-Shop</h3>
                                 <img src="img/works/sto/jb-sis1.jpg" >
                                 <div class="overlay" id="jb-sis">
                                 </div>
+                        </div> 
+                                                                      
+                        <div class="clickable stores">
+                                <h3 class="overlay-txt" id="jb-showroom">Just Brands Showrooms</h3>
+                                <img src="img/works/sto/jb-show3.jpg" >
+                                <div class="overlay" id="jb-showroom"></div>
                         </div>
 
                         <div class="clickable stores">
@@ -79,6 +79,12 @@
                         </div>  
 
                         <div class="clickable commercials">
+                                <h3 class="overlay-txt" id="upc">UPC</h3>
+                                <img src="img/works/com/popcorn2.jpg" >
+                                <div class="overlay" id="upc"></div>
+                        </div>
+
+                        <div class="clickable commercials">
                                 <h3 class="overlay-txt" id="tmobile-alib">Ali-B | T-Mobile</h3>
                                 <img src="img/works/com/alib1.jpg" >
                                 <div class="overlay" id="tmobile-alib"></div>
@@ -97,9 +103,9 @@
                         </div>
 
                         <div class="clickable commercials">
-                                <h3 class="overlay-txt" id="popcorn-bak">UPC</h3>
-                                <img src="img/works/com/popcorn2.jpg" >
-                                <div class="overlay" id="popcorn-bak"></div>
+                                <h3 class="overlay-txt" id="ziggo">Ziggo</h3>
+                                <img src="img/works/com/ziggo3.jpg" >
+                                <div class="overlay" id="ziggo"></div>
                         </div>
 
                         <div class="clickable commercials">
@@ -107,12 +113,6 @@
                                 <img src="img/works/com/bewuzt1.jpg" >
                                 <div class="overlay" id="bewuzt">
                                 </div>
-                        </div>
-
-                        <div class="clickable commercials">
-                                <h3 class="overlay-txt" id="ziggo">Ziggo</h3>
-                                <img src="img/works/com/ziggo3.jpg" >
-                                <div class="overlay" id="ziggo"></div>
                         </div>
 
 <!-- INTERIEURS -->
@@ -123,15 +123,6 @@
                                 <div class="overlay" id="dejutter-almere"></div>
                         </div>
 
-                        <div class="clickable interiors">
-                                <h3 class="overlay-txt" id="koopman">Koopman Optiek</h3>
-                                <img src="img/works/sto/koopman1.jpg" >
-                                <div class="overlay" id="koopman">
-                                </div>
-                        </div>
-
-<!-- HORECA -->
-
                         <div class="clickable horeca">
                                 <h3 class="overlay-txt" id="wildschut">Wildschut</h3>
                                 <img src="img/works/int/wildschut1.jpg" >
@@ -139,7 +130,14 @@
                                 </div>
                         </div>
 
-                        
+                        <div class="clickable interiors">
+                                <h3 class="overlay-txt" id="koopman">Koopman Optiek</h3>
+                                <img src="img/works/sto/koopman1.jpg" >
+                                <div class="overlay" id="koopman">
+                                </div>
+                        </div>
+
+<!-- HORECA -->                        
                         <div class="clickable horeca">
                                 <h3 class="overlay-txt" id="peters">Peter's Irish Pub</h3>
                                 <img src="img/works/hor/peters6.jpg" >
@@ -157,9 +155,15 @@
 <!-- STANDS -->
 
                         <div class="clickable stands">
-                                <h3 class="overlay-txt" id="sol-heineken">Heineken</h3>
-                                <img src="img/works/sto/heineken3.jpg" >
-                                <div class="overlay" id="sol-heineken"></div>
+                                <h3 class="overlay-txt" id="heineken">Heineken</h3>
+                                <img src="img/works/std/heineken3.jpg" >
+                                <div class="overlay" id="heineken"></div>
+                        </div>
+
+                       <div class="clickable stands">
+                                <h3 class="overlay-txt" id="modefabriek">Modefabriek Amsterdam</h3>
+                                <img src="img/works/std/modefabriek7.jpg" >
+                                <div class="overlay" id="modefabriek"></div>
                         </div>
 
                         <div class="clickable stands">
@@ -167,12 +171,6 @@
                                 <img src="img/works/std/jb-bbb1.jpg" >
                                 <div class="overlay" id="bbb">
                                 </div>
-                        </div>
-
-                        <div class="clickable stands">
-                                <h3 class="overlay-txt" id="modefabriek">Modefabriek Amsterdam</h3>
-                                <img src="img/works/std/modefabriek7.jpg" >
-                                <div class="overlay" id="modefabriek"></div>
                         </div>
 
 <!-- DESIGNS -->

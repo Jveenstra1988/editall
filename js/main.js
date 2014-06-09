@@ -412,18 +412,25 @@ $(document).on('click','#all', function() {
 });
 
 $(document).on('click','#stores', function() {
-	$('#results .clickable').fadeTo( 200 , 0.1);
-	$('#results .clickable').filter('.stores').fadeTo( 200 , 1);
-	
+/* 	$('#results .clickable').fadeTo( 200 , 0.1); */
+/* 	$('#results .clickable').filter('.stores').fadeTo( 200 , 1); */
+
+	$('#results .clickable').hide();	
+	$('#results .clickable').filter('.stores').show();
 	$('#works-overzicht article > a').removeClass('active');
 	$(this).addClass('active');
 	return false;
 });
 
 $(document).on('click','#commercials', function() {
+/*
 	$('#results .clickable').fadeTo( 200 , 0.1);
 	$('#results .clickable').filter('.commercials').fadeTo( 200 , 1);
-	
+*/
+
+	$('#results .clickable').hide();	
+	$('#results .clickable').filter('.commercials').show();
+		
 	$('#works-overzicht article > a').removeClass('active');
 	$(this).addClass('active');
 	return false;
