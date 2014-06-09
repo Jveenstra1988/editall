@@ -74,9 +74,9 @@
 		<script async src="js/vendor/lightbox-2.6.min.js"></script>
 		<script type="text/javascript" src="js/vendor/jquery.fancybox.js"></script>
 		
-        <script src="js/vendor/preload.js"></script>
-        <script src="js/vendor/detectmobilebrowser.js"></script>
-        <script src="js/vendor/preloadjs-0.4.0.min.js"></script>
+        <script async src="js/vendor/preload.js"></script>
+        <script async src="js/vendor/detectmobilebrowser.js"></script>
+        <script async src="js/vendor/preloadjs-0.4.0.min.js"></script>
         <script async src="js/main.js"></script>
 		<script async type="text/javascript">
 		$(document).ready(function() {
