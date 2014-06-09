@@ -14,12 +14,8 @@ $(document).ready(function(){
 			$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').addClass('hires');
 		}
 	}else{
-<<<<<<< HEAD
 		$('img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').removeClass('hires');
-
-=======
 		$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').removeClass('hires');
->>>>>>> FETCH_HEAD
 	};
 	
 	// Initiate swiper-------------------------------------------------
@@ -470,7 +466,6 @@ $(document).on('click','#results div, .overlay-txt, .next-project', function() {
 			}else{
 				$('img, body').removeClass('hires');
 			};
-<<<<<<< HEAD
 			$('.sidenav').load('inc/works-overzicht.php .clickable');
 		});
 		nxt();
@@ -496,9 +491,7 @@ $(document).on('click', '.prev-project', function() {
 			};
 			// Dit staat in de koelkast
 			$('.sidenav').load('inc/works-overzicht.php .clickable');
-=======
 			preload();
->>>>>>> FETCH_HEAD
 		});
 		nxt();
 		preload();
