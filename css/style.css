@@ -282,7 +282,7 @@ img.big {
 .back, .back-to-overzicht {
 	float: left;
 	margin-left: 30px;
-	margin-top: 40px;
+	margin-top: 80px;
 	display: block;
 	z-index: 9999;
 	position: absolute;
@@ -295,10 +295,24 @@ img.big {
 	z-index: 100;
 }
 
+.absolute-vorige {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 100;
+}
+
 .back-to-profile {
 	position: absolute;
 	margin-left: 30px;
 	margin-top: 40px;
+}
+
+.prev-project {
+	float: left;
+	margin-left: 30px;
+	margin-top: 40px;
+	display: block;
 }
 
 .next-project {
@@ -307,6 +321,14 @@ img.big {
 	margin-top: 40px;
 	display: block;
 }
+
+/*
+aside {
+	width: 27.25%;
+	padding: 1%;
+	float: right;
+}
+*/
 
 /*
 -------------------------------------------
@@ -752,12 +774,16 @@ footer section article p:first-of-type:first-letter {
 	background: url(../img/header-4.jpg) center center no-repeat;
 	background-size: cover;
 }
+#home-container #vier.hires {
+	background: url(../img/header-4-hires.jpg) center center no-repeat;
+	background-size: cover;
+}
 #home-container #vijf {
 	background: url(../img/header-5.jpg) center center no-repeat;
 	background-size: cover;
 }
 #home-container #vijf.hires {
-	background: url(../img/header-5.jpg) center center no-repeat;
+	background: url(../img/header-5-hires.jpg) center center no-repeat;
 	background-size: cover;
 }
 #home-container #zes {
@@ -1033,7 +1059,8 @@ a.video img.img-stack:before {
 -------------------------------------------
 */
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1024px) {	
+	
 	article {
 		width: 50%;
 	}
@@ -1049,7 +1076,19 @@ a.video img.img-stack:before {
 }
 
 @media screen and (max-width: 1024px) {
+
+
+	/* De aside staat nog even in de koelkast */
+	/*
+aside {
+		display: none;
+	}
+
+	article.content {
+		padding-right: 40%;
+	}
 	
+*/
 	article { width: 70%; }
 	
 	/* Landing Logo */
@@ -1075,6 +1114,16 @@ a.video img.img-stack:before {
 }
 
 @media screen and (max-width: 900px) {
+
+	aside {
+		display: none;
+	}
+
+/*
+	article.content {
+		padding-right: 40%;
+	}
+*/
 	
 	.icon {
 		margin-top: 1em;

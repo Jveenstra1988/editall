@@ -15,6 +15,7 @@ $(document).ready(function(){
 		}
 	}else{
 		$('img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').removeClass('hires');
+
 	};
 	
 	// Initiate swiper-------------------------------------------------
@@ -411,6 +412,31 @@ $(document).on('click','#results div, .overlay-txt, .next-project', function() {
 			}else{
 				$('img, body').removeClass('hires');
 			};
+			$('.sidenav').load('inc/works-overzicht.php .clickable');
+		});
+		nxt();
+		$('#dynamic-container').animate({ left : '0' }, 300);
+	});
+	$('#works-container').css({ background: '#c7c7c7'});
+	return false;
+});
+
+// Load project information
+$(document).on('click', '.prev-project', function() {
+	var navClass = $(this).attr("id");
+	$('#dynamic-container').animate({ left : '100%' }, 300).queue(function( nxt ) {
+		$(this).css({ left : '-100%' });
+		$(this).load('inc/works-content.php' + ' #' + navClass, function(){
+			if ( ($(window).width()) > 900 ) {
+				$('img, body').addClass('hires');
+				if (jQuery.browser.mobile == false) {
+					$('img').addClass('hires');
+				}
+			}else{
+				$('img, body').removeClass('hires');
+			};
+			// Dit staat in de koelkast
+			$('.sidenav').load('inc/works-overzicht.php .clickable');
 		});
 		nxt();
 		$('#dynamic-container').animate({ left : '0' }, 300);
