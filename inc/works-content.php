@@ -66,7 +66,7 @@ STORES - STORES - STORES - STORES -
 
         <a class="various fancybox.iframe video" href="//www.youtube.com/embed/rpieNS9KCcY?autoplay=1">
 		  <img src="img/works/video/jb-video1.jpg" class="img-stack">
-		  <span><img src="../img/play.png"></span>
+		  <span><img src="img/play.png"></span>
         </a> 
 
         <a href="img/works/sto/color/jb-store9.jpg" data-lightbox="jbs"><img src="img/works/sto/color/jb-store9.jpg" class="img-stack"></a>
@@ -170,7 +170,7 @@ STORES - STORES - STORES - STORES -
 
         <a class="various fancybox.iframe video" href="//www.youtube.com/embed/Jnf5i-Cm3EY?autoplay=1" frameborder="0" allowfullscreen>
 			<img src="img/works/video/ah-video1.jpg" class="img-stack">
-			<span><img src="../img/play.png"></span>
+			<span><img src="img/play.png"></span>
 		</a>
 		
 		<a href="img/works/com/color/ah2.jpg" data-lightbox="jamie"><img src="img/works/com/color/ah2.jpg" class="img-stack"></a>
@@ -203,7 +203,7 @@ STORES - STORES - STORES - STORES -
 
         <a class="various fancybox.iframe video" href="//www.youtube.com/embed/S-5H-ZcZhl8?autoplay=1" frameborder="0" allowfullscreen>
 			<img src="img/works/video/ah-video2.jpg" class="img-stack">
-			<span><img src="../img/play.png"></span>
+			<span><img src="img/play.png"></span>
 		</a>
 		
 		<a href="img/works/com/color/route99-2.jpg" data-lightbox="jamie"><img src="img/works/com/color/route99-2.jpg" class="img-stack"></a>
@@ -235,7 +235,7 @@ STORES - STORES - STORES - STORES -
 
         <a class="various fancybox.iframe video" href="//www.youtube.com/embed/UmESVLyXtz0?autoplay=1" frameborder="0" allowfullscreen>
 		<img src="img/works/video/rabo-video1.jpg" class="img-stack">
-		<span><img src="../img/play.png"></span></a> 
+		<span><img src="img/play.png"></span></a> 
         
         <a href="img/works/com/color/rabo2.jpg" data-lightbox="jamie"><img src="img/works/com/color/rabo2.jpg" class="img-stack"></a>
         <a href="img/works/com/color/rabo3.jpg" data-lightbox="jamie"><img src="img/works/com/color/rabo3.jpg" class="img-stack"></a>
@@ -273,7 +273,7 @@ STORES - STORES - STORES - STORES -
 		  
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/eL78DQrwprM?autoplay=1">
 		  <img src="img/works/video/olli-video1.jpg" class="img-stack">
-			<span><img src="../img/play.png"></span>
+			<span><img src="img/play.png"></span>
 		</a>
         <a href="img/works/com/color/olli15.jpg" data-lightbox="olli"><img src="img/works/com/color/olli15.jpg" class="img-stack"></a>
         <a href="img/works/com/color/olli10.jpg" data-lightbox="olli"><img src="img/works/com/color/olli10.jpg" class="img-stack"></a>
@@ -330,18 +330,18 @@ STORES - STORES - STORES - STORES -
 
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/-gPHCXCV2qg?autoplay=1">
 		  <img src="img/works/video/popcorn-video2.jpg" class="img-stack">
-			<span><img src="../img/play.png"></span>
+			<span><img src="img/play.png"></span>
 		</a>
 
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/23Yx8UVq4WA?autoplay=1">  
 		  <img src="img/works/video/popcorn-video1.jpg" class="img-stack">
-			<span><img src="../img/play.png"></span>
+			<span><img src="img/play.png"></span>
 		</a>
 
 
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/D2yeGqKh3p0?autoplay=1">
 		  <img src="img/works/video/switch-video1.jpg" class="img-stack">
-			<span><img src="../img/play.png"></span>
+			<span><img src="img/play.png"></span>
 		</a>
         <a href="img/works/com/color/switch1.jpg" data-lightbox="switch"><img src="img/works/com/color/switch1.jpg" class="img-stack"></a>
         <a href="img/works/com/color/switch2.jpg" data-lightbox="switch"><img src="img/works/com/color/switch2.jpg" class="img-stack"></a>			
@@ -374,7 +374,7 @@ STORES - STORES - STORES - STORES -
 		
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/3rTdNTHg8nY?autoplay=1">
 		  <img src="img/works/video/alib-video1.jpg" class="img-stack">
-			<span><img src="../img/play.png"></span>
+			<span><img src="img/play.png"></span>
 		</a>
 		
         <a href="img/works/com/color/alib2.jpg" data-lightbox="alib"><img src="img/works/com/color/alib2.jpg" class="img-stack"></a>
@@ -407,7 +407,7 @@ STORES - STORES - STORES - STORES -
 		
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/ZR848vnm0-0?autoplay=1">
 		  <img src="img/works/video/inter-video1.jpg" class="img-stack">
-			<span><img src="../img/play.png"></span>
+			<span><img src="img/play.png"></span>
 		</a>
         <a href="img/works/com/color/inter2.jpg" data-lightbox="inter"><img src="img/works/com/color/inter2.jpg" class="img-stack"></a>
         <a href="img/works/com/color/inter3.jpg" data-lightbox="inter"><img src="img/works/com/color/inter3.jpg" class="img-stack"></a>
@@ -437,7 +437,7 @@ STORES - STORES - STORES - STORES -
  
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/SaQYqJoFBGc?autoplay=1">
 		  <img src="img/works/video/hi-video1.jpg" class="img-stack">
-			<span><img src="../img/play.png"></span>
+			<span><img src="img/play.png"></span>
 		</a>
 
         <a href="img/works/com/color/hi2.jpg" data-lightbox="hi"><img src="img/works/com/color/hi2.jpg" class="img-stack"></a>
@@ -470,19 +470,19 @@ STORES - STORES - STORES - STORES -
         <!-- Ziggo commercial 1 -->
         <a class="various fancybox.iframe video" href="//www.youtube.com/embed/iapKMeHpE-U?autoplay=1">
 		  <img src="img/works/video/ziggo-video1.jpg" class="img-stack">
-		  <span><img src="../img/play.png"></span>
+		  <span><img src="img/play.png"></span>
         </a>
 
         <!-- Ziggo commercial 2 -->
         <a class="various fancybox.iframe video" href="//www.youtube.com/embed/6I10c5d2JUw?autoplay=1">
 		  <img src="img/works/video/ziggo-video2.jpg" class="img-stack">
-		  <span><img src="../img/play.png"></span>
+		  <span><img src="img/play.png"></span>
         </a>
 
         <!-- Ziggo commercial 3 -->
         <a class="various fancybox.iframe video" href="//www.youtube.com/embed/C-sfYyxf2pI?autoplay=1">
 		  <img src="img/works/video/ziggo-video3.jpg" class="img-stack">
-		  <span><img src="../img/play.png"></span>
+		  <span><img src="img/play.png"></span>
         </a>
 
         <a href="img/works/com/color/ziggo1.jpg" data-lightbox="ziggo"><img src="img/works/com/color/ziggo1.jpg" class="img-stack"></a>                
