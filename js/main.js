@@ -9,12 +9,12 @@
 $(document).ready(function(){
 	
 	if ( ($(window).width()) > 900 ) {
-		$('img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').addClass('hires');
+		$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').addClass('hires');
 		if (jQuery.browser.mobile == false) {
-			$('img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').addClass('hires');
+			$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').addClass('hires');
 		}
 	}else{
-		$('img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').removeClass('hires');
+		$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').removeClass('hires');
 	};
 	
 	// Initiate swiper-------------------------------------------------
@@ -344,6 +344,60 @@ function initialize() {
 
 google.maps.event.addDomListener(window, 'load', initialize);
 
+function preload() {
+	var preloader 	= new createjs.LoadQueue(true, '');
+	var images 		= $('img, .hires');
+	var manifest 	= [];
+
+	images.each(function(i, el){
+		if($(el)[0].nodeName === 'IMG')
+			var fullFilename 	= el.src;
+		else
+			var fullFilename	= $(el).css('backgroundImage').replace('url(','').replace(')','');
+
+		var extension		= fullFilename.substr(fullFilename.lastIndexOf('.') + 1);
+		var filename 		= fullFilename.substr(0, fullFilename.lastIndexOf('.'));
+
+		var id = $(el).attr('id') || 'hires_image_' + makeid();
+
+		$(el).attr('id', id);
+
+		var whatToLoad		= filename + '-hires.' + extension;
+		//whatToLoad			= 'img/hires.png?time=' + makeid();
+
+		manifest.push({src: whatToLoad, id: id});
+	});
+	
+	preloader.addEventListener('fileload', handleCompleted);
+	preloader.addEventListener('progress', handleProgress);
+	preloader.loadManifest(manifest);
+
+	function handleCompleted(event)
+	{
+		var el = $('#' + event.item.id);
+
+		if(el[0].nodeName === 'IMG')
+			el.attr('src', event.item.src);
+		else
+			el.css('backgroundImage', 'url(' + event.item.src + ')');
+	}
+
+
+	function handleProgress(event) {
+		console.log('TOTAL: ' + (preloader.progress * 100) + '%');
+	}
+
+	function makeid()
+	{
+		var text = "";
+		var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+
+		for( var i=0; i < 5; i++ )
+			text += possible.charAt(Math.floor(Math.random() * possible.length));
+
+		return text;
+	}
+}
 
 // Dynamic loading---------------------------------------------
 // Load and unload works-overzicht.php
@@ -411,11 +465,14 @@ $(document).on('click','#results div, .overlay-txt, .next-project', function() {
 			}else{
 				$('img, body').removeClass('hires');
 			};
+			preload();
 		});
 		nxt();
+		preload();
 		$('#dynamic-container').animate({ left : '0' }, 300);
 	});
 	$('#works-container').css({ background: '#c7c7c7'});
+	preload();
 	return false;
 });
 
@@ -551,24 +608,24 @@ $(document).on('click','#designs', function() {
 });
 
 if ( ($(window).width()) > 900 ) {
-	$('img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').addClass('hires');
+	$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').addClass('hires');
 	if (jQuery.browser.mobile == false) {
-		$('img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').addClass('hires');
+		$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').addClass('hires');
 	}
 }else{
-	$('img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').removeClass('hires');
+	$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').removeClass('hires');
 };
 
 //on window resize check for widths
 $( window ).resize(function() {
 	//check width for hires img
 	if ( ($(window).width()) > 900 ) {
-		$('img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').addClass('hires');
+		$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').addClass('hires');
 		if (jQuery.browser.mobile == false) {
-			$('img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').addClass('hires');
+			$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').addClass('hires');
 		}
 	}else{
-		$('img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').removeClass('hires');
+		$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').removeClass('hires');
 	};
 });
 

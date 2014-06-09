@@ -25,20 +25,20 @@ STORES - STORES - STORES - STORES -
                 <b>Rotterdam, Hilversum, Utrecht, Haarlem, Alkmaar, Amsterdam, Almere, Osdorp, Den Haag, Zoetermeer, Zwolle </b>
             </p>
 
-            <a href="img/works/sto/jb-store1.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store1.jpg" class="attribute"></a>
+            <a href="img/works/sto/jb-store1-hires.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store1.jpg" class="attribute"></a>
 
             <a class="various fancybox.iframe video" href="//www.youtube.com/embed/rpieNS9KCcY?autoplay=1">
                 <img src="img/works/video/jb-video1.jpg" class="img-stack">
                 <span><img src="img/play.png"></span>
             </a> 
 
-            <a href="img/works/sto/jb-store9.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store9.jpg" class="img-stack"></a>
-            <a href="img/works/sto/jb-store3.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store3.jpg" class="img-stack"></a>
-            <a href="img/works/sto/jb-store10.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store10.jpg" class="img-stack"></a>
-            <a href="img/works/sto/jb-store11.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store11.jpg" class="img-stack"></a>
-            <a href="img/works/sto/jb-store12.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store12.jpg" class="img-stack"></a>
-            <a href="img/works/sto/jb-store7.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store7.jpg" class="img-stack"></a>
-            <a href="img/works/sto/jb-store8.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store8.jpg" class="img-stack"></a>
+            <a href="img/works/sto/jb-store9-hires.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store9.jpg" class="img-stack"></a>
+            <a href="img/works/sto/jb-store3-hires.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store3.jpg" class="img-stack"></a>
+            <a href="img/works/sto/jb-store10-hires.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store10.jpg" class="img-stack"></a>
+            <a href="img/works/sto/jb-store11-hires.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store11.jpg" class="img-stack"></a>
+            <a href="img/works/sto/jb-store12-hires.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store12.jpg" class="img-stack"></a>
+            <a href="img/works/sto/jb-store7-hires.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store7.jpg" class="img-stack"></a>
+            <a href="img/works/sto/jb-store8-hires.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store8.jpg" class="img-stack"></a>
 
         </article>
     </section>
@@ -62,10 +62,10 @@ STORES - STORES - STORES - STORES -
                     een directe herkenning op de vierkante meter.
                 </p>
 
-                <a href="img/works/sto/jb-sis1.jpg" data-lightbox="sis"><img src="img/works/sto/jb-sis1.jpg" class="attribute"></a>
+                <a href="img/works/sto/jb-sis1-hires.jpg" data-lightbox="sis"><img src="img/works/sto/jb-sis1.jpg" class="attribute"></a>
 
-                <a href="img/works/sto/jb-sis2.jpg" data-lightbox="sis"><img src="img/works/sto/jb-sis2.jpg" class="img-stack"></a>
-                <a href="img/works/sto/jb-sis3.jpg" data-lightbox="sis"><img src="img/works/sto/jb-sis3.jpg" class="img-stack"></a>
+                <a href="img/works/sto/jb-sis2-hires.jpg" data-lightbox="sis"><img src="img/works/sto/jb-sis2.jpg" class="img-stack"></a>
+                <a href="img/works/sto/jb-sis3-hires.jpg" data-lightbox="sis"><img src="img/works/sto/jb-sis3.jpg" class="img-stack"></a>
             </article>
         </section>
 
@@ -100,12 +100,12 @@ STORES - STORES - STORES - STORES -
 
                     </p>
 
-                    <a href="img/works/sto/jb-show1.jpg" data-lightbox="jbs-s"><img src="img/works/sto/jb-show1.jpg" class="attribute"></a>
+                    <a href="img/works/sto/jb-show1-hires.jpg" data-lightbox="jbs-s"><img src="img/works/sto/jb-show1.jpg" class="attribute"></a>
 
-                    <a href="img/works/sto/jb-show1.jpg" data-lightbox="jbs-s"><img src="img/works/sto/jb-show1.jpg" class="img-stack"></a>
-                    <a href="img/works/sto/jb-show2.jpg" data-lightbox="jbs-s"><img src="img/works/sto/jb-show2.jpg" class="img-stack"></a>
-                    <a href="img/works/sto/jb-show3.jpg" data-lightbox="jbs-s"><img src="img/works/sto/jb-show3.jpg" class="img-stack"></a>
-                    <a href="img/works/sto/jb-show4.jpg" data-lightbox="jbs-s"><img src="img/works/sto/jb-show4.jpg" class="img-stack"></a>
+                    <a href="img/works/sto/jb-show1-hires.jpg" data-lightbox="jbs-s"><img src="img/works/sto/jb-show1.jpg" class="img-stack"></a>
+                    <a href="img/works/sto/jb-show2-hires.jpg" data-lightbox="jbs-s"><img src="img/works/sto/jb-show2.jpg" class="img-stack"></a>
+                    <a href="img/works/sto/jb-show3-hires.jpg" data-lightbox="jbs-s"><img src="img/works/sto/jb-show3.jpg" class="img-stack"></a>
+                    <a href="img/works/sto/jb-show4-hires.jpg" data-lightbox="jbs-s"><img src="img/works/sto/jb-show4.jpg" class="img-stack"></a>
                 </article>
             </section>
 
@@ -134,7 +134,7 @@ STORES - STORES - STORES - STORES -
                         muren en industriële winkelstellingen en waanzinnig mooie meubels.
                     </p>
 
-                    <a href="img/works/sto/friends1.jpg" data-lightbox="friends emmen"><img src="img/works/sto/friends1.jpg" class="attribute"></a>         
+                    <a href="img/works/sto/friends1-hires.jpg" data-lightbox="friends emmen"><img src="img/works/sto/friends1.jpg" class="attribute"></a>         
                 </article>
             </section>
 
@@ -162,16 +162,16 @@ STORES - STORES - STORES - STORES -
                 Oliver zijn gerechten klaarmaakt voor Albert Heijn.
             </p>
 
-            <a href="img/works/com/ah4.jpg" data-lightbox="jamie"><img src="img/works/com/ah4.jpg" class="attribute"></a>
+            <a href="img/works/com/ah4-hires.jpg" data-lightbox="jamie"><img src="img/works/com/ah4.jpg" class="attribute"></a>
 
             <a class="various fancybox.iframe video" href="//www.youtube.com/embed/Jnf5i-Cm3EY?autoplay=1" frameborder="0" allowfullscreen>
                 <img src="img/works/video/ah-video1.jpg" class="img-stack">
                 <span><img src="img/play.png"></span>
             </a>
 
-            <a href="img/works/com/ah2.jpg" data-lightbox="jamie"><img src="img/works/com/ah2.jpg" class="img-stack"></a>
-            <a href="img/works/com/ah3.jpg" data-lightbox="jamie"><img src="img/works/com/ah3.jpg" class="img-stack"></a>
-            <a href="img/works/com/ah1.jpg" data-lightbox="jamie"><img src="img/works/com/ah1.jpg" class="img-stack"></a>
+            <a href="img/works/com/ah2-hires.jpg" data-lightbox="jamie"><img src="img/works/com/ah2.jpg" class="img-stack"></a>
+            <a href="img/works/com/ah3-hires.jpg" data-lightbox="jamie"><img src="img/works/com/ah3.jpg" class="img-stack"></a>
+            <a href="img/works/com/ah1-hires.jpg" data-lightbox="jamie"><img src="img/works/com/ah1.jpg" class="img-stack"></a>
         </article>
     </section>
 
@@ -195,7 +195,7 @@ STORES - STORES - STORES - STORES -
                     de Albert Heijn mee rondgereden wordt.
                 </p>
 
-                <a href="img/works/com/route99-1.jpg" data-lightbox="jamie"><img src="img/works/com/route99-1.jpg" class="attribute"></a>
+                <a href="img/works/com/route99-1-hires.jpg" data-lightbox="jamie"><img src="img/works/com/route99-1.jpg" class="attribute"></a>
 
 
                 <a class="various fancybox.iframe video" href="//www.youtube.com/embed/S-5H-ZcZhl8?autoplay=1" frameborder="0" allowfullscreen>
@@ -203,8 +203,8 @@ STORES - STORES - STORES - STORES -
                     <span><img src="img/play.png"></span>
                 </a>
 
-                <a href="img/works/com/route99-2.jpg" data-lightbox="jamie"><img src="img/works/com/route99-2.jpg" class="img-stack"></a>
-                <a href="img/works/com/route99-3.jpg" data-lightbox="jamie"><img src="img/works/com/route99-3.jpg" class="img-stack"></a>
+                <a href="img/works/com/route99-2-hires.jpg" data-lightbox="jamie"><img src="img/works/com/route99-2.jpg" class="img-stack"></a>
+                <a href="img/works/com/route99-3-hires.jpg" data-lightbox="jamie"><img src="img/works/com/route99-3.jpg" class="img-stack"></a>
             </article>
         </section>
 
@@ -229,16 +229,16 @@ STORES - STORES - STORES - STORES -
                         Alle sets zijn gebouwd in de filmstudio.
                     </p>
 
-                    <a href="img/works/com/rabo1.jpg" data-lightbox="jamie"><img src="img/works/com/rabo1.jpg" class="attribute"></a>
+                    <a href="img/works/com/rabo1-hires.jpg" data-lightbox="jamie"><img src="img/works/com/rabo1.jpg" class="attribute"></a>
 
                     <a class="various fancybox.iframe video" href="//www.youtube.com/embed/UmESVLyXtz0?autoplay=1" frameborder="0" allowfullscreen>
                         <img src="img/works/video/rabo-video1.jpg" class="img-stack">
                         <span><img src="img/play.png"></span></a> 
 
-                        <a href="img/works/com/rabo2.jpg" data-lightbox="jamie"><img src="img/works/com/rabo2.jpg" class="img-stack"></a>
-                        <a href="img/works/com/rabo3.jpg" data-lightbox="jamie"><img src="img/works/com/rabo3.jpg" class="img-stack"></a>
-                        <a href="img/works/com/rabo4.jpg" data-lightbox="jamie"><img src="img/works/com/rabo4.jpg" class="img-stack"></a>
-                        <a href="img/works/com/rabo5.jpg" data-lightbox="jamie"><img src="img/works/com/rabo5.jpg" class="img-stack"></a>
+                        <a href="img/works/com/rabo2-hires.jpg" data-lightbox="jamie"><img src="img/works/com/rabo2.jpg" class="img-stack"></a>
+                        <a href="img/works/com/rabo3-hires.jpg" data-lightbox="jamie"><img src="img/works/com/rabo3.jpg" class="img-stack"></a>
+                        <a href="img/works/com/rabo4-hires.jpg" data-lightbox="jamie"><img src="img/works/com/rabo4.jpg" class="img-stack"></a>
+                        <a href="img/works/com/rabo5-hires.jpg" data-lightbox="jamie"><img src="img/works/com/rabo5.jpg" class="img-stack"></a>
                     </article>
                 </section>
 
@@ -268,19 +268,19 @@ STORES - STORES - STORES - STORES -
                                 slaapkamer van Giovanni van Bronckhorst.
                             </p>
 
-                            <a href="img/works/com/olli9.jpg" data-lightbox="olli"><img src="img/works/com/olli9.jpg" class="attribute"></a>
+                            <a href="img/works/com/olli9-hires.jpg" data-lightbox="olli"><img src="img/works/com/olli9.jpg" class="attribute"></a>
 
                             <a class="various fancybox.iframe video" href="//www.youtube.com/embed/eL78DQrwprM?autoplay=1">
                                 <img src="img/works/video/olli-video1.jpg" class="img-stack">
                                 <span><img src="img/play.png"></span>
                             </a>
-                            <a href="img/works/com/olli15.jpg" data-lightbox="olli"><img src="img/works/com/olli15.jpg" class="img-stack"></a>
-                            <a href="img/works/com/olli10.jpg" data-lightbox="olli"><img src="img/works/com/olli10.jpg" class="img-stack"></a>
-                            <a href="img/works/com/olli11.jpg" data-lightbox="olli"><img src="img/works/com/olli11.jpg" class="img-stack"></a>
-                            <a href="img/works/com/olli12.jpg" data-lightbox="olli"><img src="img/works/com/olli12.jpg" class="img-stack"></a>
-                            <a href="img/works/com/olli13.jpg" data-lightbox="olli"><img src="img/works/com/olli13.jpg" class="img-stack"></a>
-                            <a href="img/works/com/olli14.jpg" data-lightbox="olli"><img src="img/works/com/olli14.jpg" class="img-stack"></a>
-                            <a href="img/works/com/olli8.jpg" data-lightbox="olli"><img src="img/works/com/olli8.jpg" class="img-stack"></a>
+                            <a href="img/works/com/olli15-hires.jpg" data-lightbox="olli"><img src="img/works/com/olli15.jpg" class="img-stack"></a>
+                            <a href="img/works/com/olli10-hires.jpg" data-lightbox="olli"><img src="img/works/com/olli10.jpg" class="img-stack"></a>
+                            <a href="img/works/com/olli11-hires.jpg" data-lightbox="olli"><img src="img/works/com/olli11.jpg" class="img-stack"></a>
+                            <a href="img/works/com/olli12-hires.jpg" data-lightbox="olli"><img src="img/works/com/olli12.jpg" class="img-stack"></a>
+                            <a href="img/works/com/olli13-hires.jpg" data-lightbox="olli"><img src="img/works/com/olli13.jpg" class="img-stack"></a>
+                            <a href="img/works/com/olli14-hires.jpg" data-lightbox="olli"><img src="img/works/com/olli14.jpg" class="img-stack"></a>
+                            <a href="img/works/com/olli8-hires.jpg" data-lightbox="olli"><img src="img/works/com/olli8.jpg" class="img-stack"></a>
                         </article>
                     </section>
 
@@ -304,7 +304,7 @@ STORES - STORES - STORES - STORES -
                                     en een gigantische knop: the switch.
                                 </p>
 
-                                <a href="img/works/com/popcorn2.jpg" data-lightbox="switch"><img src="img/works/com/popcorn2.jpg" class="attribute"></a>
+                                <a href="img/works/com/popcorn2-hires.jpg" data-lightbox="switch"><img src="img/works/com/popcorn2.jpg" class="attribute"></a>
 
                                 <a class="various fancybox.iframe video" href="//www.youtube.com/embed/-gPHCXCV2qg?autoplay=1">
                                     <img src="img/works/video/popcorn-video2.jpg" class="img-stack">
@@ -321,11 +321,11 @@ STORES - STORES - STORES - STORES -
                                     <img src="img/works/video/switch-video1.jpg" class="img-stack">
                                     <span><img src="img/play.png"></span>
                                 </a>
-                                <a href="img/works/com/switch1.jpg" data-lightbox="switch"><img src="img/works/com/switch1.jpg" class="img-stack"></a>
-                                <a href="img/works/com/switch2.jpg" data-lightbox="switch"><img src="img/works/com/switch2.jpg" class="img-stack"></a>                      
-                                <a href="img/works/com/popcorn1.jpg" data-lightbox="alib"><img src="img/works/com/popcorn1.jpg" class="img-stack"></a>
-                                <a href="img/works/com/popcorn3.jpg" data-lightbox="alib"><img src="img/works/com/popcorn3.jpg" class="img-stack"></a>
-                                <a href="img/works/com/popcorn4.jpg" data-lightbox="alib"><img src="img/works/com/popcorn4.jpg" class="img-stack"></a>
+                                <a href="img/works/com/switch1-hires.jpg" data-lightbox="switch"><img src="img/works/com/switch1.jpg" class="img-stack"></a>
+                                <a href="img/works/com/switch2-hires.jpg" data-lightbox="switch"><img src="img/works/com/switch2.jpg" class="img-stack"></a>                      
+                                <a href="img/works/com/popcorn1-hires.jpg" data-lightbox="alib"><img src="img/works/com/popcorn1.jpg" class="img-stack"></a>
+                                <a href="img/works/com/popcorn3-hires.jpg" data-lightbox="alib"><img src="img/works/com/popcorn3.jpg" class="img-stack"></a>
+                                <a href="img/works/com/popcorn4-hires.jpg" data-lightbox="alib"><img src="img/works/com/popcorn4.jpg" class="img-stack"></a>
 
                             </article>
                         </section>
@@ -349,17 +349,17 @@ STORES - STORES - STORES - STORES -
                                         de directie/vergaderruimte in de filmstudio.
                                     </p>
 
-                                    <a href="img/works/com/alib1.jpg" data-lightbox="alib"><img src="img/works/com/alib1.jpg" class="attribute"></a>
+                                    <a href="img/works/com/alib1-hires.jpg" data-lightbox="alib"><img src="img/works/com/alib1.jpg" class="attribute"></a>
 
                                     <a class="various fancybox.iframe video" href="//www.youtube.com/embed/3rTdNTHg8nY?autoplay=1">
                                         <img src="img/works/video/alib-video1.jpg" class="img-stack">
                                         <span><img src="img/play.png"></span>
                                     </a>
 
-                                    <a href="img/works/com/alib2.jpg" data-lightbox="alib"><img src="img/works/com/alib2.jpg" class="img-stack"></a>
-                                    <a href="img/works/com/alib3.jpg" data-lightbox="alib"><img src="img/works/com/alib3.jpg" class="img-stack"></a>
-                                    <a href="img/works/com/alib4.jpg" data-lightbox="alib"><img src="img/works/com/alib4.jpg" class="img-stack"></a>
-                                    <a href="img/works/com/alib5.jpg" data-lightbox="alib"><img src="img/works/com/alib5.jpg" class="img-stack"></a>
+                                    <a href="img/works/com/alib2-hires.jpg" data-lightbox="alib"><img src="img/works/com/alib2.jpg" class="img-stack"></a>
+                                    <a href="img/works/com/alib3-hires.jpg" data-lightbox="alib"><img src="img/works/com/alib3.jpg" class="img-stack"></a>
+                                    <a href="img/works/com/alib4-hires.jpg" data-lightbox="alib"><img src="img/works/com/alib4.jpg" class="img-stack"></a>
+                                    <a href="img/works/com/alib5-hires.jpg" data-lightbox="alib"><img src="img/works/com/alib5.jpg" class="img-stack"></a>
                                 </article>
                             </section>
 
@@ -383,15 +383,15 @@ STORES - STORES - STORES - STORES -
                                             in de studio.
                                         </p>
 
-                                        <a href="img/works/com/inter1.jpg" data-lightbox="inter"><img src="img/works/com/inter1.jpg" class="attribute"></a>
+                                        <a href="img/works/com/inter1-hires.jpg" data-lightbox="inter"><img src="img/works/com/inter1.jpg" class="attribute"></a>
 
                                         <a class="various fancybox.iframe video" href="//www.youtube.com/embed/ZR848vnm0-0?autoplay=1">
                                             <img src="img/works/video/inter-video1.jpg" class="img-stack">
                                             <span><img src="img/play.png"></span>
                                         </a>
-                                        <a href="img/works/com/inter2.jpg" data-lightbox="inter"><img src="img/works/com/inter2.jpg" class="img-stack"></a>
-                                        <a href="img/works/com/inter3.jpg" data-lightbox="inter"><img src="img/works/com/inter3.jpg" class="img-stack"></a>
-                                        <a href="img/works/com/inter4.jpg" data-lightbox="inter"><img src="img/works/com/inter4.jpg" class="img-stack"></a>
+                                        <a href="img/works/com/inter2-hires.jpg" data-lightbox="inter"><img src="img/works/com/inter2.jpg" class="img-stack"></a>
+                                        <a href="img/works/com/inter3-hires.jpg" data-lightbox="inter"><img src="img/works/com/inter3.jpg" class="img-stack"></a>
+                                        <a href="img/works/com/inter4-hires.jpg" data-lightbox="inter"><img src="img/works/com/inter4.jpg" class="img-stack"></a>
                                     </article>
                                 </section>
 
@@ -415,17 +415,17 @@ STORES - STORES - STORES - STORES -
                                                 Edit-All was verantwoordelijk voor decorbouw van het sushi restaurant.
                                             </p>
 
-                                            <a href="img/works/com/hi1.jpg" data-lightbox="hi"><img src="img/works/com/hi1.jpg" class="attribute"></a>
+                                            <a href="img/works/com/hi1-hires.jpg" data-lightbox="hi"><img src="img/works/com/hi1.jpg" class="attribute"></a>
 
                                             <a class="various fancybox.iframe video" href="//www.youtube.com/embed/SaQYqJoFBGc?autoplay=1">
                                                 <img src="img/works/video/hi-video1.jpg" class="img-stack">
                                                 <span><img src="img/play.png"></span>
                                             </a>
 
-                                            <a href="img/works/com/hi2.jpg" data-lightbox="hi"><img src="img/works/com/hi2.jpg" class="img-stack"></a>
-                                            <a href="img/works/com/hi3.jpg" data-lightbox="hi"><img src="img/works/com/hi3.jpg" class="img-stack"></a>
-                                            <a href="img/works/com/hi4.jpg" data-lightbox="hi"><img src="img/works/com/hi4.jpg" class="img-stack"></a>
-                                            <a href="img/works/com/hi5.jpg" data-lightbox="hi"><img src="img/works/com/hi5.jpg" class="img-stack"></a>
+                                            <a href="img/works/com/hi2-hires.jpg" data-lightbox="hi"><img src="img/works/com/hi2.jpg" class="img-stack"></a>
+                                            <a href="img/works/com/hi3-hires.jpg" data-lightbox="hi"><img src="img/works/com/hi3.jpg" class="img-stack"></a>
+                                            <a href="img/works/com/hi4-hires.jpg" data-lightbox="hi"><img src="img/works/com/hi4.jpg" class="img-stack"></a>
+                                            <a href="img/works/com/hi5-hires.jpg" data-lightbox="hi"><img src="img/works/com/hi5.jpg" class="img-stack"></a>
                                         </article>
                                     </section>
 
@@ -448,7 +448,7 @@ STORES - STORES - STORES - STORES -
                                                     en de Chineese kamer van de vriend ver weg.
                                                 </p>
 
-                                                <a href="img/works/com/ziggo1.jpg" data-lightbox="ziggo"><img src="img/works/com/ziggo3.jpg" class="attribute"></a>
+                                                <a href="img/works/com/ziggo1-hires.jpg" data-lightbox="ziggo"><img src="img/works/com/ziggo3.jpg" class="attribute"></a>
 
                                                 <!-- Ziggo commercial 1 -->
                                                 <a class="various fancybox.iframe video" href="//www.youtube.com/embed/iapKMeHpE-U?autoplay=1">
@@ -468,8 +468,8 @@ STORES - STORES - STORES - STORES -
                                                     <span><img src="img/play.png"></span>
                                                 </a>
 
-                                                <a href="img/works/com/ziggo1.jpg" data-lightbox="ziggo"><img src="img/works/com/ziggo1.jpg" class="img-stack"></a>                
-                                                <a href="img/works/com/ziggo2.jpg" data-lightbox="ziggo"><img src="img/works/com/ziggo2.jpg" class="img-stack"></a>        
+                                                <a href="img/works/com/ziggo1-hires.jpg" data-lightbox="ziggo"><img src="img/works/com/ziggo1.jpg" class="img-stack"></a>                
+                                                <a href="img/works/com/ziggo2-hires.jpg" data-lightbox="ziggo"><img src="img/works/com/ziggo2.jpg" class="img-stack"></a>        
                                             </article>
                                         </section>
 
@@ -491,14 +491,14 @@ STORES - STORES - STORES - STORES -
                                                         3 decors gebouwd en totaal gespoten in verschillende kleuren.
                                                     </p>
 
-                                                    <a href="img/works/com/bewuzt1.jpg" data-lightbox="bewuzt"><img src="img/works/com/bewuzt1.jpg" class="attribute"></a>
+                                                    <a href="img/works/com/bewuzt1-hires.jpg" data-lightbox="bewuzt"><img src="img/works/com/bewuzt1.jpg" class="attribute"></a>
 
-                                                    <a href="img/works/com/bewuzt2.jpg" data-lightbox="bewuzt"><img src="img/works/com/bewuzt2.jpg" class="img-stack"></a>        
-                                                    <a href="img/works/com/bewuzt3.jpg" data-lightbox="bewuzt"><img src="img/works/com/bewuzt3.jpg" class="img-stack"></a>
-                                                    <a href="img/works/com/bewuzt4.jpg" data-lightbox="bewuzt"><img src="img/works/com/bewuzt4.jpg" class="img-stack"></a>
-                                                    <a href="img/works/com/bewuzt5.jpg" data-lightbox="bewuzt"><img src="img/works/com/bewuzt5.jpg" class="img-stack"></a>
-                                                    <a href="img/works/com/bewuzt6.jpg" data-lightbox="bewuzt"><img src="img/works/com/bewuzt6.jpg" class="img-stack"></a>
-                                                    <a href="img/works/com/bewuzt7.jpg" data-lightbox="bewuzt"><img src="img/works/com/bewuzt7.jpg" class="img-stack"></a>        
+                                                    <a href="img/works/com/bewuzt2-hires.jpg" data-lightbox="bewuzt"><img src="img/works/com/bewuzt2.jpg" class="img-stack"></a>        
+                                                    <a href="img/works/com/bewuzt3-hires.jpg" data-lightbox="bewuzt"><img src="img/works/com/bewuzt3.jpg" class="img-stack"></a>
+                                                    <a href="img/works/com/bewuzt4-hires.jpg" data-lightbox="bewuzt"><img src="img/works/com/bewuzt4.jpg" class="img-stack"></a>
+                                                    <a href="img/works/com/bewuzt5-hires.jpg" data-lightbox="bewuzt"><img src="img/works/com/bewuzt5.jpg" class="img-stack"></a>
+                                                    <a href="img/works/com/bewuzt6-hires.jpg" data-lightbox="bewuzt"><img src="img/works/com/bewuzt6.jpg" class="img-stack"></a>
+                                                    <a href="img/works/com/bewuzt7-hires.jpg" data-lightbox="bewuzt"><img src="img/works/com/bewuzt7.jpg" class="img-stack"></a>        
                                                 </article>
                                             </section>
 
@@ -525,16 +525,16 @@ STORES - STORES - STORES - STORES -
                 Het ontwerp is geïnspireerd op het eiland Texel, strand, jutten en drijfhout.
             </p>
 
-            <a href="img/works/int/jutter1.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter1.jpg" class="attribute"></a>
+            <a href="img/works/int/jutter1-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter1.jpg" class="attribute"></a>
 
-            <a href="img/works/int/jutter2.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter2.jpg" class="img-stack"></a>
-            <a href="img/works/int/jutter3.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter3.jpg" class="img-stack"></a>
-            <a href="img/works/int/jutter4.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter4.jpg" class="img-stack"></a>
-            <a href="img/works/int/jutter5.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter5.jpg" class="img-stack"></a>
-            <a href="img/works/int/jutter6.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter6.jpg" class="img-stack"></a>
-            <a href="img/works/int/jutter7.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter7.jpg" class="img-stack"></a>
-            <a href="img/works/int/jutter8.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter8.jpg" class="img-stack"></a>
-            <a href="img/works/int/jutter10.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter10.jpg" class="img-stack"></a>
+            <a href="img/works/int/jutter2-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter2.jpg" class="img-stack"></a>
+            <a href="img/works/int/jutter3-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter3.jpg" class="img-stack"></a>
+            <a href="img/works/int/jutter4-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter4.jpg" class="img-stack"></a>
+            <a href="img/works/int/jutter5-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter5.jpg" class="img-stack"></a>
+            <a href="img/works/int/jutter6-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter6.jpg" class="img-stack"></a>
+            <a href="img/works/int/jutter7-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter7.jpg" class="img-stack"></a>
+            <a href="img/works/int/jutter8-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter8.jpg" class="img-stack"></a>
+            <a href="img/works/int/jutter10-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter10.jpg" class="img-stack"></a>
         </article>
     </section>
 
@@ -557,12 +557,12 @@ STORES - STORES - STORES - STORES -
                     Hieronder valt ook Wildschut. Daarvoor hebben wij diverse tafelbladen gemaakt.
                 </p>
 
-                <a href="img/works/int/wildschut1.jpg" data-lightbox="wildschut"><img src="img/works/int/wildschut1.jpg" class="attribute"></a>
+                <a href="img/works/int/wildschut1-hires.jpg" data-lightbox="wildschut"><img src="img/works/int/wildschut1.jpg" class="attribute"></a>
 
-                <a href="img/works/int/wildschut1.jpg" data-lightbox="wildschut"><img src="img/works/int/wildschut1.jpg" class="img-stack"></a>
-                <a href="img/works/int/wildschut2.jpg" data-lightbox="wildschut"><img src="img/works/int/wildschut2.jpg" class="img-stack"></a>
-                <a href="img/works/int/wildschut3.jpg" data-lightbox="wildschut"><img src="img/works/int/wildschut3.jpg" class="img-stack"></a>
-                <a href="img/works/int/wildschut4.jpg" data-lightbox="wildschut"><img src="img/works/int/wildschut4.jpg" class="img-stack"></a>
+                <a href="img/works/int/wildschut1-hires.jpg" data-lightbox="wildschut"><img src="img/works/int/wildschut1.jpg" class="img-stack"></a>
+                <a href="img/works/int/wildschut2-hires.jpg" data-lightbox="wildschut"><img src="img/works/int/wildschut2.jpg" class="img-stack"></a>
+                <a href="img/works/int/wildschut3-hires.jpg" data-lightbox="wildschut"><img src="img/works/int/wildschut3.jpg" class="img-stack"></a>
+                <a href="img/works/int/wildschut4-hires.jpg" data-lightbox="wildschut"><img src="img/works/int/wildschut4.jpg" class="img-stack"></a>
             </article>
         </section>
 
@@ -584,15 +584,15 @@ STORES - STORES - STORES - STORES -
                         Nieuw winkelinterieur bedacht en gecreëerd.
                     </p>
 
-                    <a href="img/works/int/koopman1.jpg" data-lightbox="koopman"><img src="img/works/int/koopman1.jpg" class="attribute"></a>
+                    <a href="img/works/int/koopman1-hires.jpg" data-lightbox="koopman"><img src="img/works/int/koopman1.jpg" class="attribute"></a>
 
-                    <a href="img/works/int/koopman2.jpg" data-lightbox="koopman"><img src="img/works/int/koopman2.jpg" class="img-stack"></a>        
-                    <a href="img/works/int/koopman3.jpg" data-lightbox="koopman"><img src="img/works/int/koopman3.jpg" class="img-stack"></a>
-                    <a href="img/works/int/koopman4.jpg" data-lightbox="koopman"><img src="img/works/int/koopman4.jpg" class="img-stack"></a>
-                    <a href="img/works/int/koopman5.jpg" data-lightbox="koopman"><img src="img/works/int/koopman5.jpg" class="img-stack"></a>
-                    <a href="img/works/int/koopman6.jpg" data-lightbox="koopman"><img src="img/works/int/koopman6.jpg" class="img-stack"></a>
-                    <a href="img/works/int/koopman7.jpg" data-lightbox="koopman"><img src="img/works/int/koopman7.jpg" class="img-stack"></a>
-                    <a href="img/works/int/koopman8.jpg" data-lightbox="koopman"><img src="img/works/int/koopman8.jpg" class="img-stack"></a>
+                    <a href="img/works/int/koopman2-hires.jpg" data-lightbox="koopman"><img src="img/works/int/koopman2.jpg" class="img-stack"></a>        
+                    <a href="img/works/int/koopman3-hires.jpg" data-lightbox="koopman"><img src="img/works/int/koopman3.jpg" class="img-stack"></a>
+                    <a href="img/works/int/koopman4-hires.jpg" data-lightbox="koopman"><img src="img/works/int/koopman4.jpg" class="img-stack"></a>
+                    <a href="img/works/int/koopman5-hires.jpg" data-lightbox="koopman"><img src="img/works/int/koopman5.jpg" class="img-stack"></a>
+                    <a href="img/works/int/koopman6-hires.jpg" data-lightbox="koopman"><img src="img/works/int/koopman6.jpg" class="img-stack"></a>
+                    <a href="img/works/int/koopman7-hires.jpg" data-lightbox="koopman"><img src="img/works/int/koopman7.jpg" class="img-stack"></a>
+                    <a href="img/works/int/koopman8-hires.jpg" data-lightbox="koopman"><img src="img/works/int/koopman8.jpg" class="img-stack"></a>
 
                 </article>
             </section>
@@ -621,16 +621,16 @@ STORES - STORES - STORES - STORES -
                 te liggen op de restaurantbeleving.
             </p>
 
-            <a href="img/works/hor/peters6.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters6.jpg" class="attribute"></a>
+            <a href="img/works/hor/peters6-hires.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters6.jpg" class="attribute"></a>
 
-            <a href="img/works/hor/peters1.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters1.jpg" class="img-stack"></a>        
-            <a href="img/works/hor/peters2.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters2.jpg" class="img-stack"></a>
-            <a href="img/works/hor/peters3.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters3.jpg" class="img-stack"></a>
-            <a href="img/works/hor/peters4.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters4.jpg" class="img-stack"></a>
-            <a href="img/works/hor/peters5.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters5.jpg" class="img-stack"></a>
-            <a href="img/works/hor/peters7.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters7.jpg" class="img-stack"></a>
-            <a href="img/works/hor/peters8.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters8.jpg" class="img-stack"></a>
-            <a href="img/works/hor/peters9.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters9.jpg" class="img-stack"></a>
+            <a href="img/works/hor/peters1-hires.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters1.jpg" class="img-stack"></a>        
+            <a href="img/works/hor/peters2-hires.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters2.jpg" class="img-stack"></a>
+            <a href="img/works/hor/peters3-hires.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters3.jpg" class="img-stack"></a>
+            <a href="img/works/hor/peters4-hires.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters4.jpg" class="img-stack"></a>
+            <a href="img/works/hor/peters5-hires.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters5.jpg" class="img-stack"></a>
+            <a href="img/works/hor/peters7-hires.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters7.jpg" class="img-stack"></a>
+            <a href="img/works/hor/peters8-hires.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters8.jpg" class="img-stack"></a>
+            <a href="img/works/hor/peters9-hires.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters9.jpg" class="img-stack"></a>
 
         </article>
     </section>
@@ -654,13 +654,13 @@ STORES - STORES - STORES - STORES -
                     van het interieur voor caf&eacute; de Koning gemaakt. Een turn-key project met als thema een jazz café.
                 </p>
 
-                <a href="img/works/hor/koning6.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning6.jpg" class="attribute"></a>
+                <a href="img/works/hor/koning6-hires.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning6.jpg" class="attribute"></a>
 
-                <a href="img/works/hor/koning2.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning2.jpg" class="img-stack"></a>
-                <a href="img/works/hor/koning3.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning3.jpg" class="img-stack"></a>
-                <a href="img/works/hor/koning4.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning4.jpg" class="img-stack"></a>
-                <a href="img/works/hor/koning5.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning5.jpg" class="img-stack"></a>
-                <a href="img/works/hor/koning1.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning1.jpg" class="img-stack"></a>
+                <a href="img/works/hor/koning2-hires.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning2.jpg" class="img-stack"></a>
+                <a href="img/works/hor/koning3-hires.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning3.jpg" class="img-stack"></a>
+                <a href="img/works/hor/koning4-hires.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning4.jpg" class="img-stack"></a>
+                <a href="img/works/hor/koning5-hires.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning5.jpg" class="img-stack"></a>
+                <a href="img/works/hor/koning1-hires.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning1.jpg" class="img-stack"></a>
             </article>
         </section>
 
@@ -687,14 +687,14 @@ STORES - STORES - STORES - STORES -
                 - Sol - Fresh Beer - AB Free
             </p>
 
-            <a href="img/works/std/heineken1.jpg" data-lightbox="sol"><img src="img/works/std/heineken3.jpg" class="attribute"></a>
+            <a href="img/works/std/heineken1-hires.jpg" data-lightbox="sol"><img src="img/works/std/heineken3.jpg" class="attribute"></a>
 
-            <a href="img/works/std/heineken2.jpg" data-lightbox="sol"><img src="img/works/std/heineken1.jpg" class="img-stack"></a>
-            <a href="img/works/std/heineken3.jpg" data-lightbox="sol"><img src="img/works/std/heineken7.jpg" class="img-stack"></a>
-            <a href="img/works/std/heineken4.jpg" data-lightbox="sol"><img src="img/works/std/heineken4.jpg" class="img-stack"></a>
-            <a href="img/works/std/heineken5.jpg" data-lightbox="sol"><img src="img/works/std/heineken5.jpg" class="img-stack"></a>
-            <a href="img/works/std/heineken6.jpg" data-lightbox="sol"><img src="img/works/std/heineken6.jpg" class="img-stack"></a>
-            <a href="img/works/std/heineken7.jpg" data-lightbox="sol"><img src="img/works/std/heineken2.jpg" class="img-stack"></a>
+            <a href="img/works/std/heineken2-hires.jpg" data-lightbox="sol"><img src="img/works/std/heineken1.jpg" class="img-stack"></a>
+            <a href="img/works/std/heineken3-hires.jpg" data-lightbox="sol"><img src="img/works/std/heineken7.jpg" class="img-stack"></a>
+            <a href="img/works/std/heineken4-hires.jpg" data-lightbox="sol"><img src="img/works/std/heineken4.jpg" class="img-stack"></a>
+            <a href="img/works/std/heineken5-hires.jpg" data-lightbox="sol"><img src="img/works/std/heineken5.jpg" class="img-stack"></a>
+            <a href="img/works/std/heineken6-hires.jpg" data-lightbox="sol"><img src="img/works/std/heineken6.jpg" class="img-stack"></a>
+            <a href="img/works/std/heineken7-hires.jpg" data-lightbox="sol"><img src="img/works/std/heineken2.jpg" class="img-stack"></a>
         </article>
     </section>
 
@@ -716,13 +716,13 @@ STORES - STORES - STORES - STORES -
                     De jaarlijkse modebeurs in Amsterdam, standbouw voor Vanguard en Cast Iron
                 </p>
 
-                <a href="img/works/std/modefabriek7.jpg" data-lightbox="modefabriek"><img src="img/works/std/modefabriek7.jpg" class="attribute"></a>
-                <a href="img/works/std/modefabriek2.jpg" data-lightbox="modefabriek"><img src="img/works/std/modefabriek2.jpg" class="img-stack"></a>        
-                <a href="img/works/std/modefabriek3.jpg" data-lightbox="modefabriek"><img src="img/works/std/modefabriek3.jpg" class="img-stack"></a>
-                <a href="img/works/std/modefabriek4.jpg" data-lightbox="modefabriek"><img src="img/works/std/modefabriek4.jpg" class="img-stack"></a>
-                <a href="img/works/std/modefabriek5.jpg" data-lightbox="modefabriek"><img src="img/works/std/modefabriek5.jpg" class="img-stack"></a>
-                <a href="img/works/std/modefabriek6.jpg" data-lightbox="modefabriek"><img src="img/works/std/modefabriek6.jpg" class="img-stack"></a>
-                <a href="img/works/std/modefabriek1.jpg" data-lightbox="modefabriek"><img src="img/works/std/modefabriek1.jpg" class="img-stack"></a>        
+                <a href="img/works/std/modefabriek7-hires.jpg" data-lightbox="modefabriek"><img src="img/works/std/modefabriek7.jpg" class="attribute"></a>
+                <a href="img/works/std/modefabriek2-hires.jpg" data-lightbox="modefabriek"><img src="img/works/std/modefabriek2.jpg" class="img-stack"></a>        
+                <a href="img/works/std/modefabriek3-hires.jpg" data-lightbox="modefabriek"><img src="img/works/std/modefabriek3.jpg" class="img-stack"></a>
+                <a href="img/works/std/modefabriek4-hires.jpg" data-lightbox="modefabriek"><img src="img/works/std/modefabriek4.jpg" class="img-stack"></a>
+                <a href="img/works/std/modefabriek5-hires.jpg" data-lightbox="modefabriek"><img src="img/works/std/modefabriek5.jpg" class="img-stack"></a>
+                <a href="img/works/std/modefabriek6-hires.jpg" data-lightbox="modefabriek"><img src="img/works/std/modefabriek6.jpg" class="img-stack"></a>
+                <a href="img/works/std/modefabriek1-hires.jpg" data-lightbox="modefabriek"><img src="img/works/std/modefabriek1.jpg" class="img-stack"></a>        
             </article>
         </section>
 
@@ -748,15 +748,15 @@ STORES - STORES - STORES - STORES -
 
                     </p>
 
-                    <a href="img/works/std/jb-bbb1.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb1.jpg" class="attribute"></a>
+                    <a href="img/works/std/jb-bbb1-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb1.jpg" class="attribute"></a>
 
-                    <a href="img/works/std/jb-bbb2.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb2.jpg" class="img-stack"></a>
-                    <a href="img/works/std/jb-bbb3.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb3.jpg" class="img-stack"></a>
-                    <a href="img/works/std/jb-bbb4.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb4.jpg" class="img-stack"></a>
-                    <a href="img/works/std/jb-bbb5.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb5.jpg" class="img-stack"></a>
-                    <a href="img/works/std/jb-bbb6.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb6.jpg" class="img-stack"></a>
-                    <a href="img/works/std/jb-bbb7.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb7.jpg" class="img-stack"></a>
-                    <a href="img/works/std/jb-bbb8.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb8.jpg" class="img-stack"></a>
+                    <a href="img/works/std/jb-bbb2-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb2.jpg" class="img-stack"></a>
+                    <a href="img/works/std/jb-bbb3-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb3.jpg" class="img-stack"></a>
+                    <a href="img/works/std/jb-bbb4-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb4.jpg" class="img-stack"></a>
+                    <a href="img/works/std/jb-bbb5-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb5.jpg" class="img-stack"></a>
+                    <a href="img/works/std/jb-bbb6-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb6.jpg" class="img-stack"></a>
+                    <a href="img/works/std/jb-bbb7-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb7.jpg" class="img-stack"></a>
+                    <a href="img/works/std/jb-bbb8-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb8.jpg" class="img-stack"></a>
                 </article>
             </section>
 
@@ -783,14 +783,14 @@ STORES - STORES - STORES - STORES -
                 presentatie-modellen voor kleding en meubels in elke denkbare vorm.
             </p>
 
-            <a href="img/works/des/jb-design1.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design1.jpg" class="attribute"></a>
+            <a href="img/works/des/jb-design1-hires.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design1.jpg" class="attribute"></a>
 
-            <a href="img/works/des/jb-design2.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design2.jpg" class="img-stack"></a>        
-            <a href="img/works/des/jb-design3.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design3.jpg" class="img-stack"></a>
-            <a href="img/works/des/jb-design4.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design4.jpg" class="img-stack"></a>
-            <a href="img/works/des/jb-design5.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design5.jpg" class="img-stack"></a>
-            <a href="img/works/des/jb-design6.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design6.jpg" class="img-stack"></a>
-            <a href="img/works/des/jb-design7.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design7.jpg" class="img-stack"></a>        
+            <a href="img/works/des/jb-design2-hires.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design2.jpg" class="img-stack"></a>        
+            <a href="img/works/des/jb-design3-hires.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design3.jpg" class="img-stack"></a>
+            <a href="img/works/des/jb-design4-hires.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design4.jpg" class="img-stack"></a>
+            <a href="img/works/des/jb-design5-hires.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design5.jpg" class="img-stack"></a>
+            <a href="img/works/des/jb-design6-hires.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design6.jpg" class="img-stack"></a>
+            <a href="img/works/des/jb-design7-hires.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design7.jpg" class="img-stack"></a>        
         </article>
     </section>
 
