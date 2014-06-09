@@ -28,7 +28,7 @@ STORES - STORES - STORES - STORES -
 
         <a class="various fancybox.iframe video" href="//www.youtube.com/embed/rpieNS9KCcY?autoplay=1">
                   <img src="img/works/video/jb-video1.jpg" class="img-stack">
-                  <span><img src="../img/play.png"></span>
+                  <span><img src="img/play.png"></span>
         </a> 
 
         <a href="img/works/sto/jb-store9.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store9.jpg" class="img-stack"></a>
@@ -42,7 +42,7 @@ STORES - STORES - STORES - STORES -
     </article>
 </section>
 
-        <!-- PME LEGEND SHOP-IN-SHOP -->
+<!-- PME LEGEND SHOP-IN-SHOP -->
         <section class="bg-grijs22" id="jb-sis">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute"> 
@@ -68,12 +68,12 @@ STORES - STORES - STORES - STORES -
     </article>
 </section>
         
-        <!-- JUST BRANDS SHOWROOMS -->
+<!-- JUST BRANDS SHOWROOMS -->
         <section class="bg-grijs2" id="jb-showroom">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     
     <div class="absolute">
-        <a title="volgende" class="tooltip btn-rood next-project" id="friend-emmen">
+        <a title="volgende" class="tooltip btn-rood next-project" id="friends-emmen">
         	<span>
         		<img src="img/works/com/friends1.jpg">
         		<p>Friends Emmen</p>
@@ -108,9 +108,9 @@ STORES - STORES - STORES - STORES -
     </article>
 </section>
         
-        <!-- Friends Emmen -->
-        <section class="bg-grijs2" id="friends-emmen">
-    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
+<!-- FRIENDS EMMEN -->
+<section class="bg-grijs2" id="friends-emmen">
+	<a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
 
     <div class="absolute">
         <a title="volgende" class="tooltip btn-rood next-project" id="friend-emmen">
@@ -142,8 +142,8 @@ STORES - STORES - STORES - STORES -
 +++_______ COMMERCIALS _______+++
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
-        <!-- Albert Heijn Jamie Oliver -->
-        <section class="bg-grijs2" id="ah-jamie">
+<!-- Albert Heijn Jamie Oliver -->
+<section class="bg-grijs2" id="ah-jamie">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
         <a title="volgende" class="tooltip btn-rood next-project" id="ah-route99">
@@ -165,7 +165,7 @@ STORES - STORES - STORES - STORES -
 
         <a class="various fancybox.iframe video" href="//www.youtube.com/embed/Jnf5i-Cm3EY?autoplay=1" frameborder="0" allowfullscreen>
         	<img src="img/works/video/ah-video1.jpg" class="img-stack">
-        	<span><img src="../img/play.png"></span>
+        	<span><img src="img/play.png"></span>
         </a>
                 
         <a href="img/works/com/ah2.jpg" data-lightbox="jamie"><img src="img/works/com/ah2.jpg" class="img-stack"></a>
@@ -199,7 +199,7 @@ STORES - STORES - STORES - STORES -
 
         <a class="various fancybox.iframe video" href="//www.youtube.com/embed/S-5H-ZcZhl8?autoplay=1" frameborder="0" allowfullscreen>
                         <img src="img/works/video/ah-video2.jpg" class="img-stack">
-                        <span><img src="../img/play.png"></span>
+                        <span><img src="img/play.png"></span>
                 </a>
                 
                 <a href="img/works/com/route99-2.jpg" data-lightbox="jamie"><img src="img/works/com/route99-2.jpg" class="img-stack"></a>
@@ -232,7 +232,7 @@ STORES - STORES - STORES - STORES -
 
         <a class="various fancybox.iframe video" href="//www.youtube.com/embed/UmESVLyXtz0?autoplay=1" frameborder="0" allowfullscreen>
                 <img src="img/works/video/rabo-video1.jpg" class="img-stack">
-                <span><img src="../img/play.png"></span></a> 
+                <span><img src="img/play.png"></span></a> 
         
         <a href="img/works/com/rabo2.jpg" data-lightbox="jamie"><img src="img/works/com/rabo2.jpg" class="img-stack"></a>
         <a href="img/works/com/rabo3.jpg" data-lightbox="jamie"><img src="img/works/com/rabo3.jpg" class="img-stack"></a>
@@ -271,7 +271,7 @@ STORES - STORES - STORES - STORES -
                   
                 <a class="various fancybox.iframe video" href="//www.youtube.com/embed/eL78DQrwprM?autoplay=1">
                   <img src="img/works/video/olli-video1.jpg" class="img-stack">
-                        <span><img src="../img/play.png"></span>
+                        <span><img src="img/play.png"></span>
                 </a>
         <a href="img/works/com/olli15.jpg" data-lightbox="olli"><img src="img/works/com/olli15.jpg" class="img-stack"></a>
         <a href="img/works/com/olli10.jpg" data-lightbox="olli"><img src="img/works/com/olli10.jpg" class="img-stack"></a>
@@ -307,7 +307,7 @@ STORES - STORES - STORES - STORES -
 </section>
         
         <!-- UPC Popcorn -->
-        <section class="bg-grijs2" id="popcorn-bak">
+        <section class="bg-grijs2" id="upc">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
     <div class="absolute">
         <a title="volgende" class="tooltip btn-rood next-project" id="tmobile-alib">
@@ -330,18 +330,18 @@ STORES - STORES - STORES - STORES -
 
                 <a class="various fancybox.iframe video" href="//www.youtube.com/embed/-gPHCXCV2qg?autoplay=1">
                   <img src="img/works/video/popcorn-video2.jpg" class="img-stack">
-                        <span><img src="../img/play.png"></span>
+                        <span><img src="img/play.png"></span>
                 </a>
 
                 <a class="various fancybox.iframe video" href="//www.youtube.com/embed/23Yx8UVq4WA?autoplay=1">  
                   <img src="img/works/video/popcorn-video1.jpg" class="img-stack">
-                        <span><img src="../img/play.png"></span>
+                        <span><img src="img/play.png"></span>
                 </a>
 
 
                 <a class="various fancybox.iframe video" href="//www.youtube.com/embed/D2yeGqKh3p0?autoplay=1">
                   <img src="img/works/video/switch-video1.jpg" class="img-stack">
-                        <span><img src="../img/play.png"></span>
+                        <span><img src="img/play.png"></span>
                 </a>
         <a href="img/works/com/switch1.jpg" data-lightbox="switch"><img src="img/works/com/switch1.jpg" class="img-stack"></a>
         <a href="img/works/com/switch2.jpg" data-lightbox="switch"><img src="img/works/com/switch2.jpg" class="img-stack"></a>                      
@@ -375,7 +375,7 @@ STORES - STORES - STORES - STORES -
                 
                 <a class="various fancybox.iframe video" href="//www.youtube.com/embed/3rTdNTHg8nY?autoplay=1">
                   <img src="img/works/video/alib-video1.jpg" class="img-stack">
-                        <span><img src="../img/play.png"></span>
+                        <span><img src="img/play.png"></span>
                 </a>
                 
         <a href="img/works/com/alib2.jpg" data-lightbox="alib"><img src="img/works/com/alib2.jpg" class="img-stack"></a>
@@ -409,7 +409,7 @@ STORES - STORES - STORES - STORES -
                 
                 <a class="various fancybox.iframe video" href="//www.youtube.com/embed/ZR848vnm0-0?autoplay=1">
                   <img src="img/works/video/inter-video1.jpg" class="img-stack">
-                        <span><img src="../img/play.png"></span>
+                        <span><img src="img/play.png"></span>
                 </a>
         <a href="img/works/com/inter2.jpg" data-lightbox="inter"><img src="img/works/com/inter2.jpg" class="img-stack"></a>
         <a href="img/works/com/inter3.jpg" data-lightbox="inter"><img src="img/works/com/inter3.jpg" class="img-stack"></a>
@@ -441,7 +441,7 @@ STORES - STORES - STORES - STORES -
  
                 <a class="various fancybox.iframe video" href="//www.youtube.com/embed/SaQYqJoFBGc?autoplay=1">
                   <img src="img/works/video/hi-video1.jpg" class="img-stack">
-                        <span><img src="../img/play.png"></span>
+                        <span><img src="img/play.png"></span>
                 </a>
 
         <a href="img/works/com/hi2.jpg" data-lightbox="hi"><img src="img/works/com/hi2.jpg" class="img-stack"></a>
@@ -475,19 +475,19 @@ STORES - STORES - STORES - STORES -
         <!-- Ziggo commercial 1 -->
         <a class="various fancybox.iframe video" href="//www.youtube.com/embed/iapKMeHpE-U?autoplay=1">
                   <img src="img/works/video/ziggo-video1.jpg" class="img-stack">
-                  <span><img src="../img/play.png"></span>
+                  <span><img src="img/play.png"></span>
         </a>
 
         <!-- Ziggo commercial 2 -->
         <a class="various fancybox.iframe video" href="//www.youtube.com/embed/6I10c5d2JUw?autoplay=1">
                   <img src="img/works/video/ziggo-video2.jpg" class="img-stack">
-                  <span><img src="../img/play.png"></span>
+                  <span><img src="img/play.png"></span>
         </a>
 
         <!-- Ziggo commercial 3 -->
         <a class="various fancybox.iframe video" href="//www.youtube.com/embed/C-sfYyxf2pI?autoplay=1">
                   <img src="img/works/video/ziggo-video3.jpg" class="img-stack">
-                  <span><img src="../img/play.png"></span>
+                  <span><img src="img/play.png"></span>
         </a>
 
         <a href="img/works/com/ziggo1.jpg" data-lightbox="ziggo"><img src="img/works/com/ziggo1.jpg" class="img-stack"></a>                

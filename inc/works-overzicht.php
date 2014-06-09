@@ -23,24 +23,23 @@
                 <div id="results" class="imageholder">
 
 <!-- STORES -->                        
-
-                        <div class="clickable stores">
-                                <h3 class="overlay-txt" id="jb-showroom">Just Brands Showrooms</h3>
-                                <img src="img/works/sto/jb-show3.jpg" >
-                                <div class="overlay" id="jb-showroom"></div>
-                        </div>
-                        
                         <div class="clickable stores">
                                 <h3 class="overlay-txt" id="jb-stores">Just Brands Stores</h3>
                                 <img src="img/works/sto/jb-store4.jpg" >
                                 <div class="overlay" id="jb-stores"></div>
                         </div>
-                        
+
                         <div class="clickable stores">
                                 <h3 class="overlay-txt" id="jb-sis">PME Legend Shop-in-Shop</h3>
                                 <img src="img/works/sto/jb-sis1.jpg" >
                                 <div class="overlay" id="jb-sis">
                                 </div>
+                        </div>
+                        
+                        <div class="clickable stores">
+                                <h3 class="overlay-txt" id="jb-showroom">Just Brands Showrooms</h3>
+                                <img src="img/works/sto/jb-show3.jpg" >
+                                <div class="overlay" id="jb-showroom"></div>
                         </div>
 
                         <div class="clickable stores">
@@ -76,7 +75,13 @@
                                 <h3 class="overlay-txt" id="olli-blijdorp">Olli</h3>
                                 <img src="img/works/com/olli15.jpg" >
                                 <div class="overlay" id="olli-blijdorp"></div>
-                        </div>  
+                        </div>
+
+                        <div class="clickable commercials">
+                                <h3 class="overlay-txt" id="upc">UPC</h3>
+                                <img src="img/works/com/popcorn2.jpg" >
+                                <div class="overlay" id="upc"></div>
+                        </div>
 
                         <div class="clickable commercials">
                                 <h3 class="overlay-txt" id="tmobile-alib">Ali-B | T-Mobile</h3>
@@ -94,12 +99,6 @@
                                 <h3 class="overlay-txt" id="allyou-caneat">All You Can Eat | Hi</h3>
                                 <img src="img/works/com/hi5.jpg" >
                                 <div class="overlay" id="allyou-caneat"></div>
-                        </div>
-
-                        <div class="clickable commercials">
-                                <h3 class="overlay-txt" id="popcorn-bak">UPC</h3>
-                                <img src="img/works/com/popcorn2.jpg" >
-                                <div class="overlay" id="popcorn-bak"></div>
                         </div>
 
                         <div class="clickable commercials">
