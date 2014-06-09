@@ -12,20 +12,18 @@
                 
                 </header>
                 
-             <div class="projectnummers">Projecten
-                <a href="#" class="btn-zwart stroke active" 	id="all1">			1</a>
-                <a href="#" class="btn-zwart stroke" 			id="all2">			2</a>
-             </div>
+                <b>Projecten</b>
+                 <a href="#" class="btn-rood active proj" 	id="all1">			1</a>
+                 <a href="#" class="btn-rood proj" 			id="all2">			2</a>
                 
-                
-             <div class="filter">Categorie 
-                <a href="#" class="btn-wit stroke" id="stores">Stores</a>
-                <a href="#" class="btn-wit stroke" id="commercials">Commercials</a>
-                <a href="#" class="btn-wit stroke" id="interiors">Interieurs</a>
-                <a href="#" class="btn-wit stroke" id="horeca">Horeca</a>
-                <a href="#" class="btn-wit stroke" id="stands">Stands</a>
-                <a href="#" class="btn-wit stroke" id="designs">Designs</a>
-             </div>
+                <em>Categorie</em>
+                 <a href="#" class="btn-wit stroke cat" id="stores">Stores</a>
+                 <a href="#" class="btn-wit stroke cat" id="commercials">Commercials</a>
+                 <a href="#" class="btn-wit stroke cat" id="interiors">Interieurs</a>
+                 <a href="#" class="btn-wit stroke cat" id="horeca">Horeca</a>
+                 <a href="#" class="btn-wit stroke cat" id="stands">Stands</a>
+                 <a href="#" class="btn-wit stroke cat" id="designs">Designs</a>
+             
                                 
                 <div id="results" class="imageholder">
 

@@ -259,6 +259,22 @@ a.btn-zwart.stroke:hover, a.btn-zwart.stroke.active	{ border-color: #191B1E; bac
 a.btn-antra.stroke:hover, a.btn-antra.stroke.active	{ border-color: #404951;}
 a.btn-grijs.stroke:hover, a.btn-grijs.stroke:active { border-color: #696969;}
 
+
+#dynamic-container article.images b {
+	color: #D41217;
+/* 	background: #F6F6F6; */
+	padding: .4em .3em;
+	border-radius: .2em;
+	-webkit-border-radius: .2em;
+	-moz-border-radius: .2em;
+}
+
+#dynamic-container article.images em {
+	font-style: normal;
+	color: #F6F6F6;
+	padding: .3em;
+}
+
 .projectnummers {
 	display: inline-block;
 	background: #f6f6f6;
@@ -1328,12 +1344,14 @@ aside {
 		display: none;
 	}
 	
-	#dynamic-container article.images .projectnummers a {
+	#dynamic-container article.images b,
+	#dynamic-container article.images .proj {
 		display: inline-block !important;
 		display: block;
 	}
 
-	#dynamic-container article.images .filter {
+	#dynamic-container article.images em,
+	#dynamic-container article.images .cat {
 		display: none;
 	}
  
