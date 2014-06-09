@@ -37,7 +37,7 @@
                                 <div class="overlay" id="jb-stores"></div>
                         </div> 
 
-						<div class="clickable stores">
+						<div class="clickable stores all1">
                                 <h3 class="overlay-txt" id="jb-sis">PME Legend Shop-in-Shop</h3>
                                 <img src="img/works/sto/jb-sis1.jpg" >
                                 <div class="overlay" id="jb-sis">
@@ -50,7 +50,7 @@
                                 <div class="overlay" id="jb-showroom"></div>
                         </div>
 
-                        <div class="clickable stores">
+                        <div class="clickable stores all1">
                                 <h3 class="overlay-txt" id="friends-emmen">Friends Emmen</h3>
                                 <img src="img/works/sto/friends1.jpg" >
                                 <div class="overlay" id="friends-emmen"></div>
@@ -97,7 +97,7 @@
                                 <div class="overlay" id="tmobile-alib"></div>
                         </div>
 
-                        <div class="clickable commercials">
+                        <div class="clickable commercials all1">
                                 <h3 class="overlay-txt" id="interpolis-pleh">Pleh?! | Interpolis</h3>
                                 <img src="img/works/com/inter1.jpg" >
                                 <div class="overlay" id="interpolis-pleh"></div>

@@ -557,7 +557,7 @@ article.images {
 	margin: 1em 0em;
 	height: 80%;
 	line-height: 1;
-	overflow: scroll;
+	overflow: hidden;
 }
 
 
@@ -1012,6 +1012,10 @@ a.video img.img-stack:before {
 	line-height: 1 !important;
 	position: relative;
 	border-bottom: 2px solid #aeaeae;
+}
+
+#dynamic-container .all2 {
+	display: none;
 }
 
 #dynamic-container .clickable .overlay {

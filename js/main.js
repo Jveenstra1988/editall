@@ -563,7 +563,7 @@ $(document).on('click','.back-to-profile', function(){
 // Filter different projects
 $(document).on('click','#all1', function() {
 	$('#results .clickable').fadeOut(0);
-	$('#results .clickable').filter('.all1').fadeIn( 500);
+	$('#results .clickable').filter('.all1').fadeIn(500);
 	
 	$('#works-overzicht article > a').removeClass('active');
 	$(this).addClass('active');
@@ -575,6 +575,7 @@ $(document).on('click','#all2', function() {
 	$('#results .clickable').filter('.all2').fadeIn( 500);
 	
 	$('#works-overzicht article > a').removeClass('active');
+	$('.all2').css({display:'inline-block'})
 	$(this).addClass('active');
 	return false;
 });
