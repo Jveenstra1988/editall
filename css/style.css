@@ -17,12 +17,17 @@ html, body {
 	height: 		100%;
 }
 
+/*
 .no-overflow {
 	overflow: hidden;
 }
+*/
+
+/*
 .stick-top {
 	top: 0 !important;
 }
+*/
 
 a {
 	font-size: 			100%;
@@ -91,31 +96,7 @@ p b {
 	margin-top: -2.4em;
 }
 
-/*section article p:first-of-type:first-letter {
-float: left;
-padding: 0px 10px 0 3px;
-font-size: 50px;
-line-height: 50px;
-font-weight: normal;
-color: #282b30;
-}
-
-section article.txt-wit p:first-of-type:first-letter {
-	color: #f6f6f6;
-}
-
-section article .drie p:first-of-type:first-letter {
-	float: none;
-	padding: 0 0 0 0;
-	font-size: 100%;
-	line-height: 1em;
-	font-weight: 100;
-	color: #282b30;	
-}*/
-
-.groot {
-	font-size: 1.6em;
-}
+.groot { font-size: 1.6em; }
 
 /*
 -------------------------------------------
@@ -255,21 +236,6 @@ a.btn-turq:hover, a.btn-turq.active		{ background:#218281; border-bottom: 5px so
 a.btn-zwart:hover, a.btn-zwart.active	{ background:#121315; }
 a.btn-antra:hover, a.btn-antra.active	{ background:#2c3338; border-bottom: 5px solid #0f1113;}
 
-a.btn-rood:active,
-a.btn-wit:active,
-a.btn-grijs:active,
-a.btn-turq:active,
-a.btn-zwart:active,
-a.btn-antra:active {
-	/*border-bottom: 2px;*/
-	/*margin-top: 50px;*/
-	/*-webkit-transition: all 200ms ease-in;*/
-	/*-moz-transition: all 200ms ease-in;*/
-	/*-ms-transition: all 200ms ease-in;*/
-	/*-o-transition: all 200ms ease-in;*/
-	/*transition: all 200ms ease-in;*/
-}
-
 /* Buttons Stroke */
 a.btn-rood.stroke,
 a.btn-wit.stroke,
@@ -312,7 +278,7 @@ img.spr {
 }
 
 img.big {
-	max-width: 18%;
+	max-width: 16%;
 }
 
 .back, .back-to-overzicht {
@@ -416,10 +382,7 @@ nav ul li img {
 	margin-top: -.15em;
 }
 
-
 /* Images */
-.beeldmerk {
-}
 
 .in-nav {
 	text-align: center;
@@ -492,24 +455,9 @@ a.scroller2 img {
 	transition: all 300ms ease-in-out;
 }
 
-a.scroller2 img:hover, a.scroller img:hover  {
-	width: 90px;
-}
-
-a.scroller img:hover {
-	margin-top: -.5em;
-}
-
-.verloop { 
-	background: #c7c7c7; /* Old browsers */
-	background: -moz-linear-gradient(left,  #c7c7c7 67%, #9b9b9b 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, right top, color-stop(67%,#c7c7c7), color-stop(100%,#9b9b9b)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(left,  #c7c7c7 67%,#9b9b9b 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(left,  #c7c7c7 67%,#9b9b9b 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(left,  #c7c7c7 67%,#9b9b9b 100%); /* IE10+ */
-	background: linear-gradient(to right,  #c7c7c7 67%,#9b9b9b 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c7c7c7', endColorstr='#9b9b9b',GradientType=1 ); /* IE6-9 */
-}
+a.scroller2 img:hover, 
+a.scroller  img:hover { width: 90px;}
+a.scroller  img:hover { margin-top: -.5em; }
 
 /*
 -------------------------------------------
@@ -537,14 +485,18 @@ article {
 }
 
 article header {
-	margin-bottom: 2em;
+	margin-bottom: 1.4em;
+}
+
+.clear article header {
+	margin-bottom: 0em;
 }
 
 article header img {
 	margin: 0 auto;
 	display: block;
 	max-width: 100px;
-	margin-bottom: 2em;
+/* 	margin-bottom: 2em; */
 }
 
 article p {
@@ -564,7 +516,9 @@ article.images {
 
 .imageholder {
 	margin: 1em 0em;
+	height: 80%;
 	line-height: 1;
+	overflow: scroll;
 }
 
 
@@ -744,12 +698,10 @@ footer section article p:first-of-type:first-letter {
 	overflow: hidden;
 	z-index: 999;
 }
-
 #content {
 	width: 150px;
 	overflow: hidden;
 }	
-
 
 /*
 -------------------------------------------
@@ -760,7 +712,6 @@ footer section article p:first-of-type:first-letter {
 .video {
 	display: block;
 }
-
 .video-right {
 	display: inline-block;
 	float: right;
@@ -776,48 +727,40 @@ footer section article p:first-of-type:first-letter {
 	border: none;
 	background-size: cover;
 }
-
 #home-container #een {
 	background: url(../img/header-1.jpg) center center no-repeat;
 	background-size: cover;
 }
-
 #home-container #twee {
 	background: url(../img/header-2.jpg) center center no-repeat;
 	background-size: cover;
 }
-
 #home-container #drie {
 	background: url(../img/header-3.jpg) center center no-repeat;
 	background-size: cover;
 }
-
 #home-container #vier {
 	background: url(../img/header-4.jpg) center center no-repeat;
 	background-size: cover;
 }
-
 #home-container #vijf {
 	background: url(../img/header-5.jpg) center center no-repeat;
 	background-size: cover;
 }
-
 #home-container #zes {
 	background: url(../img/header-6.jpg) center center no-repeat;
 	background-size: cover;
 }
-
 #profile-container {
 	background: url(../img/profile-1.jpg) center center no-repeat;
 	background-size: cover;
 }
-
 #works-container {
 	background: url(../img/works-1.jpg) center center no-repeat;
 	background-size: cover;
 }
-
 #contact-container {
+	
 }
 
 /*
@@ -1081,9 +1024,8 @@ a.video img.img-stack:before {
 }
 
 @media screen and (max-width: 1024px) {
-	article {
-		width: 70%;
-	}
+	
+	article { width: 70%; }
 	
 	/* Landing Logo */
 	.header-icon {
@@ -1104,9 +1046,12 @@ a.video img.img-stack:before {
 }
 
 @media screen and (max-width: 900px) {
-	article {
-		width: 90%;
+	
+	.icon {
+		margin-top: 1em;
 	}
+	
+	article { width: 90%; }
 
 	/* Landing Logo */
 	.header-icon {
@@ -1165,7 +1110,7 @@ a.video img.img-stack:before {
 	}
 	
 	#dynamic-container h1 {
-		margin-top: 2em;
+		margin-top: 1.2em;
 	}
 	
 	#dynamic-container article.content {
@@ -1185,14 +1130,16 @@ a.video img.img-stack:before {
 }
 
 @media screen and (max-width: 550px) {
+	
 	/* Landing Logo */
-	.logo {
-		width: 50%;
-		left: 37%;
+	.logo {	
+	width: 66%;
+	left: 30%;
+
 	}
 	
 	.icon {
-		width: 20%;
+		width: 22%;
 	}
 
 	.in-nav {
@@ -1240,13 +1187,17 @@ a.video img.img-stack:before {
 	article p {
 		font-size: 80%;
 	}
+
+	article.content h1 {
+		font-size: 120%;
+	}
 	
 	/* Projecten content */
 	#dynamic-container article.content img.attribute,
 	#dynamic-container article.content img.img-stack, 
 	a.video, a.video img.img-stack {
 		width: 20%;
-		margin-top: .8em;
+		margin-top: 0em;
 	}
 	
 	#dynamic-container .clickable {
@@ -1257,8 +1208,10 @@ a.video img.img-stack:before {
 		font-size: 60%;
 	}
 	
-	#dynamic-container article, #dynamic-container article.content, #dynamic-container-profile article {
-		width: 100%;
+	#dynamic-container article, 
+	#dynamic-container article.content, 
+	#dynamic-container-profile article {
+		width: 92%;
 		display: block;
 		margin-left: 0;
 		height: 100%;
@@ -1267,10 +1220,6 @@ a.video img.img-stack:before {
 	#dynamic-container-profile article {
 		position: absolute;
 		top: 0;
-	}
-	
-	article.content h1 {
-		font-size: 120%;
 	}
 	
 	#dynamic-container article.images a {
@@ -1288,16 +1237,24 @@ a.video img.img-stack:before {
 		
 	/* Navigatie */
 	nav ul li {
-		width: 18%;
+		/* width: 18%; */
+		width: 23%;
 	}
+
+	nav ul li.home {
+		display: none;
+	}	
+	
 	nav ul li a {
 		font-size: .8em;
 	}
 	nav ul li img {
 		width: 80%;
+		display: none;
 	}
+
 	a.scroller2 img {
-		margin-top: -120px;
+		margin-top: -100px;
 	}
 
 	section.clear article div.blok {
@@ -1313,9 +1270,9 @@ a.video img.img-stack:before {
 	
 	/* buttons */
 	.back, .back-to-overzicht, .back-to-profile, .next-project {
-		margin-left: 5px;
-		margin-right: 5px;
-		margin-top: 10px;
+		margin-left: 0px;
+		margin-right: 0px;
+		margin-top: 0px;
 		display: block;
 		width: 45%;
 	}
@@ -1337,27 +1294,34 @@ a.video img.img-stack:before {
 	a.video span img,
 		a.video:hover span img {
 		width: 45px;
-		margin-left: 20px;
-		margin-top: -80px;
+		margin-left: 12px;
+		margin-top: -75px;
 	}
 	
 	.pager {
 		width: 25%;
 		text-align: left;
 	}
+	
+	img.big {
+		max-width: 40%;
+		margin-bottom: .6em;
+		margin-top: .5em;
+	}
 
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 330px) {
 		
 	/* Landing Logo */
 	.logo {
-		width: 50%;
-		left: 37%;
+		width: 66%;
+		left: 30%;
 	}
 	
 	.icon {
-		width: 20%;
+		width: 22%;
+		margin-top: 1em;
 	}
 
 	.beeldmerk {
@@ -1379,13 +1343,18 @@ a.video img.img-stack:before {
 		bottom: 20%;
 	}
 	
+	article p {
+		font-size: 90%;
+	}
+	
 	a.scroller2 img, a.scroller img {
 		margin-top: -70px;
+		display: none;
 	}
 	
 	.a-btn-text {
 		padding-top: 1px;
-		font-size: 12px;
+		font-size: 90%;
 	}
 	
 	.a-btn {
@@ -1407,21 +1376,57 @@ a.video img.img-stack:before {
 		font-size: 40%;
 	}
 	
-	#dynamic-container article, #dynamic-container article.content {
-		width: 100%;
+	#dynamic-container article, 
+	#dynamic-container article.content, 
+	#dynamic-container-profile article {
+		width: 92%;
 		display: block;
 		margin-left: 0;
 		height: 100%;
 	}
 	
+	#dynamic-container h1 {
+		margin-top: 0em;
+	}
+	
+	#dynamic-container article.content h1 {
+		margin-top: 2.5em;
+	}
+	
 	#dynamic-container article.images a {
 		display: none;
 	}
-	
-	.back {
-		margin-left: 5px;
+
+	a.btn-rood, 
+	a.btn-wit, 
+	a.btn-grijs, 
+	a.btn-turq, 
+	a.btn-zwart, 
+	a.btn-antra {
+		padding: .6em .975em .6em .975em;
 	}
 	
+	.back {
+		margin-left: 0px;
+		margin-top: inherit;
+		margin-bottom: 10px;
+		position: relative;
+		font-size: 14px;
+	}
+	
+	.pager {
+		width: 33%;
+	}
+	
+	.pager a.btn-rood, 
+	.pager a.btn-wit, 
+	.pager a.btn-grijs,
+	.pager a.btn-turq,
+	.pager a.btn-zwart,
+	.pager a.btn-antra {
+		padding: .4em .8em .4em .8em;
+	}	
+
 	a.video span img,
 		a.video:hover span img {
 		width: 30px;
