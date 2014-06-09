@@ -43,8 +43,8 @@
 				<li>
 					<a href=""id="works">Projecten</a>
 				</li>
-				<li class="home">
-					 <a href="" id="home" class="">
+				<li>
+					 <a href"" id="home" class="">
 						<img src="img/beeldmerk.png" class="beeldmerk in-nav">  
 					 </a>
 				</li>

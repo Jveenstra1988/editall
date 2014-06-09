@@ -30,7 +30,12 @@
             <div class="swiper-slide" id="vijf"> 
                 <!-- Any HTML content of the third slide goes here -->
             </div>
-                     
+            
+            <!--Sixt Slide-->
+            <div class="swiper-slide" id="zes"> 
+                <!-- Any HTML content of the third slide goes here -->
+            </div>
+            
           </div>
     </div>
     <img src="img/logo.png" class="logo">
