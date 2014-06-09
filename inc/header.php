@@ -22,6 +22,7 @@
 		
 		<script src="js/vendor/jquery-1.10.1.min.js"></script>
         <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+        <script src="js/vendor/preload.js"></script>
 		<script type="text/javascript" src="//use.typekit.net/led7cxt.js"></script>
 
 		<!-- Font-face -->

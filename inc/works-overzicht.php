@@ -5,10 +5,10 @@
                 <header>
                         <h1 class="txt-zwart txt-left">Projecten</h1>
                         
-                        <span class="pager">
+                        <!--<span class="pager">
                                 <a href='#' class='btn-rood active' id='page-one'>1</a>
                                 <a href='#' class='btn-rood' id='page-two'>2</a>
-                        </span>
+                        </span>-->
                 
                 </header>
                 

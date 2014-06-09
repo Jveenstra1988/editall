@@ -1,5 +1,14 @@
 $(document).ready(function(){
 	
+	if ( ($(window).width()) > 900 ) {
+		$('img, body').addClass('hires');
+		if (jQuery.browser.mobile == false) {
+			$('img').addClass('hires');
+		};
+	}else{
+		$('img, body').removeClass('hires');
+	};
+	
 	// Initiate swiper-------------------------------------------------
 	var mySwiper = $('.swiper-container').swiper({
 		//Your options here:
@@ -195,6 +204,15 @@ $(document).ready(function(){
 		}, 600);
 		return false
 	});
+	
+	//on load check for widths
+	if ( ($(window).width()) > 900 ) {
+		$('img, body').addClass('hires');
+		
+		if (jQuery.browser.mobile == false) {
+			$('img').addClass('hires');
+		};
+	};
 })
 
 //	MAPS-------------------------------------------------------
@@ -412,33 +430,30 @@ $(document).on('click','#all', function() {
 });
 
 $(document).on('click','#stores', function() {
-/* 	$('#results .clickable').fadeTo( 200 , 0.1); */
-/* 	$('#results .clickable').filter('.stores').fadeTo( 200 , 1); */
+// 	$('#results .clickable').fadeTo( 200 , 0.1);
+//	$('#results .clickable').filter('.stores').fadeTo( 200 , 1);
+	$('#results .clickable').fadeOut(0);
+	$('#results .clickable').filter('.stores').fadeIn( 500);
 
-	$('#results .clickable').hide();	
-	$('#results .clickable').filter('.stores').show();
 	$('#works-overzicht article > a').removeClass('active');
 	$(this).addClass('active');
 	return false;
 });
 
 $(document).on('click','#commercials', function() {
-/*
-	$('#results .clickable').fadeTo( 200 , 0.1);
-	$('#results .clickable').filter('.commercials').fadeTo( 200 , 1);
-*/
+	$('#results .clickable').fadeOut(0);
+	$('#results .clickable').filter('.commercials').fadeIn( 500);
 
-	$('#results .clickable').hide();	
-	$('#results .clickable').filter('.commercials').show();
-		
 	$('#works-overzicht article > a').removeClass('active');
 	$(this).addClass('active');
 	return false;
 });
 
 $(document).on('click','#interiors', function() {
-	$('#results .clickable').fadeTo( 200 , 0.1);
-	$('#results .clickable').filter('.interiors').fadeTo( 200 , 1);
+	//$('#results .clickable').fadeTo( 200 , 0.1);
+	//$('#results .clickable').filter('.interiors').fadeTo( 200 , 1);
+	$('#results .clickable').fadeOut(0);
+	$('#results .clickable').filter('.interiors').fadeIn( 500);
 	
 	$('#works-overzicht article > a').removeClass('active');
 	$(this).addClass('active');
@@ -446,8 +461,10 @@ $(document).on('click','#interiors', function() {
 });
 
 $(document).on('click','#horeca', function() {
-	$('#results .clickable').fadeTo( 200 , 0.1);
-	$('#results .clickable').filter('.horeca').fadeTo( 200 , 1);
+	//$('#results .clickable').fadeTo( 200 , 0.1);
+	//$('#results .clickable').filter('.horeca').fadeTo( 200 , 1);
+	$('#results .clickable').fadeOut(0);
+	$('#results .clickable').filter('.horeca').fadeIn( 500);
 	
 	$('#works-overzicht article > a').removeClass('active');
 	$(this).addClass('active');
@@ -455,8 +472,10 @@ $(document).on('click','#horeca', function() {
 });
 
 $(document).on('click','#stands', function() {
-	$('#results .clickable').fadeTo( 200 , 0.1);
-	$('#results .clickable').filter('.stands').fadeTo( 200 , 1);
+	//$('#results .clickable').fadeTo( 200 , 0.1);
+	//$('#results .clickable').filter('.stands').fadeTo( 200 , 1);
+	$('#results .clickable').fadeOut(0);
+	$('#results .clickable').filter('.stands').fadeIn( 500);
 	
 	$('#works-overzicht article > a').removeClass('active');
 	$(this).addClass('active');
@@ -464,15 +483,29 @@ $(document).on('click','#stands', function() {
 });
 
 $(document).on('click','#designs', function() {
-	$('#results .clickable').fadeTo( 200 , 0.1);
-	$('#results .clickable').filter('.designs').fadeTo( 200 , 1);
+	//$('#results .clickable').fadeTo( 200 , 0.1);
+	//$('#results .clickable').filter('.designs').fadeTo( 200 , 1);
+	$('#results .clickable').fadeOut(0);
+	$('#results .clickable').filter('.designs').fadeIn( 500);
 	
 	$('#works-overzicht article > a').removeClass('active');
 	$(this).addClass('active');
 	return false;
 });
 
-
+//on window resize check for widths
+$( window ).resize(function() {
+	//check width for hires img
+	if ( ($(window).width()) > 900 ) {
+		$('img, body').addClass('hires');
+		
+		if (jQuery.browser.mobile == false) {
+			$('img').addClass('hires');
+		};
+	}else{
+		$('img, body').removeClass('hires');
+	};
+});
 
 
 
