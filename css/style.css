@@ -386,13 +386,12 @@ nav ul li img {
 
 .in-nav {
 	text-align: center;
-	z-index: 999;
 	position: fixed;
-	left: 50%;
-	margin-left: -4%;
-	top: 450px;
+	z-index: 1;
 	width: 8%;
-	z-index: 9;
+
+	bottom: 28%;
+	left: 46%;
 }
 
 .logo {
@@ -1029,19 +1028,23 @@ a.video img.img-stack:before {
 	
 	/* Landing Logo */
 	.header-icon {
-		width: 12%;
-		left: 42.5%;
+		width: 7%;
+		left: 45.5%;
 	}
+
+	.header-icon:hover {
+		width: 7%;
+		left: 45.5%;
+	}	
 	
 	nav ul li img {
 		width: 40%;
 	}
 	
 	.in-nav {
-		width: 12%;
-		top: 310px !important;
-		left: 50% !important;
-		margin-left: -7% !important	;
+		width: 11%;
+		bottom: 32%;
+		left: 43.5%;
 	}
 }
 

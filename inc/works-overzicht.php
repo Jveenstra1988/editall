@@ -132,7 +132,7 @@
 
                         <div class="clickable interiors">
                                 <h3 class="overlay-txt" id="koopman">Koopman Optiek</h3>
-                                <img src="img/works/sto/koopman1.jpg" >
+                                <img src="img/works/int/koopman1.jpg" >
                                 <div class="overlay" id="koopman">
                                 </div>
                         </div>
