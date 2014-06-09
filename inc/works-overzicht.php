@@ -12,7 +12,7 @@
                 
                 </header>
                 
-                <b>Projecten</b>
+                <b>Pagina</b>
                  <a href="#" class="btn-rood active proj" 	id="all1">			1</a>
                  <a href="#" class="btn-rood proj" 			id="all2">			2</a>
                 
