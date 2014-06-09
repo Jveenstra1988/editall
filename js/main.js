@@ -573,9 +573,8 @@ $(document).on('click','#all1', function() {
 $(document).on('click','#all2', function() {
 	$('#results .clickable').fadeOut(0);
 	$('#results .clickable').filter('.all2').fadeIn( 500);
-	
-	$('#works-overzicht article > a').removeClass('active');
 	$('.all2').css({display:'inline-block'})
+	$('#works-overzicht article > a').removeClass('active');
 	$(this).addClass('active');
 	return false;
 });
