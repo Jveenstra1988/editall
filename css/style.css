@@ -1084,13 +1084,13 @@ a.video img.img-stack:before {
 
 	/* Landing Logo */
 	.header-icon {
-		width: 14%;
-		left: 42.5%;
+		width: 10%;
+		left: 44%;
 	}
 	
 	.header-icon:hover {
-		width: 15%;
-		left: 42%;
+		width: 10.5%;
+		left: 43.6%;
 	}
 	
 	.logo {
