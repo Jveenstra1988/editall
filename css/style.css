@@ -249,6 +249,7 @@ a.btn-wit.stroke	{ border: 1px solid #F6F6F6; background:none; color: #F6F6F6; b
 a.btn-turq.stroke	{ border: 1px solid #33B6B3; background:none; color: #33B6B3; border-bottom: 3px solid #165c5b;}
 a.btn-zwart.stroke	{ border: 1px solid #191B1E; background:none; color: #191B1E; border-bottom: 3px solid #191B1E;}
 a.btn-antra.stroke	{ border: 1px solid #404951; background:none; color: #404951; border-bottom: 3px solid #404951;}
+a.btn-grijs.stroke	{ border: 1px solid #8d8d8d; background:none; color: #8d8d8d; border-bottom: 3px solid #8d8d8d;}
 
 /* Hovers Stroke */
 a.btn-rood.stroke:hover, a.btn-rood.stroke.active   { border-color: #D41217;}
@@ -256,6 +257,25 @@ a.btn-wit.stroke:hover,  a.btn-wit.stroke.active    { border-color: #282b30; bac
 a.btn-turq.stroke:hover,  a.btn-turq.stroke.active	{ border-color: #33B6B3;}
 a.btn-zwart.stroke:hover, a.btn-zwart.stroke.active	{ border-color: #191B1E; background: #191B1E; color: #E1E1E1;}
 a.btn-antra.stroke:hover, a.btn-antra.stroke.active	{ border-color: #404951;}
+a.btn-grijs.stroke:hover, a.btn-grijs.stroke:active { border-color: #696969;}
+
+.projectnummers {
+	display: inline-block;
+	background: #f6f6f6;
+	border: 1px solid #f6f6f6;
+	color: #D41217;
+	padding: .2em .2em .2em .5em;
+	margin-right: .2em;
+	border-radius: .3em;
+	-webkit-border-radius: .3em;
+	-moz-border-radius: .3em;
+}
+
+.filter {
+	display: inline-block;
+	color: #f6f6f6;
+	padding: .2em .2em .2em .5em;
+}
 
 /* Borders */
 .br-turg 	{ border: 1px solid #33B6B3; }
@@ -1303,6 +1323,17 @@ aside {
 	#dynamic-container article.images a {
 		display: none;
 	}
+	
+	#dynamic-container article.images .projectnummers a {
+		display: inline-block !important;
+		display: block;
+	}
+
+	#dynamic-container article.images .filter {
+		display: none;
+	}
+ 
+	
 	#dynamic-container header a {
 		display: inline-block !important;
 	}
@@ -1312,7 +1343,7 @@ aside {
 		width: 90%;
 		display: block;
 	}
-		
+			
 	/* Navigatie */
 	nav ul li {
 		/* width: 18%; */

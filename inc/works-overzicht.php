@@ -12,15 +12,20 @@
                 
                 </header>
                 
-                <a href="#" class="btn-rood active" id="">		Projecten</a>
-                <a href="#" class="btn-rood active" id="all1">	1</a>
-                <a href="#" class="btn-rood" id="all2">			2</a>
+             <div class="projectnummers">Projecten
+                <a href="#" class="btn-zwart stroke active" 	id="all1">			1</a>
+                <a href="#" class="btn-zwart stroke" 			id="all2">			2</a>
+             </div>
+                
+                
+             <div class="filter">Categorie 
                 <a href="#" class="btn-wit stroke" id="stores">Stores</a>
                 <a href="#" class="btn-wit stroke" id="commercials">Commercials</a>
                 <a href="#" class="btn-wit stroke" id="interiors">Interieurs</a>
                 <a href="#" class="btn-wit stroke" id="horeca">Horeca</a>
                 <a href="#" class="btn-wit stroke" id="stands">Stands</a>
                 <a href="#" class="btn-wit stroke" id="designs">Designs</a>
+             </div>
                                 
                 <div id="results" class="imageholder">
 
