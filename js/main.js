@@ -568,8 +568,18 @@ $(document).on('click','.back-to-profile', function(){
 
 //Filter functie-------------------------------------------
 // Filter different projects
-$(document).on('click','#all', function() {
-	$('#results .clickable').fadeTo( "slow" , 1);
+$(document).on('click','#all1', function() {
+	$('#results .clickable').fadeOut(0);
+	$('#results .clickable').filter('.all1').fadeIn( 500);
+	
+	$('#works-overzicht article > a').removeClass('active');
+	$(this).addClass('active');
+	return false;
+});
+
+$(document).on('click','#all2', function() {
+	$('#results .clickable').fadeOut(0);
+	$('#results .clickable').filter('.all2').fadeIn( 500);
 	
 	$('#works-overzicht article > a').removeClass('active');
 	$(this).addClass('active');
