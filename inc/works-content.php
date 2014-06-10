@@ -3,14 +3,6 @@ STORES - STORES - STORES - STORES -
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 <!-- JUST BRANDS STORES -->
 <section class="bg-grijs2" id="jb-stores">
-
-
-<!-- Deze staat even in de koelkast
-<aside>
-<div class="sidenav"></div>
-</aside>
--->
-
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
 
     <div class="absolute-vorige">
@@ -322,13 +314,13 @@ STORES - STORES - STORES - STORES -
                                 slaapkamer van Giovanni van Bronckhorst.
                             </p>
 
-                            <a href="img/works/com/olli9-hires.jpg" data-lightbox="olli"><img src="img/works/com/olli9.jpg" class="attribute"></a>
+                            <a href="img/works/com/olli15-hires.jpg" data-lightbox="olli"><img src="img/works/com/olli15.jpg" class="attribute"></a>
 
                             <a class="various fancybox.iframe video" href="//www.youtube.com/embed/eL78DQrwprM?autoplay=1">
                                 <img src="img/works/video/olli-video1.jpg" class="img-stack">
                                 <span><img src="img/play.png"></span>
                             </a>
-                            <a href="img/works/com/olli15-hires.jpg" data-lightbox="olli"><img src="img/works/com/olli15.jpg" class="img-stack"></a>
+                            <a href="img/works/com/olli9-hires.jpg" data-lightbox="olli"><img src="img/works/com/olli9.jpg" class="img-stack"></a>
                             <a href="img/works/com/olli10-hires.jpg" data-lightbox="olli"><img src="img/works/com/olli10.jpg" class="img-stack"></a>
                             <a href="img/works/com/olli11-hires.jpg" data-lightbox="olli"><img src="img/works/com/olli11.jpg" class="img-stack"></a>
                             <a href="img/works/com/olli12-hires.jpg" data-lightbox="olli"><img src="img/works/com/olli12.jpg" class="img-stack"></a>
@@ -885,15 +877,14 @@ STORES - STORES - STORES - STORES -
 <!-- JB Design -->
 <section class="bg-grijs2" id="jb-design">
 
-
-        <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
+            <a href="#" class="btn-grijs back-to-overzicht last-but-not-least">&#8592; Projecten</a>
                         <div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="bbb">&#8592; Vorige</a>
 		    	</div> 
         <div class="absolute">
             <a title="volgende" class="tooltip btn-rood next-project" id="jb-stores">
                 <span>
-                    <img src="img/works/std/jb-store-zw.jpg">
+                    <img src="img/works/sto/jb-store-zw.jpg">
                     <p>Just Brands Stores</p>
                 </span>Volgende &#8594;</a>
 
@@ -914,7 +905,9 @@ STORES - STORES - STORES - STORES -
             <a href="img/works/des/jb-design4-hires.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design4.jpg" class="img-stack"></a>
             <a href="img/works/des/jb-design5-hires.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design5.jpg" class="img-stack"></a>
             <a href="img/works/des/jb-design6-hires.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design6.jpg" class="img-stack"></a>
-            <a href="img/works/des/jb-design7-hires.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design7.jpg" class="img-stack"></a>        
+            <a href="img/works/des/jb-design7-hires.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design7.jpg" class="img-stack"></a>
+            <a href="img/works/des/jb-design8-hires.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design8.jpg" class="img-stack"></a> 
+            <a href="img/works/des/jb-design9-hires.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design9.jpg" class="img-stack"></a>       
         </article>
     </section>
 

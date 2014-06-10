@@ -324,6 +324,10 @@ img.big {
 	position: absolute;
 }
 
+.last-but-not-least {
+	margin-left: -129px !important;
+}
+
 .absolute {
 	position: absolute;
 	top: 0;
@@ -1442,6 +1446,10 @@ aside {
 	
 	.back-to-overzicht {
 		margin-left: 7px;
+	}
+	
+	.last-but-not-least {
+		margin-left: -129px;
 	}
 	
 	.a-btn-text {
