@@ -18,6 +18,14 @@ $(document).ready(function(){
 		$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').removeClass('hires');
 	};
 	
+	if ( ($(window).width()) < 550 ) {
+		$('a.next-project').html('&#8594');
+		$('a.prev-project').html('&#8592'); 
+	}else{
+		$('a.next-project').html('volgende &#8594');
+		$('a.prev-project').html('&#8592 vorige');
+	}
+	
 	// Initiate swiper-------------------------------------------------
 	var mySwiper = $('.swiper-container').swiper({
 		//Your options here:
@@ -663,11 +671,14 @@ $( window ).resize(function() {
 	}else{
 		$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').removeClass('hires');
 	};
+	if ( ($(window).width()) < 550 ) {
+		$('a.next-project').html('&#8594');
+		$('a.prev-project').html('&#8592'); 
+	}else{
+		$('a.next-project').html('volgende &#8594');
+		$('a.prev-project').html('&#8592 vorige');
+	}
 });
-
-
-
-
 
 
 
