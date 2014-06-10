@@ -912,6 +912,16 @@ article.how-we-work {
 	z-index: 99;
 }
 
+#dynamic-container article.content h1 {
+/* 	display: inline-block; */
+}
+
+#dynamic-container article.content h5 {
+	background: #B5B5B5;
+	padding: .3em .4em;
+	width: 92%;
+}
+
 #dynamic-container article.content p {
 	display: inline-block;
 	width: 46%;
@@ -952,7 +962,7 @@ article.how-we-work {
 	width: 23%;
 	display: inline-block;
 	vertical-align: top;
-	margin: .7em 0 0 0;
+/* 	margin: .7em 0 0 0; */
 	line-height: 1 !important;
 	letter-spacing: 1 !important;
 	border-bottom: 3px solid #b5b5b5;
@@ -967,12 +977,9 @@ a.video {
 	width: 23%;
 	display: inline-block;
 	vertical-align: top;
-	margin: .4em 0 0 0;
-
+	
 	line-height: 1 !important;
 	letter-spacing: 1 !important;
-	/*background: url(../img/play.png) 50% center no-repeat;*/
-	/*background-size: 70px;*/
 
 	-webkit-transition: background 200ms ease-out;
 	-moz-transition: background 200ms ease-out;
@@ -1005,7 +1012,7 @@ a.video img:hover {
 a.video img.img-stack {
 	width: 100% !important;
 	margin-top: 0 !important;
-	border-radius: 120% / 80%;
+/* 	border-radius: 120% / 80%; */
 }
 
 a.video img.img-stack:before {
@@ -1227,7 +1234,7 @@ aside {
 		float: none;
 	}
 	
-	#dynamic-container h1 {
+	#dynamic-container h5 {
 		margin-top: 1.2em;
 	}
 	
@@ -1418,6 +1425,17 @@ aside {
 		font-size: 78%;
 	}
 	
+	.absolute a.btn-rood,
+	.absolute-vorige a.btn-rood {
+		font-size: 0;
+		height: 26px;
+		width: 40px !important;
+	}
+	
+	.absolute a.btn-rood::after {
+		content: '&#8594';
+	}
+	
 	a.tooltip span {
 		display: none !important;
 	}
@@ -1516,7 +1534,7 @@ aside {
 		height: 100%;
 	}
 	
-	#dynamic-container h1 {
+	#dynamic-container h5 {
 		margin-top: 0em;
 	}
 	

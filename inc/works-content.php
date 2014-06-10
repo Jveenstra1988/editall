@@ -26,7 +26,8 @@ STORES - STORES - STORES - STORES -
         </div>
 
         <article class="bg-grijs3 content">
-            <h1 class="txt-zwart txt-left">Just Brands Stores</h1>
+        <h5>Stores</h5>
+            <h1 class="txt-zwart txt-left">Just Brands Stores</h1> 
             <p class="txt-zwart">
                 In samenwerking met Just Brands ontwerpt en ontwikkelt Edit-all de gehele huisstijl. 
                 Van winkels, showrooms en stands, tot shop-in-shop systemen voor retailers. 
@@ -72,6 +73,7 @@ STORES - STORES - STORES - STORES -
             </div>
             
             <article class="bg-grijs3 content">
+                <h5>Stores</h5>
                 <h1 class="txt-zwart txt-left">PME legend Shop-in-Shop</h1>
                 <p class="txt-zwart">
                     Wij zijn de bedenkers van een uniek shop in shop systeem voor 
@@ -106,6 +108,7 @@ STORES - STORES - STORES - STORES -
             </div>
 
             <article class="bg-grijs3 content">
+            	<h5>Stores</h5>
                 <h1 class="txt-zwart txt-left">JUST BRANDS SHOWROOMS</h1>
                 <p class="txt-zwart">
                     In opdracht van Just Brands hebben wij in het buitenland diverse 
@@ -150,6 +153,7 @@ STORES - STORES - STORES - STORES -
                 </div>
 
                 <article class="bg-grijs3 content">
+                    <h5>Stores</h5>
                     <h1 class="txt-zwart txt-left">Friends Emmen</h1>
                     <p class="txt-zwart">
                         Edit-All heeft de nieuwe winkel van Friends ontworpen en gebouwd.
@@ -187,6 +191,7 @@ STORES - STORES - STORES - STORES -
         </div>
 
         <article class="bg-grijs3 content">
+        	<h5>Commercials</h5>
             <h1 class="txt-zwart txt-left">Albert Heijn Pasen met Jamie Oliver</h1>
             <p class="txt-zwart">
                 Kookeiland en de achterwand van de keuken waar Jamie 
@@ -224,6 +229,7 @@ STORES - STORES - STORES - STORES -
             </div>
 
             <article class="bg-grijs3 content">
+                <h5>Commercials</h5>
                 <h1 class="txt-zwart txt-left">Albert Heijn Route 99</h1>
                 <p class="txt-zwart">
                     Voor de nieuwe route 99 commercial van Albert Heijn
@@ -263,6 +269,7 @@ STORES - STORES - STORES - STORES -
                 </div>
 
                 <article class="bg-grijs3 content">
+                    <h5>Commercials</h5>
                     <h1 class="txt-zwart txt-left">Rabobank Slooppand</h1>
                     <p class="txt-zwart">
                         Voor een Rabobank commercial produceerde Edit-All deze grote set. 
@@ -302,6 +309,7 @@ STORES - STORES - STORES - STORES -
 
 
                         <article class="bg-grijs3 content">
+                            <h5>Commercials</h5>
                             <h1 class="txt-zwart txt-left">Olli</h1>
 
                             <p class="txt-zwart">
@@ -347,6 +355,7 @@ STORES - STORES - STORES - STORES -
                             </div>
 
                             <article class="bg-grijs3 content">
+                                <h5>Commercials</h5>
                                 <h1 class="txt-zwart txt-left">UPC commercials</h1>
 
                                 <p class="txt-zwart">
@@ -398,6 +407,7 @@ STORES - STORES - STORES - STORES -
                                 </div>
 
                                 <article class="bg-grijs3 content">
+                                    <h5>Commercials</h5>
                                     <h1 class="txt-zwart txt-left">Ali-B zonder Ansjovis | T-Mobile</h1>
 
                                     <p class="txt-zwart">
@@ -437,6 +447,7 @@ STORES - STORES - STORES - STORES -
                                     </div>
 
                                     <article class="bg-grijs3 content">
+                                        <h5>Commercials</h5>
                                         <h1 class="txt-zwart txt-left">PLEH?! | Interpolis</h1>
 
                                         <p class="txt-zwart">
@@ -474,6 +485,7 @@ STORES - STORES - STORES - STORES -
                                         </div>
 
                                         <article class="bg-grijs3 content">
+                                            <h5>Commercials</h5>
                                             <h1 class="txt-zwart txt-left">All You Can Eat | Hi</h1>
 
                                             <p class="txt-zwart">
@@ -510,6 +522,7 @@ STORES - STORES - STORES - STORES -
                                             </div>
 
                                             <article class="bg-grijs3 content">
+                                                <h5>Commercials</h5>
                                                 <h1 class="txt-zwart txt-left">Ziggo</h1>
                                                 <p class="txt-zwart">
                                                     Voor Ziggo maakte Edit-all onder andere het decor van de woonkamer van de vriendengroep
@@ -557,6 +570,7 @@ STORES - STORES - STORES - STORES -
                                                 </div>
 
                                                 <article class="bg-grijs3 content">
+                                                    <h5>Commercials</h5>
                                                     <h1 class="txt-zwart txt-left">Bewuzt</h1>
                                                     <p class="txt-zwart">
                                                         3 decors gebouwd en totaal gespoten in verschillende kleuren.
@@ -594,6 +608,7 @@ STORES - STORES - STORES - STORES -
         </div>
 
         <article class="bg-grijs3 content">
+            <h5>Interieurs</h5>
             <h1 class="txt-zwart txt-left">Strandbrasserie de Jutter</h1>
             <p class="txt-zwart">
                 Oude blokhut omgebouwd tot een karakteristieke strandbrasserie. 
@@ -629,6 +644,7 @@ STORES - STORES - STORES - STORES -
             </div>
 
             <article class="bg-grijs3 content">
+                <h5>Interieurs</h5>
                 <h1 class="txt-zwart txt-left">Wildschut</h1>
                 <p class="txt-zwart">
                     Good Food Group heeft diverse cafés/restaurants in het centrum van Amsterdam. 
@@ -699,6 +715,7 @@ STORES - STORES - STORES - STORES -
         </div>
 
         <article class="bg-grijs3 content">
+            <h5>Horeca</h5>
             <h1 class="txt-zwart txt-left">Peter's Irish Pub Maastricht</h1>
             <p class="txt-zwart">
                 In een historisch pand in het centrum van Maastricht hebben wij Peter’s Irish Pub gebouwd. 
@@ -736,6 +753,7 @@ STORES - STORES - STORES - STORES -
             </div>
 
             <article class="bg-grijs3 content">
+                <h5>Horeca</h5>
                 <h1 class="txt-zwart txt-left">Caf&eacute; de Koning Alkmaar</h1>
                 <p class="txt-zwart">
                     In hartje Alkmaar, op de Platte Stenenbrug heeft Edit-all het ontwerp en de productie
@@ -772,6 +790,7 @@ STORES - STORES - STORES - STORES -
         </div>
 
         <article class="bg-grijs3 content">
+            <h5>Stands</h5>
             <h1 class="txt-zwart txt-left">Heineken</h1>
             <p class="txt-zwart">
                 Beurs van Berlage Amsterdam, internationale productpresentatie van Heineken
@@ -805,6 +824,7 @@ STORES - STORES - STORES - STORES -
             </div>
 
             <article class="bg-grijs3 content">
+                <h5>Stands</h5>
                 <h1 class="txt-zwart txt-left">Modefabriek Amsterdam</h1>
                 <p class="txt-zwart">
                     De jaarlijkse modebeurs in Amsterdam, standbouw voor Vanguard en Cast Iron
@@ -836,6 +856,7 @@ STORES - STORES - STORES - STORES -
                 </div>
 
                 <article class="bg-grijs3 content">
+                    <h5>Stands</h5>
                     <h1 class="txt-zwart txt-left">Bread &amp; Butter Berlin</h1>
                     <p class="txt-zwart">
                         Voor Just Brands (producent van PME Legend, Cast Iron, Vanguard en Tripper Jeans) 
@@ -879,6 +900,7 @@ STORES - STORES - STORES - STORES -
             </div>
 
         <article class="bg-grijs3 content">
+            <h5>Designs</h5>
             <h1 class="txt-zwart txt-left">Designs</h1>
             <p class="txt-zwart">
                 Wij ontwerpen, ontwikkelen en produceren winkeldisplays, 
