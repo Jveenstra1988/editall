@@ -78,6 +78,7 @@ $(document).ready(function(){
 		if ( $window.scrollTop() >= distance - 500 ) {
 			// Your div has reached  top 130px
 			$(".beeldmerk").removeClass("in-nav");
+			$('img.logo').css({display: 'block'});
 		} else {
 			$(".beeldmerk").addClass("in-nav");
 		}
@@ -468,11 +469,24 @@ $(document).on('click','#results div, .overlay-txt, .next-project', function() {
 			}else{
 				$('img, body').removeClass('hires');
 			};
+			//	Change content of next & prev projectbuttons
+		if ( ($(window).width()) < 550 ) {
+			$('a.next-project').html('&#8594');
+			$('a.prev-project').html('&#8592'); 
+		}else{
+			$('a.next-project').html('volgende &#8594');
+			$('a.prev-project').html('&#8592 vorige');
+		}
 			$('.sidenav').load('inc/works-overzicht.php .clickable');
 		});
+		
 		nxt();
+
+		
+
 		$('#dynamic-container').animate({ left : '0' }, 300);
 	});
+
 	$('#works-container').css({ background: '#c7c7c7'});
 	return false;
 });
@@ -491,6 +505,14 @@ $(document).on('click', '.prev-project', function() {
 			}else{
 				$('img, body').removeClass('hires');
 			};
+				//	Change content of next & prev projectbuttons
+		if ( ($(window).width()) < 550 ) {
+			$('a.next-project').html('&#8594');
+			$('a.prev-project').html('&#8592'); 
+		}else{
+			$('a.next-project').html('volgende &#8594');
+			$('a.prev-project').html('&#8592 vorige');
+		}
 			// Dit staat in de koelkast
 			$('.sidenav').load('inc/works-overzicht.php .clickable');
 			preload();
@@ -499,6 +521,7 @@ $(document).on('click', '.prev-project', function() {
 		preload();
 		$('#dynamic-container').animate({ left : '0' }, 300);
 	});
+	
 	$('#works-container').css({ background: '#c7c7c7'});
 	preload();
 	return false;

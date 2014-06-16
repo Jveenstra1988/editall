@@ -262,7 +262,6 @@ a.btn-grijs.stroke:hover, a.btn-grijs.stroke:active { border-color: #696969;}
 
 #dynamic-container article.images b {
 	color: #D41217;
-/* 	background: #F6F6F6; */
 	padding: .4em .3em;
 	border-radius: .2em;
 	-webkit-border-radius: .2em;
@@ -1313,16 +1312,22 @@ aside {
 	section.clear article .drie {
 		width: 94%;
 		display: block;
+		min-height: 2em;
 	}
 	
 	section.clear article .drie h4 {
 		min-height: 3em;
+		font-size: .8em;
 	}
 	
 	article.content h1, article.images h1 {
 		display: block;
 		margin-top: 1.5em;
 		line-height: 1;
+	}
+	
+	img.spr {
+		max-width: 15%;
 	}
 
 	article {
@@ -1331,6 +1336,10 @@ aside {
 	
 	article header {
 		margin-bottom: 0;
+	}
+
+	article .drie header {
+		margin-top: .25em;
 	}
 	
 	article p {
@@ -1379,7 +1388,13 @@ aside {
 	#dynamic-container article.images .proj {
 		display: inline-block !important;
 		display: block;
+		padding: .25em 2em;
 	}
+	
+	#dynamic-container article.images b {
+		display: none !important;
+	}
+			
 
 	#dynamic-container article.images em,
 	#dynamic-container article.images .cat {
@@ -1396,7 +1411,8 @@ aside {
 		width: 90%;
 		display: block;
 	}
-			
+
+	
 	/* Navigatie */
 	nav ul li {
 		/* width: 18%; */
@@ -1425,8 +1441,8 @@ aside {
 		float: none;
 		margin: 2em 0em;
 	}
+	
 	section.clear article div p {
-/* 		padding-left: 2em; */
 		float: none;
 	}
 	
@@ -1579,6 +1595,11 @@ aside {
 		display: none;
 	}
 
+	#dynamic-container article.content h5 {
+		width: 102%;
+		margin: 2.8em -1em;
+	}
+
 	a.btn-rood, 
 	a.btn-wit, 
 	a.btn-grijs, 
@@ -1586,6 +1607,11 @@ aside {
 	a.btn-zwart, 
 	a.btn-antra {
 		padding: .6em .975em .6em .975em;
+	}
+
+	.absolute a.btn-rood, 
+	.absolute-vorige a.btn-rood {
+		width: 14px !important;
 	}
 	
 	.back {
@@ -1595,7 +1621,7 @@ aside {
 		position: relative;
 		font-size: 14px;
 	}
-	
+		
 	.pager {
 		width: 33%;
 	}
