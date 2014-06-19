@@ -13,7 +13,7 @@ STORES - STORES - STORES - STORES -
         <a title="volgende" class="tooltip btn-rood next-project" id="jb-sis">
             <span>
                 <img src="img/works/sto/jb-sis-zw.jpg">
-                <p>Just Brands Shop in Shop</p>
+                <p>Just Brands Shop-in-Shop</p>
             </span>Volgende &#8594;</a>
         </div>
 
@@ -21,7 +21,7 @@ STORES - STORES - STORES - STORES -
         <h5>Stores</h5>
             <h1 class="txt-zwart txt-left">Just Brands Stores</h1> 
             <p class="txt-zwart">
-                In samenwerking met Just Brands ontwerpt en ontwikkelt Edit-all de gehele huisstijl. 
+                In samenwerking met Just Brands ontwerpt en ontwikkelt Edit-All de gehele huisstijl. 
                 Van winkels, showrooms en stands, tot shop-in-shop systemen voor retailers. 
                 Elk merk heeft een unieke uitstraling die doorgezet wordt in de meubels.
                 <br />
@@ -68,7 +68,7 @@ STORES - STORES - STORES - STORES -
                 <h5>Stores</h5>
                 <h1 class="txt-zwart txt-left">PME legend Shop-in-Shop</h1>
                 <p class="txt-zwart">
-                    Wij zijn de bedenkers van een uniek shop in shop systeem voor 
+                    Wij zijn de bedenkers van een uniek shop-in-shop systeem voor 
                     PME-LEGEND, Cast Iron en Vanguard. Dat zorgt letterlijk voor 
                     een directe herkenning op de vierkante meter.
                 </p>
@@ -109,9 +109,9 @@ STORES - STORES - STORES - STORES -
                     Showrooms zijn te vinden in:
                     <b>Antwerpen, 
                         Berlijn, 
-                        Dusseldorf, 
+                        D&uuml;sseldorf, 
                         Hamburg, 
-                        Munchen, 
+                        M&uuml;nchen, 
                         Sindelfinger,  
                         Salzburg</b> 
 
@@ -307,7 +307,7 @@ STORES - STORES - STORES - STORES -
                             <p class="txt-zwart">
                                 <strong>Blijdorp</strong>
                                 De olifant Olli heeft zijn eigen verblijf in Diergaarde Blijdorp gekregen.
-                                Edit-ALl maakte de enorme verkoopkast met daarin Olli-knuffels.
+                                Edit-All maakte de enorme verkoopkast met daarin Olli-knuffels.
                                 <br /><br />
                                 <strong>Commercial</strong>
                                 Voor de commercial maakte Edit-All het café en de 
@@ -352,7 +352,7 @@ STORES - STORES - STORES - STORES -
 
                                 <p class="txt-zwart">
                                     UPC lanceert zijn nieuwe commercials waarin Jonny de Mol de hoofdrol speelt.
-                                    Voor de opdrachtgever Jelier&amp;Schaaf produceren wij onder andere de mega popcornbak
+                                    Voor opdrachtgever Jelier&amp;Schaaf produceren wij onder andere de mega popcornbak
                                     en een gigantische knop: the switch.
                                 </p>
 
@@ -403,7 +403,7 @@ STORES - STORES - STORES - STORES -
                                     <h1 class="txt-zwart txt-left">Ali-B zonder Ansjovis | T-Mobile</h1>
 
                                     <p class="txt-zwart">
-                                        Voor de T-mobile commercials met Ali B cre&euml;erden wij 
+                                        Voor de T-Mobile commercials met Ali B cre&euml;erden wij 
                                         de directie/vergaderruimte in de filmstudio.
                                     </p>
 
@@ -443,7 +443,7 @@ STORES - STORES - STORES - STORES -
                                         <h1 class="txt-zwart txt-left">PLEH?! | Interpolis</h1>
 
                                         <p class="txt-zwart">
-                                            Voor een recente Interpolis commercial produceerde wij het kantoor van de dokter
+                                            Voor een recente Interpolis commercial produceerden wij het kantoor van de dokter
                                             in de studio.
                                         </p>
 
@@ -481,7 +481,7 @@ STORES - STORES - STORES - STORES -
                                             <h1 class="txt-zwart txt-left">All You Can Eat | Hi</h1>
 
                                             <p class="txt-zwart">
-                                                Edit-All was verantwoordelijk voor decorbouw van het sushi restaurant.
+                                                Edit-All was verantwoordelijk voor de decorbouw van het sushi restaurant.
                                             </p>
 
                                             <a href="img/works/com/hi1-hires.jpg" data-lightbox="hi"><img src="img/works/com/hi1.jpg" class="attribute"></a>
@@ -517,7 +517,8 @@ STORES - STORES - STORES - STORES -
                                                 <h5>Commercials</h5>
                                                 <h1 class="txt-zwart txt-left">Ziggo</h1>
                                                 <p class="txt-zwart">
-                                                    Voor Ziggo maakte Edit-all onder andere het decor van de woonkamer van de vriendengroep
+                                                    Voor Ziggo maakte Edit-All onder andere 
+                                                    het decor van de woonkamer van de vriendengroep
                                                     en de Chineese kamer van de vriend ver weg.
                                                 </p>
 
@@ -669,7 +670,7 @@ STORES - STORES - STORES - STORES -
                 </div>
 
                 <article class="bg-grijs3 content">
-                    <h1 class="txt-zwart txt-left">Koopman Optiek</h1>
+                    <h1 class="txt-zwart txt-left">Koopman Optiek Hoorn</h1>
                     <p class="txt-zwart">
                         Nieuw winkelinterieur bedacht en gecreëerd.
                     </p>
@@ -748,8 +749,9 @@ STORES - STORES - STORES - STORES -
                 <h5>Horeca</h5>
                 <h1 class="txt-zwart txt-left">Caf&eacute; de Koning Alkmaar</h1>
                 <p class="txt-zwart">
-                    In hartje Alkmaar, op de Platte Stenenbrug heeft Edit-all het ontwerp en de productie
-                    van het interieur voor caf&eacute; de Koning gemaakt. Een turn-key project met als thema een jazz café.
+                    In hartje Alkmaar, op de Platte Stenenbrug, heeft Edit-All 
+                    het interieur voor caf&eacute; De Koning ontworpen en gebouwd. 
+                    Een turn-key projet met als thema een jazz caf&eacute;.     
                 </p>
 
                 <a href="img/works/hor/koning6-hires.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning6.jpg" class="attribute"></a>
@@ -785,8 +787,8 @@ STORES - STORES - STORES - STORES -
             <h5>Stands</h5>
             <h1 class="txt-zwart txt-left">Heineken</h1>
             <p class="txt-zwart">
-                Beurs van Berlage Amsterdam, internationale productpresentatie van Heineken
-                - Sol - Fresh Beer - AB Free
+                Internationale productpresenstatie van Heineken - Sol - Fresh Beer - 
+                AB Free, in de Beurs van Berlage in Amsterdam.
             </p>
 
             <a href="img/works/std/heineken1-hires.jpg" data-lightbox="sol"><img src="img/works/std/heineken3.jpg" class="attribute"></a>
@@ -849,12 +851,11 @@ STORES - STORES - STORES - STORES -
 
                 <article class="bg-grijs3 content">
                     <h5>Stands</h5>
-                    <h1 class="txt-zwart txt-left">Bread &amp; Butter Berlin</h1>
+                    <h1 class="txt-zwart txt-left">Bread &amp; Butter Berlijn</h1>
                     <p class="txt-zwart">
                         Voor Just Brands (producent van PME Legend, Cast Iron, Vanguard en Tripper Jeans) 
-                        heeft Edit-all een stand ontworpen en gebouwd Modevakbeurs Bread &amp; Butter in Berlijn. 
-                        De PME-stand was alleen al door de afmeting (14 x 20 meter, 6 meter hoog) en de imposante 
-                        vliegtuigpropeller een enorme eyecatcher.
+                        heeft Edit-All een stand ontworpen en gebouwd op de Modevakbeurs Bread &amp; Butter 
+                        in Berlijn.
 
                     </p>
 

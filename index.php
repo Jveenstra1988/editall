@@ -131,7 +131,7 @@
             <span class="bg-rood"></span>
             <p>
                 Wij cree&euml;ren winkels, interieurs, decors voor films en commercials. 
-                Ons passie ligt in de vorm, uitstraling en het effect op de gebruiker. 
+                Onze passie ligt in de vorm, uitstraling en het effect op de gebruiker. 
                 Edit-All huisvest een groep zeer vakbekwame mensen die hart en ziel in hun werk leggen.
             </p>
 
