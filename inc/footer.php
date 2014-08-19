@@ -36,37 +36,18 @@
 								<a href="mailto:elsemieke@edit-all.nl">elsemieke@edit-all.nl</a>
 							</p>
 						</div>
-						
-						<!--<div>
-							<img src="img/pic-ruben.png" class="icon">
-							<p>
-								<strong>Ruben Rosen</strong><br />
-								<a href="mailto:ruben@edit-all.nl">ruben@edit-all.nl</a> <br />
-								<a href="tel:+316-51525382">+31(0)6-515 253 82</a><br />           
+						<div class="blok">
+						    <img src="img/icon-bas.png">
+							<p>	
+								<strong>Bas van Ginkel</strong>
+								<a href="tel:+316-13603793">06 - 13 603 793</a>
+								<a href="mailto:bas@edit-all.nl">bas@edit-all.nl</a>
 							</p>
 						</div>
-						<div>
-							<img src="img/pic-rob.png" class="icon">
-							<p>
-								<strong>Rob Valent</strong><br />
-								<a href="mailto:rob@edit-all.nl">rob@edit-all.nl</a><br />
-								<a href="tel:+316-50602207">+31(0)6-506 022 07</a><br />           
-							</p>
-						</div>-->
 					</article>
 				</section>
 		</footer>
 
-				<!--Content - DIVIDER-->
-				<!--<section id="container3" class="bg-zwart clear">
-				    <article class="txt-rood">
-				        <header>
-					        <img src="img/soweeditall-wit.png" class="">
-				        </header>
-				    </article>
-				</section>-->
-
-		
 		<!--<script src="js/vendor/jquery-1.10.1.min.js"></script>-->
 		<script async src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
         <!--<script>window.jQuery || document.write("<script src="js/vendor/jquery-1.10.1.min.js"><\/script>")</script>-->
@@ -94,11 +75,14 @@
 		});
 		</script>
 
-        <script>
-            var _gaq=[["_setAccount","UA-XXXXX-X"],["_trackPageview"]];
-            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-            g.src="//www.google-analytics.com/ga.js";
-            s.parentNode.insertBefore(g,s)}(document,"script"));
-        </script>
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		  ga('create', 'UA-51968587-1', 'auto');
+		  ga('send', 'pageview');
+		</script>
     </body>
 </html>

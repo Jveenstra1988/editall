@@ -135,10 +135,10 @@ STORES - STORES - STORES - STORES -
 		    	</div> 
 
                 <div class="absolute">
-                    <a title="volgende" class="tooltip btn-rood next-project" id="ah-jamie">
+                    <a title="volgende" class="tooltip btn-rood next-project" id="beats-by-dre">
                         <span>
-                            <img src="img/works/com/ah-zw.jpg">
-                            <p>AH Jamie Oliver</p>
+                            <img src="img/works/com/beats-by-dre1.jpg">
+                            <p>Beats by Dre</p>
                         </span>
                         Volgende &#8594;
                     </a>
@@ -165,12 +165,49 @@ STORES - STORES - STORES - STORES -
 +++_______ COMMERCIALS _______+++
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
+<!-- Beats by Dre -->
+<section class="bg-grijs2" id="beats-by-dre">
+    <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
+
+				<div class="absolute-vorige">
+		    		<a title="vorige" class="btn-rood prev-project" id="friends-emmen">&#8592; Vorige</a>
+		    	</div> 
+
+    <div class="absolute">
+        <a title="volgende" class="tooltip btn-rood next-project" id="ah-jamie">
+            <span>
+                <img src="img/works/video/ah-video2.jpg">
+                <p>Albert Heijn Jamie Oliver</p>
+            </span>
+            Volgende &#8594;</a>
+        </div>
+
+        <article class="bg-grijs3 content">
+        	<h5>Commercials</h5>
+            <h1 class="txt-zwart txt-left">Beats by Dre</h1>
+            <p class="txt-zwart">
+                De WK commercial voor Beats by Dre (The Game before The Game). 
+                Hiervoor realiseerde Edit-All de kleedkamer van de spelers.
+            </p>
+
+            <a href="img/works/com/dre3-hires.jpg" data-lightbox="jamie"><img src="img/works/com/dre3.jpg" class="attribute"></a>
+
+            <a class="various fancybox.iframe video" href="//www.youtube.com/embed/v_i3Lcjli84?autoplay=1" frameborder="0" allowfullscreen>
+                <img src="img/works/video/dre-video1.jpg" class="img-stack">
+                <span><img src="img/play.png"></span>
+            </a>
+
+            <a href="img/works/com/dre2-hires.jpg" data-lightbox="dre"><img src="img/works/com/dre2.jpg" class="img-stack"></a>
+            <a href="img/works/com/dre1-hires.jpg" data-lightbox="dre"><img src="img/works/com/dre1.jpg" class="img-stack"></a>
+        </article>
+    </section>
+
 <!-- Albert Heijn Jamie Oliver -->
 <section class="bg-grijs2" id="ah-jamie">
     <a href="#" class="btn-grijs back-to-overzicht">&#8592; Projecten</a>
 
 				<div class="absolute-vorige">
-		    		<a title="vorige" class="btn-rood prev-project" id="friends-emmen">&#8592; Vorige</a>
+		    		<a title="vorige" class="btn-rood prev-project" id="beats-by-dre">&#8592; Vorige</a>
 		    	</div> 
 
     <div class="absolute">

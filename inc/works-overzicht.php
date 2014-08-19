@@ -57,6 +57,13 @@
 <!-- COMMERCIALS -->
 
                         <div class="clickable commercials all1">
+                                <h3 class="overlay-txt" id="beats-by-dre">Beats by Dre</h3>
+                                <img src="img/works/com/dre3.jpg" >
+                                <div class="overlay" id="beats-by-dre">
+                                </div>
+                        </div>
+
+                        <div class="clickable commercials all1">
                                 <h3 class="overlay-txt" id="ah-jamie">Albert Heijn Jamie Oliver</h3>
                                 <img src="img/works/com/ah4.jpg" >
                                 <div class="overlay" id="ah-jamie">
@@ -83,7 +90,7 @@
                                 <div class="overlay" id="olli-blijdorp"></div>
                         </div>  
 
-                        <div class="clickable commercials all1">
+                        <div class="clickable commercials all2">
                                 <h3 class="overlay-txt" id="upc">UPC</h3>
                                 <img src="img/works/com/popcorn2.jpg" >
                                 <div class="overlay" id="upc"></div>
