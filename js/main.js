@@ -289,7 +289,7 @@ function initialize() {
   
 	// Create a map object, and include the MapTypeId to add
 	// to the map type control.
-	var myLatLng = new google.maps.LatLng(52.3340203,4.9650486);
+	var myLatLng = new google.maps.LatLng(52.511171,4.784778);
 	var mapOptions = {
 		zoom: 15,
 		scrollwheel: false,
@@ -326,9 +326,9 @@ function initialize() {
       '</div>'+
       '<div>'+
       '<p>'+
-      '<a>Venserweg 7<br> 1112 AR Diemen <br> Nederland</a> '+
+      '<a>Samsonweg<br> 134 1521 RM Wormerveer <br> Nederland</a> '+
       '</p>'+
-	  '<a href="https://www.google.nl/maps/dir//Venserweg+7,+1112+AR+Diemen/@52.3340203,4.9650486,17z/data=!4m13!1m4!3m3!1s0x47c60bf8f0b87e2d:0xe8daae88b74de79f!2sVenserweg+7!3b1!4m7!1m0!1m5!1m1!1s0x47c60bf8f0b87e2d:0xe8daae88b74de79f!2m2!1d4.9650552!2d52.3340164" target=_blank" class="btn-rood">Route</a>'+
+	  '<a href="https://www.google.nl/maps/dir//Samsonweg+134,+1521+RM+Wormerveer/@52.5111776,4.7801536,16z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x47c5fbf83ecd8a3d:0x48f43493c70f13d1!2m2!1d4.7847777!2d52.5111712" target=_blank" class="btn-rood">Route</a>'+
       '</div>'+
       '</div>';
 	
