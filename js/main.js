@@ -129,19 +129,19 @@ $(document).ready(function(){
 	
 	$(document).on('click','#how-we-work', function() {
 		$('html, body').animate({
-		    scrollTop: $("#profile-container").offset().top
+		    scrollTop: $("#profile-container").offset().top -58
 		}, 600);
 	    return false
 	});
 	
-	//	Zorg dat de ruimte van de menu balk niet wordt meegenomen
+//	//	Zorg dat de ruimte van de menu balk niet wordt meegenomen
 	$(document).on('click','#work-load, .back-to-overzicht, .next-project', function() {
 		$('html, body').animate({
-		    scrollTop: $("#works-container").offset().top
+		    scrollTop: $("#works-container").offset().top -58
 		}, 600);		
 		return false
 	});
-	
+//	
 	//	Zorg dat de ruimte van de menu balk weer wordt meegenomen
 	$(document).on('click','#works, .back, #divider3', function() {
 		$('html, body').animate({
@@ -151,69 +151,69 @@ $(document).ready(function(){
 	});
 	
 //	disable scroll
-	$(document).on('click', '#work-load', function() {
-		$('nav').slideUp();
-		$('body').addClass('no-overflow');
-		$('body').bind('touchmove', function(e){e.preventDefault()});
-		//$('body').unbind('touchmove');
-		$('body').bind('mousewheel', function(e) {
-				if (e.target.id == 'el') return;
-				e.preventDefault();
-		});
-//		Zorg dat bij schalen de container altijd in view blijft
-		$( window ).resize(function() {
-			$('html, body').animate({
-				scrollTop: $("#works-container").offset().top
-			}, 0);
-		});
-		return false
-	});
+//	$(document).on('click', '#work-load', function() {
+//		$('nav').slideUp();
+//		$('body').addClass('no-overflow');
+//		$('body').bind('touchmove', function(e){e.preventDefault()});
+//		//$('body').unbind('touchmove');
+//		$('body').bind('mousewheel', function(e) {
+//				if (e.target.id == 'el') return;
+//				e.preventDefault();
+//		});
+////		Zorg dat bij schalen de container altijd in view blijft
+//		$( window ).resize(function() {
+//			$('html, body').animate({
+//				scrollTop: $("#works-container").offset().top
+//			}, 0);
+//		});
+//		return false
+//	});
 	
 	$(document).on('click', '#how-we-work', function() {
 		$('nav').slideUp();
 		$('body').addClass('no-overflow');
-		$('body').bind('touchmove', function(e){e.preventDefault()});
-		//$('body').unbind('touchmove');
-		$('body').bind('mousewheel', function(e) {
-				if (e.target.id == 'el') return;
-				e.preventDefault();
-		});
+//		$('body').bind('touchmove', function(e){e.preventDefault()});
+//		//$('body').unbind('touchmove');
+//		$('body').bind('mousewheel', function(e) {
+//				if (e.target.id == 'el') return;
+//				e.preventDefault();
+//		});
 //		Zorg dat bij schalen de container altijd in view blijft
-		$( window ).resize(function() {
-			$('html, body').animate({
-				scrollTop: $("#profile-container").offset().top
-			}, 0);
-		});
+//		$( window ).resize(function() {
+//			$('html, body').animate({
+//				scrollTop: $("#profile-container").offset().top
+//			}, 0);
+//		});
 		return false
 	});
 	
 //	enable scroll
-	$(document).on('click', '.back-to-profile', function() {
-		$('nav').slideDown();
-		$('body').removeClass('no-overflow');
-		$('body').unbind('touchmove');
-		$('body').unbind('mousewheel');
-		$( window ).resize(function() {
-			$('html, body').animate({
-				scrollTop: $("#profile-container").offset().top
-			}, 0);
-		});
-		return false
-	});
+//	$(document).on('click', '.back-to-profile', function() {
+//		$('nav').slideDown();
+//		$('body').removeClass('no-overflow');
+//		$('body').unbind('touchmove');
+//		$('body').unbind('mousewheel');
+//		$( window ).resize(function() {
+//			$('html, body').animate({
+//				scrollTop: $("#profile-container").offset().top
+//			}, 0);
+//		});
+//		return false
+//	});
 	
 	$(document).on('click', '.back', function() {
 		$('nav').slideDown();
-		$('body').removeClass('no-overflow');
-		$('body').unbind('touchmove');
-		$('body').unbind('mousewheel');
+//		$('body').removeClass('no-overflow');
+//		$('body').unbind('touchmove');
+//		$('body').unbind('mousewheel');
 		
 //		Zorg dat bij schalen de container altijd in view blijft
-		$( window ).resize(function() {
-			$('html, body').animate({
-				scrollTop: $("#works-container").offset().top
-			}, 600);
-		});
-		return false
+//		$( window ).resize(function() {
+//			$('html, body').animate({
+//				scrollTop: $("#works-container").offset().top
+//			}, 600);
+//		});
+//		return false
 	});
 	
 //	scroll to contact
@@ -417,12 +417,23 @@ function preload() {
 // Dynamic loading---------------------------------------------
 // Load and unload works-overzicht.php
 $(document).on('click','#work-load', function() {
-	$('#dynamic-container').animate({ left : '-100%' }, 300).queue(function( nxt ) {
-		$(this).css({ left: '100%'})
-		$(this).load('inc/works-overzicht.php');
-		nxt();
-		$('#dynamic-container').animate({ left : '0' }, 300);
-	});
+//	$('#dynamic-container').animate({ left : '-100%' }, 300).queue(function( nxt ) {
+//		$(this).css({ left: '100%'})
+//		$(this).load('inc/works-overzicht.php');
+//		nxt();
+//		$('#dynamic-container').animate({ left : '0' }, 300);
+//	});
+    
+    
+    $('#project-overzicht-container').animate({ left : '-100%' }, 300).queue(function( nxt ) {
+        $(this).css({ display: 'block', left: '100%'})
+        $(this).load('inc/works-overzicht.php', function(){
+            $('body').css('overflowY', 'hidden');
+        });
+        nxt();
+        $('#project-overzicht-container').animate({ left : '0' }, 300);
+    });
+    
 	if ( ($(window).width()) > 900 ) {
 		$('img, body').addClass('hires');
 		if (jQuery.browser.mobile == false) {
@@ -437,13 +448,20 @@ $(document).on('click','#work-load', function() {
 // Load original content
 $(document).on('click','.back', function(){
 	// change background color of main container (in dept effect)
-    $('#dynamic-container').animate({ left : '100%' }, 300).queue(function( nxt ) {
-		$(this).load('inc/works-content.php .works');
-		nxt();
-		
-		$('#dynamic-container').css({ left : '-100%' });
-		$('#dynamic-container').animate({ left : '0' }, 300);
+//    $('#dynamic-container').animate({ left : '100%' }, 300).queue(function( nxt ) {
+//		$(this).load('inc/works-content.php .works');
+//		nxt();
+//		
+//		$('#dynamic-container').css({ left : '-100%' });
+//		$('#dynamic-container').animate({ left : '0' }, 300);
+//	});
+    
+    $('#project-overzicht-container').animate({ left : '100%' }, 300).queue(function( nxt ) {
+        $('body').css('overflowY', 'scroll');
+		$(this).css({ left : '-100%' });
+        nxt();
 	});
+    
 	if ( ($(window).width()) > 900 ) {
 		$('img, body').addClass('hires');
 		if (jQuery.browser.mobile == false) {
@@ -589,24 +607,24 @@ $(document).on('click','.back-to-profile', function(){
 // Filter different projects
 
 // Page 1
-$(document).on('click','#all1', function() {
+$(document).on('click','#all', function() {
 	$('#results .clickable').fadeOut(0);
-	$('#results .clickable').filter('.all1').fadeIn(500);
+	$('#results .clickable').filter('.clickable').fadeIn(500);
 	
 	$('#works-overzicht article > a').removeClass('active');
 	$(this).addClass('active');
 	return false;
 });
 
-// page 2
-$(document).on('click','#all2', function() {
-	$('#results .clickable').fadeOut(0);
-	$('#results .clickable').filter('.all2').fadeIn( 500);
-	$('.all2').css({display:'inline-block'})
-	$('#works-overzicht article > a').removeClass('active');
-	$(this).addClass('active');
-	return false;
-});
+//// page 2
+//$(document).on('click','#all2', function() {
+//	$('#results .clickable').fadeOut(0);
+//	$('#results .clickable').filter('.all2').fadeIn( 500);
+//	$('.all2').css({display:'inline-block'})
+//	$('#works-overzicht article > a').removeClass('active');
+//	$(this).addClass('active');
+//	return false;
+//});
 
 //Stores
 $(document).on('click','#stores', function() {

@@ -378,7 +378,7 @@ aside {
 nav {
 	position: fixed;
 	width: 100%;
-	z-index: 9999;
+	z-index: 1001;
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
 	box-sizing: border-box;         /* Opera/IE 8+ */
@@ -463,7 +463,7 @@ nav ul li img {
 	margin-left: -12.5%;
 	top: 13%;
 	width: 25%;
-	z-index: 9;
+	z-index: 0;
 }
 
 .header-icon {
@@ -476,7 +476,7 @@ nav ul li img {
     -ms-transition: all 150ms ease-in-out;
     -o-transition: all 150ms ease-in-out;
     transition: all 150ms ease-in-out;
-	z-index: 9;
+/*	z-index: 9;*/
 }
 
 .header-icon:hover {
@@ -529,9 +529,9 @@ a.scroller  img:hover { margin-top: -.5em; }
 section, footer {
 	width: 100%;
 	height: 100%;
-	/*background: #efefef;*/
+	background: #bfbfbf;
 	position: relative;
-	z-index: 9;
+/*	z-index: 9;*/
 }
 
 section.clear { height:auto;}
@@ -892,12 +892,34 @@ article.how-we-work {
 
 }
 
+#project-overzicht-container {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    overflow-y: scroll;
+    z-index: 1002;
+    top: 0;
+    left: 0;
+/*    background: #efefef;*/
+    display: none;
+}
+
+#works-overzicht {
+    height: auto;
+    min-height: 100%;
+}
+
 #works-overzicht article {
-	height: 100%;
+/*	height: 100%;*/
+/*
 	padding-right: 24%;
 	margin-left: 12%;
+*/
+    background: #bfbfbf;
+/*
 	border-left: 10px solid #8b8b8b;
 	border-left: 10px solid rgba(94,94,94,0.4);
+*/
 }
 
 #works-overzicht article header {
@@ -1045,7 +1067,7 @@ a.video img.img-stack:before {
 }
 
 /* Projecten overzicht */
-#dynamic-container .clickable {
+#project-overzicht-container .clickable {
 	cursor: pointer;
 	display: inline-block;
 	width: 19.5%;
@@ -1059,7 +1081,7 @@ a.video img.img-stack:before {
 	display: none;
 }
 
-#dynamic-container .clickable .overlay {
+#project-overzicht-container .clickable .overlay {
 	position: absolute;
 	bottom: 0px;
 	left: 0px;
@@ -1079,20 +1101,20 @@ a.video img.img-stack:before {
 	transition: all 200ms ease-in;
 }
 
-#dynamic-container .clickable:hover .overlay {
+#project-overzicht-container .clickable:hover .overlay {
 	opacity: .8;
 	filter: alpha(opacity=60);
 	font-size: .5em;
 }
 
-#dynamic-container .clickable:hover .overlay-txt {
+#project-overzicht-container .clickable:hover .overlay-txt {
 	border-top: 1px dashed #e1e1e1;
 	border-bottom: 1px dashed #e1e1e1;
 	visibility: visible;
 	margin-top: 24%;
 }
 
-#dynamic-container .clickable .overlay-txt {
+#project-overzicht-container .clickable .overlay-txt {
 	position: absolute;
 	-webkit-transition: all 200ms ease-in;
 	-moz-transition: all 200ms ease-in;
@@ -1111,7 +1133,7 @@ a.video img.img-stack:before {
 	color: lightgray;
 }
 
-#dynamic-container .clickable span {
+#project-overzicht-container .clickable span {
 	border-left: 1px dashed white;
 	border-right: 1px dashed white;
 	border-bottom: 1px dashed white;
@@ -1373,11 +1395,11 @@ aside {
 		margin-top: 0em;
 	}
 	
-	#dynamic-container .clickable {
+	#project-overzicht-container .clickable {
 		width: 22%;
 	}
 	
-	#dynamic-container .clickable .overlay-txt {
+	#project-overzicht-container .clickable .overlay-txt {
 		font-size: 60%;
 	}
 	
@@ -1581,11 +1603,11 @@ aside {
 		display: none !important;
 	}
 	
-	#dynamic-container .clickable {
+	#project-overzicht-container .clickable {
 		width: 29%;
 	}
 	
-	#dynamic-container .clickable .overlay-txt {
+	#project-overzicht-container .clickable .overlay-txt {
 		font-size: 40%;
 	}
 	

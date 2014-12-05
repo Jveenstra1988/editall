@@ -143,6 +143,7 @@
             
         </article>
     </div>
+    <div id="project-overzicht-container"></div>
     <a class="scroller2" id="divider2">
     	<img src="img/icon.png" class="">
     </a>
