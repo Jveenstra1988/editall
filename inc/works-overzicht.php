@@ -1,29 +1,28 @@
 <!-- Projectpagina 1 -->
 <section id="works-overzicht" class="">
-        <a href="#" class="btn-rood back">&#8592; Terug</a>
-        <article class="images">
+        <a href="#" class="btn-rood back">Terug</a>
                 <header>
-                        <h1 class="txt-zwart txt-left">Projecten</h1>
+                        <h1 class="txt-wit txt-left">Projecten</h1>
                         
                         <!--<span class="pager">
                                 <a href='#' class='btn-rood active' id='page-one'>1</a>
                                 <a href='#' class='btn-rood' id='page-two'>2</a>
                         </span>-->
-                
-                </header>
-                
-                 <a href="#" class="btn-rood active proj" 	id="all">			all</a>
-                
-                <em> Categorie</em>
-                 <a href="#" class="btn-wit stroke cat" id="stores">Stores</a>
-                 <a href="#" class="btn-wit stroke cat" id="commercials">Commercials</a>
-                 <a href="#" class="btn-wit stroke cat" id="interiors">Interieurs</a>
-                 <a href="#" class="btn-wit stroke cat" id="horeca">Horeca</a>
-                 <a href="#" class="btn-wit stroke cat" id="stands">Stands</a>
-                 <a href="#" class="btn-wit stroke cat" id="designs">Designs</a>
-             
-                                
-                <div id="results" class="imageholder">
+
+<div class="subnav">
+	<a href="#" class="btn-rood active proj" id="all"> All</a>
+	<a href="#" class="btn-wit stroke cat" id="stores">Stores</a>
+	<a href="#" class="btn-wit stroke cat" id="commercials">Commercials</a>
+	<a href="#" class="btn-wit stroke cat" id="interiors">Interieurs</a>
+	<a href="#" class="btn-wit stroke cat" id="horeca">Horeca</a>
+	<a href="#" class="btn-wit stroke cat" id="stands">Stands</a>
+	<a href="#" class="btn-wit stroke cat" id="designs">Designs</a>
+</div>
+
+</header>
+
+<article class="images">
+<div id="results" class="imageholder">
 
 <!-- STORES -->
                         
