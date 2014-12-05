@@ -898,7 +898,7 @@ article.how-we-work {
 
 }
 
-#project-overzicht-container {
+#project-overzicht-container, #project-detail-container {
     width: 100%;
     height: 100%;
     position: fixed;
@@ -910,9 +910,16 @@ article.how-we-work {
     display: none;
 }
 
+#project-detail-container {
+    z-index: 1003;
+/*    height: auto;*/
+    background: #e5e4e4;
+}
+
 #works-overzicht {
     height: auto;
     min-height: 100%;
+    z-index: 1001;
 }
 
 #works-overzicht article {
@@ -947,28 +954,30 @@ article.how-we-work {
 
 /* Projecten content */
 
-#dynamic-container article.content {
- 	overflow-y: hidden; 
-	height: 100%;
+
+#project-detail-container article.content {
+/* 	overflow-y: hidden; */
+/*	height: 100%;*/
+/*
 	padding-right: 40%;
 	margin-left: 12%;
 	border-left: 10px solid #525252;
 	border-left: 10px solid rgba(43,43,43,0.25);
-	position: absolute;
-	z-index: 99;
+*/  
+/*	z-index: 99;*/
 }
 
-#dynamic-container article.content h1 {
+#project-detail-container article.content h1 {
 /* 	display: inline-block; */
 }
 
-#dynamic-container article.content h5 {
+#project-detail-container article.content h5 {
 	background: #B5B5B5;
 	padding: .3em .4em;
 	width: 92%;
 }
 
-#dynamic-container article.content p {
+#project-detail-container article.content p {
 	display: inline-block;
 	width: 46%;
 	vertical-align: top;
@@ -977,11 +986,11 @@ article.how-we-work {
 	margin: 1.2em .4em;
 }
 
-#dynamic-container article.content p.breed {
+#project-detail-container article.content p.breed {
 	width: 100%;
 }
 
-#dynamic-container article.content p a {
+#project-detail-container article.content p a {
 	background: #252b30;
 	color: #d5d5d5;
 	padding: .2em .3em;
@@ -991,12 +1000,12 @@ article.how-we-work {
 	margin-bottom: .3em;
 }
 
-#dynamic-container article.content p a:hover {
+#project-detail-container article.content p a:hover {
 	/*background: #f6f6f6;*/
 	color: #d41217;
 }
 
-#dynamic-container article.content img.attribute {
+#project-detail-container article.content img.attribute {
 	width: 45%;
 	display: inline-block;
 	vertical-align: top;
@@ -1004,7 +1013,7 @@ article.how-we-work {
 	border-bottom: 3px solid #b5b5b5;	
 }
 
-#dynamic-container article.content img.img-stack {
+#project-detail-container article.content img.img-stack {
 	width: 23%;
 	display: inline-block;
 	vertical-align: top;
@@ -1014,8 +1023,8 @@ article.how-we-work {
 	border-bottom: 3px solid #b5b5b5;
 }
 
-#dynamic-container article.content img.attribute:hover,
-#dynamic-container article.content img.img-stack:hover {
+#project-detail-container article.content img.attribute:hover,
+#project-detail-container article.content img.img-stack:hover {
 	opacity: .6;	
 }
 

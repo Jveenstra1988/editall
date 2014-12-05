@@ -476,18 +476,49 @@ $(document).on('click','.back', function(){
 // Load project information
 $(document).on('click','#results div, .overlay-txt, .next-project', function() {
 	var navClass = $(this).attr("id");
-	$('#dynamic-container').animate({ left : '-100%' }, 300).queue(function( nxt ) {
-		$(this).css({ left : '100%' });
-		$(this).load('inc/works-content.php' + ' #' + navClass, function(){
-			if ( ($(window).width()) > 900 ) {
-				$('img, body').addClass('hires');
-				if (jQuery.browser.mobile == false) {
-					$('img').addClass('hires');
-				}
-			}else{
-				$('img, body').removeClass('hires');
-			};
-			//	Change content of next & prev projectbuttons
+//	$('#dynamic-container').animate({ left : '-100%' }, 300).queue(function( nxt ) {
+//		$(this).css({ left : '100%' });
+//		$(this).load('inc/works-content.php' + ' #' + navClass, function(){
+//			if ( ($(window).width()) > 900 ) {
+//				$('img, body').addClass('hires');
+//				if (jQuery.browser.mobile == false) {
+//					$('img').addClass('hires');
+//				}
+//			}else{
+//				$('img, body').removeClass('hires');
+//			};
+//			//	Change content of next & prev projectbuttons
+//		if ( ($(window).width()) < 550 ) {
+//			$('a.next-project').html('&#8594');
+//			$('a.prev-project').html('&#8592'); 
+//		}else{
+//			$('a.next-project').html('volgende &#8594');
+//			$('a.prev-project').html('&#8592 vorige');
+//		}
+//			$('.sidenav').load('inc/works-overzicht.php .clickable');
+//		});
+//		
+//		nxt();		
+//
+//		$('#dynamic-container').animate({ left : '0' }, 300);
+//	});
+//
+//	$('#works-container').css({ background: '#c7c7c7'});
+//	return false;
+    $('#project-overzicht-container').css({
+        'overflowY': 'hidden'
+    });
+    $('#project-detail-container').fadeToggle();
+    $('#project-detail-container').load('inc/works-content.php' + ' #' + navClass);
+    if ( ($(window).width()) > 900 ) {
+		$('img, body').addClass('hires');
+		if (jQuery.browser.mobile == false) {
+			$('img').addClass('hires');
+		}
+	}else{
+		$('img, body').removeClass('hires');
+	};
+    	//	Change content of next & prev projectbuttons
 		if ( ($(window).width()) < 550 ) {
 			$('a.next-project').html('&#8594');
 			$('a.prev-project').html('&#8592'); 
@@ -496,16 +527,6 @@ $(document).on('click','#results div, .overlay-txt, .next-project', function() {
 			$('a.prev-project').html('&#8592 vorige');
 		}
 			$('.sidenav').load('inc/works-overzicht.php .clickable');
-		});
-		
-		nxt();
-
-		
-
-		$('#dynamic-container').animate({ left : '0' }, 300);
-	});
-
-	$('#works-container').css({ background: '#c7c7c7'});
 	return false;
 });
 

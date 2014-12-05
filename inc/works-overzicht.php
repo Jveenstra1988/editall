@@ -195,3 +195,5 @@
                 </div>
         </article>
 </section>
+<section id="project-detail-container">
+</section>
