@@ -1,6 +1,7 @@
 /* Stylesheet Edit All *** Gemaakt door Jesse en Jeroen *** */
 
 
+
 /*
 -------------------------------------------
 //////////// TYPOGRAFIE STYLES ////////////
@@ -32,13 +33,15 @@ a {
 	text-decoration: 	none;
 	color:				#23262A;
 	cursor: 			pointer;
+	outline: none;
+	outline: 0;
 }
 
 .bg-rood 	p a	{ color: #F6F6F6; }
 .bg-wit		p a	{ color: #282B30; }
 .bg-turq 	p a	{ color: #282B30; }
-.bg-zwart 	p a	{ color: #2E2E2E; }
-.bg-antra 	p a	{ color: #2E2E2E; }
+.bg-zwart 	p a	{ color: #1C1C1C; }
+.bg-antra 	p a	{ color: #1C1C1C; }
 
 
 .bg-rood a	{ color: #EEE5DA; }
@@ -111,8 +114,8 @@ p b {
 .bg-donkergrijs	{ background: #c7c7c7; }
 .bg-turq		{ background: #33B6B3; }
 /* .bg-zwart	{ background: #282B30; } */
-.bg-zwart		{ background: #2E2E2E; }
-.bg-antra		{ background: #2E2E2E; }
+.bg-zwart		{ background: #1C1C1C; }
+.bg-antra		{ background: #1C1C1C; }
 
 
 .bg-rood.clear 			{ border-bottom: 10px solid #ac1e2e; }
@@ -120,8 +123,8 @@ p b {
 .bg-grijs.clear			{ border-bottom: 10px solid #c5c5c5; }
 .bg-donkergrijs.clear 	{ border-bottom: 10px solid #cccccc; }
 .bg-turq.clear 			{ border-bottom: 10px solid #268c8a; }
-.bg-zwart.clear 		{ border-bottom: 10px solid #2E2E2E; }
-.bg-antra.clear 		{ border-bottom: 10px solid #2E2E2E; }
+.bg-zwart.clear 		{ border-bottom: 10px solid #1C1C1C; }
+.bg-antra.clear 		{ border-bottom: 10px solid #1C1C1C; }
 
 .lijn-rood {
 	border-bottom: 1px dashed #E83F50;
@@ -162,6 +165,7 @@ a.btn-antra	{ color:#F6F6F6; background:#404951; border: solid 1px #404951; bord
 	padding-right: 80px !important;
 /* 	margin-top: 3em; */
 }
+
 .a-btn-text{
     padding-top: 5px;
     display: block;
@@ -227,12 +231,14 @@ a.btn-antra	{ color:#F6F6F6; background:#404951; border: solid 1px #404951; bord
 }
 
 /* Hovers */
+/*
 a.btn-rood:hover, a.btn-rood.active		{ background:#93130a; border-bottom: 5px solid #590f16;}
 a.btn-wit:hover, a.btn-wit.active		{ background:#bbbbbb; }
 a.btn-grijs:hover, a.btn-grijs.active 	{ background:#8d8d8d; border-bottom: 5px solid #606060;}
 a.btn-turq:hover, a.btn-turq.active		{ background:#218281; border-bottom: 5px solid #165c5b; }
 a.btn-zwart:hover, a.btn-zwart.active	{ background:#121315; }
 a.btn-antra:hover, a.btn-antra.active	{ background:#2c3338; border-bottom: 5px solid #0f1113;}
+*/
 
 /* Buttons Stroke */
 a.btn-rood.stroke,
@@ -391,7 +397,7 @@ nav {
 }
 
 nav.antra {
-	background: #2E2E2E;
+	background: #1C1C1C;
 	border: .3em solid #0D0D0D;
 }
 
@@ -733,7 +739,7 @@ a.tooltip:hover span {
 */
 
 footer p a {
-	color: #2E2E2E !important;
+	color: #1C1C1C !important;
 	font-size: 90%;
 	line-height: 1.3;
 	display: block;
