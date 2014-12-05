@@ -967,6 +967,12 @@ article.how-we-work {
 /*	z-index: 99;*/
 }
 
+#project-detail-container .close {
+    right: 0;
+    position: absolute;
+    z-index: 9999;
+}
+
 #project-detail-container article.content h1 {
 /* 	display: inline-block; */
 }

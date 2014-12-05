@@ -1,10 +1,10 @@
+
 <!--////////////////////////////////////
 STORES - STORES - STORES - STORES -
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 <!-- JUST BRANDS STORES -->
 <section class="bg-grijs3" id="jb-stores">
-  
-
+    <a href="#" class="btn-rood close">Close</a>
     <div class="absolute-vorige">
     	<a title="vorige" class="tooltip btn-rood prev-project" id="jb-design">&#8592; Vorige</a>
     </div>
@@ -18,6 +18,7 @@ STORES - STORES - STORES - STORES -
         </div>
 
         <article class="bg-grijs3 content">
+            
         <h5>Stores</h5>
             <h1 class="txt-zwart txt-left">Just Brands Stores</h1> 
             <p class="txt-zwart">
@@ -50,7 +51,7 @@ STORES - STORES - STORES - STORES -
 
     <!-- PME LEGEND SHOP-IN-SHOP -->
     <section class="bg-grijs3" id="jb-sis">
-      
+        <a href="#" class="btn-rood close">Close</a>
 
 		<div class="absolute-vorige">
     		<a title="vorige" class="tooltip btn-rood prev-project" id="jb-stores">&#8592; Vorige</a>
@@ -82,7 +83,7 @@ STORES - STORES - STORES - STORES -
 
         <!-- JUST BRANDS SHOWROOMS -->
         <section class="bg-grijs3" id="jb-showroom">
-
+<a href="#" class="btn-rood close">Close</a>
 		<div class="absolute-vorige">
     		<a title="vorige" class="btn-rood prev-project" id="jb-sis">&#8592; Vorige</a>
     	</div> 
@@ -128,7 +129,7 @@ STORES - STORES - STORES - STORES -
 
             <!-- Friends Emmen -->
             <section class="bg-grijs3" id="friends-emmen">
-              
+              <a href="#" class="btn-rood close">Close</a>
 
 				<div class="absolute-vorige">
 		    		<a title="vorige" class="tooltip btn-rood prev-project" id="jb-showroom">&#8592; Vorige</a>
@@ -167,7 +168,7 @@ STORES - STORES - STORES - STORES -
 
 <!-- Beats by Dre -->
 <section class="bg-grijs3" id="beats-by-dre">
-  
+  <a href="#" class="btn-rood close">Close</a>
 
 				<div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="friends-emmen">&#8592; Vorige</a>
@@ -204,7 +205,7 @@ STORES - STORES - STORES - STORES -
 
 <!-- Albert Heijn Jamie Oliver -->
 <section class="bg-grijs3" id="ah-jamie">
-  
+  <a href="#" class="btn-rood close">Close</a>
 
 				<div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="beats-by-dre">&#8592; Vorige</a>
@@ -242,7 +243,7 @@ STORES - STORES - STORES - STORES -
 
     <!-- Albert Heijn Route 99 -->
     <section class="bg-grijs3" id="ah-route99">
-      
+      <a href="#" class="btn-rood close">Close</a>
         
         				<div class="absolute-vorige">
 		    		<a title="vorige" class="tooltip btn-rood prev-project" id="ah-jamie">&#8592; Vorige</a>
@@ -281,7 +282,7 @@ STORES - STORES - STORES - STORES -
 
         <!-- Rabobank Commercials -->
         <section class="bg-grijs3" id="rabobank">
-          
+          <a href="#" class="btn-rood close">Close</a>
 
 				<div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="ah-route99">&#8592; Vorige</a>
@@ -321,7 +322,7 @@ STORES - STORES - STORES - STORES -
 
                 <!-- Olli Commercials -->
                 <section class="bg-grijs3" id="olli-blijdorp">
-                  
+                  <a href="#" class="btn-rood close">Close</a>
                     
                 <div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="rabobank">&#8592; Vorige</a>
@@ -369,7 +370,7 @@ STORES - STORES - STORES - STORES -
 
                     <!-- UPC Commercials -->
                     <section class="bg-grijs3" id="upc">
-                      
+                      <a href="#" class="btn-rood close">Close</a>
                         
                         				<div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="olli-blijdorp">&#8592; Vorige</a>
@@ -421,7 +422,7 @@ STORES - STORES - STORES - STORES -
 
                         <!-- T-Mobile Ali-B -->
                         <section class="bg-grijs3" id="tmobile-alib">
-                          
+                          <a href="#" class="btn-rood close">Close</a>
 
                 <div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="upc">&#8592; Vorige</a>
@@ -460,7 +461,7 @@ STORES - STORES - STORES - STORES -
 
                             <!-- Interpolis -->
                             <section class="bg-grijs3" id="interpolis-pleh">
-                              
+                           <a href="#" class="btn-rood close">Close</a>   
 
                 <div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="tmobile-alib">&#8592; Vorige</a>
@@ -498,7 +499,7 @@ STORES - STORES - STORES - STORES -
 
                                 <!-- All You Can Eat Hi -->
                                 <section class="bg-grijs3" id="allyou-caneat">
-                                  
+                                  <a href="#" class="btn-rood close">Close</a>
                                     
                                                     <div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="interpolis-pleh">&#8592; Vorige</a>
@@ -537,7 +538,7 @@ STORES - STORES - STORES - STORES -
 
                                     <!-- Ziggo -->
                                     <section class="bg-grijs3" id="ziggo">
-                                      
+                                      <a href="#" class="btn-rood close">Close</a>
                                                         <div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="allyou-caneat">&#8592; Vorige</a>
 		    	</div> 
@@ -586,7 +587,7 @@ STORES - STORES - STORES - STORES -
 
                                         <!-- Bewuzt -->
                                         <section class="bg-grijs3" id="bewuzt">
-                                          
+                                         <a href="#" class="btn-rood close">Close</a> 
                                                             <div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="ziggo">&#8592; Vorige</a>
 		    	</div> 
@@ -623,7 +624,7 @@ STORES - STORES - STORES - STORES -
 
 <!-- Strandbrasserie de Jutter -->
 <section class="bg-grijs3" id="dejutter-almere">
-  
+  <a href="#" class="btn-rood close">Close</a>
     
                     <div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="bewuzt">&#8592; Vorige</a>
@@ -660,7 +661,7 @@ STORES - STORES - STORES - STORES -
 
     <!-- Wildschut -->
     <section class="bg-grijs3" id="wildschut">
-      
+      <a href="#" class="btn-rood close">Close</a>
                         <div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="dejutter-almere">&#8592; Vorige</a>
 		    	</div> 
@@ -692,7 +693,7 @@ STORES - STORES - STORES - STORES -
 
         <!-- Koopman Optiek -->
         <section class="bg-grijs3" id="koopman">
-          
+          <a href="#" class="btn-rood close">Close</a>
             
                             <div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="wildschut">&#8592; Vorige</a>
@@ -731,7 +732,7 @@ STORES - STORES - STORES - STORES -
 
 <!-- Peter's Irish Pub Maastricht -->
 <section class="bg-grijs3" id="peters">
-  
+  <a href="#" class="btn-rood close">Close</a>
                     <div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="koopman">&#8592; Vorige</a>
 		    	</div> 
@@ -769,7 +770,7 @@ STORES - STORES - STORES - STORES -
 
     <!-- de Koning Alkmaar -->
     <section class="bg-grijs3" id="koning">
-      
+      <a href="#" class="btn-rood close">Close</a>
                         <div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="peters">&#8592; Vorige</a>
 		    	</div> 
@@ -808,7 +809,7 @@ STORES - STORES - STORES - STORES -
 
 <!-- Heineken -->
 <section class="bg-grijs3" id="heineken">
-  
+  <a href="#" class="btn-rood close">Close</a>
                     <div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="koning">&#8592; Vorige</a>
 		    	</div> 
@@ -841,7 +842,7 @@ STORES - STORES - STORES - STORES -
 
     <!-- Modefabriek Amsterdam -->
     <section class="bg-grijs3" id="modefabriek">
-      
+      <a href="#" class="btn-rood close">Close</a>
                         <div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="heineken">&#8592; Vorige</a>
 		    	</div> 
@@ -873,7 +874,7 @@ STORES - STORES - STORES - STORES -
 
         <!-- Bread and Butter Berlin -->
         <section class="bg-grijs3" id="bbb">
-          
+          <a href="#" class="btn-rood close">Close</a>
                             <div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="modefabriek">&#8592; Vorige</a>
 		    	</div> 
@@ -914,7 +915,7 @@ STORES - STORES - STORES - STORES -
 
 <!-- JB Design -->
 <section class="bg-grijs3" id="jb-design">
-
+<a href="#" class="btn-rood close">Close</a>
             <a href="#" class="btn-grijs back-to-overzicht last-but-not-least">&#8592; Projecten</a>
                         <div class="absolute-vorige">
 		    		<a title="vorige" class="btn-rood prev-project" id="bbb">&#8592; Vorige</a>
