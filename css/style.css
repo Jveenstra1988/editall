@@ -37,14 +37,14 @@ a {
 .bg-rood 	p a	{ color: #F6F6F6; }
 .bg-wit		p a	{ color: #282B30; }
 .bg-turq 	p a	{ color: #282B30; }
-.bg-zwart 	p a	{ color: #F6F6F6; }
-.bg-antra 	p a	{ color: #F6F6F6; }
+.bg-zwart 	p a	{ color: #2E2E2E; }
+.bg-antra 	p a	{ color: #2E2E2E; }
 
 
-.bg-rood a	{ color: #F6F6F6; }
-.bg-turq a	{ color: #F6F6F6; }
-.bg-zwart a	{ color: #F6F6F6; }
-.bg-antra a	{ color: #F6F6F6; }
+.bg-rood a	{ color: #EEE5DA; }
+.bg-turq a	{ color: #EEE5DA; }
+.bg-zwart a	{ color: #EEE5DA; }
+.bg-antra a	{ color: #EEE5DA; }
 
 /* --- Overall Heading --- */
 
@@ -104,24 +104,24 @@ p b {
 
 /* Background kleuren */
 .bg-rood		{ background: #D41217; }
-.bg-wit			{ background: #F6F6F6; }
+.bg-wit			{ background: #f9f7f4; }
 .bg-grijs		{ background: #c7c7c7; }
 .bg-grijs2		{ background: #c7c7c7; }
 .bg-grijs3		{ background: #e5e4e4; }
 .bg-donkergrijs	{ background: #c7c7c7; }
 .bg-turq		{ background: #33B6B3; }
 /* .bg-zwart	{ background: #282B30; } */
-.bg-zwart		{ background: #0D0D0D; }
-.bg-antra		{ background: #404951; }
+.bg-zwart		{ background: #2E2E2E; }
+.bg-antra		{ background: #2E2E2E; }
 
 
 .bg-rood.clear 			{ border-bottom: 10px solid #ac1e2e; }
-.bg-wit.clear 			{ border-bottom: 10px solid #d5d5d5; }
+.bg-wit.clear 			{ border-bottom: 10px solid #f9f7f4; }
 .bg-grijs.clear			{ border-bottom: 10px solid #c5c5c5; }
 .bg-donkergrijs.clear 	{ border-bottom: 10px solid #cccccc; }
 .bg-turq.clear 			{ border-bottom: 10px solid #268c8a; }
-.bg-zwart.clear 		{ border-bottom: 10px solid #090909; }
-.bg-antra.clear 		{ border-bottom: 10px solid #303840; }
+.bg-zwart.clear 		{ border-bottom: 10px solid #2E2E2E; }
+.bg-antra.clear 		{ border-bottom: 10px solid #2E2E2E; }
 
 .lijn-rood {
 	border-bottom: 1px dashed #E83F50;
@@ -382,7 +382,7 @@ nav {
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
 	box-sizing: border-box;         /* Opera/IE 8+ */
-	border: .3em solid #D5D5D5;
+/* 	border: .3em solid #D5D5D5; */
 	-webkit-transition: all 200ms ease-in-out;
 	-moz-transition: all 200ms ease-in-out;
 	-ms-transition: all 200ms ease-in-out;
@@ -391,7 +391,7 @@ nav {
 }
 
 nav.antra {
-	background: #282B30;
+	background: #2E2E2E;
 	border: .3em solid #0D0D0D;
 }
 
@@ -407,13 +407,14 @@ nav.bottom {
 
 nav ul {
 	text-align: center;
+	overflow: hidden;
 }
 
 nav ul li {
 	display: inline-block;
 	font-weight: 300;
 	width: 19%;
-	line-height: 3;
+	line-height: 4;
 	
 	-webkit-transition: all 600ms ease-in-out;
 	-moz-transition: all 600ms ease-in-out;
@@ -423,18 +424,19 @@ nav ul li {
 }
 
 nav ul li a {
-	text-shadow: 1px 1px 0px #CCCCCC;
-   
+	/* text-shadow: 1px 1px 0px #CCCCCC; */
     -webkit-transition: all 300ms ease-in;
     -moz-transition: all 300ms ease-in;
     -ms-transition: all 300ms ease-in;
     -o-transition: all 300ms ease-in;
     transition: all 300ms ease-in;
+    border-bottom: 2px solid #EEE5DA;
+    padding-bottom: 1.8em;
 }
 
-nav ul li a:hover { color: #D41217; }
+nav ul li a:hover { border-bottom: 2px solid #EEE5DA; padding-bottom: .3em;}
 
-nav ul li a.active { color: #D41217; }
+nav ul li a.active { border-bottom: 2px solid #EEE5DA; padding-bottom: .3em; }
 
 nav ul li img {
 	width: 24%;
@@ -611,11 +613,23 @@ article .drie header h4 {
 	float: right;
 }
 
-section.clear article div.blok {
+section.clear article .rightside div.blok {
 	display: inline-block;
 	width: 24%;
+}
+
+.leftside {
+	width: 20%;
+	height: 100%;
+	display: inline-block;
 	vertical-align: top;
-	padding: 1.5em 0em;
+}
+
+.rightside {
+	width: 75%;
+	height: 100%;
+	display: inline-block;
+	vertical-align: top;
 }
 
 section.clear article div p {
@@ -719,9 +733,10 @@ a.tooltip:hover span {
 */
 
 footer p a {
-	color: #373E45 !important;
+	color: #2E2E2E !important;
+	font-size: 90%;
+	line-height: 1.3;
 	display: block;
-	border-bottom: 1px dashed #D41217;
 }
 
 footer p a:hover {

@@ -67,15 +67,15 @@ $(document).ready(function(){
 		if ( $window.scrollTop() >= distance ) {
 			// Your div has reached the top
 			$("nav").removeClass("bottom");
-			$("nav").addClass("antra");
+/* 			$("nav").addClass("antra"); */
 			$('img.logo').css({display: 'none'});
 		} else {
 			$("nav").addClass("bottom");
-			$("nav").removeClass("antra");	
+/* 			$("nav").removeClass("antra");	 */
 		}
 		
 		//change class of nav img so it can come out of nav and get back in
-		if ( $window.scrollTop() >= distance - 500 ) {
+		if ( $window.scrollTop() >= distance - 492 ) {
 			// Your div has reached  top 130px
 			$(".beeldmerk").removeClass("in-nav");
 			$('img.logo').css({display: 'block'});

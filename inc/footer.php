@@ -1,17 +1,21 @@
 
-		<footer id="contact-container" class="bg-turq">
+		<footer id="contact-container" class="bg-wit">
 		    <div id="map-canvas"></div>
 				<!--Content - DIVIDER-->
 				<section id="container" class="bg-wit clear">
 					<article class="txt-antra">
-						<div class="blok">
+
+<div class="leftside">
+						<div class="blok hoog">
 						    <img src="img/icon-place.png">
 							<p class="three-col">
-								Venserweg 7 (Hal 4)<br />
-								1112 AR  Diemen<br />
+								Samsonweg 134<br />
+								1521 RM Wormerveer<br />
 								Nederland<br />
 							</p>
 						</div>
+</div>
+<div class="rightside">
 						<div class="blok">
 						    <img src="img/icon-rob.png">
 							<p>
@@ -44,6 +48,7 @@
 								<a href="mailto:bas@edit-all.nl">bas@edit-all.nl</a>
 							</p>
 						</div>
+</div>
 					</article>
 				</section>
 		</footer>

@@ -35,7 +35,7 @@
 		<!--[if lt IE 7]>
 			<p class="chromeframe">Je gebruikt een <strong>sterk verouderde</strong> browser. <a href="http://browsehappy.com/">Upgrade je browser</a> of <a href="http://www.google.com/chromeframe/?redirect=true">activeer Google Chrome Frame</a> om uw webervaring te verbeteren.</p>
 		<![endif]-->
-		<nav class="bg-wit bottom">
+		<nav class="bg-antra bottom">
 			<ul class="br-wit">
 				<li>
 					<a href="" id="home" class="active">Edit-All</a>
