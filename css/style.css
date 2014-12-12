@@ -1023,12 +1023,9 @@ article.how-we-work {
 	margin-bottom: .3em;
 }
 
-<<<<<<< HEAD
-#project-detail-container article.content p a:hover {
-=======
+
 #project-detail-container article.content p a:hover, #project-detail-container article.content p a:hover {
 	/*background: #f6f6f6;*/
->>>>>>> FETCH_HEAD
 	color: #d41217;
 }
 
