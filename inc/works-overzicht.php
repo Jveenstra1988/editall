@@ -6,20 +6,20 @@
 <a href="#" class="btn-rood back">&#8592; Terug</a>
 <h1 class="titel-wit titel-left">Projecten</h1>
 
-<div class="subnav">
-	<a href="#" class="btn-rood active proj" id="all"> All</a>
-	<a href="#" class="btn-wit stroke cat" id="stores">Stores</a>
-	<a href="#" class="btn-wit stroke cat" id="commercials">Commercials</a>
-	<a href="#" class="btn-wit stroke cat" id="interiors">Interieurs</a>
-	<a href="#" class="btn-wit stroke cat" id="horeca">Horeca</a>
-	<a href="#" class="btn-wit stroke cat" id="stands">Stands</a>
-	<a href="#" class="btn-wit stroke cat" id="designs">Designs</a>
-</div>
+                        <div class="subnav">
+                            <a href="#" class="btn-rood active proj" id="all"> All</a>
+                            <a href="#" class="btn-wit stroke cat" id="stores">Stores</a>
+                            <a href="#" class="btn-wit stroke cat" id="commercials">Commercials</a>
+                            <a href="#" class="btn-wit stroke cat" id="interiors">Interieurs</a>
+                            <a href="#" class="btn-wit stroke cat" id="horeca">Horeca</a>
+                            <a href="#" class="btn-wit stroke cat" id="stands">Stands</a>
+                            <a href="#" class="btn-wit stroke cat" id="designs">Designs</a>
+                        </div>
 
-</header>
+                        </header>
 
-<article class="images">
-<div id="results" class="imageholder">
+                        <article class="images">
+                        <div id="results" class="imageholder">
 
 <!-- STORES -->
                         

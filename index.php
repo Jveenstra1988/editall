@@ -187,6 +187,10 @@
             
         </article>
     </div>
+    
+    <section id="detail-container">
+    </section>
+    
     <a class="scroller2" id="divider5">
         <img src="img/icon-turq.png" class="">
     </a>

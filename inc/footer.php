@@ -4,51 +4,50 @@
 				<!--Content - DIVIDER-->
 				<section id="container" class="bg-wit clear">
 					<article class="txt-antra">
-
-<div class="leftside">
-						<div class="blok hoog">
-						    <img src="img/icon-place.png">
-							<p class="three-col">
-								Samsonweg 134<br />
-								1521 RM Wormerveer<br />
-								Nederland<br />
-							</p>
-						</div>
-</div>
-<div class="rightside">
-						<div class="blok">
-						    <img src="img/icon-rob.png">
-							<p>
-								<strong>Rob Valent</strong>
-								<a href="tel:+316-50602207">06 - 50 602 207</a>
-								<a href="mailto:rob@edit-all.nl">rob@edit-all.nl</a>
-							</p>
-						</div>
-						<div class="blok">
-						<img src="img/icon-ruben.png">
-							<p>
-								<strong>Ruben Rosen</strong>
-								<a href="tel:+316-51525382">06 - 51 525 382</a>
-								<a href="mailto:ruben@edit-all.nl">ruben@edit-all.nl</a>
-							</p>
-						</div>
-						<div class="blok">
-						    <img src="img/icon-elsemieke.png">
-							<p>	
-								<strong>Elsemieke Meijer</strong>
-								<a href="tel:+316-20106561">06 - 20 106 561</a>
-								<a href="mailto:elsemieke@edit-all.nl">elsemieke@edit-all.nl</a>
-							</p>
-						</div>
-						<div class="blok">
-						    <img src="img/icon-bas.png">
-							<p>	
-								<strong>Bas van Ginkel</strong>
-								<a href="tel:+316-13603793">06 - 13 603 793</a>
-								<a href="mailto:bas@edit-all.nl">bas@edit-all.nl</a>
-							</p>
-						</div>
-</div>
+                        <div class="leftside">
+                            <div class="blok hoog">
+                                <img src="img/icon-place.png">
+                                <p class="three-col">
+                                    Samsonweg 134<br />
+                                    1521 RM Wormerveer<br />
+                                    Nederland<br />
+                                </p>
+                            </div>
+                        </div>
+                        <div class="rightside">
+                            <div class="blok">
+                                <img src="img/icon-rob.png">
+                                <p>
+                                    <strong>Rob Valent</strong>
+                                    <a href="tel:+316-50602207">06 - 50 602 207</a>
+                                    <a href="mailto:rob@edit-all.nl">rob@edit-all.nl</a>
+                                </p>
+                            </div>
+                            <div class="blok">
+                            <img src="img/icon-ruben.png">
+                                <p>
+                                    <strong>Ruben Rosen</strong>
+                                    <a href="tel:+316-51525382">06 - 51 525 382</a>
+                                    <a href="mailto:ruben@edit-all.nl">ruben@edit-all.nl</a>
+                                </p>
+                            </div>
+                            <div class="blok">
+                                <img src="img/icon-elsemieke.png">
+                                <p>	
+                                    <strong>Elsemieke Meijer</strong>
+                                    <a href="tel:+316-20106561">06 - 20 106 561</a>
+                                    <a href="mailto:elsemieke@edit-all.nl">elsemieke@edit-all.nl</a>
+                                </p>
+                            </div>
+                            <div class="blok">
+                                <img src="img/icon-bas.png">
+                                <p>	
+                                    <strong>Bas van Ginkel</strong>
+                                    <a href="tel:+316-13603793">06 - 13 603 793</a>
+                                    <a href="mailto:bas@edit-all.nl">bas@edit-all.nl</a>
+                                </p>
+                            </div>
+                        </div>
 					</article>
 				</section>
 		</footer>
@@ -63,20 +62,22 @@
         <script async src="js/vendor/preload.js"></script>
         <script async src="js/vendor/detectmobilebrowser.js"></script>
         <script async src="js/vendor/preloadjs-0.4.0.min.js"></script>
+        <script async src="js/vendor/preload-functie.js"></script>
+        <script async src="js/vendor/google-map.js"></script>
         <script async src="js/main.js"></script>
 		<script async type="text/javascript">
 		$(document).ready(function() {
-				$(".various").fancybox({
-					maxWidth	: 800,
-					maxHeight	: 600,
-					fitToView	: false,
-					width		: '70%',
-					height		: '70%',
-					autoSize	: false,
-					closeClick	: false,
-					openEffect	: 'elastic',
-					closeEffect	: 'elastic'
-				});
+            $(".various").fancybox({
+                maxWidth	: 800,
+                maxHeight	: 600,
+                fitToView	: false,
+                width		: '70%',
+                height		: '70%',
+                autoSize	: false,
+                closeClick	: false,
+                openEffect	: 'elastic',
+                closeEffect	: 'elastic'
+            });
 		});
 		</script>
 
