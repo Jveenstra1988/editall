@@ -1,13 +1,10 @@
 <!-- Projectpagina 1 -->
 <section id="works-overzicht" class="">
-        <a href="#" class="btn-rood back">Terug</a>
-                <header>
-                        <h1 class="txt-wit txt-left">Projecten</h1>
-                        
-                        <!--<span class="pager">
-                                <a href='#' class='btn-rood active' id='page-one'>1</a>
-                                <a href='#' class='btn-rood' id='page-two'>2</a>
-                        </span>-->
+
+<header>
+
+<a href="#" class="btn-rood back">&#8592; Terug</a>
+<h1 class="titel-wit titel-left">Projecten</h1>
 
 <div class="subnav">
 	<a href="#" class="btn-rood active proj" id="all"> All</a>
@@ -27,168 +24,168 @@
 <!-- STORES -->
                         
                         <div class="clickable stores ">
-                                <h3 class="overlay-txt" id="jb-stores">Just Brands Stores</h3>
                                 <img src="img/works/sto/jb-store4.jpg" >
                                 <div class="overlay" id="jb-stores"></div>
+                                <h4 class="titel" id="jb-stores">Just Brands Stores</h4>
                         </div> 
 
 						<div class="clickable stores ">
-                                <h3 class="overlay-txt" id="jb-sis">PME Legend Shop-in-Shop</h3>
                                 <img src="img/works/sto/jb-sis1.jpg" >
                                 <div class="overlay" id="jb-sis">
                                 </div>
+                                <h4 class="titel" id="jb-sis">PME Legend Shop-in-Shop</h4> 
                         </div> 
                                                                       
                         <div class="clickable stores ">
-                                <h3 class="overlay-txt" id="jb-showroom">Just Brands Showrooms</h3>
                                 <img src="img/works/sto/jb-show3.jpg" >
                                 <div class="overlay" id="jb-showroom"></div>
+                                <h4 class="titel" id="jb-showroom">Just Brands Showrooms</h4>
                         </div>
 
                         <div class="clickable stores ">
-                                <h3 class="overlay-txt" id="friends-emmen">Friends Emmen</h3>
                                 <img src="img/works/sto/friends1.jpg" >
                                 <div class="overlay" id="friends-emmen"></div>
+                                <h4 class="titel" id="friends-emmen">Friends Emmen</h4>
                         </div>
 
 <!-- COMMERCIALS -->
 
                         <div class="clickable commercials ">
-                                <h3 class="overlay-txt" id="beats-by-dre">Beats by Dre</h3>
                                 <img src="img/works/com/dre3.jpg" >
                                 <div class="overlay" id="beats-by-dre">
                                 </div>
+                                <h4 class="titel" id="beats-by-dre">Beats by Dre</h4>
                         </div>
 
                         <div class="clickable commercials ">
-                                <h3 class="overlay-txt" id="ah-jamie">Albert Heijn Jamie Oliver</h3>
                                 <img src="img/works/com/ah4.jpg" >
                                 <div class="overlay" id="ah-jamie">
                                 </div>
+                                <h4 class="titel" id="ah-jamie">Albert Heijn Jamie Oliver</h4>
                         </div>
                         
                         <div class="clickable commercials ">
-                                <h3 class="overlay-txt" id="ah-jamie">Albert Heijn Route 99</h3>
                                 <img src="img/works/com/route99-1.jpg" >
                                 <div class="overlay" id="ah-route99">
                                 </div>
+                                <h4 class="titel" id="ah-jamie">Albert Heijn Route 99</h4>
                         </div>
 
                         <div class="clickable commercials ">
-                                <h3 class="overlay-txt" id="rabobank">Rabobank</h3>
                                 <img src="img/works/com/rabo1.jpg" >
                                 <div class="overlay" id="rabobank">
                                 </div>
+                                <h4 class="titel" id="rabobank">Rabobank</h4>
                         </div>
 
                         <div class="clickable commercials ">
-                                <h3 class="overlay-txt" id="olli-blijdorp">Olli</h3>
                                 <img src="img/works/com/olli15.jpg" >
                                 <div class="overlay" id="olli-blijdorp"></div>
+                                <h4 class="titel" id="olli-blijdorp">Olli</h4>
                         </div>  
 
                         <div class="clickable commercials ">
-                                <h3 class="overlay-txt" id="upc">UPC</h3>
                                 <img src="img/works/com/popcorn2.jpg" >
                                 <div class="overlay" id="upc"></div>
+                                <h4 class="titel" id="upc">UPC</h4>
                         </div>
 
                         <div class="clickable commercials ">
-                                <h3 class="overlay-txt" id="tmobile-alib">Ali-B | T-Mobile</h3>
                                 <img src="img/works/com/alib1.jpg" >
                                 <div class="overlay" id="tmobile-alib"></div>
+                                <h4 class="titel" id="tmobile-alib">Ali-B | T-Mobile</h4>
                         </div>
 
                         <div class="clickable commercials ">
-                                <h3 class="overlay-txt" id="interpolis-pleh">Pleh?! | Interpolis</h3>
                                 <img src="img/works/com/inter1.jpg" >
                                 <div class="overlay" id="interpolis-pleh"></div>
+                                <h4 class="titel" id="interpolis-pleh">Pleh?! | Interpolis</h4>
                         </div>
 
                         <div class="clickable commercials ">
-                                <h3 class="overlay-txt" id="allyou-caneat">All You Can Eat | Hi</h3>
                                 <img src="img/works/com/hi5.jpg" >
                                 <div class="overlay" id="allyou-caneat"></div>
+                                <h4 class="titel" id="allyou-caneat">All You Can Eat | Hi</h4>
                         </div>
 
                         <div class="clickable commercials ">
-                                <h3 class="overlay-txt" id="ziggo">Ziggo</h3>
                                 <img src="img/works/com/ziggo3.jpg" >
                                 <div class="overlay" id="ziggo"></div>
+                                <h4 class="titel" id="ziggo">Ziggo</h4>
                         </div>
 
                         <div class="clickable commercials ">
-                                <h3 class="overlay-txt" id="bewuzt">Bewuzt</h3>
                                 <img src="img/works/com/bewuzt1.jpg" >
                                 <div class="overlay" id="bewuzt">
                                 </div>
+                                <h4 class="titel" id="bewuzt">Bewuzt</h4>
                         </div>
 
 <!-- INTERIEURS -->
 
                         <div class="clickable interiors ">
-                                <h3 class="overlay-txt" id="dejutter-almere">Strandbrasserie de Jutter</h3>
                                 <img src="img/works/int/jutter8.jpg" >
                                 <div class="overlay" id="dejutter-almere"></div>
+                                <h4 class="titel" id="dejutter-almere">Strandbrasserie de Jutter</h4>
                         </div>
 
                         <div class="clickable horeca ">
-                                <h3 class="overlay-txt" id="wildschut">Wildschut</h3>
                                 <img src="img/works/int/wildschut1.jpg" >
                                 <div class="overlay" id="wildschut">
                                 </div>
+                                <h4 class="titel" id="wildschut">Wildschut</h4>
                         </div>
 
                         <div class="clickable interiors ">
-                                <h3 class="overlay-txt" id="koopman">Koopman Optiek</h3>
                                 <img src="img/works/int/koopman1.jpg" >
                                 <div class="overlay" id="koopman">
                                 </div>
+                                <h4 class="titel" id="koopman">Koopman Optiek</h4>
                         </div>
 
 <!-- HORECA -->                        
                         <div class="clickable horeca ">
-                                <h3 class="overlay-txt" id="peters">Peter's Irish Pub</h3>
                                 <img src="img/works/hor/peters6.jpg" >
                                 <div class="overlay" id="peters">
                                 </div>
+                                <h4 class="titel" id="peters">Peter's Irish Pub</h4>
                         </div>
 
                         <div class="clickable horeca ">
-                                <h3 class="overlay-txt" id="koning">de Koning</h3>
                                 <img src="img/works/hor/koning6.jpg" >
                                 <div class="overlay" id="koning">
                                 </div>
+                                <h4 class="titel" id="koning">de Koning</h4>
                         </div>
 
 <!-- STANDS -->
 
                         <div class="clickable stands ">
-                                <h3 class="overlay-txt" id="heineken">Heineken</h3>
                                 <img src="img/works/std/heineken3.jpg" >
                                 <div class="overlay" id="heineken"></div>
+                                <h4 class="titel" id="heineken">Heineken</h4>
                         </div>
 
                        <div class="clickable stands ">
-                                <h3 class="overlay-txt" id="modefabriek">Modefabriek Amsterdam</h3>
                                 <img src="img/works/std/modefabriek7.jpg" >
                                 <div class="overlay" id="modefabriek"></div>
+                                <h4 class="titel" id="modefabriek">Modefabriek Amsterdam</h4>
                         </div>
 
                         <div class="clickable stands ">
-                                <h3 class="overlay-txt" id="bbb">Bread and Butter</h3>
                                 <img src="img/works/std/jb-bbb1.jpg" >
                                 <div class="overlay" id="bbb">
                                 </div>
+                                <h4 class="titel" id="bbb">Bread and Butter</h4>
                         </div>
 
 <!-- DESIGNS -->
 
                         <div class="clickable designs ">
-                                <h3 class="overlay-txt" id="jb-design">Just Brands Design</h3>
                                 <img src="img/works/des/jb-design1.jpg" >
                                 <div class="overlay" id="jb-design">
                                 </div>
+                                <h4 class="titel" id="jb-design">Just Brands Design</h4>
                         </div>
 
                 </div>
