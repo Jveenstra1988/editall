@@ -137,7 +137,7 @@
 
             <a href="#" class="btn-rood a-btn" id="work-load">
                 <span class="a-btn-text">bekijk projecten</span> 
-                <span class="a-btn-slide-text"><img src="img/icon-works-button.png" width="50"></span>
+               <!--  <span class="a-btn-slide-text"><img src="img/icon-works-button.png" width="50"></span> -->
                 <span class="a-btn-icon-right"><span><img src="img/next.png"></span></span>
             </a>
             
@@ -181,7 +181,7 @@
 
             <a href="" class="btn-turq a-btn" id="how-we-work">
                 <span class="a-btn-text">Onze werkwijze</span> 
-                <span class="a-btn-slide-text"><img src="img/icon-profile-button.png" width="50"></span>
+                <!-- <span class="a-btn-slide-text"><img src="img/icon-profile-button.png" width="50"></span> -->
                 <span class="a-btn-icon-right profilebutton"><span><img src="img/next.png"></span></span>
             </a>
             

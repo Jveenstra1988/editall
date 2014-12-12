@@ -327,8 +327,14 @@ img.big {
 /* 	float: left; */
 	display: block !important;
 	z-index: 9999;
-	margin: 1.4em;
+	margin: 1.2em 2.2em;
 /* 	position: absolute; */
+}
+
+.back:hover {
+	color: #F6F6F6;
+	background: #D41217;
+	border-color: #D41217;
 }
 
 .last-but-not-least {
@@ -443,7 +449,7 @@ nav ul li a {
 }
 
 nav ul li a:hover 	{ border-bottom: 2px solid #EEE5DA; padding-bottom: .3em; outline: none;}
-nav ul li a.active 	{ border-bottom: 2px solid #EEE5DA; padding-bottom: .3em; outline: none;}
+nav ul li a.active 	{ border-bottom: 2px solid #D41217; padding-bottom: .3em; outline: none;}
 nav ul li.home a:hover 	{border-bottom: none; outline: none;}
 nav ul li.home a:active {border-bottom: none; outline: none;}
 nav ul li img 		{ width: 24%; margin-top: -.15em;}
@@ -946,13 +952,16 @@ article.how-we-work {
 
 #works-overzicht header h1 {
 	display: inline-block;
-	margin-left: 20px;
+	margin-left: 30px;
+	margin-bottom: 15px;
+	font-size: 170%;
+	border-bottom: 3px solid #D41217;
 }
 
 #works-overzicht header .subnav {}
 #works-overzicht header .subnav a {
 	display: block;
-	margin: 10px 40px;
+	margin: 10px 30px;
 }
 
 #works-overzicht img {

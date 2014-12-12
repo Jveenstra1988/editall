@@ -4,7 +4,7 @@ STORES - STORES - STORES - STORES -
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 <!-- JUST BRANDS STORES -->
 <section class="bg-grijs3" id="jb-stores">
-    <a href="#" class="btn-rood close">Close</a>
+    <a href="#" class="btn-rood close">Sluiten</a>
     <div class="absolute-vorige">
     	<a title="vorige" class="tooltip btn-rood prev-project" id="jb-design">&#8592; Vorige</a>
     </div>
