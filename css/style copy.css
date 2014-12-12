@@ -33,7 +33,7 @@ a.active,
 a:hover, 
 a:active, 
 a:visited {
-	font-size: 			95%;
+	font-size: 			100%;
 	text-decoration: 	none;
 	color:				#23262A;
 	cursor: 			pointer;
@@ -151,10 +151,10 @@ a.btn-rood, a.btn-wit, a.btn-grijs, a.btn-turq, a.btn-zwart, a.btn-antra {
 }
 
 /* Buttons */
-a.btn-rood	{ color:#F6F6F6; background:#D41217; border: solid 1px #93130a; border-bottom: 5px solid #93130a; }
+a.btn-rood	{ color:#F6F6F6; background:#D41217; border: solid 1px #93130a; border-bottom: 5px solid #93130a; text-shadow: 2px 2px 1px #93130a; }
 a.btn-wit	{ color:#282B30; background:#F6F6F6; border: solid 1px #F6F6F6; border-bottom: 5px solid #F6F6F6; }
 a.btn-grijs { color:#efefef; background:#b5b5b5; border: solid 1px #8d8d8d; border-bottom: 5px solid #8d8d8d; }
-a.btn-turq	{ color:#F6F6F6; background:#33B6B3; border: solid 1px #258c8b; border-bottom: 5px solid #258c8b; }
+a.btn-turq	{ color:#F6F6F6; background:#33B6B3; border: solid 1px #258c8b; border-bottom: 5px solid #258c8b; text-shadow: 2px 2px 1px #258c8b; }
 a.btn-zwart	{ color:#F6F6F6; background:#282B30; border: solid 1px #282B30; border-bottom: 5px solid #282B30; }
 a.btn-antra	{ color:#F6F6F6; background:#404951; border: solid 1px #404951; border-bottom: 5px solid #2c3338; }
 
@@ -167,6 +167,7 @@ a.btn-antra	{ color:#F6F6F6; background:#404951; border: solid 1px #404951; bord
     overflow: hidden;
     transition: all 0.3s linear;
 	padding-right: 80px !important;
+/* 	margin-top: 3em; */
 }
 
 .a-btn-text{
@@ -324,11 +325,10 @@ img.big {
 }
 
 .back, .back-to-overzicht {
-/* 	float: left; */
-	display: block !important;
+	float: left;
+	display: block;
 	z-index: 9999;
-	margin: 1.4em;
-/* 	position: absolute; */
+	position: absolute;
 }
 
 .last-but-not-least {
@@ -577,7 +577,8 @@ article span {
 article.images {
 	width: 75%;
 	float: right;
-	padding: 0px 20px 0 25%;
+	padding: 0px;
+	padding-right: 20px;
 	margin: 0px;
 }
 
@@ -937,7 +938,7 @@ article.how-we-work {
 #works-overzicht header {
 	background: #1C1C1C;
 	position: fixed;
-	width: 220px;
+	width: 16%;
 	height: 100%;
 /* 	position: absolute; */
 	z-index: 999;
@@ -945,7 +946,6 @@ article.how-we-work {
 
 #works-overzicht header h1 {
 	display: inline-block;
-	margin-left: 20px;
 }
 
 #works-overzicht header .subnav {}
@@ -1114,38 +1114,62 @@ a.video img.img-stack:before {
 	line-height: 1 !important;
 	position: relative;
 	border-bottom: 2px solid #aeaeae;
-    -webkit-transition: all 600ms ease;
-	-moz-transition: all 600ms ease;
-	-ms-transition: all 600ms ease;
-	-o-transition: all 600ms ease;
-	transition: all 600ms ease;
-    overflow: hidden;
 }
 
-h5.clickable {
-    width: 100% !important;
-    margin-top: 1em !important;
-    background: #aeaeae;
-    padding: .2em;
-    border: none !important;
+#dynamic-container .all2 {
+	display: none;
 }
 
-#project-overzicht-container .clickable img {
-    -webkit-transition: all 200ms ease-out;
-	-moz-transition: all 200ms ease-out;
-	-ms-transition: all 200ms ease-out;
-	-o-transition: all 200ms ease-out;
-	transition: all 200ms ease-out;
+#project-overzicht-container .clickable .overlay {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	background-color: #0D0D0D; 
+	font-size: .5em;
+	letter-spacing: normal;
+	color: #767676;
+	opacity: 0;
+	filter: alpha(opacity=0);
+	z-index: 99;
+	-webkit-transition: all 200ms ease-in;
+	-moz-transition: all 200ms ease-in;
+	-ms-transition: all 200ms ease-in;
+	-o-transition: all 200ms ease-in;
+	transition: all 200ms ease-in;
 }
-#project-overzicht-container .clickable:hover img {
-    width: 108%;
-    margin-top: -6%;
-    margin-left: -4%;
-    -webkit-transition: all 200ms ease-out;
-	-moz-transition: all 200ms ease-out;
-	-ms-transition: all 200ms ease-out;
-	-o-transition: all 200ms ease-out;
-	transition: all 200ms ease-out;
+
+#project-overzicht-container .clickable:hover .overlay {
+	opacity: .8;
+	filter: alpha(opacity=60);
+	font-size: .5em;
+}
+
+#project-overzicht-container .clickable:hover .overlay-txt {
+	border-top: 1px dashed #e1e1e1;
+	border-bottom: 1px dashed #e1e1e1;
+	visibility: visible;
+	margin-top: 24%;
+}
+
+#project-overzicht-container .clickable .overlay-txt {
+	position: absolute;
+	-webkit-transition: all 200ms ease-in;
+	-moz-transition: all 200ms ease-in;
+	-ms-transition: all 200ms ease-in;
+	-o-transition: all 200ms ease-in;
+	transition: all 200ms ease-in;
+	z-index: 999;
+	width: 100%;
+	font-size: .8em;
+	visibility: hidden;
+	color: #b2b2b2;
+	margin-top: 22%;
+	padding: .7em 0em .6em 0em;
+	font-weight: 300;
+	line-height: 1 !important;
+	color: lightgray;
 }
 
 #project-overzicht-container .clickable span {

@@ -3,11 +3,11 @@
 
 <header>
 
-<a href="#" class="btn-rood back">&#8592; Terug</a>
-<h1 class="titel-wit titel-left">Projecten</h1>
+<a href="#" class="btn-wit back">&#8592; Terug</a>
+<h1 class="txt-wit">Projecten</h1>
 
                         <div class="subnav">
-                            <a href="#" class="btn-rood active proj" id="all"> All</a>
+                            <a href="#" class="btn-wit stroke cat active" id="all"> All</a>
                             <a href="#" class="btn-wit stroke cat" id="stores">Stores</a>
                             <a href="#" class="btn-wit stroke cat" id="commercials">Commercials</a>
                             <a href="#" class="btn-wit stroke cat" id="interiors">Interieurs</a>
