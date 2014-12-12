@@ -28,7 +28,11 @@ html, body {
 }
 
 
-a {
+a, 
+a.active,
+a:hover, 
+a:active, 
+a:visited {
 	font-size: 			100%;
 	text-decoration: 	none;
 	color:				#23262A;
@@ -387,7 +391,6 @@ nav {
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
 	box-sizing: border-box;         /* Opera/IE 8+ */
-/* 	border: .3em solid #D5D5D5; */
 	-webkit-transition: all 200ms ease-in-out;
 	-moz-transition: all 200ms ease-in-out;
 	-ms-transition: all 200ms ease-in-out;
@@ -429,7 +432,6 @@ nav ul li {
 }
 
 nav ul li a {
-	/* text-shadow: 1px 1px 0px #CCCCCC; */
     -webkit-transition: all 300ms ease-in;
     -moz-transition: all 300ms ease-in;
     -ms-transition: all 300ms ease-in;
@@ -439,9 +441,9 @@ nav ul li a {
     padding-bottom: 1.8em;
 }
 
-nav ul li a:hover { border-bottom: 2px solid #EEE5DA; padding-bottom: .3em;}
+nav ul li a:hover 	{ border-bottom: 2px solid #EEE5DA; padding-bottom: .3em; outline: none; }
+nav ul li a.active 	{ border-bottom: 2px solid #EEE5DA; padding-bottom: .3em; outline: none; }
 
-nav ul li a.active { border-bottom: 2px solid #EEE5DA; padding-bottom: .3em; }
 
 nav ul li img {
 	width: 24%;
@@ -561,7 +563,7 @@ article header img {
 	margin: 0 auto;
 	display: block;
 	max-width: 100px;
-/* 	margin-bottom: 2em; */
+	margin-bottom: 1em;
 }
 
 article p {
