@@ -22,10 +22,12 @@
                         <div id="results" class="imageholder">
 
 <!-- STORES -->
+                        <h5 class="clickable stores">Stores</h5>
                         
                         <div class="clickable stores ">
                                 <img src="img/works/sto/jb-store4.jpg" >
-                                <div class="overlay" id="jb-stores"></div>
+                                <div class="overlay" id="jb-stores">
+                                </div>
                                 <h4 class="titel" id="jb-stores">Just Brands Stores</h4>
                         </div> 
 
@@ -49,6 +51,7 @@
                         </div>
 
 <!-- COMMERCIALS -->
+                         <h5 class="clickable commercials">Commercials</h5>
 
                         <div class="clickable commercials ">
                                 <img src="img/works/com/dre3.jpg" >
@@ -122,18 +125,12 @@
                         </div>
 
 <!-- INTERIEURS -->
+                         <h5 class="clickable interiors">Interieurs</h5>
 
                         <div class="clickable interiors ">
                                 <img src="img/works/int/jutter8.jpg" >
                                 <div class="overlay" id="dejutter-almere"></div>
                                 <h4 class="titel" id="dejutter-almere">Strandbrasserie de Jutter</h4>
-                        </div>
-
-                        <div class="clickable horeca ">
-                                <img src="img/works/int/wildschut1.jpg" >
-                                <div class="overlay" id="wildschut">
-                                </div>
-                                <h4 class="titel" id="wildschut">Wildschut</h4>
                         </div>
 
                         <div class="clickable interiors ">
@@ -144,6 +141,15 @@
                         </div>
 
 <!-- HORECA -->                        
+                        <h5 class="clickable horeca">Horeca</h5>
+                            
+                        <div class="clickable horeca ">
+                                <img src="img/works/int/wildschut1.jpg" >
+                                <div class="overlay" id="wildschut">
+                                </div>
+                                <h4 class="titel" id="wildschut">Wildschut</h4>
+                        </div>
+                            
                         <div class="clickable horeca ">
                                 <img src="img/works/hor/peters6.jpg" >
                                 <div class="overlay" id="peters">
@@ -159,6 +165,7 @@
                         </div>
 
 <!-- STANDS -->
+                         <h5 class="clickable stands">Stands</h5>
 
                         <div class="clickable stands ">
                                 <img src="img/works/std/heineken3.jpg" >
@@ -180,6 +187,7 @@
                         </div>
 
 <!-- DESIGNS -->
+                         <h5 class="clickable designs">Designs</h5>
 
                         <div class="clickable designs ">
                                 <img src="img/works/des/jb-design1.jpg" >
