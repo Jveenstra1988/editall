@@ -204,7 +204,7 @@ $(document).on('click','.back', function(){
 })
 
 // Load project information
-$(document).on('click','#results div, .overlay-txt', function() {
+$(document).on('click','#results div, .titel', function() {
 	var navClass = $(this).attr("id");
 
     $('#project-overzicht-container').css({

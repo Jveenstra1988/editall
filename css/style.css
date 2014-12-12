@@ -575,10 +575,11 @@ article span {
 }
 
 article.images {
-	width: 75%;
-	float: right;
-	padding: 0px 20px 0 25%;
+	width: 100%;
+	padding: 10px 0 0 0;
 	margin: 0px;
+    padding-left: 230px;
+    box-sizing: border-box;
 }
 
 article.images h4.titel {
@@ -1501,11 +1502,11 @@ aside {
 	
 	/* buttons */
 	.back, .back-to-overzicht, .back-to-profile, .next-project {
-		margin-left: 0px;
-		margin-right: 0px;
-		margin-top: 0px;
+		margin-left: 10px;
+		margin-right: 10px;
+		margin-top: 10px;
 		display: block;
-		width: 45%;
+		width: 35%;
 	}
 	
 	.back-to-overzicht, .back-to-profile {
@@ -1559,6 +1560,25 @@ aside {
 		margin-bottom: .6em;
 		margin-top: .5em;
 	}
+    
+    #works-overzicht header {
+        width: 100%;
+        height: 10%;
+    }
+    
+    article.images {
+        padding: 4em 0 0 0;
+    }
+    
+    #works-overzicht header h1 {
+        position: fixed;
+        right: 20px;
+        top: 10px;
+    }
+    
+    .back {
+        
+    }
 
 }
 
@@ -1668,11 +1688,12 @@ aside {
 	}
 	
 	.back {
-		margin-left: 0px;
-		margin-top: inherit;
+		margin-left: 10px;
+		margin-top: 10px;
 		margin-bottom: 10px;
-		position: relative;
+		position: absolute;
 		font-size: 14px;
+        width: 20%;
 	}
 		
 	.pager {
@@ -1694,6 +1715,11 @@ aside {
 		margin-left: 14px;
 		margin-top: -62px;
 	}
+    
+    #works-overzicht header {
+        width: 100%;
+        height: 10%;
+    }
 	
 }
 
