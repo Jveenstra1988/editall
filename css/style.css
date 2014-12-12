@@ -900,7 +900,7 @@ article.how-we-work {
 
 }
 
-#project-overzicht-container, #project-detail-container {
+#project-overzicht-container, #project-detail-container, #detail-container {
     width: 100%;
     height: 100%;
     position: fixed;
@@ -912,16 +912,18 @@ article.how-we-work {
     display: none;
 }
 
-#project-detail-container {
+#project-detail-container, #detail-container {
     z-index: 1003;
 /*    height: auto;*/
     background: #e5e4e4;
 }
 
 #works-overzicht {
+/*
     height: auto;
     min-height: 100%;
     z-index: 1001;
+*/
 }
 
 #works-overzicht article {
@@ -980,7 +982,7 @@ article.how-we-work {
 /* Projecten content */
 
 
-#project-detail-container article.content {
+#project-detail-container article.content, #detail-container article.content {
 /* 	overflow-y: hidden; */
 /*	height: 100%;*/
 /*
@@ -992,23 +994,23 @@ article.how-we-work {
 /*	z-index: 99;*/
 }
 
-#project-detail-container .close {
+#project-detail-container .close, #detail-container .close {
     right: 0;
     position: absolute;
     z-index: 9999;
 }
 
-#project-detail-container article.content h1 {
+#project-detail-container article.content h1, #detail-container article.content h1 {
 /* 	display: inline-block; */
 }
 
-#project-detail-container article.content h5 {
+#project-detail-container article.content h5, #detail-container article.content h5 {
 	background: #B5B5B5;
 	padding: .3em .4em;
 	width: 92%;
 }
 
-#project-detail-container article.content p {
+#project-detail-container article.content p, #detail-container article.content p {
 	display: inline-block;
 	width: 46%;
 	vertical-align: top;
@@ -1017,11 +1019,15 @@ article.how-we-work {
 	margin: 1.2em .4em;
 }
 
-#project-detail-container article.content p.breed {
+#detail-container article.content p {
+    border-top: 1px dashed #33B6B3;
+}
+
+#project-detail-container article.content p.breed, #detail-container article.content p.breed {
 	width: 100%;
 }
 
-#project-detail-container article.content p a {
+#project-detail-container article.content p a, #detail-container article.content p a {
 	background: #252b30;
 	color: #d5d5d5;
 	padding: .2em .3em;
@@ -1031,12 +1037,12 @@ article.how-we-work {
 	margin-bottom: .3em;
 }
 
-#project-detail-container article.content p a:hover {
+#project-detail-container article.content p a:hover, #project-detail-container article.content p a:hover {
 	/*background: #f6f6f6;*/
 	color: #d41217;
 }
 
-#project-detail-container article.content img.attribute {
+#project-detail-container article.content img.attribute, #detail-container article.content img.attribute {
 	width: 45%;
 	display: inline-block;
 	vertical-align: top;
@@ -1044,7 +1050,7 @@ article.how-we-work {
 	border-bottom: 3px solid #b5b5b5;	
 }
 
-#project-detail-container article.content img.img-stack {
+#project-detail-container article.content img.img-stack, #detail-container article.content img.img-stack {
 	width: 23%;
 	display: inline-block;
 	vertical-align: top;
@@ -1055,7 +1061,9 @@ article.how-we-work {
 }
 
 #project-detail-container article.content img.attribute:hover,
-#project-detail-container article.content img.img-stack:hover {
+#project-detail-container article.content img.img-stack:hover, 
+#detail-container article.content img.attribute:hover,
+#detail-container article.content img.img-stack:hover {
 	opacity: .6;	
 }
 

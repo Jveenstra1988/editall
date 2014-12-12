@@ -24,25 +24,21 @@ $(document).ready(function(){
 	
 	// Initiate swiper-------------------------------------------------
 	var mySwiper = $('.swiper-container').swiper({
-		//Your options here:
 		mode:'horizontal',
 		loop: true,
 		autoplay: 3000,
 		speed: 2400,
 		autoResize: true,
 		//calculateHeight: true
-		//etc..
 	});
 	
 	var mySwiper2 = $('.swiper-container2').swiper({
-		//Your options here:
 		mode:'horizontal',
 		loop: true,
 		autoplay: 3000,
 		speed: 2400,
 		autoResize: true,
 		//calculateHeight: true
-		//etc..
 	});
 	
 	$('.arrow-left').on('click', function(e){
@@ -67,11 +63,9 @@ $(document).ready(function(){
 		if ( $window.scrollTop() >= distance ) {
 			// Your div has reached the top
 			$("nav").removeClass("bottom");
-/* 			$("nav").addClass("antra"); */
 			$('img.logo').css({display: 'none'});
 		} else {
 			$("nav").addClass("bottom");
-/* 			$("nav").removeClass("antra");	 */
 		}
 		
 		//change class of nav img so it can come out of nav and get back in
@@ -105,7 +99,6 @@ $(document).ready(function(){
 	});
 	
 //  scroll to navigation-----------------------------------------
-	//$("#home, #bth").click(function() {
 	$(document).on('click','#home, #bth', function() {
 		$('html, body').animate({
 		    scrollTop: $("#home-container").offset().top
@@ -149,73 +142,7 @@ $(document).ready(function(){
 		}, 600);
 		return false
 	});
-	
-//	disable scroll
-//	$(document).on('click', '#work-load', function() {
-//		$('nav').slideUp();
-//		$('body').addClass('no-overflow');
-//		$('body').bind('touchmove', function(e){e.preventDefault()});
-//		//$('body').unbind('touchmove');
-//		$('body').bind('mousewheel', function(e) {
-//				if (e.target.id == 'el') return;
-//				e.preventDefault();
-//		});
-////		Zorg dat bij schalen de container altijd in view blijft
-//		$( window ).resize(function() {
-//			$('html, body').animate({
-//				scrollTop: $("#works-container").offset().top
-//			}, 0);
-//		});
-//		return false
-//	});
-	
-	$(document).on('click', '#how-we-work', function() {
-//		$('nav').slideUp();
-//		$('body').addClass('no-overflow');
-//		$('body').bind('touchmove', function(e){e.preventDefault()});
-//		//$('body').unbind('touchmove');
-//		$('body').bind('mousewheel', function(e) {
-//				if (e.target.id == 'el') return;
-//				e.preventDefault();
-//		});
-//		Zorg dat bij schalen de container altijd in view blijft
-//		$( window ).resize(function() {
-//			$('html, body').animate({
-//				scrollTop: $("#profile-container").offset().top
-//			}, 0);
-//		});
-		return false
-	});
-	
-//	enable scroll
-//	$(document).on('click', '.back-to-profile', function() {
-//		$('nav').slideDown();
-//		$('body').removeClass('no-overflow');
-//		$('body').unbind('touchmove');
-//		$('body').unbind('mousewheel');
-//		$( window ).resize(function() {
-//			$('html, body').animate({
-//				scrollTop: $("#profile-container").offset().top
-//			}, 0);
-//		});
-//		return false
-//	});
-	
-	$(document).on('click', '.back', function() {
-//		$('nav').slideDown();
-//		$('body').removeClass('no-overflow');
-//		$('body').unbind('touchmove');
-//		$('body').unbind('mousewheel');
 		
-//		Zorg dat bij schalen de container altijd in view blijft
-//		$( window ).resize(function() {
-//			$('html, body').animate({
-//				scrollTop: $("#works-container").offset().top
-//			}, 600);
-//		});
-//		return false
-	});
-	
 //	scroll to contact
 	$("#contact, #divider5").click(function() {
 		$('html, body').animate({
@@ -234,197 +161,9 @@ $(document).ready(function(){
 	};
 })
 
-//	MAPS-------------------------------------------------------
-function initialize() {
-	var styles = [
-		{
-		  "featureType": "poi",
-		  "stylers": [
-			{ "visibility": "off" }
-		  ]
-		},{
-		  "featureType": "road",
-		  "stylers": [
-			{ "visibility": "simplified" },
-			{ "color": "#F2F4F5" }
-		  ]
-		},{
-		  "featureType": "transit",
-		  "stylers": [
-			{ "color": "#808080" },
-			{ "visibility": "off" }
-		  ]
-		},{
-		  "featureType": "water",
-		  "stylers": [
-			{ "visibility": "simplified" },
-			{ "color": "#B2CFDC" }
-		  ]
-		},{
-		  "featureType": "landscape.man_made",
-		  "stylers": [
-			{ "visibility": "simplified" },
-			{ "color": "#E5E9EC" }
-		  ]
-		},{
-		  "featureType": "landscape.natural",
-		  "stylers": [
-			{ "color": "#D9E0E3" },
-			{ "visibility": "simplified" }
-		  ]
-		},{
-		  "featureType": "administrative",
-		  "stylers": [
-			{ "visibility": "off" }
-		  ]
-		}
-	]
-	
-	
-	// Create a new StyledMapType object, passing it the array of styles,
-	// as well as the name to be displayed on the map type control.
-	var styledMap = new google.maps.StyledMapType(styles, {
-		name: "Styled Map"
-	});
-  
-	// Create a map object, and include the MapTypeId to add
-	// to the map type control.
-	var myLatLng = new google.maps.LatLng(52.511171,4.784778);
-	var mapOptions = {
-		zoom: 15,
-		scrollwheel: false,
-		draggable: false,
-		center: myLatLng,
-		mapTypeControlOptions: {
-			mapTypeIds: [google.maps.MapTypeId.ROADMAP, 'map_style']
-		}
-	};
-	
-	// bind map to div with id map-canvas
-	var map = new google.maps.Map(document.getElementById('map-canvas'),
-		mapOptions);
-	
-	// Create marker
-	var image = 'img/icon-pin.png';
-	var marker = new google.maps.Marker({
-		position: myLatLng,
-		map: map,
-		title: 'Edit-All',
-		icon: image,
-		animation: google.maps.Animation.DROP
-	});
-	
-	// marker click events
-	google.maps.event.addListener(marker, 'click',  function() {
-		//infowindow.open(map,marker);
-		toggleBounce();
-	});
-	
-	// Create content for info window
-	var contentString = '<div id="content">'+
-      '<div id="siteNotice">'+
-      '</div>'+
-      '<div>'+
-      '<p>'+
-      '<a>Samsonweg<br> 134 1521 RM Wormerveer <br> Nederland</a> '+
-      '</p>'+
-	  '<a href="https://www.google.nl/maps/dir//Samsonweg+134,+1521+RM+Wormerveer/@52.5111776,4.7801536,16z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x47c5fbf83ecd8a3d:0x48f43493c70f13d1!2m2!1d4.7847777!2d52.5111712" target=_blank" class="btn-rood">Route</a>'+
-      '</div>'+
-      '</div>';
-	
-	// fill info window with content
-	var infowindow = new google.maps.InfoWindow({
-		content: contentString,
-		maxWidth: 600,
-	});
-	infowindow.open(map,marker);
-	
-	// Create marker animation
-	function toggleBounce() {
-		if (marker.getAnimation() != null) {
-			marker.setAnimation(null);
-		} else {
-			marker.setAnimation(google.maps.Animation.BOUNCE);
-		}
-	}
-	marker.setAnimation(google.maps.Animation.BOUNCE);
-  
-	//Associate the styled map with the MapTypeId and set it to display.
-	map.mapTypes.set('map_style', styledMap);
-	map.setMapTypeId('map_style');
-}
-
-google.maps.event.addDomListener(window, 'load', initialize);
-
-
-//Preload functie ---------------------------------------------------
-//voor het inladen van hires afbeeldingen
-function preload() {
-	var preloader 	= new createjs.LoadQueue(true, '');
-	var images 		= $('img, .hires');
-	var manifest 	= [];
-
-	images.each(function(i, el){
-		if($(el)[0].nodeName === 'IMG')
-			var fullFilename 	= el.src;
-		else
-			var fullFilename	= $(el).css('backgroundImage').replace('url(','').replace(')','');
-
-		var extension		= fullFilename.substr(fullFilename.lastIndexOf('.') + 1);
-		var filename 		= fullFilename.substr(0, fullFilename.lastIndexOf('.'));
-
-		var id = $(el).attr('id') || 'hires_image_' + makeid();
-
-		$(el).attr('id', id);
-
-		var whatToLoad		= filename + '-hires.' + extension;
-		//whatToLoad			= 'img/hires.png?time=' + makeid();
-
-		manifest.push({src: whatToLoad, id: id});
-	});
-	
-	preloader.addEventListener('fileload', handleCompleted);
-	preloader.addEventListener('progress', handleProgress);
-	preloader.loadManifest(manifest);
-
-	function handleCompleted(event)
-	{
-		var el = $('#' + event.item.id);
-
-		if(el[0].nodeName === 'IMG')
-			el.attr('src', event.item.src);
-		else
-			el.css('backgroundImage', 'url(' + event.item.src + ')');
-	}
-
-
-	function handleProgress(event) {
-		console.log('TOTAL: ' + (preloader.progress * 100) + '%');
-	}
-
-	function makeid()
-	{
-		var text = "";
-		var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
-
-		for( var i=0; i < 5; i++ )
-			text += possible.charAt(Math.floor(Math.random() * possible.length));
-
-		return text;
-	}
-}
-
 // Dynamic loading---------------------------------------------
 // Load and unload works-overzicht.php
 $(document).on('click','#work-load', function() {
-//	$('#dynamic-container').animate({ left : '-100%' }, 300).queue(function( nxt ) {
-//		$(this).css({ left: '100%'})
-//		$(this).load('inc/works-overzicht.php');
-//		nxt();
-//		$('#dynamic-container').animate({ left : '0' }, 300);
-//	});
-    
-    
     $('#project-overzicht-container').animate({ left : '-100%' }, 300).queue(function( nxt ) {
         $(this).css({ display: 'block', left: '100%'})
         $(this).load('inc/works-overzicht.php', function(){
@@ -446,16 +185,7 @@ $(document).on('click','#work-load', function() {
 });
 
 // Load original content
-$(document).on('click','.back', function(){
-	// change background color of main container (in dept effect)
-//    $('#dynamic-container').animate({ left : '100%' }, 300).queue(function( nxt ) {
-//		$(this).load('inc/works-content.php .works');
-//		nxt();
-//		
-//		$('#dynamic-container').css({ left : '-100%' });
-//		$('#dynamic-container').animate({ left : '0' }, 300);
-//	});
-    
+$(document).on('click','.back', function(){    
     $('#project-overzicht-container').animate({ left : '100%' }, 300).queue(function( nxt ) {
         $('body').css('overflowY', 'scroll');
 		$(this).css({ left : '-100%' });
@@ -544,35 +274,17 @@ $(document).on('click', '.prev-project', function() {
 	return false;
 });
 
-$(document).on('click','.back-to-overzicht', function(){
-    $('#dynamic-container').animate({ left : '100%' }, 300).queue(function( nxt ) {
-		$(this).load('inc/works-overzicht.php');
-		nxt();
-		$('#dynamic-container').css({ left : '-100%' });
-		$('#dynamic-container').animate({ left : '0' }, 300);
-	});
-	$('#works-container').css({ 'background': 'url(img/works-1.jpg) center center no-repeat',
-							  'background-size': 'cover'});
-	if ( ($(window).width()) > 900 ) {
-		$('img, body').addClass('hires');
-		if (jQuery.browser.mobile == false) {
-			$('img').addClass('hires');
-		}
-	}else{
-		$('img, body').removeClass('hires');
-	};
-	return false;
-})
 
 // Load how-we-work.php
 $(document).on('click','#how-we-work', function() {
-	$('#dynamic-container-profile').animate({ left : '-100%' }, 300).queue(function( nxt ) {
-		$(this).css({ left: '100%'})
-		$(this).load('inc/how-we-work.php');
-		nxt();
-		$('#dynamic-container-profile').animate({ left : '0' }, 300);
-	});
-	if ( ($(window).width()) > 900 ) {
+//	var navClass = $(this).attr("id");
+
+    $('body').css({
+        'overflowY': 'hidden'
+    });
+    $('#detail-container').fadeToggle();
+    $('#detail-container').load('inc/how-we-work.php');
+    if ( ($(window).width()) > 900 ) {
 		$('img, body').addClass('hires');
 		if (jQuery.browser.mobile == false) {
 			$('img').addClass('hires');
@@ -580,27 +292,18 @@ $(document).on('click','#how-we-work', function() {
 	}else{
 		$('img, body').removeClass('hires');
 	};
+//    $('.sidenav').load('inc/works-overzicht.php .clickable');
 	return false;
 });
 
-// Unload how-we-work.php (Load original content)
-$(document).on('click','.back-to-profile', function(){
-    $('#dynamic-container-profile').animate({ left : '100%' }, 300).queue(function( nxt ) {
-		$(this).load('inc/works-content.php .profile');
-		nxt();
-		$('#dynamic-container-profile').css({ left : '-100%' });
-		$('#dynamic-container-profile').animate({ left : '0' }, 300);
-	});
-	if ( ($(window).width()) > 900 ) {
-		$('img, body').addClass('hires');
-		if (jQuery.browser.mobile == false) {
-			$('img').addClass('hires');
-		}
-	}else{
-		$('img, body').removeClass('hires');
-	};
+//close how we work
+$(document).on('click','.close2', function() {
+    $('body').css({
+        'overflowY': 'scroll'
+    });
+    $('#detail-container').fadeToggle();
 	return false;
-})
+});
 
 //Filter functie-------------------------------------------
 // Filter different projects
@@ -610,27 +313,17 @@ $(document).on('click','#all', function() {
 	$('#results .clickable').fadeOut(0);
 	$('#results .clickable').filter('.clickable').fadeIn(500);
 	
-	$('#works-overzicht article > a').removeClass('active');
+	$('#works-overzicht header .subnav a').removeClass('active');
 	$(this).addClass('active');
 	return false;
 });
-
-//// page 2
-//$(document).on('click','#all2', function() {
-//	$('#results .clickable').fadeOut(0);
-//	$('#results .clickable').filter('.all2').fadeIn( 500);
-//	$('.all2').css({display:'inline-block'})
-//	$('#works-overzicht article > a').removeClass('active');
-//	$(this).addClass('active');
-//	return false;
-//});
 
 //Stores
 $(document).on('click','#stores', function() {
 	$('#results .clickable').fadeOut(0);
 	$('#results .clickable').filter('.stores').fadeIn( 500);
 	$('.stores').css({display:'inline-block'});
-	$('#works-overzicht article > a').removeClass('active');
+	$('#works-overzicht header .subnav a').removeClass('active');
 	$(this).addClass('active');
 	return false;
 });
@@ -640,7 +333,7 @@ $(document).on('click','#commercials', function() {
 	$('#results .clickable').fadeOut(0);
 	$('#results .clickable').filter('.commercials').fadeIn( 500);
 	$('.commercials').css({display:'inline-block'});
-	$('#works-overzicht article > a').removeClass('active');
+	$('#works-overzicht header .subnav a').removeClass('active');
 	$(this).addClass('active');
 	return false;
 });
@@ -650,7 +343,7 @@ $(document).on('click','#interiors', function() {
 	$('#results .clickable').fadeOut(0);
 	$('#results .clickable').filter('.interiors').fadeIn( 500);
 	$('.interiors').css({display:'inline-block'});
-	$('#works-overzicht article > a').removeClass('active');
+	$('#works-overzicht header .subnav a').removeClass('active');
 	$(this).addClass('active');
 	return false;
 });
@@ -660,7 +353,7 @@ $(document).on('click','#horeca', function() {
 	$('#results .clickable').fadeOut(0);
 	$('#results .clickable').filter('.horeca').fadeIn( 500);
 	$('.horeca').css({display:'inline-block'});
-	$('#works-overzicht article > a').removeClass('active');
+	$('#works-overzicht header .subnav a').removeClass('active');
 	$(this).addClass('active');
 	return false;
 });
@@ -670,7 +363,7 @@ $(document).on('click','#stands', function() {
 	$('#results .clickable').fadeOut(0);
 	$('#results .clickable').filter('.stands').fadeIn( 500);
 	$('.stands').css({display:'inline-block'});
-	$('#works-overzicht article > a').removeClass('active');
+	$('#works-overzicht header .subnav a').removeClass('active');
 	$(this).addClass('active');
 	return false;
 });
@@ -680,7 +373,7 @@ $(document).on('click','#designs', function() {
 	$('#results .clickable').fadeOut(0);
 	$('#results .clickable').filter('.designs').fadeIn( 500);
 	$('.designs').css({display:'inline-block'});
-	$('#works-overzicht article > a').removeClass('active');
+	$('#works-overzicht header .subnav a').removeClass('active');
 	$(this).addClass('active');
 	return false;
 });

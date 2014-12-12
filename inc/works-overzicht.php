@@ -9,20 +9,20 @@
                                 <a href='#' class='btn-rood' id='page-two'>2</a>
                         </span>-->
 
-<div class="subnav">
-	<a href="#" class="btn-rood active proj" id="all"> All</a>
-	<a href="#" class="btn-wit stroke cat" id="stores">Stores</a>
-	<a href="#" class="btn-wit stroke cat" id="commercials">Commercials</a>
-	<a href="#" class="btn-wit stroke cat" id="interiors">Interieurs</a>
-	<a href="#" class="btn-wit stroke cat" id="horeca">Horeca</a>
-	<a href="#" class="btn-wit stroke cat" id="stands">Stands</a>
-	<a href="#" class="btn-wit stroke cat" id="designs">Designs</a>
-</div>
+                        <div class="subnav">
+                            <a href="#" class="btn-rood active proj" id="all"> All</a>
+                            <a href="#" class="btn-wit stroke cat" id="stores">Stores</a>
+                            <a href="#" class="btn-wit stroke cat" id="commercials">Commercials</a>
+                            <a href="#" class="btn-wit stroke cat" id="interiors">Interieurs</a>
+                            <a href="#" class="btn-wit stroke cat" id="horeca">Horeca</a>
+                            <a href="#" class="btn-wit stroke cat" id="stands">Stands</a>
+                            <a href="#" class="btn-wit stroke cat" id="designs">Designs</a>
+                        </div>
 
-</header>
+                        </header>
 
-<article class="images">
-<div id="results" class="imageholder">
+                        <article class="images">
+                        <div id="results" class="imageholder">
 
 <!-- STORES -->
                         
