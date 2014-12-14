@@ -1132,15 +1132,12 @@ a.video img.img-stack:before {
     overflow: hidden;
 }
 
-h5.clickable {
-    width: 100% !important;
-    margin-top: 1em !important;
-    background: #aeaeae;
-    padding: .2em;
-    border: none !important;
+#project-overzicht-container .clickable {
+	background: #181818;
 }
 
 #project-overzicht-container .clickable img {
+	opacity: .7;
     -webkit-transition: all 200ms ease-out;
 	-moz-transition: all 200ms ease-out;
 	-ms-transition: all 200ms ease-out;
@@ -1148,10 +1145,12 @@ h5.clickable {
 	transition: all 200ms ease-out;
 }
 #project-overzicht-container .clickable:hover img {
-    width: 108%;
-    margin-top: -6%;
-    margin-left: -4%;
-    -webkit-transition: all 200ms ease-out;
+	-webkit-transform: scale(1.03);
+	opacity: 1;
+	-ms-transform: scale(1.03);
+	-o-transform: scale(1.03);
+	transform: scale(1.03);
+	-webkit-transition: all 200ms ease-out;
 	-moz-transition: all 200ms ease-out;
 	-ms-transition: all 200ms ease-out;
 	-o-transition: all 200ms ease-out;
@@ -1164,6 +1163,15 @@ h5.clickable {
 	border-bottom: 1px dashed white;
 	height: 100%;
 }
+
+#project-overzicht-container h5.clickable {
+    width: 100% !important;
+    margin-top: 1em !important;
+    background: #aeaeae;
+    padding: .2em;
+    border: none !important;
+}
+
 
 /*
 -------------------------------------------
