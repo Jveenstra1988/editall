@@ -134,10 +134,8 @@
                 Onze passie ligt in de vorm, uitstraling en het effect op de gebruiker. 
                 Edit-All huisvest een groep zeer vakbekwame mensen die hart en ziel in hun werk leggen.
             </p>
-
             <a href="#" class="btn-rood a-btn" id="work-load">
                 <span class="a-btn-text">bekijk projecten</span> 
-               <!--  <span class="a-btn-slide-text"><img src="img/icon-works-button.png" width="50"></span> -->
                 <span class="a-btn-icon-right"><span><img src="img/next.png"></span></span>
             </a>
             

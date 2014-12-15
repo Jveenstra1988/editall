@@ -1,16 +1,8 @@
 /* Stylesheet Edit All *** Gemaakt door Jesse en Jeroen *** */
 
-
-
-/*
--------------------------------------------
-//////////// TYPOGRAFIE STYLES ////////////
--------------------------------------------
-*/
-
 html, body {
 	font-family: 	"milibus",sans-serif;
-	color: 			#282B30; /* Dit is de standaard zwart */
+	color: 			#1C1C1C; /* Dit is de standaard zwart */
 	margin: 		0 0 0 0;
 	padding: 		0 0 0 0;
 	font-size: 		100%;
@@ -18,21 +10,10 @@ html, body {
 	height: 		100%;
 }
 
+.no-overflow {overflow: hidden;}
+.stick-top {top: 0 !important;}
 
-.no-overflow {
-	overflow: hidden;
-}
-
-.stick-top {
-	top: 0 !important;
-}
-
-
-a, 
-a.active,
-a:hover, 
-a:active, 
-a:visited {
+a, a.active, a:hover, a:active, a:visited {
 	font-size: 			95%;
 	text-decoration: 	none;
 	color:				#23262A;
@@ -46,7 +27,6 @@ a:visited {
 .bg-turq 	p a	{ color: #282B30; }
 .bg-zwart 	p a	{ color: #1C1C1C; }
 .bg-antra 	p a	{ color: #1C1C1C; }
-
 
 .bg-rood a	{ color: #EEE5DA; }
 .bg-turq a	{ color: #EEE5DA; }
@@ -72,20 +52,16 @@ h1 i, h2 i, h3 i, h4 i, h5 i {
 	font-style: normal;
 }
 
-
 /* --- Tekstkleuren --- */
 .txt-rood	{ color: #D41217; }
 .txt-wit	{ color: #F6F6F6; }
 .txt-turq	{ color: #33B6B3; }
-.txt-zwart	{ color: #282B30; }
+.txt-zwart	{ color: #1C1C1C; }
 .txt-antra	{ color: #404951; }
-
 .txt-left  {text-align: left;}
 .txt-right {text-align: right;}
 
-p, ul, li {
-	font-weight: 300;
-}
+p, ul, li {font-weight: 300;}
 
 p b {
 	background: white;
@@ -117,7 +93,6 @@ p b {
 .bg-grijs3		{ background: #e5e4e4; }
 .bg-donkergrijs	{ background: #c7c7c7; }
 .bg-turq		{ background: #33B6B3; }
-/* .bg-zwart	{ background: #282B30; } */
 .bg-zwart		{ background: #1C1C1C; }
 .bg-antra		{ background: #1C1C1C; }
 
@@ -133,7 +108,6 @@ p b {
 .lijn-rood {
 	border-bottom: 1px dashed #E83F50;
 }
-
 
 /* Buttons Overall */
 a.btn-rood, a.btn-wit, a.btn-grijs, a.btn-turq, a.btn-zwart, a.btn-antra {
@@ -155,7 +129,7 @@ a.btn-rood	{ color:#F6F6F6; background:#D41217; border: solid 1px #93130a; borde
 a.btn-wit	{ color:#282B30; background:#F6F6F6; border: solid 1px #F6F6F6; border-bottom: 5px solid #F6F6F6; }
 a.btn-grijs { color:#efefef; background:#b5b5b5; border: solid 1px #8d8d8d; border-bottom: 5px solid #8d8d8d; }
 a.btn-turq	{ color:#F6F6F6; background:#33B6B3; border: solid 1px #258c8b; border-bottom: 5px solid #258c8b; }
-a.btn-zwart	{ color:#F6F6F6; background:#282B30; border: solid 1px #282B30; border-bottom: 5px solid #282B30; }
+a.btn-zwart	{ color:#f5f5f5; background:#1C1C1C; border: solid 1px #1C1C1C; border-bottom: 5px solid #1C1C1C; }
 a.btn-antra	{ color:#F6F6F6; background:#404951; border: solid 1px #404951; border-bottom: 5px solid #2c3338; }
 
 /* Main buttons */
@@ -233,16 +207,6 @@ a.btn-antra	{ color:#F6F6F6; background:#404951; border: solid 1px #404951; bord
 .a-btn:hover .a-btn-icon-right span{
 }
 
-/* Hovers */
-/*
-a.btn-rood:hover, a.btn-rood.active		{ background:#93130a; border-bottom: 5px solid #590f16;}
-a.btn-wit:hover, a.btn-wit.active		{ background:#bbbbbb; }
-a.btn-grijs:hover, a.btn-grijs.active 	{ background:#8d8d8d; border-bottom: 5px solid #606060;}
-a.btn-turq:hover, a.btn-turq.active		{ background:#218281; border-bottom: 5px solid #165c5b; }
-a.btn-zwart:hover, a.btn-zwart.active	{ background:#121315; }
-a.btn-antra:hover, a.btn-antra.active	{ background:#2c3338; border-bottom: 5px solid #0f1113;}
-*/
-
 /* Buttons Stroke */
 a.btn-rood.stroke,
 a.btn-wit.stroke,
@@ -256,7 +220,7 @@ a.btn-antra.stroke {
 a.btn-rood.stroke	{ border: 1px solid #D41217; background:none; color: #D41217; border-bottom: 3px solid #93130a;}
 a.btn-wit.stroke	{ border: 1px solid #F6F6F6; background:none; color: #F6F6F6; border-bottom: 3px solid #dbdbdb;}
 a.btn-turq.stroke	{ border: 1px solid #33B6B3; background:none; color: #33B6B3; border-bottom: 3px solid #165c5b;}
-a.btn-zwart.stroke	{ border: 1px solid #191B1E; background:none; color: #191B1E; border-bottom: 3px solid #191B1E;}
+a.btn-zwart.stroke	{ border: 1px solid #1C1C1C; background:none; color: #1C1C1C; border-bottom: 3px solid #1C1C1C;}
 a.btn-antra.stroke	{ border: 1px solid #404951; background:none; color: #404951; border-bottom: 3px solid #404951;}
 a.btn-grijs.stroke	{ border: 1px solid #8d8d8d; background:none; color: #8d8d8d; border-bottom: 3px solid #8d8d8d;}
 
@@ -264,7 +228,7 @@ a.btn-grijs.stroke	{ border: 1px solid #8d8d8d; background:none; color: #8d8d8d;
 a.btn-rood.stroke:hover, a.btn-rood.stroke.active   { border-color: #D41217;}
 a.btn-wit.stroke:hover,  a.btn-wit.stroke.active    { border-color: #282b30; background: #282b30; color: #f6f6f6;}
 a.btn-turq.stroke:hover,  a.btn-turq.stroke.active	{ border-color: #33B6B3;}
-a.btn-zwart.stroke:hover, a.btn-zwart.stroke.active	{ border-color: #191B1E; background: #191B1E; color: #E1E1E1;}
+a.btn-zwart.stroke:hover, a.btn-zwart.stroke.active	{ border-color: #1C1C1C; background: #1C1C1C; color: #E1E1E1;}
 a.btn-antra.stroke:hover, a.btn-antra.stroke.active	{ border-color: #404951;}
 a.btn-grijs.stroke:hover, a.btn-grijs.stroke:active { border-color: #696969;}
 
@@ -303,7 +267,7 @@ a.btn-grijs.stroke:hover, a.btn-grijs.stroke:active { border-color: #696969;}
 
 /* Borders */
 .br-turg 	{ border: 1px solid #33B6B3; }
-.br-zwart 	{ border: 1px solid #282B30; }
+.br-zwart 	{ border: 1px solid #1C1C1C; }
 .br-antra 	{ border: 1px solid #404951; }
 
 img.breed {
@@ -374,14 +338,6 @@ img.big {
 	margin-top: 40px;
 	display: block;
 }
-
-/*
-aside {
-	width: 27.25%;
-	padding: 1%;
-	float: right;
-}
-*/
 
 /*
 -------------------------------------------
@@ -550,7 +506,7 @@ section.clear { height:auto;}
 /* --- Articles --- */
 article {
 	width: 82%;
-	padding: 4%;
+	padding: 2% 4%;
 	margin: 0 auto;
 }
 
@@ -775,8 +731,6 @@ footer section article p:first-of-type:first-letter {
 	color: inherit;
 }
 
-
-
 /*
 -------------------------------------------
 //////////// GOOGLE MAPS STYLE ////////////
@@ -955,34 +909,52 @@ article.how-we-work {
 }
 
 /* Projecten content */
-
-
-#project-detail-container article.content, #detail-container article.content {}
-
-#project-detail-container .close, #detail-container .close {
-    right: 0;
-    position: absolute;
-    z-index: 9999;
+#project-detail-container article.content {
+	height: 100%;
 }
 
-#project-detail-container article.content h1, #detail-container article.content h1 {}
+#project-detail-container .close, #detail-container .close,
+.close2 {
+    right: 0;
+	background: #1C1C1C;
+	border-bottom: 3px solid #D41217;
+	color: #E5E4E4 !important;
+	padding: 1em;
+	right: 2%;
+	top: 3%;
+	position: fixed;
+	z-index: 9999;
+}
+
+#project-detail-container article.content h1, #detail-container article.content h1 {
+	padding: .6em 0em;
+	border-bottom: 3px solid #d41217;
+	margin-bottom: 1em;
+}
+
 #project-detail-container article.content h5, #detail-container article.content h5 {
-	background: #B5B5B5;
-	padding: .3em .4em;
-	width: 92%;
+	background: #1C1C1C;
+	color: #E5E4E4;
+	padding: .5em 0em;
+	width: 100%;
+}
+
+#project-detail-container article.content h5.sub, 
+#detail-container article.content h5.sub {
+	background: #E5E4E4;
+	color: #1C1C1C;
+	font-weight: 400;
+	border-top: 1px solid #C7C7C7;
+	border-bottom: 1px solid #C7C7C7;
+	margin: 1em 0em;
 }
 
 #project-detail-container article.content p, #detail-container article.content p {
+	width: 49%;
 	display: inline-block;
-	width: 46%;
 	vertical-align: top;
-	border-top: 1px dashed #d41217;
-	padding: .8em 0em;
-	margin: 1.2em .4em;
-}
-
-#detail-container article.content p {
-    border-top: 1px dashed #33B6B3;
+	padding-right: 4%;
+	margin: 0em;
 }
 
 #project-detail-container article.content p.breed, #detail-container article.content p.breed {
@@ -999,7 +971,6 @@ article.how-we-work {
 	margin-bottom: .3em;
 }
 
-
 #project-detail-container article.content p a:hover, #project-detail-container article.content p a:hover {
 	/*background: #f6f6f6;*/
 	color: #d41217;
@@ -1009,12 +980,11 @@ article.how-we-work {
 	width: 45%;
 	display: inline-block;
 	vertical-align: top;
-	margin: 1.2em 0em;
-	border-bottom: 3px solid #b5b5b5;	
+	border-bottom: 3px solid #b5b5b5;
 }
 
 #project-detail-container article.content img.img-stack, #detail-container article.content img.img-stack {
-	width: 23%;
+	width: 24%;
 	display: inline-block;
 	vertical-align: top;
 	line-height: 1 !important;
@@ -1026,17 +996,15 @@ article.how-we-work {
 #project-detail-container article.content img.img-stack:hover, 
 #detail-container article.content img.attribute:hover,
 #detail-container article.content img.img-stack:hover {
-	opacity: .6;	
+	opacity: 1;
 }
 
 a.video {
-	width: 23%;
+	width: 24%;
 	display: inline-block;
 	vertical-align: top;
-	
 	line-height: 1 !important;
 	letter-spacing: 1 !important;
-
 	-webkit-transition: background 200ms ease-out;
 	-moz-transition: background 200ms ease-out;
 	-ms-transition: background 200ms ease-out;
@@ -1137,8 +1105,6 @@ a.video img.img-stack:before {
     padding: .2em;
     border: none !important;
 }
-
-
 /*
 -------------------------------------------
 //////////// MEDIQUERIES ///////////
@@ -1146,51 +1112,16 @@ a.video img.img-stack:before {
 */
 
 @media screen and (min-width: 1024px) {	
-	
-	article {
-		width: 50%;
-	}
-	
-	/* navigatie */
-	nav ul li {
-		width: 12%;
-	}
-	
-	nav ul li img {
-		width: 70px;
-	}
+	article 		{ width: 50%;}
+	nav ul li 		{ width: 12%;}
+	nav ul li img 	{width: 70px;}
 }
 
 @media screen and (max-width: 1024px) {
-
-
-	/* De aside staat nog even in de koelkast */
-	/*
-aside {
-		display: none;
-	}
-
-	article.content {
-		padding-right: 40%;
-	}
-	
-*/
-	article { width: 70%; }
-	
-	/* Landing Logo */
-	.header-icon {
-		width: 7%;
-		left: 45.5%;
-	}
-
-	.header-icon:hover {
-		width: 7%;
-		left: 45.5%;
-	}	
-	
-	nav ul li img {
-		width: 40%;
-	}
+	article 			{ width: 70%; }
+	.header-icon		{width: 7%; left: 45.5%;}
+	.header-icon:hover 	{width: 7%; left: 45.5%;}	
+	nav ul li img 		{width: 40%;}
 	
 	.in-nav {
 		width: 11%;

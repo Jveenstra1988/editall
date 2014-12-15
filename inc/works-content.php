@@ -4,28 +4,24 @@ STORES - STORES - STORES - STORES -
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 <!-- JUST BRANDS STORES -->
 <section class="bg-grijs2" id="jb-stores">
-	<a href="#" class="btn-rood close">Sluiten</a>
+	<a href="#" class="close">Sluiten</a>
 	<a class="arrow-left prev-project" data-attribute="jb-design" href="#"></a>
 	<a class="arrow-right next-project" data-attribute="jb-sis" href="#"></a>
 
 	<article class="bg-grijs3 content">            
-		<h5>Stores</h5>
+		<h5>Stores</h5>		
 		<h1 class="txt-zwart txt-left">Just Brands Stores</h1> 
 		<p class="txt-zwart">
 			In samenwerking met Just Brands ontwerpt en ontwikkelt Edit-All de gehele huisstijl. 
 			Van winkels, showrooms en stands, tot shop-in-shop systemen voor retailers. 
 			Elk merk heeft een unieke uitstraling die doorgezet wordt in de meubels.
-			<br />
-			<br /> 
-			Just Brands Stores zijn te vinden in:
-			<b>Rotterdam, Hilversum, Utrecht, Haarlem, Alkmaar, Amsterdam, Almere, Osdorp, Den Haag, Zoetermeer, Zwolle </b>
 		</p>
 
 		<a href="img/works/sto/jb-store1-hires.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store1.jpg" class="attribute"></a>
 
+		<h5 class="sub">Beelden</h5>
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/rpieNS9KCcY?autoplay=1">
-			<img src="img/works/video/jb-video1.jpg" class="img-stack">
-			<span><img src="img/play.png"></span>
+		<img src="img/works/video/jb-video1.jpg" class="img-stack"><span><img src="img/play.png"></span>
 		</a> 
 
 		<a href="img/works/sto/jb-store9-hires.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store9.jpg" class="img-stack"></a>
@@ -36,12 +32,17 @@ STORES - STORES - STORES - STORES -
 		<a href="img/works/sto/jb-store7-hires.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store7.jpg" class="img-stack"></a>
 		<a href="img/works/sto/jb-store8-hires.jpg" data-lightbox="jbs"><img src="img/works/sto/jb-store8.jpg" class="img-stack"></a>
 
+		<p>
+			Just Brands Stores zijn te vinden in:
+			<b>Rotterdam, Hilversum, Utrecht, Haarlem, Alkmaar, Amsterdam, Almere, Osdorp, Den Haag, Zoetermeer, Zwolle </b>
+		</p>
+
 	</article>
 </section>
 
 <!-- PME LEGEND SHOP-IN-SHOP -->
 <section class="bg-grijs2" id="jb-sis">
-	<a href="#" class="btn-rood close">Sluiten</a>
+	<a href="#" class="close">Sluiten</a>
 	<a title="vorige" class="arrow-left prev-project" data-attribute="jb-stores"></a>
 	<a title="volgende" class="arrow-right next-project" data-attribute="jb-showroom"></a>
 
@@ -55,6 +56,8 @@ STORES - STORES - STORES - STORES -
 		</p>
 
 		<a href="img/works/sto/jb-sis1-hires.jpg" data-lightbox="sis"><img src="img/works/sto/jb-sis1.jpg" class="attribute"></a>
+
+		<h5 class="sub">Beelden</h5>
 		<a href="img/works/sto/jb-sis2-hires.jpg" data-lightbox="sis"><img src="img/works/sto/jb-sis2.jpg" class="img-stack"></a>
 		<a href="img/works/sto/jb-sis3-hires.jpg" data-lightbox="sis"><img src="img/works/sto/jb-sis3.jpg" class="img-stack"></a>
 	</article>
@@ -62,7 +65,7 @@ STORES - STORES - STORES - STORES -
 
 <!-- JUST BRANDS SHOWROOMS -->
 <section class="bg-grijs2" id="jb-showroom">
-	<a href="#" class="btn-rood close">Sluiten</a>
+	<a href="#" class="close">Sluiten</a>
 	<a title="vorige" class="arrow-left prev-project" data-attribute="jb-sis"></a>
 	<a title="volgende" class="arrow-right next-project" data-attribute="friends-emmen"></a>
 
@@ -78,6 +81,8 @@ STORES - STORES - STORES - STORES -
 		</p>
 
 		<a href="img/works/sto/jb-show1-hires.jpg" data-lightbox="jbs-s"><img src="img/works/sto/jb-show1.jpg" class="attribute"></a>
+	
+		<h5 class="sub">Beelden</h5>
 		<a href="img/works/sto/jb-show1-hires.jpg" data-lightbox="jbs-s"><img src="img/works/sto/jb-show1.jpg" class="img-stack"></a>
 		<a href="img/works/sto/jb-show2-hires.jpg" data-lightbox="jbs-s"><img src="img/works/sto/jb-show2.jpg" class="img-stack"></a>
 		<a href="img/works/sto/jb-show3-hires.jpg" data-lightbox="jbs-s"><img src="img/works/sto/jb-show3.jpg" class="img-stack"></a>
@@ -87,7 +92,7 @@ STORES - STORES - STORES - STORES -
 
 <!-- Friends Emmen -->
 <section class="bg-grijs2" id="friends-emmen">
-	<a href="#" class="btn-rood close">Sluiten</a>
+	<a href="#" class="close">Sluiten</a>
 	<a title="vorige" class="arrow-left prev-project" data-attribute="jb-showroom"></a>
 	<a title="volgende" class="arrow-right next-project" data-attribute="beats-by-dre"></a>
 
@@ -114,9 +119,9 @@ STORES - STORES - STORES - STORES -
 
 <!-- Beats by Dre -->
 <section class="bg-grijs2" id="beats-by-dre">
-	<a href="#" class="btn-rood close">Sluiten</a>
-	<a title="volgende" class="arrow-left prev-project" data-attribute="jb-showroom"></a>
-	<a title="vorige" class="arrow-right next-project" data-attribute="friends-emmen"></a>
+	<a href="#" class="close">Sluiten</a>
+	<a title="vorige" class="arrow-left prev-project" data-attribute="friends-emmen"></a>
+	<a title="volgende" class="arrow-right next-project" data-attribute="ah-jamie"></a>
 
 	<article class="bg-grijs3 content">
 		<h5>Commercials</h5>
@@ -127,6 +132,7 @@ STORES - STORES - STORES - STORES -
 		</p>
 
 		<a href="img/works/com/dre3-hires.jpg" data-lightbox="jamie"><img src="img/works/com/dre3.jpg" class="attribute"></a>
+		<h5 class="sub">Beelden</h5>
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/v_i3Lcjli84?autoplay=1" frameborder="0" allowfullscreen>
 			<img src="img/works/video/dre-video1.jpg" class="img-stack">
 			<span><img src="img/play.png"></span>
@@ -139,7 +145,7 @@ STORES - STORES - STORES - STORES -
 
 <!-- Albert Heijn Jamie Oliver -->
 <section class="bg-grijs2" id="ah-jamie">
-	<a href="#" class="btn-rood close">Sluiten</a>
+	<a href="#" class="close">Sluiten</a>
 	<a title="vorige" class="arrow-left prev-project" data-attribute="beats-by-dre"></a>
 	<a title="volgende" class="arrow-right next-project" data-attribute="ah-route99"></a>
 
@@ -153,6 +159,7 @@ STORES - STORES - STORES - STORES -
 
 			<a href="img/works/com/ah4-hires.jpg" data-lightbox="jamie"><img src="img/works/com/ah4.jpg" class="attribute"></a>
 
+		<h5 class="sub">Beelden</h5>
 			<a class="various fancybox.iframe video" href="//www.youtube.com/embed/Jnf5i-Cm3EY?autoplay=1" frameborder="0" allowfullscreen>
 				<img src="img/works/video/ah-video1.jpg" class="img-stack">
 				<span><img src="img/play.png"></span>
@@ -166,8 +173,8 @@ STORES - STORES - STORES - STORES -
 
 	<!-- Albert Heijn Route 99 -->
 	<section class="bg-grijs2" id="ah-route99">
-		<a href="#" class="btn-rood close">Sluiten</a>
-		<a title="vorige" class="tooltip btn-rood prev-project" data-attribute="ah-jamie"></a>
+		<a href="#" class="close">Sluiten</a>
+		<a title="vorige" class="arrow-left prev-project" data-attribute="ah-jamie"></a>
 		<a title="volgende" class="arrow-right next-project" data-attribute="rabobank"></a>
 
 			<article class="bg-grijs3 content">
@@ -181,7 +188,7 @@ STORES - STORES - STORES - STORES -
 
 				<a href="img/works/com/route99-1-hires.jpg" data-lightbox="jamie"><img src="img/works/com/route99-1.jpg" class="attribute"></a>
 
-
+		<h5 class="sub">Beelden</h5>
 				<a class="various fancybox.iframe video" href="//www.youtube.com/embed/S-5H-ZcZhl8?autoplay=1" frameborder="0" allowfullscreen>
 					<img src="img/works/video/ah-video2.jpg" class="img-stack">
 					<span><img src="img/play.png"></span>
@@ -194,7 +201,7 @@ STORES - STORES - STORES - STORES -
 
 		<!-- Rabobank Commercials -->
 		<section class="bg-grijs2" id="rabobank">
-			<a href="#" class="btn-rood close">Sluiten</a>
+			<a href="#" class="close">Sluiten</a>
 			<a class="arrow-left prev-project" data-attribute="ah-route99" href="#"></a>
 			<a class="arrow-right next-project" data-attribute="olli-blijdorp" href="#"></a>
 			
@@ -208,7 +215,7 @@ STORES - STORES - STORES - STORES -
 					</p>
 
 					<a href="img/works/com/rabo1-hires.jpg" data-lightbox="jamie"><img src="img/works/com/rabo1.jpg" class="attribute"></a>
-
+		<h5 class="sub">Beelden</h5>
 					<a class="various fancybox.iframe video" href="//www.youtube.com/embed/UmESVLyXtz0?autoplay=1" frameborder="0" allowfullscreen>
 						<img src="img/works/video/rabo-video1.jpg" class="img-stack">
 						<span><img src="img/play.png"></span></a> 
@@ -222,7 +229,7 @@ STORES - STORES - STORES - STORES -
 
 				<!-- Olli Commercials -->
 				<section class="bg-grijs2" id="olli-blijdorp">
-					<a href="#" class="btn-rood close">Sluiten</a>
+					<a href="#" class="close">Sluiten</a>
 						<a title="vorige" class="arrow-left prev-project" data-attribute="rabobank"></a>
 						<a title="volgende" class="arrow-right next-project" data-attribute="upc"></a>
 
@@ -241,7 +248,7 @@ STORES - STORES - STORES - STORES -
 							</p>
 
 							<a href="img/works/com/olli15-hires.jpg" data-lightbox="olli"><img src="img/works/com/olli15.jpg" class="attribute"></a>
-
+		<h5 class="sub">Beelden</h5>
 							<a class="various fancybox.iframe video" href="//www.youtube.com/embed/eL78DQrwprM?autoplay=1">
 								<img src="img/works/video/olli-video1.jpg" class="img-stack">
 								<span><img src="img/play.png"></span>
@@ -258,7 +265,7 @@ STORES - STORES - STORES - STORES -
 
 					<!-- UPC Commercials -->
 					<section class="bg-grijs2" id="upc">
-						<a href="#" class="btn-rood close">Sluiten</a>
+						<a href="#" class="close">Sluiten</a>
 						<a title="vorige" class="arrow-left prev-project"  data-attribute="olli-blijdorp"></a>
 						<a title="volgende" class="arrow-right next-project" data-attribute="tmobile-alib"></a>
 
@@ -274,6 +281,7 @@ STORES - STORES - STORES - STORES -
 
 								<a href="img/works/com/popcorn2-hires.jpg" data-lightbox="switch">
 								<img src="img/works/com/popcorn2.jpg" class="attribute"></a>
+		<h5 class="sub">Beelden</h5>
 								<a class="various fancybox.iframe video" href="//www.youtube.com/embed/-gPHCXCV2qg?autoplay=1">
 									<img src="img/works/video/popcorn-video2.jpg" class="img-stack"><span><img src="img/play.png"></span>
 								</a>
@@ -299,7 +307,7 @@ STORES - STORES - STORES - STORES -
 
 						<!-- T-Mobile Ali-B -->
 						<section class="bg-grijs2" id="tmobile-alib">
-							<a href="#" class="btn-rood close">Sluiten</a>
+							<a href="#" class="close">Sluiten</a>
 							<a title="vorige" class="arrow-left prev-project" data-attribute="upc"></a>
 							<a title="volgende" class="arrow-right next-project" data-attribute="interpolis-pleh"></a>
 								
@@ -313,6 +321,7 @@ STORES - STORES - STORES - STORES -
 									</p>
 
 									<a href="img/works/com/alib1-hires.jpg" data-lightbox="alib"><img src="img/works/com/alib1.jpg" class="attribute"></a>
+								<h5 class="sub">Beelden</h5>	
 									<a class="various fancybox.iframe video" href="//www.youtube.com/embed/3rTdNTHg8nY?autoplay=1">
 										<img src="img/works/video/alib-video1.jpg" class="img-stack"><span><img src="img/play.png"></span>
 									</a>
@@ -326,7 +335,7 @@ STORES - STORES - STORES - STORES -
 
 							<!-- Interpolis -->
 							<section class="bg-grijs2" id="interpolis-pleh">
-								<a href="#" class="btn-rood close">Sluiten</a>   
+								<a href="#" class="close">Sluiten</a>   
 								<a title="vorige" class="arrow-left prev-project"  data-attribute="tmobile-alib"></a>
 								<a title="volgende" class="arrow-right next-project" data-attribute="allyou-caneat"></a>
 
@@ -341,7 +350,7 @@ STORES - STORES - STORES - STORES -
 
 										<a href="img/works/com/inter1-hires.jpg" data-lightbox="inter">
 										<img src="img/works/com/inter1.jpg" class="attribute"></a>
-
+		<h5 class="sub">Beelden</h5>
 										<a class="various fancybox.iframe video" href="//www.youtube.com/embed/ZR848vnm0-0?autoplay=1">
 											<img src="img/works/video/inter-video1.jpg" class="img-stack">
 											<span><img src="img/play.png"></span>
@@ -357,7 +366,7 @@ STORES - STORES - STORES - STORES -
 
 								<!-- All You Can Eat Hi -->
 								<section class="bg-grijs2" id="allyou-caneat">
-									<a href="#" class="btn-rood close">Sluiten</a>
+									<a href="#" class="close">Sluiten</a>
 										<a title="vorige" class="arrow-left prev-project"  data-attribute="interpolis-pleh"></a>
 										<a title="volgende" class="arrow-right next-project" data-attribute="ziggo"></a>
 
@@ -371,7 +380,7 @@ STORES - STORES - STORES - STORES -
 
 											<a href="img/works/com/hi1-hires.jpg" data-lightbox="hi">
 											<img src="img/works/com/hi1.jpg" class="attribute"></a>
-
+		<h5 class="sub">Beelden</h5>
 											<a class="various fancybox.iframe video" href="//www.youtube.com/embed/SaQYqJoFBGc?autoplay=1">
 												<img src="img/works/video/hi-video1.jpg" class="img-stack">
 												<span><img src="img/play.png"></span>
@@ -390,7 +399,7 @@ STORES - STORES - STORES - STORES -
 
 									<!-- Ziggo -->
 									<section class="bg-grijs2" id="ziggo">
-										<a href="#" class="btn-rood close">Sluiten</a>
+										<a href="#" class="close">Sluiten</a>
 											<a title="vorige" class="arrow-left prev-project"  data-attribute="allyou-caneat"></a>
 											<a title="volgende" class="arrow-right next-project" data-attribute="bewuzt"></a>
 
@@ -405,7 +414,7 @@ STORES - STORES - STORES - STORES -
 
 												<a href="img/works/com/ziggo1-hires.jpg" data-lightbox="ziggo">
 												<img src="img/works/com/ziggo3.jpg" class="attribute"></a>
-
+		<h5 class="sub">Beelden</h5>
 												<!-- Ziggo commercial 1 -->
 												<a class="various fancybox.iframe video" href="//www.youtube.com/embed/iapKMeHpE-U?autoplay=1">
 													<img src="img/works/video/ziggo-video1.jpg" class="img-stack">
@@ -433,7 +442,7 @@ STORES - STORES - STORES - STORES -
 
 										<!-- Bewuzt -->
 										<section class="bg-grijs2" id="bewuzt">
-											<a href="#" class="btn-rood close">Sluiten</a> 
+											<a href="#" class="close">Sluiten</a> 
 												<a title="vorige" class="arrow-left prev-project"  data-attribute="ziggo"></a>
 												<a title="volgende" class="arrow-right next-project" data-attribute="dejutter-almere"></a>
 
@@ -446,7 +455,7 @@ STORES - STORES - STORES - STORES -
 
 													<a href="img/works/com/bewuzt1-hires.jpg" data-lightbox="bewuzt">
 													<img src="img/works/com/bewuzt1.jpg" class="attribute"></a>
-
+		<h5 class="sub">Beelden</h5>
 													<a href="img/works/com/bewuzt2-hires.jpg" data-lightbox="bewuzt">
 													<img src="img/works/com/bewuzt2.jpg" class="img-stack"></a>        
 													<a href="img/works/com/bewuzt3-hires.jpg" data-lightbox="bewuzt">
@@ -468,7 +477,7 @@ STORES - STORES - STORES - STORES -
 
 <!-- Strandbrasserie de Jutter -->
 <section class="bg-grijs2" id="dejutter-almere">
-	<a href="#" class="btn-rood close">Sluiten</a>
+	<a href="#" class="close">Sluiten</a>
 		<a title="vorige" class="arrow-left prev-project"  data-attribute="bewuzt"></a>
 		<a title="volgende" class="arrow-right next-project" data-attribute="wildschut"></a>
 
@@ -481,7 +490,7 @@ STORES - STORES - STORES - STORES -
 			</p>
 
 			<a href="img/works/int/jutter1-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter1.jpg" class="attribute"></a>
-
+		<h5 class="sub">Beelden</h5>
 			<a href="img/works/int/jutter2-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter2.jpg" class="img-stack"></a>
 			<a href="img/works/int/jutter3-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter3.jpg" class="img-stack"></a>
 			<a href="img/works/int/jutter4-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter4.jpg" class="img-stack"></a>
@@ -495,7 +504,7 @@ STORES - STORES - STORES - STORES -
 
 	<!-- Wildschut -->
 	<section class="bg-grijs2" id="wildschut">
-		<a href="#" class="btn-rood close">Sluiten</a>
+		<a href="#" class="close">Sluiten</a>
 			<a title="vorige" class="arrow-left prev-project"  data-attribute="dejutter-almere"></a>
 			<a title="volgende" class="arrow-right next-project" data-attribute="koopman"></a>
 
@@ -508,6 +517,7 @@ STORES - STORES - STORES - STORES -
 				</p>
 
 				<a href="img/works/int/wildschut1-hires.jpg" data-lightbox="wildschut"><img src="img/works/int/wildschut1.jpg" class="attribute"></a>
+		<h5 class="sub">Beelden</h5>	
 				<a href="img/works/int/wildschut1-hires.jpg" data-lightbox="wildschut"><img src="img/works/int/wildschut1.jpg" class="img-stack"></a>
 				<a href="img/works/int/wildschut2-hires.jpg" data-lightbox="wildschut"><img src="img/works/int/wildschut2.jpg" class="img-stack"></a>
 				<a href="img/works/int/wildschut3-hires.jpg" data-lightbox="wildschut"><img src="img/works/int/wildschut3.jpg" class="img-stack"></a>
@@ -517,18 +527,19 @@ STORES - STORES - STORES - STORES -
 
 		<!-- Koopman Optiek -->
 		<section class="bg-grijs2" id="koopman">
-			<a href="#" class="btn-rood close">Sluiten</a>
+			<a href="#" class="close">Sluiten</a>
 				<a title="vorige" class="arrow-left prev-project"  data-attribute="wildschut"></a>
 				<a title="volgende" class="arrow-right next-project" data-attribute="peters"></a>
 
 				<article class="bg-grijs3 content">
+				<h5>Interieurs</h5>
 					<h1 class="txt-zwart txt-left">Koopman Optiek Hoorn</h1>
 					<p class="txt-zwart">
 						Nieuw winkelinterieur bedacht en gecreëerd.
 					</p>
 
 					<a href="img/works/int/koopman1-hires.jpg" data-lightbox="koopman"><img src="img/works/int/koopman1.jpg" class="attribute"></a>
-
+		<h5 class="sub">Beelden</h5>
 					<a href="img/works/int/koopman2-hires.jpg" data-lightbox="koopman"><img src="img/works/int/koopman2.jpg" class="img-stack"></a>        
 					<a href="img/works/int/koopman3-hires.jpg" data-lightbox="koopman"><img src="img/works/int/koopman3.jpg" class="img-stack"></a>
 					<a href="img/works/int/koopman4-hires.jpg" data-lightbox="koopman"><img src="img/works/int/koopman4.jpg" class="img-stack"></a>
@@ -546,7 +557,7 @@ STORES - STORES - STORES - STORES -
 
 <!-- Peter's Irish Pub Maastricht -->
 <section class="bg-grijs2" id="peters">
-	<a href="#" class="btn-rood close">Sluiten</a>
+	<a href="#" class="close">Sluiten</a>
 		<a title="vorige" class="arrow-left prev-project" data-attribute="koopman"></a>
 		<a title="volgende" class="arrow-right next-project" data-attribute="koning"></a>
 
@@ -560,7 +571,7 @@ STORES - STORES - STORES - STORES -
 			</p>
 
 			<a href="img/works/hor/peters6-hires.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters6.jpg" class="attribute"></a>
-
+		<h5 class="sub">Beelden</h5>
 			<a href="img/works/hor/peters1-hires.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters1.jpg" class="img-stack"></a>        
 			<a href="img/works/hor/peters2-hires.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters2.jpg" class="img-stack"></a>
 			<a href="img/works/hor/peters3-hires.jpg" data-lightbox="peterspub"><img src="img/works/hor/peters3.jpg" class="img-stack"></a>
@@ -575,7 +586,7 @@ STORES - STORES - STORES - STORES -
 
 	<!-- de Koning Alkmaar -->
 	<section class="bg-grijs2" id="koning">
-		<a href="#" class="btn-rood close">Sluiten</a>
+		<a href="#" class="close">Sluiten</a>
 			<a title="vorige" class="arrow-left prev-project" data-attribute="peters"></a>
 			<a title="volgende" class="arrow-right next-project" data-attribute="heineken"></a>
 
@@ -589,7 +600,7 @@ STORES - STORES - STORES - STORES -
 				</p>
 
 				<a href="img/works/hor/koning6-hires.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning6.jpg" class="attribute"></a>
-
+		<h5 class="sub">Beelden</h5>
 				<a href="img/works/hor/koning2-hires.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning2.jpg" class="img-stack"></a>
 				<a href="img/works/hor/koning3-hires.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning3.jpg" class="img-stack"></a>
 				<a href="img/works/hor/koning4-hires.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning4.jpg" class="img-stack"></a>
@@ -605,7 +616,7 @@ STORES - STORES - STORES - STORES -
 
 <!-- Heineken -->
 <section class="bg-grijs2" id="heineken">
-	<a href="#" class="btn-rood close">Sluiten</a>
+	<a href="#" class="close">Sluiten</a>
 		<a title="vorige" class="arrow-left prev-project"  data-attribute="koning"></a>
 		<a title="volgende" class="arrow-right next-project" data-attribute="modefabriek"></a>
 		
@@ -618,7 +629,7 @@ STORES - STORES - STORES - STORES -
 			</p>
 
 			<a href="img/works/std/heineken1-hires.jpg" data-lightbox="sol"><img src="img/works/std/heineken3.jpg" class="attribute"></a>
-
+		<h5 class="sub">Beelden</h5>
 			<a href="img/works/std/heineken2-hires.jpg" data-lightbox="sol"><img src="img/works/std/heineken1.jpg" class="img-stack"></a>
 			<a href="img/works/std/heineken3-hires.jpg" data-lightbox="sol"><img src="img/works/std/heineken7.jpg" class="img-stack"></a>
 			<a href="img/works/std/heineken4-hires.jpg" data-lightbox="sol"><img src="img/works/std/heineken4.jpg" class="img-stack"></a>
@@ -630,7 +641,7 @@ STORES - STORES - STORES - STORES -
 
 	<!-- Modefabriek Amsterdam -->
 	<section class="bg-grijs2" id="modefabriek">
-		<a href="#" class="btn-rood close">Sluiten</a>
+		<a href="#" class="close">Sluiten</a>
 			<a title="vorige" class="arrow-left prev-project"  data-attribute="heineken"></a>
 			<a title="volgende" class="arrow-right next-project" data-attribute="bbb"></a>
 
@@ -643,6 +654,7 @@ STORES - STORES - STORES - STORES -
 
 				<a href="img/works/std/modefabriek7-hires.jpg" data-lightbox="modefabriek">
 				<img src="img/works/std/modefabriek7.jpg" class="attribute"></a>
+						<h5 class="sub">Beelden</h5>
 				<a href="img/works/std/modefabriek2-hires.jpg" data-lightbox="modefabriek">
 				<img src="img/works/std/modefabriek2.jpg" class="img-stack"></a>        
 				<a href="img/works/std/modefabriek3-hires.jpg" data-lightbox="modefabriek">
@@ -660,7 +672,7 @@ STORES - STORES - STORES - STORES -
 
 		<!-- Bread and Butter Berlin -->
 		<section class="bg-grijs2" id="bbb">
-			<a href="#" class="btn-rood close">Sluiten</a>
+			<a href="#" class="close">Sluiten</a>
 				<a title="vorige" class="arrow-left prev-project"  data-attribute="modefabriek"></a>
 				<a title="volgende" class="arrow-right next-project" data-attribute="jb-design"></a>
 
@@ -675,7 +687,7 @@ STORES - STORES - STORES - STORES -
 					</p>
 
 					<a href="img/works/std/jb-bbb1-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb1.jpg" class="attribute"></a>
-
+		<h5 class="sub">Beelden</h5>
 					<a href="img/works/std/jb-bbb2-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb2.jpg" class="img-stack"></a>
 					<a href="img/works/std/jb-bbb3-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb3.jpg" class="img-stack"></a>
 					<a href="img/works/std/jb-bbb4-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb4.jpg" class="img-stack"></a>
@@ -692,8 +704,7 @@ STORES - STORES - STORES - STORES -
 
 <!-- JB Design -->
 <section class="bg-grijs2" id="jb-design">
-	<a href="#" class="btn-rood close">Sluiten</a>
-	<a href="#" class="btn-grijs back-to-overzicht last-but-not-least">&#8592; Projecten</a>
+	<a href="#" class="close">Sluiten</a>
 		<a title="vorige" class="arrow-left prev-project"  data-attribute="bbb"></a>
 		<a title="volgende" class="arrow-right next-project" data-attribute="jb-stores"></a>
 
@@ -706,7 +717,7 @@ STORES - STORES - STORES - STORES -
 			</p>
 
 			<a href="img/works/des/jb-design1-hires.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design1.jpg" class="attribute"></a>
-
+		<h5 class="sub">Beelden</h5>
 			<a href="img/works/des/jb-design2-hires.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design2.jpg" class="img-stack"></a>        
 			<a href="img/works/des/jb-design3-hires.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design3.jpg" class="img-stack"></a>
 			<a href="img/works/des/jb-design4-hires.jpg" data-lightbox="jb-designs"><img src="img/works/des/jb-design4.jpg" class="img-stack"></a>
