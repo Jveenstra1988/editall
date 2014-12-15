@@ -2,7 +2,6 @@
 <section id="works-overzicht" class="">
 
 	<header>
-
 		<a href="#" class="btn-wit back">&#8592; Terug</a>
 		<h1 class="txt-wit">Projecten</h1>
 

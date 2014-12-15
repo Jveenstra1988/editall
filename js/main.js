@@ -13,6 +13,7 @@ $(document).ready(function(){
 		$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').removeClass('hires');
 	};
 	
+/*
 	//	Change content of next & prev projectbuttons
 	if ( ($(window).width()) < 550 ) {
 		$('a.next-project').html('&#8594');
@@ -21,6 +22,7 @@ $(document).ready(function(){
 		$('a.next-project').html('volgende &#8594');
 		$('a.prev-project').html('&#8592 vorige');
 	}
+*/
 	
 	// Initiate swiper-------------------------------------------------
 	var mySwiper = $('.swiper-container').swiper({
@@ -220,6 +222,7 @@ $(document).on('click','#results div, .titel', function() {
 	}else{
 		$('img, body').removeClass('hires');
 	};
+/*
     //	Change content of next & prev projectbuttons
     if ( ($(window).width()) < 550 ) {
         $('a.next-project').html('&#8594');
@@ -228,6 +231,7 @@ $(document).on('click','#results div, .titel', function() {
         $('a.next-project').html('volgende &#8594');
         $('a.prev-project').html('&#8592 vorige');
     }
+*/
 //    $('.sidenav').load('inc/works-overzicht.php .clickable');
 	return false;
 });
@@ -245,6 +249,7 @@ $(document).on('click','.next-project', function() {
 	var navClass = $(this).attr("id");
 
     $('#project-detail-container').load('inc/works-content.php' + ' #' + navClass);
+/*
     //	Change content of next & prev projectbuttons
     if ( ($(window).width()) < 550 ) {
         $('a.next-project').html('&#8594');
@@ -253,6 +258,7 @@ $(document).on('click','.next-project', function() {
         $('a.next-project').html('volgende &#8594');
         $('a.prev-project').html('&#8592 vorige');
     }
+*/
 //    $('.sidenav').load('inc/works-overzicht.php .clickable');
 	return false;
 });
@@ -262,6 +268,7 @@ $(document).on('click', '.prev-project', function() {
 	var navClass = $(this).attr("id");
 
     $('#project-detail-container').load('inc/works-content.php' + ' #' + navClass);
+/*
     //	Change content of next & prev projectbuttons
     if ( ($(window).width()) < 550 ) {
         $('a.next-project').html('&#8594');
@@ -270,6 +277,7 @@ $(document).on('click', '.prev-project', function() {
         $('a.next-project').html('volgende &#8594');
         $('a.prev-project').html('&#8592 vorige');
     }
+*/
 //    $('.sidenav').load('inc/works-overzicht.php .clickable');
 	return false;
 });
@@ -399,6 +407,7 @@ $( window ).resize(function() {
 	}else{
 		$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').removeClass('hires');
 	};
+/*
 //	Change content of next & prev projectbuttons
 	if ( ($(window).width()) < 550 ) {
 		$('a.next-project').html('&#8594');
@@ -407,6 +416,7 @@ $( window ).resize(function() {
 		$('a.next-project').html('volgende &#8594');
 		$('a.prev-project').html('&#8592 vorige');
 	}
+*/
 });
 
 
