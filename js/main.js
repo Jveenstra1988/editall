@@ -265,8 +265,10 @@ $(document).on('click','.next-project', function() {
 
 // Load project information
 $(document).on('click', '.prev-project', function() {
-	var navClass = $(this).attr("id");
 
+    $('#project-detail-container').detach('inc/works-content.php');
+
+	var navClass = $(this).attr("id");
     $('#project-detail-container').load('inc/works-content.php' + ' #' + navClass);
 /*
     //	Change content of next & prev projectbuttons

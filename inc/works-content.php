@@ -5,8 +5,8 @@ STORES - STORES - STORES - STORES -
 <!-- JUST BRANDS STORES -->
 <section class="bg-grijs2" id="jb-stores">
 	<a href="#" class="btn-rood close">Sluiten</a>
-	<a class="arrow-left prev-project" id="jb-design" href="#"></a>
-	<a class="arrow-right next-project" id="jb-sis" href="#"></a>
+	<a class="arrow-left prev-project" rel="jb-design" href="#"></a>
+	<a class="arrow-right next-project" rel="jb-sis" href="#"></a>
 
 	<article class="bg-grijs3 content">            
 		<h5>Stores</h5>
