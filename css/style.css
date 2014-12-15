@@ -599,7 +599,6 @@ article.images h4.titel {
 }
 
 .imageholder {
-	/* margin: 1em 0em; */
 	height: 80%;
 	line-height: 1;
 	overflow: hidden;
@@ -894,14 +893,6 @@ footer section article p:first-of-type:first-letter {
 -------------------------------------------
 */
 article.how-we-work {
-/*
-	height: 100%;
-	padding-right: 35%;
-	margin-left: 15%;
-	border-left: 10px solid #474747;
-	z-index: 9999;
-	position: relative;
-*/
 	height: 100%;
 	padding-right: 45%;
 	margin-left: 15%;
@@ -935,7 +926,6 @@ article.how-we-work {
 	position: fixed;
 	width: 220px;
 	height: 100%;
-/* 	position: absolute; */
 	z-index: 999;
 }
 
@@ -967,17 +957,7 @@ article.how-we-work {
 /* Projecten content */
 
 
-#project-detail-container article.content, #detail-container article.content {
-/* 	overflow-y: hidden; */
-/*	height: 100%;*/
-/*
-	padding-right: 40%;
-	margin-left: 12%;
-	border-left: 10px solid #525252;
-	border-left: 10px solid rgba(43,43,43,0.25);
-*/  
-/*	z-index: 99;*/
-}
+#project-detail-container article.content, #detail-container article.content {}
 
 #project-detail-container .close, #detail-container .close {
     right: 0;
@@ -985,10 +965,7 @@ article.how-we-work {
     z-index: 9999;
 }
 
-#project-detail-container article.content h1, #detail-container article.content h1 {
-/* 	display: inline-block; */
-}
-
+#project-detail-container article.content h1, #detail-container article.content h1 {}
 #project-detail-container article.content h5, #detail-container article.content h5 {
 	background: #B5B5B5;
 	padding: .3em .4em;
@@ -1224,20 +1201,8 @@ aside {
 
 @media screen and (max-width: 900px) {
 
-	aside {
-		display: none;
-	}
-
-/*
-	article.content {
-		padding-right: 40%;
-	}
-*/
-	
-	.icon {
-		margin-top: 1em;
-	}
-	
+	aside {display: none;}
+	.icon {margin-top: 1em;}
 	article { width: 90%; }
 
 	/* Landing Logo */
@@ -1257,44 +1222,19 @@ aside {
 	}
 
 	/* Navigatie */
-	nav ul li {
-		width: 18%;
-	}
-	
-	nav ul li a {
-		font-size: .8em;
-	}
-	
-	nav ul li img {
-		width: 40%;
-	}
+	nav ul li {width: 18%;}
+	nav ul li a {font-size: .8em;}	
+	nav ul li img {width: 40%;}
 
 	/* 	sections die clear zijn */	
-	section.clear article {
-		width: 92%;
-	}
-	
-	section.clear article .drie {
-		width: 42%;
-	}
-	
-	section.clear article .drie h4 {
-		min-height: 4.5em;
-	}
-	
-	section.clear article div.blok {
-		width: 23%;
-	}
+	section.clear article {width: 92%;}
+	section.clear article .drie {width: 42%;}
+	section.clear article .drie h4 {min-height: 4.5em;}
+	section.clear article div.blok {width: 23%;}
 	
 	/* Footer styles */
-	footer section.clear article div p {
-		display: block;
-	}
-	
-	footer img {
-		display: block;
-		float: none;
-	}
+	footer section.clear article div p {display: block;}
+	footer img {display: block; float: none;}
 	
 	#dynamic-container h5 {
 		margin-top: 1.2em;
@@ -1417,8 +1357,14 @@ aside {
 		margin-top: 0em;
 	}
 	
+	article.images h4.titel {
+		font-size: 80%;
+		height: 1.8em;
+	}
+	
 	#project-overzicht-container .clickable {
-		width: 22%;
+		width: 32%;
+		margin: .2%;
 	}
 	
 	#project-overzicht-container .clickable .overlay-txt {
@@ -1641,17 +1587,20 @@ aside {
 		margin-top: -5px;
 	}
 	
-	a.tooltip span {
-		display: none !important;
-	}
-	
+	a.tooltip span {display: none !important;}
+
 	#project-overzicht-container .clickable {
-		width: 29%;
+	width: 47.5%;
+	margin: .2em 0em !important;
+	padding: 0em;
+	}	
+	
+	article.images h4.titel {
+	height: 1.8em;
+	font-size: 70%;
 	}
 	
-	#project-overzicht-container .clickable .overlay-txt {
-		font-size: 40%;
-	}
+	#project-overzicht-container .clickable .overlay-txt {font-size: 40%;}
 	
 	#dynamic-container article, 
 	#dynamic-container article.content, 
@@ -1662,22 +1611,10 @@ aside {
 		height: 100%;
 	}
 	
-	#dynamic-container h5 {
-		margin-top: 0em;
-	}
-	
-	#dynamic-container article.content h1 {
-		margin-top: 2.5em;
-	}
-	
-	#dynamic-container article.images a {
-		display: none;
-	}
-
-	#dynamic-container article.content h5 {
-		width: 102%;
-		margin: 2.8em -1em;
-	}
+	#dynamic-container h5 {margin-top: 0em;}
+	#dynamic-container article.content h1 {margin-top: 2.5em;}
+	#dynamic-container article.images a {display: none;}
+	#dynamic-container article.content h5 {width: 102%; margin: 2.8em -1em;}
 
 	a.btn-rood, 
 	a.btn-wit, 
@@ -1694,12 +1631,10 @@ aside {
 	}
 	
 	.back {
-		margin-left: 10px;
-		margin-top: 10px;
-		margin-bottom: 10px;
+		margin: 10px;
 		position: absolute;
-		font-size: 14px;
-        width: 20%;
+		font-size: 12px;
+		width: 20%;
 	}
 		
 	.pager {
