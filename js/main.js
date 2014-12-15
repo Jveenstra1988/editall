@@ -13,17 +13,6 @@ $(document).ready(function(){
 		$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').removeClass('hires');
 	};
 	
-/*
-	//	Change content of next & prev projectbuttons
-	if ( ($(window).width()) < 550 ) {
-		$('a.next-project').html('&#8594');
-		$('a.prev-project').html('&#8592'); 
-	}else{
-		$('a.next-project').html('volgende &#8594');
-		$('a.prev-project').html('&#8592 vorige');
-	}
-*/
-	
 	// Initiate swiper-------------------------------------------------
 	var mySwiper = $('.swiper-container').swiper({
 		mode:'horizontal',
@@ -237,7 +226,6 @@ $(document).on('click','.close', function() {
 
 $(document).on('click','.next-project', function() {
 	var navClass = $(this).attr("data-attribute");
-
     $('#project-detail-container').load('inc/works-content.php' + ' #' + navClass);
 //    $('.sidenav').load('inc/works-overzicht.php .clickable');
 	return false;
@@ -245,10 +233,7 @@ $(document).on('click','.next-project', function() {
 
 // Load project information
 $(document).on('click', '.prev-project', function() {
-
-    $('#project-detail-container').detach('inc/works-content.php');
-
-	var navClass = $(this).attr("id");
+	var navClass = $(this).attr("data-attribute");
     $('#project-detail-container').load('inc/works-content.php' + ' #' + navClass);
 //    $('.sidenav').load('inc/works-overzicht.php .clickable');
 	return false;
