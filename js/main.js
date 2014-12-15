@@ -222,16 +222,6 @@ $(document).on('click','#results div, .titel', function() {
 	}else{
 		$('img, body').removeClass('hires');
 	};
-/*
-    //	Change content of next & prev projectbuttons
-    if ( ($(window).width()) < 550 ) {
-        $('a.next-project').html('&#8594');
-        $('a.prev-project').html('&#8592'); 
-    }else{
-        $('a.next-project').html('volgende &#8594');
-        $('a.prev-project').html('&#8592 vorige');
-    }
-*/
 //    $('.sidenav').load('inc/works-overzicht.php .clickable');
 	return false;
 });
@@ -246,19 +236,9 @@ $(document).on('click','.close', function() {
 });
 
 $(document).on('click','.next-project', function() {
-	var navClass = $(this).attr("id");
+	var navClass = $(this).attr("data-attribute");
 
     $('#project-detail-container').load('inc/works-content.php' + ' #' + navClass);
-/*
-    //	Change content of next & prev projectbuttons
-    if ( ($(window).width()) < 550 ) {
-        $('a.next-project').html('&#8594');
-        $('a.prev-project').html('&#8592'); 
-    }else{
-        $('a.next-project').html('volgende &#8594');
-        $('a.prev-project').html('&#8592 vorige');
-    }
-*/
 //    $('.sidenav').load('inc/works-overzicht.php .clickable');
 	return false;
 });
@@ -270,16 +250,6 @@ $(document).on('click', '.prev-project', function() {
 
 	var navClass = $(this).attr("id");
     $('#project-detail-container').load('inc/works-content.php' + ' #' + navClass);
-/*
-    //	Change content of next & prev projectbuttons
-    if ( ($(window).width()) < 550 ) {
-        $('a.next-project').html('&#8594');
-        $('a.prev-project').html('&#8592'); 
-    }else{
-        $('a.next-project').html('volgende &#8594');
-        $('a.prev-project').html('&#8592 vorige');
-    }
-*/
 //    $('.sidenav').load('inc/works-overzicht.php .clickable');
 	return false;
 });
@@ -409,16 +379,6 @@ $( window ).resize(function() {
 	}else{
 		$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').removeClass('hires');
 	};
-/*
-//	Change content of next & prev projectbuttons
-	if ( ($(window).width()) < 550 ) {
-		$('a.next-project').html('&#8594');
-		$('a.prev-project').html('&#8592'); 
-	}else{
-		$('a.next-project').html('volgende &#8594');
-		$('a.prev-project').html('&#8592 vorige');
-	}
-*/
 });
 
 
