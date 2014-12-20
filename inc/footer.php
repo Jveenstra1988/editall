@@ -4,43 +4,51 @@
 				<!--Content - DIVIDER-->
 				<section id="container" class="bg-wit clear">
 					<article class="txt-antra">
-                        <div class="leftside">
-                            <div class="blok hoog">
-                                <img src="img/icon-place.png">
-                                <p class="three-col">
+                                <div class="adres">
+                                <div class="icon">
+                                	<img src="img/icon-place.png">
+                                </div>
+                                	<p>
+                                	<strong>Edit-All</strong>
                                     Samsonweg 134<br />
                                     1521 RM Wormerveer<br />
-                                    Nederland<br />
                                 </p>
                             </div>
                         </div>
-                        <div class="rightside">
-                            <div class="blok">
+                            <div class="names">
+                            <div class="icon">
                                 <img src="img/icon-rob.png">
+                            </div>
                                 <p>
                                     <strong>Rob Valent</strong>
                                     <a href="tel:+316-50602207">06 - 50 602 207</a>
                                     <a href="mailto:rob@edit-all.nl">rob@edit-all.nl</a>
                                 </p>
                             </div>
-                            <div class="blok">
+                            <div class="names">
+                            <div class="icon">
                             <img src="img/icon-ruben.png">
+                            </div>
                                 <p>
                                     <strong>Ruben Rosen</strong>
                                     <a href="tel:+316-51525382">06 - 51 525 382</a>
                                     <a href="mailto:ruben@edit-all.nl">ruben@edit-all.nl</a>
                                 </p>
                             </div>
-                            <div class="blok">
+                            <div class="names">
+                            <div class="icon">
                                 <img src="img/icon-elsemieke.png">
-                                <p>	
+                            </div>
+                            	<p>	
                                     <strong>Elsemieke Meijer</strong>
                                     <a href="tel:+316-20106561">06 - 20 106 561</a>
                                     <a href="mailto:elsemieke@edit-all.nl">elsemieke@edit-all.nl</a>
                                 </p>
                             </div>
-                            <div class="blok">
+                            <div class="names">
+                            <div class="icon">
                                 <img src="img/icon-bas.png">
+                            </div>
                                 <p>	
                                     <strong>Bas van Ginkel</strong>
                                     <a href="tel:+316-13603793">06 - 13 603 793</a>

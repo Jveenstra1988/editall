@@ -179,12 +179,12 @@ Pagination Styles
 @media screen and (max-width: 550px) {
 	a.arrow-left {
 		left:24px;
-		width: 20px;
+		width: 30px;
 	}
 	
 	a.arrow-right {
 		right:24px;
-		width: 20px;
+		width: 30px;
 	}
 }
 
