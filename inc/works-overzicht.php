@@ -23,6 +23,11 @@
 <!-- STORES -->
 <h5 class="clickable stores">Stores</h5>
 
+			<div class="clickable stores" id="all4running">
+				<img src="img/works/sto/a4r1.jpg" >
+				<h4 class="titel">All4running Flagship Store</h4>
+			</div>
+
 			<div class="clickable stores" id="jb-stores">
 				<img src="img/works/sto/jb-store4.jpg" >
 				<h4 class="titel">Just Brands Stores</h4>
@@ -105,9 +110,14 @@
 <!-- INTERIEURS -->
 <h5 class="clickable interiors">Interieurs</h5>
 
-		<div class="clickable interiors" id="dejutter-almere">
+		<div class="clickable interiors" id="snackplek">
 			<img src="img/works/int/jutter8.jpg" >
 			<h4 class="titel">Strandbrasserie de Jutter</h4>
+		</div>
+
+		<div class="clickable interiors" id="snackplek">
+			<img src="img/works/int/snackplek6.jpg" >
+			<h4 class="titel">Snackplek de Jutter</h4>
 		</div>
 
 		<div class="clickable interiors" id="koopman">
@@ -115,8 +125,13 @@
 			<h4 class="titel">Koopman Optiek</h4>
 		</div>
 
-		<!-- HORECA -->                        
+<!-- HORECA -->                        
 		<h5 class="clickable horeca">Horeca</h5>
+
+		<div class="clickable horeca" id="lennep">
+			<img src="img/works/hor/lennep6.jpg" >
+			<h4 class="titel">Cafe Lennep</h4>
+		</div>
 
 		<div class="clickable horeca" id="wildschut">
 			<img src="img/works/int/wildschut1.jpg" >

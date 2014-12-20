@@ -2,10 +2,45 @@
 <!--////////////////////////////////////
 STORES - STORES - STORES - STORES -
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+
+<!-- All4running Flagship Store -->
+<section class="bg-grijs2" id="all4running">
+	<a href="#" class="close">Sluiten</a>
+		<a title="vorige" class="arrow-left prev-project"  data-attribute="jb-design"></a>
+		<a title="volgende" class="arrow-right next-project" data-attribute="jb-stores"></a>
+
+		<article class="bg-grijs3 content">
+			<h5>Interieurs</h5>
+			<h1 class="txt-zwart txt-left">All4running Flagship Store</h1>
+			<p class="txt-zwart">
+				De All4Running Flagship Store is ontwikkeld voor de echte hardloopliefhebber. 
+				Naar aanleiding van het succes van de website is de eerste winkel geopend in Alkmaar.
+				Daarvoor is een geheel eigen stijl ontwikkeld, met als thema: snelheid en sportplezier.
+				Op de 1e etage is een hardloopbaan aangelegd waar je als klant een professioneel hardloop
+				advies kan krijgen. Dit door gebruik te maken van drukpuntmeting en camera's. Zo kan een 
+				optimale, persoonlijke schoen aan aangementen worden.<br />
+				Edit All was verantwoordelijk voor de productie van het interieur. 
+				Ontwerp;  &Hans ( Hans Klaver ) en Edit-All. 
+				<a target="_blank" href="http://www.all4running.nl">Bezoek de website</a>
+			</p>
+
+			<a href="img/works/sto/a4r1-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4r1.jpg" class="attribute"></a>
+		<h5 class="sub">Beelden</h5>
+			<a href="img/works/sto/a4r2-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4r2.jpg" class="img-stack"></a>
+			<a href="img/works/sto/a4r3-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4r3.jpg" class="img-stack"></a>
+			<a href="img/works/sto/a4r4-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4r4.jpg" class="img-stack"></a>
+			<a href="img/works/sto/a4r5-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4r5.jpg" class="img-stack"></a>
+			<a href="img/works/sto/a4r6-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4r6.jpg" class="img-stack"></a>
+			<a href="img/works/sto/a4r7-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4r7.jpg" class="img-stack"></a>
+			<a href="img/works/sto/a4r8-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4r8.jpg" class="img-stack"></a>
+			<a href="img/works/sto/a4r9-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4r9.jpg" class="img-stack"></a>
+		</article>
+	</section>
+
 <!-- JUST BRANDS STORES -->
 <section class="bg-grijs2" id="jb-stores">
 	<a href="#" class="close">Sluiten</a>
-	<a class="arrow-left prev-project" data-attribute="jb-design" href="#"></a>
+	<a class="arrow-left prev-project" data-attribute="all4running" href="#"></a>
 	<a class="arrow-right next-project" data-attribute="jb-sis" href="#"></a>
 
 	<article class="bg-grijs3 content">            
@@ -478,8 +513,8 @@ STORES - STORES - STORES - STORES -
 <!-- Strandbrasserie de Jutter -->
 <section class="bg-grijs2" id="dejutter-almere">
 	<a href="#" class="close">Sluiten</a>
-		<a title="vorige" class="arrow-left prev-project"  data-attribute="bewuzt"></a>
-		<a title="volgende" class="arrow-right next-project" data-attribute="wildschut"></a>
+		<a title="vorige" class="arrow-left prev-project"  data-attribute="all4running"></a>
+		<a title="volgende" class="arrow-right next-project" data-attribute="snackplek"></a>
 
 		<article class="bg-grijs3 content">
 			<h5>Interieurs</h5>
@@ -501,11 +536,36 @@ STORES - STORES - STORES - STORES -
 			<a href="img/works/int/jutter10-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter10.jpg" class="img-stack"></a>
 		</article>
 	</section>
+	
+<!-- Strandbrasserie de Jutter -->
+<section class="bg-grijs2" id="snackplek">
+	<a href="#" class="close">Sluiten</a>
+		<a title="vorige" class="arrow-left prev-project"  data-attribute="dejutter-almere"></a>
+		<a title="volgende" class="arrow-right next-project" data-attribute="wildschut"></a>
+
+		<article class="bg-grijs3 content">
+			<h5>Interieurs</h5>
+			<h1 class="txt-zwart txt-left">Snackplek de Jutter</h1>
+			<p class="txt-zwart">
+				Snack gelegenheid naast Restaurant Brasserie De Jutter.
+			</p>
+
+			<a href="img/works/int/snackplek1-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/snackplek1.jpg" class="attribute"></a>
+		<h5 class="sub">Beelden</h5>
+			<a href="img/works/int/snackplek2-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/snackplek2.jpg" class="img-stack"></a>
+			<a href="img/works/int/snackplek3-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/snackplek3.jpg" class="img-stack"></a>
+			<a href="img/works/int/snackplek4-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/snackplek4.jpg" class="img-stack"></a>
+			<a href="img/works/int/snackplek5-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/snackplek5.jpg" class="img-stack"></a>
+			<a href="img/works/int/snackplek6-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/snackplek6.jpg" class="img-stack"></a>
+			<a href="img/works/int/snackplek7-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/snackplek7.jpg" class="img-stack"></a>
+
+		</article>
+	</section>	
 
 	<!-- Wildschut -->
 	<section class="bg-grijs2" id="wildschut">
 		<a href="#" class="close">Sluiten</a>
-			<a title="vorige" class="arrow-left prev-project"  data-attribute="dejutter-almere"></a>
+			<a title="vorige" class="arrow-left prev-project"  data-attribute="snackplek"></a>
 			<a title="volgende" class="arrow-right next-project" data-attribute="koopman"></a>
 
 			<article class="bg-grijs3 content">
@@ -529,7 +589,7 @@ STORES - STORES - STORES - STORES -
 		<section class="bg-grijs2" id="koopman">
 			<a href="#" class="close">Sluiten</a>
 				<a title="vorige" class="arrow-left prev-project"  data-attribute="wildschut"></a>
-				<a title="volgende" class="arrow-right next-project" data-attribute="peters"></a>
+				<a title="volgende" class="arrow-right next-project" data-attribute="lennep"></a>
 
 				<article class="bg-grijs3 content">
 				<h5>Interieurs</h5>
@@ -555,10 +615,38 @@ STORES - STORES - STORES - STORES -
 +++_______ HORECA _______+++
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
+<!-- Cafe Lennep -->
+<section class="bg-grijs2" id="lennep">
+	<a href="#" class="close">Sluiten</a>
+		<a title="vorige" class="arrow-left prev-project" data-attribute="koopman"></a>
+		<a title="volgende" class="arrow-right next-project" data-attribute="peters"></a>
+
+		<article class="bg-grijs3 content">
+			<h5>Horeca</h5>
+			<h1 class="txt-zwart txt-left">Cafe Lennep</h1>
+			<p class="txt-zwart">
+				Turnkey project, met het thema Spaans Kipgrill restaurant. 
+				Van luxe restaurant (strak en basic) naar bistro in Spaanse sfeer, 
+				aan de Jacob van Lennepkade in Amsterdam. 
+				<a target="_blank" href="http://www.cafelennep.nl/">Bezoek de website</a>
+			</p>
+
+			<a href="img/works/hor/lennep6-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/lennep6.jpg" class="attribute"></a>
+		<h5 class="sub">Beelden</h5>
+			<a href="img/works/hor/lennep1-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/lennep1.jpg" class="img-stack"></a>        
+			<a href="img/works/hor/lennep2-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/lennep2.jpg" class="img-stack"></a>
+			<a href="img/works/hor/lennep3-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/lennep3.jpg" class="img-stack"></a>
+			<a href="img/works/hor/lennep4-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/lennep4.jpg" class="img-stack"></a>
+			<a href="img/works/hor/lennep5-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/lennep5.jpg" class="img-stack"></a>
+			<a href="img/works/hor/lennep6-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/lennep6.jpg" class="img-stack"></a>
+			<a href="img/works/hor/lennep7-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/lennep7.jpg" class="img-stack"></a>
+		</article>
+	</section>
+
 <!-- Peter's Irish Pub Maastricht -->
 <section class="bg-grijs2" id="peters">
 	<a href="#" class="close">Sluiten</a>
-		<a title="vorige" class="arrow-left prev-project" data-attribute="koopman"></a>
+		<a title="vorige" class="arrow-left prev-project" data-attribute="lennep"></a>
 		<a title="volgende" class="arrow-right next-project" data-attribute="koning"></a>
 
 		<article class="bg-grijs3 content">
@@ -706,7 +794,7 @@ STORES - STORES - STORES - STORES -
 <section class="bg-grijs2" id="jb-design">
 	<a href="#" class="close">Sluiten</a>
 		<a title="vorige" class="arrow-left prev-project"  data-attribute="bbb"></a>
-		<a title="volgende" class="arrow-right next-project" data-attribute="jb-stores"></a>
+		<a title="volgende" class="arrow-right next-project" data-attribute="all4running"></a>
 
 		<article class="bg-grijs3 content">
 			<h5>Designs</h5>
