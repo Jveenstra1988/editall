@@ -576,7 +576,7 @@ section.clear article .rightside div.blok {
 */
 
 footer article 				{padding: 0 0 0 0;}
-footer section.clear article{padding: 0 0 0 0;}
+footer section.clear article{padding: 0 0 0 0; height: 300px;}
 footer article p,
 footer article p a,
 footer article p a:hover 	{font-size: 13px; line-height: 1.6; margin: 0 0 0 0;}
@@ -590,6 +590,11 @@ footer article p strong 	{display: block; padding: .4em; color:#1C1C1C; backgrou
 footer article p a 			{padding: .4em; color: #1C1C1C !important; background: white; border-bottom: 2px solid #F9F7F4;}
 footer article p a:hover 	{color: #D41217 !important; background:#F9F7F4;}
 footer article img 			{display: block;width: 60px;}
+
+footer .adres,
+footer .names {
+	background: #F9F7F4;
+}
 
 footer .icon {
 	display: block;
