@@ -10,7 +10,7 @@ STORES - STORES - STORES - STORES -
 		<a title="volgende" class="arrow-right next-project" data-attribute="jb-stores"></a>
 
 		<article class="bg-grijs3 content">
-			<h5>Interieurs</h5>
+			<h5>Stores</h5>
 			<h1 class="txt-zwart txt-left">All4running Flagship Store</h1>
 			<p class="txt-zwart">
 				De All4Running Flagship Store is ontwikkeld voor de echte hardloopliefhebber. 
@@ -152,10 +152,58 @@ STORES - STORES - STORES - STORES -
 +++_______ COMMERCIALS _______+++
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
+<!-- Zorg -->
+<section class="bg-grijs2" id="ikea">
+	<a href="#" class="close">Sluiten</a>
+	<a title="vorige" class="arrow-left prev-project" data-attribute="friends-emmen"></a>
+	<a title="volgende" class="arrow-right next-project" data-attribute="zorg"></a>
+
+	<article class="bg-grijs3 content">
+		<h5>Commercials</h5>
+		<h1 class="txt-zwart txt-left">Ikea</h1>
+		<p class="txt-zwart">
+			Edit-All was verantwoordelijk voor het produceren van de decors.
+		</p>
+				<a href="img/works/com/ikea1-hires.jpg" data-lightbox="ikea"><img src="img/works/com/ikea1.jpg" class="attribute"></a>
+		<h5 class="sub">Beelden</h5>
+
+		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/6UI9Xz9IDiY?autoplay=1" frameborder="0" allowfullscreen>
+			<img src="img/works/video/ikea-video1.jpg" class="img-stack">
+			<span><img src="img/play.png"></span>
+		</a>
+
+<!--
+		<a href="img/works/com/ikea2-hires.jpg" data-lightbox="ikea"><img src="img/works/com/ikea2.jpg" class="img-stack"></a>
+		<a href="img/works/com/ikea3-hires.jpg" data-lightbox="ikea"><img src="img/works/com/ikea3.jpg" class="img-stack"></a>
+-->
+	</article>
+</section>
+
+<!-- Zorg -->
+<section class="bg-grijs2" id="zorg">
+	<a href="#" class="close">Sluiten</a>
+	<a title="vorige" class="arrow-left prev-project" data-attribute="ikea"></a>
+	<a title="volgende" class="arrow-right next-project" data-attribute="beats-by-dre"></a>
+
+	<article class="bg-grijs3 content">
+		<h5>Commercials</h5>
+		<h1 class="txt-zwart txt-left">Nederland verandert</h1>
+		<p class="txt-zwart">
+			Edit-All was verantwoordelijk voor het produceren van de decors.
+			<a target="_blank" href="http://www.rijksoverheid.nl/onderwerpen/campagnes/lopende-campagnes/veranderingen-in-de-zorg">Bekijk de commercial</a>
+		</p>
+
+		<a href="img/works/com/zorg1-hires.jpg" data-lightbox="zorg"><img src="img/works/com/zorg1.jpg" class="attribute"></a>
+		<h5 class="sub">Beelden</h5>
+		<a href="img/works/com/zorg2-hires.jpg" data-lightbox="zorg"><img src="img/works/com/zorg2.jpg" class="img-stack"></a>
+		<a href="img/works/com/zorg3-hires.jpg" data-lightbox="zorg"><img src="img/works/com/zorg3.jpg" class="img-stack"></a>
+	</article>
+</section>
+
 <!-- Beats by Dre -->
 <section class="bg-grijs2" id="beats-by-dre">
 	<a href="#" class="close">Sluiten</a>
-	<a title="vorige" class="arrow-left prev-project" data-attribute="friends-emmen"></a>
+	<a title="vorige" class="arrow-left prev-project" data-attribute="zorg"></a>
 	<a title="volgende" class="arrow-right next-project" data-attribute="ah-jamie"></a>
 
 	<article class="bg-grijs3 content">
@@ -166,7 +214,7 @@ STORES - STORES - STORES - STORES -
 			Hiervoor realiseerde Edit-All de kleedkamer van de spelers.
 		</p>
 
-		<a href="img/works/com/dre3-hires.jpg" data-lightbox="jamie"><img src="img/works/com/dre3.jpg" class="attribute"></a>
+		<a href="img/works/com/dre3-hires.jpg" data-lightbox="beatsbydre"><img src="img/works/com/dre3.jpg" class="attribute"></a>
 		<h5 class="sub">Beelden</h5>
 		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/v_i3Lcjli84?autoplay=1" frameborder="0" allowfullscreen>
 			<img src="img/works/video/dre-video1.jpg" class="img-stack">
@@ -541,7 +589,7 @@ STORES - STORES - STORES - STORES -
 <section class="bg-grijs2" id="snackplek">
 	<a href="#" class="close">Sluiten</a>
 		<a title="vorige" class="arrow-left prev-project"  data-attribute="dejutter-almere"></a>
-		<a title="volgende" class="arrow-right next-project" data-attribute="wildschut"></a>
+		<a title="volgende" class="arrow-right next-project" data-attribute="lucebert"></a>
 
 		<article class="bg-grijs3 content">
 			<h5>Interieurs</h5>
@@ -562,7 +610,36 @@ STORES - STORES - STORES - STORES -
 		</article>
 	</section>	
 
-	<!-- Wildschut -->
+<!-- Lucebert Atelier -->
+<section class="bg-grijs2" id="lucebert">
+	<a href="#" class="close">Sluiten</a>
+		<a title="vorige" class="arrow-left prev-project"  data-attribute="snackplek"></a>
+		<a title="volgende" class="arrow-right next-project" data-attribute="wildschut"></a>
+
+		<article class="bg-grijs3 content">
+			<h5>Interieurs</h5>
+			<h1 class="txt-zwart txt-left">Lucebert Atelier</h1>
+			<p class="txt-zwart">
+				De dichter en schilder Lucebert komt weer tot leven in een grote tentoonstelling 
+				in Museum Kranenburgh in Bergen. Opdrachtgever en Art director: Rikke Jelier 
+				<a target="_blank" href="http://www.kranenburgh.nl/agenda/event/118/Lucebert-thuis-in-bergen#.VJan1sAN">Bezoek de website</a>
+			</p>
+
+			<a href="img/works/int/lucebert1-hires.jpg" data-lightbox="lucebert"><img src="img/works/int/lucebert5.jpg" class="attribute"></a>
+		<h5 class="sub">Beelden</h5>
+			<a href="img/works/int/lucebert2-hires.jpg" data-lightbox="lucebert"><img src="img/works/int/lucebert2.jpg" class="img-stack"></a>
+			<a href="img/works/int/lucebert3-hires.jpg" data-lightbox="lucebert"><img src="img/works/int/lucebert3.jpg" class="img-stack"></a>
+
+			<a href="img/works/int/lucebert5-hires.jpg" data-lightbox="lucebert"><img src="img/works/int/lucebert4.jpg" class="img-stack"></a>
+			<a href="img/works/int/lucebert6-hires.jpg" data-lightbox="lucebert"><img src="img/works/int/lucebert6.jpg" class="img-stack"></a>
+			<a href="img/works/int/lucebert7-hires.jpg" data-lightbox="lucebert"><img src="img/works/int/lucebert7.jpg" class="img-stack"></a>
+			<a href="img/works/int/lucebert8-hires.jpg" data-lightbox="lucebert"><img src="img/works/int/lucebert8.jpg" class="img-stack"></a>
+			<a href="img/works/int/lucebert9-hires.jpg" data-lightbox="lucebert"><img src="img/works/int/lucebert9.jpg" class="img-stack"></a>
+			<a href="img/works/int/lucebert10-hires.jpg" data-lightbox="lucebert"><img src="img/works/int/lucebert10.jpg" class="img-stack"></a>
+		</article>
+	</section>	
+
+<!-- Wildschut -->
 	<section class="bg-grijs2" id="wildschut">
 		<a href="#" class="close">Sluiten</a>
 			<a title="vorige" class="arrow-left prev-project"  data-attribute="snackplek"></a>

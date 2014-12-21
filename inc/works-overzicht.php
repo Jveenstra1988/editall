@@ -52,6 +52,16 @@
 <!-- COMMERCIALS -->
 <h5 class="clickable commercials">Commercials</h5>
 
+			<div class="clickable commercials" id="ikea">
+				<img src="img/works/com/ikea1.jpg" >
+				<h4 class="titel">Ikea</h4>
+			</div>
+
+			<div class="clickable commercials" id="zorg">
+				<img src="img/works/com/zorg1.jpg" >
+				<h4 class="titel">Nederland verandert</h4>
+			</div>
+
 			<div class="clickable commercials" id="beats-by-dre">
 				<img src="img/works/com/dre3.jpg" >
 				<h4 class="titel">Beats by Dre</h4>
@@ -118,6 +128,11 @@
 		<div class="clickable interiors" id="snackplek">
 			<img src="img/works/int/snackplek6.jpg" >
 			<h4 class="titel">Snackplek de Jutter</h4>
+		</div>
+
+		<div class="clickable interiors" id="lucebert">
+			<img src="img/works/int/lucebert5.jpg" >
+			<h4 class="titel">Lucebert Atelier</h4>
 		</div>
 
 		<div class="clickable interiors" id="koopman">

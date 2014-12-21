@@ -6,9 +6,15 @@
     <a class="arrow-right" href="#"></a>
     <div class="swiper-container">
         <div class="swiper-wrapper">
+        
             <!--First Slide-->
             <div class="swiper-slide" id="een"> 
                 <!-- Any HTML content of the first slide goes here -->
+            </div>
+    
+                    <!--Sixt Slide-->
+            <div class="swiper-slide" id="zes"> 
+                <!-- Any HTML content of the third slide goes here -->
             </div>
             
             <!--Second Slide-->
@@ -30,6 +36,8 @@
             <div class="swiper-slide" id="vijf"> 
                 <!-- Any HTML content of the third slide goes here -->
             </div>
+
+
                      
           </div>
     </div>
