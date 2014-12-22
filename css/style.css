@@ -517,11 +517,12 @@ article.images {
 
 article.images h4.titel {
 	text-align: left !important;
-	background: #e5e5e5;
-	color: #8C8C8C;
+	background: #BFBFBF;
+	color: #1C1C1C;
 	text-transform: none;
 	font-weight: 100;
 	padding: 10px 5px;
+	height: 25px;
 	font-size: .8em;
 }
 
@@ -536,7 +537,7 @@ article.images h4.titel {
 section.clear article{
 	text-align: left;
 	width: 90%;
-	padding: 5em 0em;
+	padding: 3em 0em;
 }
 
 section.clear article .half {
@@ -559,8 +560,10 @@ article .drie header {
 
 article .drie header h4 {
 	height: 7%;
+	font-size: 14px;
 	width: 76%;
 	float: right;
+	border-bottom: 2px solid #D4121A;
 }
 
 section.clear article .rightside div.blok {
@@ -585,9 +588,9 @@ footer article p a:hover 	{font-size: 13px; line-height: 1.6; margin: 0 0 0 0;}
 footer article p 			{padding-left: 80px;}
 footer article p a,
 footer article p a:hover,
-footer article p strong 	{display: block; padding: .4em; color:#1C1C1C; background: #ebe8e2;}
+footer article p strong 	{display: block; /* padding: .4em; */ color:#1C1C1C; /* background: #ebe8e2; */}
 
-footer article p a 			{padding: .4em; color: #1C1C1C !important; background: white; border-bottom: 2px solid #F9F7F4;}
+footer article p a 			{/* padding: .4em; */ color: #1C1C1C !important; /* background: white; */ border-bottom: 2px solid #F9F7F4;}
 footer article p a:hover 	{color: #D41217 !important; background:#F9F7F4;}
 footer article img 			{display: block;width: 60px;}
 
@@ -649,8 +652,7 @@ footer .icon {
 #home-container 			{border: none;background-size: cover;}
 #home-container #een 		{background: url(../img/header-1.jpg) center center no-repeat; background-size: cover;}
 #home-container #een.hires 	{background: url(../img/header-1-hires.jpg) center center no-repeat;background-size: cover;}
-#home-container #twee 		{background: url(../img/header-2.jpg) center center no-repeat;background-size: cover;}
-#home-container #twee.hires {background: url(../img/header-2-hires.jpg) center center no-repeat;background-size: cover;}
+
 #home-container #drie 		{background: url(../img/header-3.jpg) center center no-repeat;background-size: cover;}
 #home-container #drie.hires {background: url(../img/header-3-hires.jpg) center center no-repeat;background-size: cover;}
 #home-container #vier 		{background: url(../img/header-4.jpg) center center no-repeat;background-size: cover;}
@@ -1150,6 +1152,31 @@ a.video img.img-stack:before {
 	#project-overzicht-container .clickable .overlay-txt {
 		font-size: 60%;
 	}
+
+	#project-detail-container article.content img.attribute, 
+	#detail-container article.content img.attribute {
+		width: 100%;
+		display: block;
+	}
+
+	#project-detail-container article.content p, 
+	#detail-container article.content p {
+		width: 100%;
+		display: block;
+		vertical-align: bottom;
+		padding-right: 0%;
+		margin: 0em;
+	}
+	
+	#project-detail-container article.content {
+		height: auto;
+	}
+
+	#project-detail-container article.content img.img-stack, 
+	#detail-container article.content img.img-stack {
+		width: 49%;
+	}
+
 	#dynamic-container article, 
 	#dynamic-container article.content, 
 	#dynamic-container-profile article {
@@ -1286,7 +1313,6 @@ a.video img.img-stack:before {
 		width: 60px;
 		height: 60px;
 	}
-
 }
 
 @media screen and (max-width: 330px) {

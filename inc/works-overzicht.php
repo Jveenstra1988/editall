@@ -178,7 +178,7 @@
 			<h4 class="titel">Modefabriek Amsterdam</h4>
 		</div>
 
-		<div class="clickable stands ">
+		<div class="clickable stands " id="bbb">
 			<img src="img/works/std/jb-bbb1.jpg" >
 			<h4 class="titel" id="bbb">Bread and Butter</h4>
 		</div>

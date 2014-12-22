@@ -18,8 +18,8 @@ STORES - STORES - STORES - STORES -
 				Daarvoor is een geheel eigen stijl ontwikkeld, met als thema: snelheid en sportplezier.
 				Op de 1e etage is een hardloopbaan aangelegd waar je als klant een professioneel hardloop
 				advies kan krijgen. Dit door gebruik te maken van drukpuntmeting en camera's. Zo kan een 
-				optimale, persoonlijke schoen aan aangementen worden.<br />
-				Edit All was verantwoordelijk voor de productie van het interieur. 
+				optimale, persoonlijke schoen aangemeten worden.<br />
+				Edit-All was verantwoordelijk voor de productie van het interieur. 
 				Ontwerp;  &Hans ( Hans Klaver ) en Edit-All. 
 				<a target="_blank" href="http://www.all4running.nl">Bezoek de website</a>
 			</p>
@@ -112,7 +112,7 @@ STORES - STORES - STORES - STORES -
 			showrooms ingericht die de sfeer van de merken perfect weergeeft.
 			<br /><br /> 
 			Showrooms zijn te vinden in:
-			<b>Antwerpen, Berlijn, D&uuml;sseldorf, Hamburg, M&uuml;nchen, Sindelfinger, Salzburg</b> 
+			<b>Antwerpen, Berlijn, D&uuml;sseldorf, Hamburg, M&uuml;nchen, Sindelfinger, Salzburg, Z&uuml;rich</b> 
 		</p>
 
 		<a href="img/works/sto/jb-show1-hires.jpg" data-lightbox="jbs-s"><img src="img/works/sto/jb-show1.jpg" class="attribute"></a>
@@ -129,7 +129,7 @@ STORES - STORES - STORES - STORES -
 <section class="bg-grijs2" id="friends-emmen">
 	<a href="#" class="close">Sluiten</a>
 	<a title="vorige" class="arrow-left prev-project" data-attribute="jb-showroom"></a>
-	<a title="volgende" class="arrow-right next-project" data-attribute="beats-by-dre"></a>
+	<a title="volgende" class="arrow-right next-project" data-attribute="ikea"></a>
 
 	<article class="bg-grijs3 content">
 		<h5>Stores</h5>
@@ -845,10 +845,9 @@ STORES - STORES - STORES - STORES -
 					<h5>Stands</h5>
 					<h1 class="txt-zwart txt-left">Bread &amp; Butter Berlijn</h1>
 					<p class="txt-zwart">
-						Voor Just Brands (producent van PME Legend, Cast Iron, Vanguard en Tripper Jeans) 
-						heeft Edit-All een stand ontworpen en gebouwd op de Modevakbeurs Bread &amp; Butter 
-						in Berlijn.
-
+						Edit-All heeft voor Just Brands (producent van PME Legend, Cast Iron, Vanguard en Tripper Jeans) 
+						een stand ontworpen. Deze wordt 2x per jaar opgebouwd op de internationale modevakbeurs Bread &amp; 
+						Butter in Berlijn, en op de Panorama beurs, eveneens in Berlijn.
 					</p>
 
 					<a href="img/works/std/jb-bbb1-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb1.jpg" class="attribute"></a>
