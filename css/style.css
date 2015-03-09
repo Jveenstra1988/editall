@@ -1401,6 +1401,57 @@ a.video img.img-stack:before {
 }
 
 
+/****** Algemene voorwaarden styling ******/
 
+.av {background: #F9F7F4;}
 
+.av h1 { line-height: 1; padding: .5em 0em;}
+.av h5 { background: #E1E4E3; margin-top: 10px; padding: 2px 0px;}
+.av strong {display: block;}
 
+.av article p, 
+.av article ul,
+.av article ul li {font-weight: 100; font-size: 14px; line-height: 1.653;}
+
+.av article p {border-bottom: 1px solid #E1E4E3; padding-bottom: 20px;}
+.av article ul p {border:none;}
+
+.av article ul.adres,
+.av article ul.adres li {
+	list-style: none;
+}
+
+.bg-wit.clear.av {border:none; background: #1B1B1B;}
+.bg-wit.clear.av a {  float: right;
+  margin-top: 15px;
+  margin-right: 10px;
+  font-size: 70%;
+  line-height: 1;
+  padding: .6em 1.2em;
+  border: none;}
+
+.bg-wit.clear.av a:hover {
+	color: #D21621;
+}
+
+.av header {
+	display: block;
+	padding: 10px;
+	width: 120px;
+	margin: 0 auto;
+	 
+}
+
+.av header img.avlogo {
+	width: 120px;
+}
+
+@media screen and (max-width: 400px) {
+	.av header {
+		display: block;
+		padding: 10px;
+		width: 120px;
+		margin: inherit;
+	}
+	
+}
