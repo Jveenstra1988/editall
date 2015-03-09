@@ -1,7 +1,7 @@
 <?php require '../inc/header_lite.php'; ?>
 
 <section class="bg-wit clear av">
-	<a target="_blank" download="algemenevoorwaarden_editall_2015.pdf" href="algemenevoorwaarden_editall_2015.pdf" class="btn-wit">
+	<a target="_blank" download="../algemenevoorwaarden_editall_2015.pdf" href="../algemenevoorwaarden_editall_2015.pdf" class="btn-wit">
 	downloaden</a>
 
 	<header>
@@ -11,7 +11,7 @@
 
 <!--Content - PROJECTS-->
 <section class="av" class="bg-wit">
-    <div id="">
+    <div class="content">
     <article class="txt-zwart">
     	<h1 class="txt-zwart">Algemene voorwaarden</h1>
     <span class="bg-rood"></span>
@@ -188,8 +188,8 @@
 		opgenomen prijzen, onverminderd het recht van Edit-All op vergoeding wegens winstderving, en van overige uit de
 		annulering voortvloeiende schaden.
 	</p>
+		<h5>Artikel 9: Reclames</h5>
 	<p>
-		<strong>Artikel 9: Reclames</strong>
 		Terzake aantoonbare gebreken moet opdrachtgever, nadat Edit-All de door haar uitgevoerde opdracht aan
 		opdrachtgever heeft geleverd of voorgelegd, binnen acht dagen na het leveren schriftelijk reclameren.
 	</p>

@@ -20,12 +20,12 @@
 		<link href="../css/lightbox.css" rel="stylesheet" />
 		<link rel="stylesheet" type="text/css" href="../css/jquery.fancybox.css" media="screen" />
 		
-		<script src="../js/vendor/jquery-1.10.1.min.js"></script>
-        <script src="../js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+		<script src="js/vendor/jquery-1.10.1.min.js"></script>
+        <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 		<script type="text/javascript" src="//use.typekit.net/led7cxt.js"></script>
 
 		<!-- Font-face -->
-		<link rel="stylesheet" href="css/fonts.css" type="text/css" charset="utf-8" />
+		<link rel="stylesheet" href="../css/fonts.css" type="text/css" charset="utf-8" />
 
 		<!-- Typekit font -->
 		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>

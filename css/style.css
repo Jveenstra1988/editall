@@ -1403,7 +1403,11 @@ a.video img.img-stack:before {
 
 /****** Algemene voorwaarden styling ******/
 
-.av {background: #F9F7F4;}
+section.av {background: #F9F7F4; position: inherit; z-index: 999;}
+section.av .content {
+  top: 50px;
+  position: absolute;
+ }
 
 .av h1 { line-height: 1; padding: .5em 0em;}
 .av h5 { background: #E1E4E3; margin-top: 10px; padding: 2px 0px;}
@@ -1421,7 +1425,7 @@ a.video img.img-stack:before {
 	list-style: none;
 }
 
-.bg-wit.clear.av {border:none; background: #1B1B1B;}
+.bg-wit.clear.av {border:none; background: #1B1B1B;position: fixed;}
 .bg-wit.clear.av a {  float: right;
   margin-top: 15px;
   margin-right: 10px;
