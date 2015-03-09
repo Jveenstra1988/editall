@@ -12,16 +12,16 @@
         <meta name="viewport" content="width=device-width">
 		<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
 
-        <link rel="stylesheet" href="css/normalize.min.css">
-        <link rel="stylesheet" href="css/main.css">
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="css/idangerous.swiper.css">
-		<link rel="stylesheet" type="text/css" href="css/slicebox.css" />
-		<link href="css/lightbox.css" rel="stylesheet" />
-		<link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" media="screen" />
+        <link rel="stylesheet" href="../css/normalize.min.css">
+        <link rel="stylesheet" href="../css/main.css">
+        <link rel="stylesheet" href="../css/style.css">
+        <link rel="stylesheet" href="../css/idangerous.swiper.css">
+		<link rel="stylesheet" type="text/css" href="../css/slicebox.css" />
+		<link href="../css/lightbox.css" rel="stylesheet" />
+		<link rel="stylesheet" type="text/css" href="../css/jquery.fancybox.css" media="screen" />
 		
-		<script src="js/vendor/jquery-1.10.1.min.js"></script>
-        <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+		<script src="../js/vendor/jquery-1.10.1.min.js"></script>
+        <script src="../js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 		<script type="text/javascript" src="//use.typekit.net/led7cxt.js"></script>
 
 		<!-- Font-face -->

@@ -1,11 +1,11 @@
-<?php require 'inc/header_lite.php'; ?>
+<?php require '../inc/header_lite.php'; ?>
 
 <section class="bg-wit clear av">
 	<a target="_blank" download="algemenevoorwaarden_editall_2015.pdf" href="algemenevoorwaarden_editall_2015.pdf" class="btn-wit">
 	downloaden</a>
 
 	<header>
-	<img src="img/logo.png" class="avlogo">
+	<img src="../img/logo.png" class="avlogo">
 	</header>
 	</section>
 
@@ -286,7 +286,7 @@
 </article>
 
 <article>
-	<a target="_blank" download="algemenevoorwaarden_editall_2015.pdf" href="algemenevoorwaarden_editall_2015.pdf" class="btn-grijs">
+	<a target="_blank" download="../algemenevoorwaarden_editall_2015.pdf" href="algemenevoorwaarden_editall_2015.pdf" class="btn-grijs">
 	Algemene voorwaarden pdf</a>
 </article>
 
@@ -295,7 +295,7 @@
 	<ul class="adres">
 
 	<p class="adres">
-	<img src="img/logo-zwart.png" class="big">
+	<img src="../img/logo-zwart.png" class="big">
 	<span style="display:none;">Edit-All B.V.</span>
 
 
