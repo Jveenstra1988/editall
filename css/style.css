@@ -1,5 +1,9 @@
 /* Stylesheet Edit All *** Gemaakt door Jesse en Jeroen *** */
-html, body {font-family:"milibus",sans-serif; color:#1C1C1C; margin:0 0 0 0; padding:0 0 0 0; font-size:100%; line-height:1.265; height:100%; background: #f9f7f4;}
+
+/* font-family:"milibus",sans-serif; */
+
+
+html, body {font-family: "brandon-grotesque",sans-serif; color:#1C1C1C; margin:0 0 0 0; padding:0 0 0 0; font-size:100%; line-height:1.265; height:100%; background: #f9f7f4;}
 .no-overflow {overflow: hidden;} .stick-top {top: 0 !important;}
 
 a, a.active, a:hover, a:active, a:visited {
@@ -357,7 +361,7 @@ nav ul {
 
 nav ul li {
 	display: inline-block;
-	font-weight: 300;
+	font-weight: 400;
 	width: 19%;
 	line-height: 4;
 	
@@ -517,13 +521,13 @@ article.images {
 
 article.images h4.titel {
 	text-align: left !important;
-	background: #BFBFBF;
+	/* background: #E1E1E1; */
 	color: #1C1C1C;
 	text-transform: none;
-	font-weight: 100;
-	padding: 10px 5px;
-	height: 25px;
-	font-size: .8em;
+	font-weight: 400;
+	padding: 12px 10px 6px 10px;
+	height: 34px;
+	font-size: 14px;
 }
 
 .imageholder {
@@ -911,7 +915,7 @@ a.video img.img-stack:before {
 }
 
 #project-overzicht-container .clickable {
-	background: #181818;
+	background: white;
 }
 
 #project-overzicht-container .clickable:hover {
@@ -919,7 +923,7 @@ a.video img.img-stack:before {
 }
 
 #project-overzicht-container .clickable img {
-	opacity: .7;
+	opacity: .85;
     -webkit-transition: all 200ms ease-out;
 	-moz-transition: all 200ms ease-out;
 	-ms-transition: all 200ms ease-out;
