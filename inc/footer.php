@@ -58,6 +58,9 @@
                             </div>
                         </div>
 					</article>
+					
+					<div class="voorwaarden"><a target="_blank" href="http://edit-all.nl/algemenevoorwaarden/">Algemene voorwaarden</a></div>
+					
 				</section>
 		</footer>
 
