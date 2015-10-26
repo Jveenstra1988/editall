@@ -345,24 +345,24 @@ $(document).on('click','#designs', function() {
 
 // Initiate preload function
 if ( ($(window).width()) > 900 ) {
-	$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').addClass('hires');
+	$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #zeven, #acht, #works-container, #profile-container').addClass('hires');
 	if (jQuery.browser.mobile == false) {
-		$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').addClass('hires');
+		$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #zeven #acht, #works-container, #profile-container').addClass('hires');
 	}
 }else{
-	$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').removeClass('hires');
+	$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #zeven #acht, #works-container, #profile-container').removeClass('hires');
 };
 
 //on window resize check for widths
 $( window ).resize(function() {
 	//check width for hires img (initiate preload)
 	if ( ($(window).width()) > 900 ) {
-		$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').addClass('hires');
+		$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #zeven #acht, #works-container, #profile-container').addClass('hires');
 		if (jQuery.browser.mobile == false) {
-			$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').addClass('hires');
+			$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #zeven #acht, #works-container, #profile-container').addClass('hires');
 		}
 	}else{
-		$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #works-container, #profile-container').removeClass('hires');
+		$('a, img, body, #een, #twee, #drie, #vier, #vijf, #zes, #zeven #acht, #works-container, #profile-container').removeClass('hires');
 	};
 });
 

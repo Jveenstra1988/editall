@@ -8,7 +8,7 @@
 		<div class="subnav">
 			<a href="#" class="btn-wit stroke cat active" id="all"> All</a>
 			<a href="#" class="btn-wit stroke cat" id="stores">Stores</a>
-			<a href="#" class="btn-wit stroke cat" id="commercials">Commercials</a>
+			<a href="#" class="btn-wit stroke cat" id="commercials">Decor</a>
 			<a href="#" class="btn-wit stroke cat" id="interiors">Interieurs</a>
 			<a href="#" class="btn-wit stroke cat" id="horeca">Horeca</a>
 			<a href="#" class="btn-wit stroke cat" id="stands">Stands</a>
@@ -22,6 +22,16 @@
 
 <!-- STORES -->
 <h5 class="clickable stores">Stores</h5>
+
+			<div class="clickable stores" id="a4radam">
+				<img src="img/works/sto/a4radam1.jpg" >
+				<h4 class="titel">All4running Shoe Advisor Amsterdam</h4>
+			</div>
+
+			<div class="clickable stores" id="spaander">
+				<img src="img/works/sto/spaander1.jpg" >
+				<h4 class="titel">Spaander Trends Alkmaar</h4>
+			</div>
 
 			<div class="clickable stores" id="all4running">
 				<img src="img/works/sto/a4r1.jpg" >
@@ -50,7 +60,17 @@
 			</div>
 
 <!-- COMMERCIALS -->
-<h5 class="clickable commercials">Commercials</h5>
+<h5 class="clickable commercials">Decor</h5>
+
+			<div class="clickable commercials" id="andre">
+				<img src="img/works/com/andre1.jpg" >
+				<h4 class="titel">Bloed, Zweet &amp; Tranen de film</h4>
+			</div>
+
+			<div class="clickable commercials" id="philips">
+				<img src="img/works/video/philips-video1.jpg" >
+				<h4 class="titel">Philips</h4>
+			</div>
 
 			<div class="clickable commercials" id="ikea">
 				<img src="img/works/com/ikea1.jpg" >
@@ -120,15 +140,6 @@
 <!-- INTERIEURS -->
 <h5 class="clickable interiors">Interieurs</h5>
 
-		<div class="clickable interiors" id="snackplek">
-			<img src="img/works/int/jutter8.jpg" >
-			<h4 class="titel">Strandbrasserie de Jutter</h4>
-		</div>
-
-		<div class="clickable interiors" id="snackplek">
-			<img src="img/works/int/snackplek6.jpg" >
-			<h4 class="titel">Snackplek de Jutter</h4>
-		</div>
 
 		<div class="clickable interiors" id="lucebert">
 			<img src="img/works/int/lucebert5.jpg" >
@@ -142,6 +153,26 @@
 
 <!-- HORECA -->                        
 		<h5 class="clickable horeca">Horeca</h5>
+
+		<div class="clickable horeca" id="unpan">
+			<img src="img/works/hor/unpan1.jpg" >
+			<h4 class="titel">United Pancakes Amsterdam</h4>
+		</div>
+
+		<div class="clickable horeca" id="crazykreeft">
+			<img src="img/works/hor/crazy1.jpg" >
+			<h4 class="titel">Crazy Kreeft Amsterdam</h4>
+		</div>
+
+		<div class="clickable horeca" id="dejutter-almere">
+			<img src="img/works/int/jutter8.jpg" >
+			<h4 class="titel">Strandbrasserie de Jutter</h4>
+		</div>
+
+		<div class="clickable horeca" id="snackplek">
+			<img src="img/works/int/snackplek6.jpg" >
+			<h4 class="titel">Snackplek de Jutter</h4>
+		</div>
 
 		<div class="clickable horeca" id="lennep">
 			<img src="img/works/hor/lennep6.jpg" >
@@ -168,6 +199,11 @@
 <!-- STANDS -->
 <h5 class="clickable stands">Stands</h5>
 		
+		<div class="clickable stands" id="bakkerbrothers">
+			<img src="img/works/std/bb1.jpg" >
+			<h4 class="titel">bakker brothers</h4>
+		</div>
+
 		<div class="clickable stands" id="heineken">
 			<img src="img/works/std/heineken3.jpg" >
 			<h4 class="titel">Heineken</h4>
@@ -180,7 +216,7 @@
 
 		<div class="clickable stands " id="bbb">
 			<img src="img/works/std/jb-bbb1.jpg" >
-			<h4 class="titel" id="bbb">Bread and Butter</h4>
+			<h4 class="titel" id="bbb">Panoramabeurs Berlijn</h4>
 		</div>
 
 <!-- DESIGNS -->

@@ -655,15 +655,25 @@ footer .icon {
 
 #home-container #drie 		{background: url(../img/header-3.jpg) center center no-repeat;background-size: cover;}
 #home-container #drie.hires {background: url(../img/header-3-hires.jpg) center center no-repeat;background-size: cover;}
+
 #home-container #vier 		{background: url(../img/header-4.jpg) center center no-repeat;background-size: cover;}
 #home-container #vier.hires {background: url(../img/header-4-hires.jpg) center center no-repeat;background-size: cover;}
+
 #home-container #vijf 		{background: url(../img/header-5.jpg) center center no-repeat;background-size: cover;}
 #home-container #vijf.hires {background: url(../img/header-5-hires.jpg) center center no-repeat;background-size: cover;}
+
 #home-container #zes 		{background: url(../img/header-6.jpg) center center no-repeat;background-size: cover;}
 #home-container #zes.hires  {background: url(../img/header-6-hires.jpg) center center no-repeat;background-size: cover;}
 
+#home-container #zeven 		{background: url(../img/header-7.jpg) center center no-repeat;background-size: cover;}
+#home-container #zeven.hires  {background: url(../img/header-7-hires.jpg) center center no-repeat;background-size: cover;}
+
+#home-container #acht 		{background: url(../img/header-8.jpg) center center no-repeat;background-size: cover;}
+#home-container #acht.hires  {background: url(../img/header-8-hires.jpg) center center no-repeat;background-size: cover;}
+
 #profile-container 			{background: url(../img/profile-1.jpg) center center no-repeat;background-size: cover;}
 #profile-container.hires 	{background: url(../img/profile-1-hires.jpg) center center no-repeat;background-size: cover;}
+
 #works-container 			{background-image: url(../img/works-1.jpg);background-size: cover;}
 #works-container.hires 		{background-image: url(../img/works-1-hires.jpg);background-size: cover;}
 
@@ -672,6 +682,9 @@ footer .icon {
 //////////// DYNAMISCHE CONTENT ///////////
 -------------------------------------------
 */
+
+.swiper-container .title-center {font-size: 12px; padding:10px; background: rgba(0,0,0,0.3); color:#EEE5DA; text-align: center;}
+
 article.how-we-work {
 	height: 100%;
 	padding-right: 45%;
@@ -901,6 +914,10 @@ a.video img.img-stack:before {
 	background: #181818;
 }
 
+#project-overzicht-container .clickable:hover {
+	border-bottom: 2px solid #D41217;
+}
+
 #project-overzicht-container .clickable img {
 	opacity: .7;
     -webkit-transition: all 200ms ease-out;
@@ -935,6 +952,7 @@ a.video img.img-stack:before {
     background: #aeaeae;
     padding: .2em;
     border: none !important;
+    font-size: 125%;
 }
 
 /*

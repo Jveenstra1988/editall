@@ -3,10 +3,68 @@
 STORES - STORES - STORES - STORES -
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
+<!-- Spaander Trends -->
+<section class="bg-grijs2" id="spaander">
+	<a href="#" class="close">Sluiten</a>
+		<a title="vorige" class="arrow-left prev-project"  data-attribute="jb-design"></a>
+		<a title="volgende" class="arrow-right next-project" data-attribute="a4radam"></a>
+
+		<article class="bg-grijs3 content">
+			<h5>Stores</h5>
+			<h1 class="txt-zwart txt-left">Spaander Trends Alkmaar</h1>
+			<p class="txt-zwart">
+				Herenmodewinkel Spaander in het centrum van Alkmaar brandde op oudejaarsnacht 2014/2015 compleet af. 
+				Edit-All heeft naar aanleiding van dit incident de nieuwe (tijdelijke) winkel ontworpen en gebouwd. 
+				Spaander Trends is in april 2015 weer open gegaan op een nieuwe lokatie in het centrum van Alkmaar.
+				<a target="_blank" href="http://www.spaandermode.nl">Bezoek de website</a>
+			</p>
+
+			<a href="img/works/sto/spaander1-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/spaander1.jpg" class="attribute"></a>
+		<h5 class="sub">Beelden</h5>
+			<a href="img/works/sto/spaander2-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/spaander2.jpg" class="img-stack"></a>
+			<a href="img/works/sto/spaander3-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/spaander3.jpg" class="img-stack"></a>
+			<a href="img/works/sto/spaander4-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/spaander4.jpg" class="img-stack"></a>
+			<a href="img/works/sto/spaander5-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/spaander5.jpg" class="img-stack"></a>
+			<a href="img/works/sto/spaander6-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/spaander6.jpg" class="img-stack"></a>
+			<a href="img/works/sto/spaander7-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/spaander7.jpg" class="img-stack"></a>
+			<a href="img/works/sto/spaander8-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/spaander8.jpg" class="img-stack"></a>
+		</article>
+	</section>
+
+<!-- All4running Shoe Advisor Amsterdam -->
+<section class="bg-grijs2" id="a4radam">
+	<a href="#" class="close">Sluiten</a>
+		<a title="vorige" class="arrow-left prev-project"  data-attribute="spaander"></a>
+		<a title="volgende" class="arrow-right next-project" data-attribute="all4running"></a>
+
+		<article class="bg-grijs3 content">
+			<h5>Stores</h5>
+			<h1 class="txt-zwart txt-left">All4running Shoe Advisor Amsterdam</h1>
+			<p class="txt-zwart">
+				Aan de rand van het Vondelpark in Amsterdam heeft Edit-All in mei 2015 de Amsterdamse vestiging van 
+				All4running gebouwd. De manier van werken op deze locatie is uniek: je krijgt hier uit meer dan 3000 
+				schoenen het voor jou geschikte paar aangemeten. In de winkel ligt een atletiekbaan van 20 meter met 
+				daarin onze Shoe Advisor-scantechnologie. Hiermee registreren we, met behulp van meer dan 16000 sensoren, 
+				de unieke voetafwikkeling tijdens het lopen.
+				<a target="_blank" href="http://www.all4running.nl">Bezoek de website</a>
+			</p>
+
+			<a href="img/works/sto/a4radam1-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4radam1.jpg" class="attribute"></a>
+		<h5 class="sub">Beelden</h5>
+			<a href="img/works/sto/a4radam2-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4radam2.jpg" class="img-stack"></a>
+			<a href="img/works/sto/a4radam3-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4radam3.jpg" class="img-stack"></a>
+			<a href="img/works/sto/a4radam4-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4radam4.jpg" class="img-stack"></a>
+			<a href="img/works/sto/a4radam5-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4radam5.jpg" class="img-stack"></a>
+			<a href="img/works/sto/a4radam6-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4radam6.jpg" class="img-stack"></a>
+			<a href="img/works/sto/a4radam7-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4radam7.jpg" class="img-stack"></a>
+			<a href="img/works/sto/a4radam8-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4radam8.jpg" class="img-stack"></a>
+		</article>
+	</section>
+
 <!-- All4running Flagship Store -->
 <section class="bg-grijs2" id="all4running">
 	<a href="#" class="close">Sluiten</a>
-		<a title="vorige" class="arrow-left prev-project"  data-attribute="jb-design"></a>
+		<a title="vorige" class="arrow-left prev-project"  data-attribute="a4radam"></a>
 		<a title="volgende" class="arrow-right next-project" data-attribute="jb-stores"></a>
 
 		<article class="bg-grijs3 content">
@@ -69,7 +127,7 @@ STORES - STORES - STORES - STORES -
 
 		<p>
 			Just Brands Stores zijn te vinden in:
-			<b>Rotterdam, Hilversum, Utrecht, Haarlem, Alkmaar, Amsterdam, Almere, Osdorp, Den Haag, Zoetermeer, Zwolle </b>
+			<b>Amstelveen, Tilburg, Eindhoven, Rotterdam, Hilversum, Utrecht, Haarlem, Alkmaar, Amsterdam, Almere, Osdorp, Den Haag, Zoetermeer, Zwolle </b>
 		</p>
 
 	</article>
@@ -149,17 +207,89 @@ STORES - STORES - STORES - STORES -
 
 
 <!--////////////////////////////////////
-+++_______ COMMERCIALS _______+++
++++_______ DECOR _______+++
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
-<!-- Zorg -->
-<section class="bg-grijs2" id="ikea">
+<!-- Bloed Zweet en tranen -->
+<section class="bg-grijs2" id="andre">
 	<a href="#" class="close">Sluiten</a>
 	<a title="vorige" class="arrow-left prev-project" data-attribute="friends-emmen"></a>
-	<a title="volgende" class="arrow-right next-project" data-attribute="zorg"></a>
+	<a title="volgende" class="arrow-right next-project" data-attribute="philips"></a>
 
 	<article class="bg-grijs3 content">
-		<h5>Commercials</h5>
+		<h5>Decor</h5>
+		<h1 class="txt-zwart txt-left">Bloed, Zweet &amp; Tranen</h1>
+		<p class="txt-zwart">
+			Voor de André Hazes film Bloed, Zweet &amp; Tranen heeft Edit-All diverse decors gebouwd in jaren '60 en '80 stijl.
+		</p>
+
+		<a href="img/works/com/andre1-hires.jpg" data-lightbox="zorg"><img src="img/works/com/andre1.jpg" class="attribute"></a>
+		<h5 class="sub">Beelden</h5>
+
+<a class="various fancybox.iframe video" href="//www.youtube.com/embed/SLfW0Hc-5BE?autoplay=1" frameborder="0" allowfullscreen>
+			<img src="img/works/com/andre4.jpg" class="img-stack">
+			<span><img src="img/play.png"></span>
+		</a>
+
+		<a href="img/works/com/andre2-hires.jpg" data-lightbox="zorg"><img src="img/works/com/andre2.jpg" class="img-stack"></a>
+		<a href="img/works/com/andre3-hires.jpg" data-lightbox="zorg"><img src="img/works/com/andre3.jpg" class="img-stack"></a>
+		<a href="img/works/com/andre5-hires.jpg" data-lightbox="zorg"><img src="img/works/com/andre5.jpg" class="img-stack"></a>
+		<a href="img/works/com/andre6-hires.jpg" data-lightbox="zorg"><img src="img/works/com/andre6.jpg" class="img-stack"></a>
+		<a href="img/works/com/andre7-hires.jpg" data-lightbox="zorg"><img src="img/works/com/andre7.jpg" class="img-stack"></a>
+		<a href="img/works/com/andre8-hires.jpg" data-lightbox="zorg"><img src="img/works/com/andre8.jpg" class="img-stack"></a>
+	</article>
+</section>
+
+
+<!-- Philips -->
+<section class="bg-grijs2" id="philips">
+	<a href="#" class="close">Sluiten</a>
+	<a title="vorige" class="arrow-left prev-project" data-attribute="andre"></a>
+	<a title="volgende" class="arrow-right next-project" data-attribute="ikea"></a>
+
+	<article class="bg-grijs3 content">
+		<h5>Decor</h5>
+		<h1 class="txt-zwart txt-left">Philips High Quality LED Light Bulbs </h1>
+		<p class="txt-zwart">
+			Voor 3 commercials voor Philips Led verlichting heeft Edit-all het decor gebouwd. 
+			Dit waren: een woonkamer en-suite, 2 keukens en een grote woonkamer.
+		</p>
+		
+		<a href="img/works/com/ikea1-hires.jpg" data-lightbox="philips"><img src="img/works/video/philips-video1.jpg" class="attribute"></a>
+		
+		<h5 class="sub">Beelden</h5>
+
+		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/dLSpqQ3Nrv4?autoplay=1" frameborder="0" allowfullscreen>
+			<img src="img/works/video/philips-video1.jpg" class="img-stack">
+			<span><img src="img/play.png"></span>
+		</a>
+		
+		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/5kfiqXCXGe8?autoplay=1" frameborder="0" allowfullscreen>
+			<img src="img/works/video/philips-video2.jpg" class="img-stack">
+			<span><img src="img/play.png"></span>
+		</a>
+		
+		<a class="various fancybox.iframe video" href="//www.youtube.com/embed/7EF5gljZtmg?autoplay=1" frameborder="0" allowfullscreen>
+			<img src="img/works/video/philips-video3.jpg" class="img-stack">
+			<span><img src="img/play.png"></span>
+		</a>
+
+<!--
+		<a href="img/works/com/ikea2-hires.jpg" data-lightbox="ikea"><img src="img/works/com/ikea2.jpg" class="img-stack"></a>
+		<a href="img/works/com/ikea3-hires.jpg" data-lightbox="ikea"><img src="img/works/com/ikea3.jpg" class="img-stack"></a>
+-->
+	</article>
+</section>
+
+
+<!-- Ikea -->
+<section class="bg-grijs2" id="ikea">
+	<a href="#" class="close">Sluiten</a>
+	<a title="vorige" class="arrow-left prev-project" data-attribute="philips"></a>
+	<a title="volgende" class="arrow-right next-project" data-attribute="ikea"></a>
+
+	<article class="bg-grijs3 content">
+		<h5>Decor</h5>
 		<h1 class="txt-zwart txt-left">Ikea</h1>
 		<p class="txt-zwart">
 			Edit-All was verantwoordelijk voor het produceren van de decors.
@@ -186,7 +316,7 @@ STORES - STORES - STORES - STORES -
 	<a title="volgende" class="arrow-right next-project" data-attribute="beats-by-dre"></a>
 
 	<article class="bg-grijs3 content">
-		<h5>Commercials</h5>
+		<h5>Decor</h5>
 		<h1 class="txt-zwart txt-left">Nederland verandert</h1>
 		<p class="txt-zwart">
 			Edit-All was verantwoordelijk voor het produceren van de decors.
@@ -207,7 +337,7 @@ STORES - STORES - STORES - STORES -
 	<a title="volgende" class="arrow-right next-project" data-attribute="ah-jamie"></a>
 
 	<article class="bg-grijs3 content">
-		<h5>Commercials</h5>
+		<h5>Decor</h5>
 		<h1 class="txt-zwart txt-left">Beats by Dre</h1>
 		<p class="txt-zwart">
 			De WK commercial voor Beats by Dre (The Game before The Game). 
@@ -233,7 +363,7 @@ STORES - STORES - STORES - STORES -
 	<a title="volgende" class="arrow-right next-project" data-attribute="ah-route99"></a>
 
 		<article class="bg-grijs3 content">
-			<h5>Commercials</h5>
+			<h5>Decor</h5>
 			<h1 class="txt-zwart txt-left">Albert Heijn Pasen met Jamie Oliver</h1>
 			<p class="txt-zwart">
 				Kookeiland en de achterwand van de keuken waar Jamie 
@@ -261,7 +391,7 @@ STORES - STORES - STORES - STORES -
 		<a title="volgende" class="arrow-right next-project" data-attribute="rabobank"></a>
 
 			<article class="bg-grijs3 content">
-				<h5>Commercials</h5>
+				<h5>Decor</h5>
 				<h1 class="txt-zwart txt-left">Albert Heijn Route 99</h1>
 				<p class="txt-zwart">
 					Voor de nieuwe route 99 commercial van Albert Heijn
@@ -317,7 +447,7 @@ STORES - STORES - STORES - STORES -
 						<a title="volgende" class="arrow-right next-project" data-attribute="upc"></a>
 
 						<article class="bg-grijs3 content">
-							<h5>Commercials</h5>
+							<h5>Decor</h5>
 							<h1 class="txt-zwart txt-left">Olli</h1>
 
 							<p class="txt-zwart">
@@ -325,7 +455,7 @@ STORES - STORES - STORES - STORES -
 								De olifant Olli heeft zijn eigen verblijf in Diergaarde Blijdorp gekregen.
 								Edit-All maakte de enorme verkoopkast met daarin Olli-knuffels.
 								<br /><br />
-								<strong>Commercial</strong>
+								<strong>Decor</strong>
 								Voor de commercial maakte Edit-All het café en de 
 								slaapkamer van Giovanni van Bronckhorst.
 							</p>
@@ -353,7 +483,7 @@ STORES - STORES - STORES - STORES -
 						<a title="volgende" class="arrow-right next-project" data-attribute="tmobile-alib"></a>
 
 							<article class="bg-grijs3 content">
-								<h5>Commercials</h5>
+								<h5>Decor</h5>
 								<h1 class="txt-zwart txt-left">UPC commercials</h1>
 
 								<p class="txt-zwart">
@@ -395,7 +525,7 @@ STORES - STORES - STORES - STORES -
 							<a title="volgende" class="arrow-right next-project" data-attribute="interpolis-pleh"></a>
 								
 								<article class="bg-grijs3 content">
-									<h5>Commercials</h5>
+									<h5>Decor</h5>
 									<h1 class="txt-zwart txt-left">Ali-B zonder Ansjovis | T-Mobile</h1>
 
 									<p class="txt-zwart">
@@ -423,7 +553,7 @@ STORES - STORES - STORES - STORES -
 								<a title="volgende" class="arrow-right next-project" data-attribute="allyou-caneat"></a>
 
 									<article class="bg-grijs3 content">
-										<h5>Commercials</h5>
+										<h5>Decor</h5>
 										<h1 class="txt-zwart txt-left">PLEH?! | Interpolis</h1>
 
 										<p class="txt-zwart">
@@ -454,7 +584,7 @@ STORES - STORES - STORES - STORES -
 										<a title="volgende" class="arrow-right next-project" data-attribute="ziggo"></a>
 
 										<article class="bg-grijs3 content">
-											<h5>Commercials</h5>
+											<h5>Decor</h5>
 											<h1 class="txt-zwart txt-left">All You Can Eat | Hi</h1>
 
 											<p class="txt-zwart">
@@ -487,7 +617,7 @@ STORES - STORES - STORES - STORES -
 											<a title="volgende" class="arrow-right next-project" data-attribute="bewuzt"></a>
 
 											<article class="bg-grijs3 content">
-												<h5>Commercials</h5>
+												<h5>Decor</h5>
 												<h1 class="txt-zwart txt-left">Ziggo</h1>
 												<p class="txt-zwart">
 													Voor Ziggo maakte Edit-All onder andere 
@@ -530,7 +660,7 @@ STORES - STORES - STORES - STORES -
 												<a title="volgende" class="arrow-right next-project" data-attribute="dejutter-almere"></a>
 
 												<article class="bg-grijs3 content">
-													<h5>Commercials</h5>
+													<h5>Decor</h5>
 													<h1 class="txt-zwart txt-left">Bewuzt</h1>
 													<p class="txt-zwart">
 														3 decors gebouwd en totaal gespoten in verschillende kleuren.
@@ -565,7 +695,7 @@ STORES - STORES - STORES - STORES -
 		<a title="volgende" class="arrow-right next-project" data-attribute="snackplek"></a>
 
 		<article class="bg-grijs3 content">
-			<h5>Interieurs</h5>
+			<h5>Horeca</h5>
 			<h1 class="txt-zwart txt-left">Strandbrasserie de Jutter</h1>
 			<p class="txt-zwart">
 				Oude blokhut omgebouwd tot een karakteristieke strandbrasserie. 
@@ -592,7 +722,7 @@ STORES - STORES - STORES - STORES -
 		<a title="volgende" class="arrow-right next-project" data-attribute="lucebert"></a>
 
 		<article class="bg-grijs3 content">
-			<h5>Interieurs</h5>
+			<h5>Horeca</h5>
 			<h1 class="txt-zwart txt-left">Snackplek de Jutter</h1>
 			<p class="txt-zwart">
 				Snack gelegenheid naast Restaurant Brasserie De Jutter.
@@ -692,10 +822,62 @@ STORES - STORES - STORES - STORES -
 +++_______ HORECA _______+++
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
+<!-- United Pancakes -->
+<section class="bg-grijs2" id="unpan">
+	<a href="#" class="close">Sluiten</a>
+		<a title="vorige" class="arrow-left prev-project" data-attribute="koopman"></a>
+		<a title="volgende" class="arrow-right next-project" data-attribute="lennep"></a>
+
+		<article class="bg-grijs3 content">
+			<h5>Horeca</h5>
+			<h1 class="txt-zwart txt-left">United Pancakes Amsterdam</h1>
+			<p class="txt-zwart">
+				Vlakbij de Albert Cuyp markt in Amsterdam heeft Edit-All een winkelinterieur gebouwd
+				voor pannenkoekenwinkel United Pancakes. Ook heeft Edit-All een mobiele pancake bar
+				gemaakt die ingezet kan worden op festivals en evenementen.
+			</p>
+
+			<a href="img/works/hor/unpan1-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/unpan1.jpg" class="attribute"></a>
+		<h5 class="sub">Beelden</h5>
+			<a href="img/works/hor/unpan2-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/unpan2.jpg" class="img-stack"></a>        
+			<a href="img/works/hor/unpan3-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/unpan3.jpg" class="img-stack"></a>
+			<a href="img/works/hor/unpan4-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/unpan4.jpg" class="img-stack"></a>
+			<a href="img/works/hor/unpan5-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/unpan5.jpg" class="img-stack"></a>
+			<a href="img/works/hor/unpan6-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/unpan6.jpg" class="img-stack"></a>
+			<a href="img/works/hor/unpan7-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/unpan7.jpg" class="img-stack"></a>
+			<a href="img/works/hor/unpan8-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/unpan8.jpg" class="img-stack"></a>
+			<a href="img/works/hor/unpan9-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/unpan9.jpg" class="img-stack"></a>
+		</article>
+	</section>
+
+<!-- Crazy Kreeft -->
+<section class="bg-grijs2" id="crazykreeft">
+	<a href="#" class="close">Sluiten</a>
+		<a title="vorige" class="arrow-left prev-project" data-attribute="unpan"></a>
+		<a title="volgende" class="arrow-right next-project" data-attribute="lennep"></a>
+
+		<article class="bg-grijs3 content">
+			<h5>Horeca</h5>
+			<h1 class="txt-zwart txt-left">Crazy Kreeft Amsterdam</h1>
+			<p class="txt-zwart">
+				Café De Pijp in de Amsterdamse Pijp is een jaar lang omgebouwd geweest tot pop-up 
+				restaurant Crazy Kreeft, waar je met je voeten in het zand kreeft kon eten en tropische 
+				cocktails kon drinken. Edit-All bouwde hiervoor het interieur.
+			</p>
+
+			<a href="img/works/hor/crazy1-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/crazy1.jpg" class="attribute"></a>
+		<h5 class="sub">Beelden</h5>
+			<a href="img/works/hor/crazy2-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/crazy2.jpg" class="img-stack"></a>        
+			<a href="img/works/hor/crazy3-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/crazy3.jpg" class="img-stack"></a>
+			<a href="img/works/hor/crazy4-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/crazy4.jpg" class="img-stack"></a>
+			<a href="img/works/hor/crazy5-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/crazy5.jpg" class="img-stack"></a>
+		</article>
+	</section>
+
 <!-- Cafe Lennep -->
 <section class="bg-grijs2" id="lennep">
 	<a href="#" class="close">Sluiten</a>
-		<a title="vorige" class="arrow-left prev-project" data-attribute="koopman"></a>
+		<a title="vorige" class="arrow-left prev-project" data-attribute="crazykreeft"></a>
 		<a title="volgende" class="arrow-right next-project" data-attribute="peters"></a>
 
 		<article class="bg-grijs3 content">
@@ -779,10 +961,35 @@ STORES - STORES - STORES - STORES -
 +++_______ STANDS _______+++
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
+<!-- Bakker Brothers -->
+<section class="bg-grijs2" id="bakkerbrothers">
+	<a href="#" class="close">Sluiten</a>
+		<a title="vorige" class="arrow-left prev-project"  data-attribute="koning"></a>
+		<a title="volgende" class="arrow-right next-project" data-attribute="heineken"></a>
+		
+		<article class="bg-grijs3 content">
+			<h5>Stands</h5>
+			<h1 class="txt-zwart txt-left">bakker brothers</h1>
+			<p class="txt-zwart">
+				 Voor groente en zaden specialist bakker brothers Noord-Holland heeft Edit-All een stand ontworpen waarmee bakker brothers te  internationale markt op kan. In september 2015 stond de stand op de Seeds meet Technology Beurs in Zwaagwijk. In februari 2016 zal de stand te zien zijn in Berlijn.
+
+			</p>
+
+			<a href="img/works/std/bb1-hires.jpg" data-lightbox="bb"><img src="img/works/std/bb1.jpg" class="attribute"></a>
+		<h5 class="sub">Beelden</h5>
+			<a href="img/works/std/bb2-hires.jpg" data-lightbox="bb"><img src="img/works/std/bb2.jpg" class="img-stack"></a>
+			<a href="img/works/std/bb3-hires.jpg" data-lightbox="bb"><img src="img/works/std/bb3.jpg" class="img-stack"></a>
+			<a href="img/works/std/bb4-hires.jpg" data-lightbox="bb"><img src="img/works/std/bb4.jpg" class="img-stack"></a>
+			<a href="img/works/std/bb5-hires.jpg" data-lightbox="bb"><img src="img/works/std/bb5.jpg" class="img-stack"></a>
+			<a href="img/works/std/bb6-hires.jpg" data-lightbox="bb"><img src="img/works/std/bb6.jpg" class="img-stack"></a>
+			<a href="img/works/std/bb7-hires.jpg" data-lightbox="bb"><img src="img/works/std/bb7.jpg" class="img-stack"></a>
+		</article>
+	</section>
+
 <!-- Heineken -->
 <section class="bg-grijs2" id="heineken">
 	<a href="#" class="close">Sluiten</a>
-		<a title="vorige" class="arrow-left prev-project"  data-attribute="koning"></a>
+		<a title="vorige" class="arrow-left prev-project"  data-attribute="bakkerbrothers"></a>
 		<a title="volgende" class="arrow-right next-project" data-attribute="modefabriek"></a>
 		
 		<article class="bg-grijs3 content">
@@ -835,7 +1042,7 @@ STORES - STORES - STORES - STORES -
 			</article>
 		</section>
 
-		<!-- Bread and Butter Berlin -->
+		<!-- Panoramabeurs -->
 		<section class="bg-grijs2" id="bbb">
 			<a href="#" class="close">Sluiten</a>
 				<a title="vorige" class="arrow-left prev-project"  data-attribute="modefabriek"></a>
@@ -843,22 +1050,22 @@ STORES - STORES - STORES - STORES -
 
 				<article class="bg-grijs3 content">
 					<h5>Stands</h5>
-					<h1 class="txt-zwart txt-left">Bread &amp; Butter Berlijn</h1>
+					<h1 class="txt-zwart txt-left">Panoramabeurs Berlijn</h1>
 					<p class="txt-zwart">
 						Edit-All heeft voor Just Brands (producent van PME Legend, Cast Iron, Vanguard en Tripper Jeans) 
-						een stand ontworpen. Deze wordt 2x per jaar opgebouwd op de internationale modevakbeurs Bread &amp; 
-						Butter in Berlijn, en op de Panorama beurs, eveneens in Berlijn.
+						een stand ontworpen. Deze wordt 2x per jaar opgebouwd op de internationale modevakbeurs Panorama 
+						in Berlijn.
 					</p>
 
-					<a href="img/works/std/jb-bbb1-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb1.jpg" class="attribute"></a>
+					<a href="img/works/std/jb-bbb1-hires.jpg" data-lightbox="panorama"><img src="img/works/std/jb-bbb1.jpg" class="attribute"></a>
 		<h5 class="sub">Beelden</h5>
-					<a href="img/works/std/jb-bbb2-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb2.jpg" class="img-stack"></a>
-					<a href="img/works/std/jb-bbb3-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb3.jpg" class="img-stack"></a>
-					<a href="img/works/std/jb-bbb4-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb4.jpg" class="img-stack"></a>
-					<a href="img/works/std/jb-bbb5-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb5.jpg" class="img-stack"></a>
-					<a href="img/works/std/jb-bbb6-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb6.jpg" class="img-stack"></a>
-					<a href="img/works/std/jb-bbb7-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb7.jpg" class="img-stack"></a>
-					<a href="img/works/std/jb-bbb8-hires.jpg" data-lightbox="jamie"><img src="img/works/std/jb-bbb8.jpg" class="img-stack"></a>
+					<a href="img/works/std/jb-bbb2-hires.jpg" data-lightbox="panorama"><img src="img/works/std/jb-bbb2.jpg" class="img-stack"></a>
+					<a href="img/works/std/jb-bbb3-hires.jpg" data-lightbox="panorama"><img src="img/works/std/jb-bbb3.jpg" class="img-stack"></a>
+					<a href="img/works/std/jb-bbb4-hires.jpg" data-lightbox="panorama"><img src="img/works/std/jb-bbb4.jpg" class="img-stack"></a>
+					<a href="img/works/std/jb-bbb5-hires.jpg" data-lightbox="panorama"><img src="img/works/std/jb-bbb5.jpg" class="img-stack"></a>
+					<a href="img/works/std/jb-bbb6-hires.jpg" data-lightbox="panorama"><img src="img/works/std/jb-bbb6.jpg" class="img-stack"></a>
+					<a href="img/works/std/jb-bbb7-hires.jpg" data-lightbox="panorama"><img src="img/works/std/jb-bbb7.jpg" class="img-stack"></a>
+					<a href="img/works/std/jb-bbb8-hires.jpg" data-lightbox="panorama"><img src="img/works/std/jb-bbb8.jpg" class="img-stack"></a>
 				</article>
 			</section>
 

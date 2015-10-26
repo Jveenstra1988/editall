@@ -12,6 +12,7 @@
                                 	<strong>Edit-All</strong>
                                     Samsonweg 134<br />
                                     1521 RM Wormerveer<br />
+                                    <a href="tel:+31756283281">075 - 62 83 281</a>
                                 </p>
                             </div>
                         </div>
@@ -50,9 +51,9 @@
                                 <img src="img/icon-bas.png">
                             </div>
                                 <p>	
-                                    <strong>Bas van Ginkel</strong>
-                                    <a href="tel:+316-13603793">06 - 13 603 793</a>
-                                    <a href="mailto:bas@edit-all.nl">bas@edit-all.nl</a>
+                                    <strong>Remco Helmich</strong>
+                                    <a href="tel:+316-13603793">06 - 52 634 559</a>
+                                    <a href="mailto:remco@edit-all.nl">remco@edit-all.nl</a>
                                 </p>
                             </div>
                         </div>

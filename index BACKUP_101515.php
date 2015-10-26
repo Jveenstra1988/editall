@@ -8,23 +8,28 @@
         <div class="swiper-wrapper">
         
             <!--First Slide-->
-            <div class="swiper-slide" id="zeven"> 
-             <p class="title-center">Spaander Trends Alkmaar</p>
-            </div>
-
-            <!--First Slide-->
             <div class="swiper-slide" id="een"> 
-            <p class="title-center">Just Brands Stores</p>
+                <!-- Any HTML content of the first slide goes here -->
             </div>
-
-            <!--First Slide-->
-            <div class="swiper-slide" id="acht"> 
-            <p class="title-center">All4running Shoe Advisor Amsterdam</p>
+    
+                    <!--Sixt Slide-->
+            <div class="swiper-slide" id="zes"> 
+                <!-- Any HTML content of the third slide goes here -->
+            </div>
+                        
+            <!--Third Slide-->
+            <div class="swiper-slide" id="drie"> 
             </div>
 
             <!--Fourth Slide-->
-            <div class="swiper-slide" id="vier">
+            <div class="swiper-slide" id="vier"> 
             </div>
+
+            <!--Fifth Slide-->
+            <div class="swiper-slide" id="vijf"> 
+                <!-- Any HTML content of the third slide goes here -->
+            </div>
+
 
                      
           </div>
