@@ -3,7 +3,7 @@
 /* font-family:"milibus",sans-serif; */
 
 
-html, body {font-family: "brandon-grotesque",sans-serif; color:#1C1C1C; margin:0 0 0 0; padding:0 0 0 0; font-size:100%; line-height:1.265; height:100%; background: #f9f7f4;}
+html, body {font-family: "milibus",sans-serif; color:#1C1C1C; margin:0 0 0 0; padding:0 0 0 0; font-size:100%; line-height:1.265; height:100%; background: #f9f7f4;}
 .no-overflow {overflow: hidden;} .stick-top {top: 0 !important;}
 
 a, a.active, a:hover, a:active, a:visited {

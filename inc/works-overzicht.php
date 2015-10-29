@@ -38,6 +38,11 @@
 				<h4 class="titel">All4running Flagship Store</h4>
 			</div>
 
+			<div class="clickable stores" id="dakota">
+				<img src="img/works/sto/dak1.jpg" >
+				<h4 class="titel">Dakota &amp; Co</h4>
+			</div>
+
 			<div class="clickable stores" id="jb-stores">
 				<img src="img/works/sto/jb-store4.jpg" >
 				<h4 class="titel">Just Brands Stores</h4>
@@ -201,7 +206,7 @@
 		
 		<div class="clickable stands" id="bakkerbrothers">
 			<img src="img/works/std/bb1.jpg" >
-			<h4 class="titel">bakker brothers</h4>
+			<h4 class="titel">Bakker Brothers</h4>
 		</div>
 
 		<div class="clickable stands" id="heineken">

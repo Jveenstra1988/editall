@@ -3,10 +3,31 @@
 STORES - STORES - STORES - STORES -
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
+<!-- Dakota & Co -->
+<section class="bg-grijs2" id="dakota">
+	<a href="#" class="close">Sluiten</a>
+		<a title="vorige" class="arrow-left prev-project"  data-attribute="jb-design"></a>
+		<a title="volgende" class="arrow-right next-project" data-attribute="a4radam"></a>
+
+		<article class="bg-grijs3 content">
+			<h5>Stores</h5>
+			<h1 class="txt-zwart txt-left">Dakota &amp; Co.</h1>
+			<p class="txt-zwart">
+				De voormalige vestiging van Oliver Mannenmode in Spijkenisse is omgebouwd tot een nieuwe winkel: Dakota & Co, een stoere mannenwinkel, waar ook Cast Iron en PME legend verkocht wordt. Ook bij Van Westen Mannenmode in Zaamslag zijn PME en Cast Iron meubels geplaatst. Tevens kregen een filialen van Peek & Cloppenburg in Amsterdam, Rotterdam, Den Haag en diverse Houtbrox en Berden Mode winkels PME legend corners en Cast Iron/Vanguard display systemen.
+			</p>
+
+			<a href="img/works/sto/dak1-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/dak1.jpg" class="attribute"></a>
+		<h5 class="sub">Beelden</h5>
+			<a href="img/works/sto/dak2-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/dak2.jpg" class="img-stack"></a>
+			<a href="img/works/sto/dak3-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/dak3.jpg" class="img-stack"></a>
+			<a href="img/works/sto/dak4-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/dak4.jpg" class="img-stack"></a>
+		</article>
+	</section>
+
 <!-- Spaander Trends -->
 <section class="bg-grijs2" id="spaander">
 	<a href="#" class="close">Sluiten</a>
-		<a title="vorige" class="arrow-left prev-project"  data-attribute="jb-design"></a>
+		<a title="vorige" class="arrow-left prev-project"  data-attribute="dakota"></a>
 		<a title="volgende" class="arrow-right next-project" data-attribute="a4radam"></a>
 
 		<article class="bg-grijs3 content">
@@ -16,7 +37,6 @@ STORES - STORES - STORES - STORES -
 				Herenmodewinkel Spaander in het centrum van Alkmaar brandde op oudejaarsnacht 2014/2015 compleet af. 
 				Edit-All heeft naar aanleiding van dit incident de nieuwe (tijdelijke) winkel ontworpen en gebouwd. 
 				Spaander Trends is in april 2015 weer open gegaan op een nieuwe lokatie in het centrum van Alkmaar.
-				<a target="_blank" href="http://www.spaandermode.nl">Bezoek de website</a>
 			</p>
 
 			<a href="img/works/sto/spaander1-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/spaander1.jpg" class="attribute"></a>
@@ -41,12 +61,9 @@ STORES - STORES - STORES - STORES -
 			<h5>Stores</h5>
 			<h1 class="txt-zwart txt-left">All4running Shoe Advisor Amsterdam</h1>
 			<p class="txt-zwart">
-				Aan de rand van het Vondelpark in Amsterdam heeft Edit-All in mei 2015 de Amsterdamse vestiging van 
-				All4running gebouwd. De manier van werken op deze locatie is uniek: je krijgt hier uit meer dan 3000 
-				schoenen het voor jou geschikte paar aangemeten. In de winkel ligt een atletiekbaan van 20 meter met 
-				daarin onze Shoe Advisor-scantechnologie. Hiermee registreren we, met behulp van meer dan 16000 sensoren, 
-				de unieke voetafwikkeling tijdens het lopen.
-				<a target="_blank" href="http://www.all4running.nl">Bezoek de website</a>
+				Aan de rand van het Vondelpark in Amsterdam hebben wij  in mei 2015 de Amsterdamse vestiging van All4running gebouwd. 
+				Hier ligt o.a. een atletiekbaan van 20 meter waar d.m.v. de Shoe Advisor technologie de juiste hardloopschoenen kunnen 
+				worden aangemeten.
 			</p>
 
 			<a href="img/works/sto/a4radam1-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4radam1.jpg" class="attribute"></a>
@@ -71,7 +88,7 @@ STORES - STORES - STORES - STORES -
 			<h5>Stores</h5>
 			<h1 class="txt-zwart txt-left">All4running Flagship Store</h1>
 			<p class="txt-zwart">
-				De All4Running Flagship Store is ontwikkeld voor de echte hardloopliefhebber. 
+				De All4running Flagship Store is ontwikkeld voor de echte hardloopliefhebber. 
 				Naar aanleiding van het succes van de website is de eerste winkel geopend in Alkmaar.
 				Daarvoor is een geheel eigen stijl ontwikkeld, met als thema: snelheid en sportplezier.
 				Op de 1e etage is een hardloopbaan aangelegd waar je als klant een professioneel hardloop
@@ -79,7 +96,6 @@ STORES - STORES - STORES - STORES -
 				optimale, persoonlijke schoen aangemeten worden.<br />
 				Edit-All was verantwoordelijk voor de productie van het interieur. 
 				Ontwerp;  &Hans ( Hans Klaver ) en Edit-All. 
-				<a target="_blank" href="http://www.all4running.nl">Bezoek de website</a>
 			</p>
 
 			<a href="img/works/sto/a4r1-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4r1.jpg" class="attribute"></a>
@@ -251,8 +267,9 @@ STORES - STORES - STORES - STORES -
 		<h5>Decor</h5>
 		<h1 class="txt-zwart txt-left">Philips High Quality LED Light Bulbs </h1>
 		<p class="txt-zwart">
-			Voor 3 commercials voor Philips Led verlichting heeft Edit-all het decor gebouwd. 
-			Dit waren: een woonkamer en-suite, 2 keukens en een grote woonkamer.
+			Voor Philips Led verlichting heeft Edit-All de decors gebouwd voor drie commercials; een woonkamer en-suite, 
+			twee keukens en een woonkamer
+
 		</p>
 		
 		<a href="img/works/com/ikea1-hires.jpg" data-lightbox="philips"><img src="img/works/video/philips-video1.jpg" class="attribute"></a>
@@ -320,7 +337,6 @@ STORES - STORES - STORES - STORES -
 		<h1 class="txt-zwart txt-left">Nederland verandert</h1>
 		<p class="txt-zwart">
 			Edit-All was verantwoordelijk voor het produceren van de decors.
-			<a target="_blank" href="http://www.rijksoverheid.nl/onderwerpen/campagnes/lopende-campagnes/veranderingen-in-de-zorg">Bekijk de commercial</a>
 		</p>
 
 		<a href="img/works/com/zorg1-hires.jpg" data-lightbox="zorg"><img src="img/works/com/zorg1.jpg" class="attribute"></a>
@@ -487,7 +503,7 @@ STORES - STORES - STORES - STORES -
 								<h1 class="txt-zwart txt-left">UPC commercials</h1>
 
 								<p class="txt-zwart">
-									UPC lanceert zijn nieuwe commercials waarin Jonny de Mol de hoofdrol speelt.
+									UPC lanceerde zijn nieuwe commercials waarin Jonny de Mol de hoofdrol speelt.
 									Voor opdrachtgever Jelier&amp;Schaaf produceren wij onder andere de mega popcornbak
 									en een gigantische knop: the switch.
 								</p>
@@ -698,8 +714,7 @@ STORES - STORES - STORES - STORES -
 			<h5>Horeca</h5>
 			<h1 class="txt-zwart txt-left">Strandbrasserie de Jutter</h1>
 			<p class="txt-zwart">
-				Oude blokhut omgebouwd tot een karakteristieke strandbrasserie. 
-				Het ontwerp is geïnspireerd op het eiland Texel, strand, jutten en drijfhout.
+				Een oude blokhut aan het Almeerder strand is door Edit-All omgebouwd tot een karakteristiek strandbrasserie.
 			</p>
 
 			<a href="img/works/int/jutter1-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter1.jpg" class="attribute"></a>
@@ -725,7 +740,7 @@ STORES - STORES - STORES - STORES -
 			<h5>Horeca</h5>
 			<h1 class="txt-zwart txt-left">Snackplek de Jutter</h1>
 			<p class="txt-zwart">
-				Snack gelegenheid naast Restaurant Brasserie De Jutter.
+				Snack gelegenheid naar Strandbrasserie De Jutter op Almere Strand.
 			</p>
 
 			<a href="img/works/int/snackplek1-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/snackplek1.jpg" class="attribute"></a>
@@ -751,8 +766,7 @@ STORES - STORES - STORES - STORES -
 			<h1 class="txt-zwart txt-left">Lucebert Atelier</h1>
 			<p class="txt-zwart">
 				De dichter en schilder Lucebert komt weer tot leven in een grote tentoonstelling 
-				in Museum Kranenburgh in Bergen. Opdrachtgever en Art director: Rikke Jelier 
-				<a target="_blank" href="http://www.kranenburgh.nl/agenda/event/118/Lucebert-thuis-in-bergen#.VJan1sAN">Bezoek de website</a>
+				in Museum Kranenburgh in Bergen. Opdrachtgever en Art director: Rikke Jelier.
 			</p>
 
 			<a href="img/works/int/lucebert1-hires.jpg" data-lightbox="lucebert"><img src="img/works/int/lucebert5.jpg" class="attribute"></a>
@@ -886,8 +900,7 @@ STORES - STORES - STORES - STORES -
 			<p class="txt-zwart">
 				Turnkey project, met het thema Spaans Kipgrill restaurant. 
 				Van luxe restaurant (strak en basic) naar bistro in Spaanse sfeer, 
-				aan de Jacob van Lennepkade in Amsterdam. 
-				<a target="_blank" href="http://www.cafelennep.nl/">Bezoek de website</a>
+				aan de Jacob van Lennepkade in Amsterdam. Thema Spaans rotisserie restaurant
 			</p>
 
 			<a href="img/works/hor/lennep6-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/lennep6.jpg" class="attribute"></a>
@@ -943,7 +956,7 @@ STORES - STORES - STORES - STORES -
 				<p class="txt-zwart">
 					In hartje Alkmaar, op de Platte Stenenbrug, heeft Edit-All 
 					het interieur voor caf&eacute; De Koning ontworpen en gebouwd. 
-					Een turn-key projet met als thema een jazz caf&eacute;.     
+					Een turn-key project met als thema een jazz caf&eacute;. 
 				</p>
 
 				<a href="img/works/hor/koning6-hires.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning6.jpg" class="attribute"></a>
@@ -969,9 +982,10 @@ STORES - STORES - STORES - STORES -
 		
 		<article class="bg-grijs3 content">
 			<h5>Stands</h5>
-			<h1 class="txt-zwart txt-left">bakker brothers</h1>
+			<h1 class="txt-zwart txt-left">Bakker Brothers</h1>
 			<p class="txt-zwart">
-				 Voor groente en zaden specialist bakker brothers Noord-Holland heeft Edit-All een stand ontworpen waarmee bakker brothers te  internationale markt op kan. In september 2015 stond de stand op de Seeds meet Technology Beurs in Zwaagwijk. In februari 2016 zal de stand te zien zijn in Berlijn.
+				 Voor groentezaden specialist Bakker Brothers in Noord-Holland heeft Edit-All
+				 een stand ontworpen waarmee het bedrijf de internationale markt op kan.
 
 			</p>
 
@@ -1052,7 +1066,7 @@ STORES - STORES - STORES - STORES -
 					<h5>Stands</h5>
 					<h1 class="txt-zwart txt-left">Panoramabeurs Berlijn</h1>
 					<p class="txt-zwart">
-						Edit-All heeft voor Just Brands (producent van PME Legend, Cast Iron, Vanguard en Tripper Jeans) 
+						Edit-All heeft voor Just Brands (producent van PME Legend, Cast Iron en Vanguard) 
 						een stand ontworpen. Deze wordt 2x per jaar opgebouwd op de internationale modevakbeurs Panorama 
 						in Berlijn.
 					</p>

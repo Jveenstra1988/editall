@@ -35,17 +35,7 @@
                                     <a href="tel:+316-51525382">06 - 51 525 382</a>
                                     <a href="mailto:ruben@edit-all.nl">ruben@edit-all.nl</a>
                                 </p>
-                            </div>
-                            <div class="names">
-                            <div class="icon">
-                                <img src="img/icon-elsemieke.png">
-                            </div>
-                            	<p>	
-                                    <strong>Elsemieke Meijer</strong>
-                                    <a href="tel:+316-20106561">06 - 20 106 561</a>
-                                    <a href="mailto:elsemieke@edit-all.nl">elsemieke@edit-all.nl</a>
-                                </p>
-                            </div>
+                            </div>                            
                             <div class="names">
                             <div class="icon">
                                 <img src="img/icon-bas.png">
@@ -57,6 +47,16 @@
                                 </p>
                             </div>
                         </div>
+                            <div class="names">
+                            <div class="icon">
+                                <img src="img/icon-elsemieke.png">
+                            </div>
+                            	<p>	
+                                    <strong>Elsemieke Meijer</strong>
+                                    <a href="tel:+316-20106561">06 - 20 106 561</a>
+                                    <a href="mailto:elsemieke@edit-all.nl">elsemieke@edit-all.nl</a>
+                                </p>
+                            </div>
 					</article>
 					
 					<div class="voorwaarden"><a target="_blank" href="http://edit-all.nl/algemenevoorwaarden/">Algemene voorwaarden</a></div>
