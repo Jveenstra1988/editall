@@ -13,7 +13,7 @@ STORES - STORES - STORES - STORES -
 			<h5>Stores</h5>
 			<h1 class="txt-zwart txt-left">Dakota &amp; Co.</h1>
 			<p class="txt-zwart">
-				De voormalige vestiging van Oliver Mannenmode in Spijkenisse is omgebouwd tot een nieuwe winkel: Dakota & Co, een stoere mannenwinkel, waar ook Cast Iron en PME legend verkocht wordt. Ook bij Van Westen Mannenmode in Zaamslag zijn PME en Cast Iron meubels geplaatst. Tevens kregen een filialen van Peek & Cloppenburg in Amsterdam, Rotterdam, Den Haag en diverse Houtbrox en Berden Mode winkels PME legend corners en Cast Iron/Vanguard display systemen.
+				De voormalige vestiging van Olivier Mannenmode in Spijkenisse is omgebouwd tot een nieuwe winkel: Dakota &amp; Co, een stoere mannenwinkel, waar ook Cast Iron en PME legend verkocht wordt. Ook bij Van Westen Mannenmode in Zaamslag zijn PME en Cast Iron meubels geplaatst. Tevens kregen filialen van Peek &amp; Cloppenburg in Amsterdam, Rotterdam, Den Haag en Antwerpen, en diverse Houtbrox en Berden Mode winkels PME legend corners en Cast Iron/Vanguard display systemen.
 			</p>
 
 			<a href="img/works/sto/dak1-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/dak1.jpg" class="attribute"></a>
@@ -95,7 +95,7 @@ STORES - STORES - STORES - STORES -
 				advies kan krijgen. Dit door gebruik te maken van drukpuntmeting en camera's. Zo kan een 
 				optimale, persoonlijke schoen aangemeten worden.<br />
 				Edit-All was verantwoordelijk voor de productie van het interieur. 
-				Ontwerp;  &Hans ( Hans Klaver ) en Edit-All. 
+				Ontwerp:  &Hans ( Hans Klaver ) en Edit-All. 
 			</p>
 
 			<a href="img/works/sto/a4r1-hires.jpg" data-lightbox="all4running"><img src="img/works/sto/a4r1.jpg" class="attribute"></a>
@@ -504,7 +504,7 @@ STORES - STORES - STORES - STORES -
 
 								<p class="txt-zwart">
 									UPC lanceerde zijn nieuwe commercials waarin Jonny de Mol de hoofdrol speelt.
-									Voor opdrachtgever Jelier&amp;Schaaf produceren wij onder andere de mega popcornbak
+									Voor opdrachtgever Jelier&amp;Schaaf produceerde Edit-All onder andere de mega popcornbak
 									en een gigantische knop: the switch.
 								</p>
 
@@ -714,7 +714,7 @@ STORES - STORES - STORES - STORES -
 			<h5>Horeca</h5>
 			<h1 class="txt-zwart txt-left">Strandbrasserie de Jutter</h1>
 			<p class="txt-zwart">
-				Een oude blokhut aan het Almeerder strand is door Edit-All omgebouwd tot een karakteristiek strandbrasserie.
+				Een oude blokhut in Almere Haven is door Edit-All omgebouwd tot een karakteristieke strandbrasserie. Het ontwerp is geïnspireerd op het eiland Texel, strand, jutten en drijfhout.
 			</p>
 
 			<a href="img/works/int/jutter1-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/jutter1.jpg" class="attribute"></a>
@@ -740,7 +740,7 @@ STORES - STORES - STORES - STORES -
 			<h5>Horeca</h5>
 			<h1 class="txt-zwart txt-left">Snackplek de Jutter</h1>
 			<p class="txt-zwart">
-				Snack gelegenheid naar Strandbrasserie De Jutter op Almere Strand.
+				Snack gelegenheid naast Strandbrasserie De Jutter in Almere Haven.
 			</p>
 
 			<a href="img/works/int/snackplek1-hires.jpg" data-lightbox="dejutter"><img src="img/works/int/snackplek1.jpg" class="attribute"></a>
@@ -793,8 +793,8 @@ STORES - STORES - STORES - STORES -
 				<h5>Interieurs</h5>
 				<h1 class="txt-zwart txt-left">Wildschut</h1>
 				<p class="txt-zwart">
-					Good Food Group heeft diverse cafés/restaurants in het centrum van Amsterdam. 
-					Hieronder valt ook Wildschut. Daarvoor hebben wij diverse tafelbladen gemaakt.
+					Good Food Group heeft diverse café’s en restaurants in het centrum van Amsterdam. 
+					Hieronder valt ook café Wildschut. Voor dit café hebben wij diverse tafelbladen gemaakt
 				</p>
 
 				<a href="img/works/int/wildschut1-hires.jpg" data-lightbox="wildschut"><img src="img/works/int/wildschut1.jpg" class="attribute"></a>
@@ -898,9 +898,7 @@ STORES - STORES - STORES - STORES -
 			<h5>Horeca</h5>
 			<h1 class="txt-zwart txt-left">Cafe Lennep</h1>
 			<p class="txt-zwart">
-				Turnkey project, met het thema Spaans Kipgrill restaurant. 
-				Van luxe restaurant (strak en basic) naar bistro in Spaanse sfeer, 
-				aan de Jacob van Lennepkade in Amsterdam. Thema Spaans rotisserie restaurant
+				Turnkey project met als thema Spaans rotisserie restaurant. Edit-All verbouwde Café Van Lennep van strak en basic restaurant tot een bistro in Spaanse sfeer. Aan de Jacob van Lennepkade in Amsterdam.
 			</p>
 
 			<a href="img/works/hor/lennep6-hires.jpg" data-lightbox="lennep"><img src="img/works/hor/lennep6.jpg" class="attribute"></a>
@@ -956,7 +954,7 @@ STORES - STORES - STORES - STORES -
 				<p class="txt-zwart">
 					In hartje Alkmaar, op de Platte Stenenbrug, heeft Edit-All 
 					het interieur voor caf&eacute; De Koning ontworpen en gebouwd. 
-					Een turn-key project met als thema een jazz caf&eacute;. 
+					Een turnkey project met als thema een jazzcaf&eacute;. 
 				</p>
 
 				<a href="img/works/hor/koning6-hires.jpg" data-lightbox="dekoning"><img src="img/works/hor/koning6.jpg" class="attribute"></a>
@@ -984,8 +982,8 @@ STORES - STORES - STORES - STORES -
 			<h5>Stands</h5>
 			<h1 class="txt-zwart txt-left">Bakker Brothers</h1>
 			<p class="txt-zwart">
-				 Voor groentezaden specialist Bakker Brothers in Noord-Holland heeft Edit-All
-				 een stand ontworpen waarmee het bedrijf de internationale markt op kan.
+				 In september 2015 stond de stand op de Seed meet Technology Beurs in 
+				 Zwaagdijk en in februari 2016 gaat hij naar Berlijn.
 
 			</p>
 
@@ -1087,10 +1085,32 @@ STORES - STORES - STORES - STORES -
 +++_______ DESIGNS _______+++
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
 
+<!-- Elho -->
+		<section class="bg-grijs2" id="elho-design">
+			<a href="#" class="close">Sluiten</a>
+				<a title="vorige" class="arrow-left prev-project"  data-attribute="bbb"></a>
+				<a title="volgende" class="arrow-right next-project" data-attribute="jb-design"></a>
+
+				<article class="bg-grijs3 content">
+					<h5>Stands</h5>
+					<h1 class="txt-zwart txt-left">Elho</h1>
+					<p class="txt-zwart">
+						Elho Design
+					</p>
+
+					<a href="img/works/des/elho1-hires.jpg" data-lightbox="elho"><img src="img/works/des/elho1.jpg" class="attribute"></a>
+		<h5 class="sub">Beelden</h5>
+					<a href="img/works/des/elho2-hires.jpg" data-lightbox="elho"><img src="img/works/des/elho2.jpg" class="img-stack"></a>
+					<a href="img/works/des/elho3-hires.jpg" data-lightbox="elho"><img src="img/works/des/elho3.jpg" class="img-stack"></a>
+					<a href="img/works/des/elho4-hires.jpg" data-lightbox="elho"><img src="img/works/des/elho4.jpg" class="img-stack"></a>
+				</article>
+			</section>
+
+
 <!-- JB Design -->
 <section class="bg-grijs2" id="jb-design">
 	<a href="#" class="close">Sluiten</a>
-		<a title="vorige" class="arrow-left prev-project"  data-attribute="bbb"></a>
+		<a title="vorige" class="arrow-left prev-project"  data-attribute="elho-design"></a>
 		<a title="volgende" class="arrow-right next-project" data-attribute="all4running"></a>
 
 		<article class="bg-grijs3 content">

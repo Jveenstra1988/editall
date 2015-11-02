@@ -227,6 +227,11 @@
 <!-- DESIGNS -->
 <h5 class="clickable designs">Designs</h5>
 
+		<div class="clickable designs" id="elho-design">
+			<img src="img/works/des/elho1.jpg" >
+			<h4 class="titel">Elho</h4>
+		</div>
+
 		<div class="clickable designs" id="jb-design">
 			<img src="img/works/des/jb-design1.jpg" >
 			<h4 class="titel">Just Brands Design</h4>
